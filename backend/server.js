@@ -75,7 +75,9 @@ STRICT CONTENT & STRUCTURE RULES:
 - Add a hyperlink in the first paragraph. Highlight text link in first paragraph.
 - Add FAQs. FAQ answers should be exactly 3 to 4 lines maximum. FAQs must contain hyperlinks. Highlight text links in all FAQs.
 - Minimum 2 CTA sections and MAXIMUM 3 CTA sections per page.
-- CRITICAL: Keep all CTA sections extremely minimal. Do NOT add long paragraphs of text inside the CTA block. Use a short 1-2 sentence compelling headline and immediately show the buttons.
+- CRITICAL: Keep all CTA sections extremely minimal. The CTA section MUST be its own separate, dedicated HTML section.
+- DO NOT put CTA buttons inside educational or informative sections. 
+- The ONLY text allowed inside a CTA section is one short headline (e.g., "Ready to optimize?") and a max 1-sentence subtitle. DO NOT add paragraphs of text inside the CTA block.
 - Every CTA section MUST have BOTH buttons: "Sign Up" (https://app.oxmaint.ai) and "Book a Demo" (https://calendly.com/oxmaintapp/30min).
 - Mainly focus on Book a Demo.
 - CRITICAL: Center-align all CTA sections and buttons. Use 'justify-content: center' and 'gap: 15px' for button containers.
@@ -146,7 +148,9 @@ STRICT CONTENT & STRUCTURE RULES:
 - FAQs should not be more than 5. Add hyperlinks in FAQs. 
 - CRITICAL: FAQ answers MUST be extremely detailed, at least 80-100 words each (minimum 6-8 lines). Do NOT write short 1-sentence answers for FAQs.
 - Minimum 2 CTA sections and maximum 3 CTA sections should be in the page.
-- CRITICAL: Keep all CTA sections extremely minimal. Do NOT add long paragraphs of text inside the CTA block. Use a short 1-2 sentence compelling headline and immediately show the buttons.
+- CRITICAL: Keep all CTA sections extremely minimal. The CTA section MUST be its own separate, dedicated HTML section.
+- DO NOT put CTA buttons inside educational or informative sections. 
+- The ONLY text allowed inside a CTA section is one short headline (e.g., "Ready to optimize?") and a max 1-sentence subtitle. DO NOT add paragraphs of text inside the CTA block.
 - Put CTA buttons in the hero section.
 - Put the last CTA section at the very end of the page.
 - Focus on "book a demo" and "support". Use ONLY two links for buttons or hyperlinks in the whole page: "https://ifactoryapp.com/support" and "https://calendly.com/contact-ifactoryapp/30min". Do not use any other links.
