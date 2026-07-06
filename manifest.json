@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "JSON Select and Autofill ",
+  "version": "1.0",
+  "description": "Select one JSON object on double click and autofill form fields",
+  "permissions": [
+    "storage",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "http://localhost:3000/*"
+  ],
+   "content_scripts": [
+    {
+      "matches": ["https://tableconvert.com/*", "https://chatgpt.com/*"],
+      "js": ["select-&-copy-json.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://oxmaint.com/*/add_post.php", "https://ifactoryapp.com/*/add_post.php"],
+      "js": ["autofill-json-data.js"],
+      "run_at": "document_idle",
+      "all_frames": true,
+      "match_about_blank": true
+    }
+  ]
+}

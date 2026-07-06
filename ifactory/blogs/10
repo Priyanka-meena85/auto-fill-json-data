@@ -1,0 +1,1656 @@
+<p>In January 2026, Elon Musk confirmed that over 1,000 Optimus Gen 3 robots were operating on the production floor at
+    Tesla's Fremont, California factory. Not in a demonstration cell. Not in a pilot zone. On the live production line —
+    building the vehicles that Tesla ships to customers. No other company in history has deployed humanoid robots at
+    this volume inside a single manufacturing facility. Tesla's Optimus programme is not just the highest-volume
+    humanoid deployment in existence; it is the proof point that humanoid robots can be manufactured, deployed, and
+    operated at a scale that changes the economics of automotive production permanently. <a
+        href="https://calendly.com/contact-ifactoryapp/30min" class="TO-link">Book a demo to see how iFactory connects
+        Optimus-scale deployments to production intelligence.</a></p>
+<div class="TO-hero">
+    <div class="TO-hero-left">
+        <div class="TO-hero-badge">Case Study — Tesla Fremont 2026</div>
+        <div class="TO-hero-title">Tesla Optimus Gen 3 at Fremont: 1,000+ Units, Mass Production, and the Humanoid
+            Economics Breakthrough</div>
+        <div class="TO-hero-sub">January 2026 milestone · 1,000+ units on live production line · Gen 3 specs · FSD
+            computer AI · $20–30K target price · The case study every manufacturer needs to understand.</div>
+        <div class="TO-hero-btns">
+            <a href="https://calendly.com/contact-ifactoryapp/30min" class="TO-btn-primary">Schedule a Demo</a>
+            <a href="https://ifactoryapp.com/support" class="TO-btn-secondary">Talk to an Expert</a>
+        </div>
+    </div>
+    <div class="TO-hero-stats">
+        <div class="TO-hs">
+            <div class="TO-hs-num">1,000+</div>
+            <div class="TO-hs-lbl">Optimus units on Fremont production floor — January 2026</div>
+        </div>
+        <div class="TO-hs">
+            <div class="TO-hs-num">$20–30K</div>
+            <div class="TO-hs-lbl">Target commercial price per unit — lowest in the industry</div>
+        </div>
+        <div class="TO-hs">
+            <div class="TO-hs-num">22-DOF</div>
+            <div class="TO-hs-lbl">Tactile hands — same DOF as Apollo, built in-house</div>
+        </div>
+        <div class="TO-hs">
+            <div class="TO-hs-num">Gen 3</div>
+            <div class="TO-hs-lbl">Third hardware generation — production-optimised platform</div>
+        </div>
+    </div>
+</div>
+<h2>Why Tesla Optimus Is the Highest-Stakes Humanoid Bet in Manufacturing</h2>
+<p>Every other humanoid programme — Figure at BMW, Apollo at Mercedes, Digit at Ford — is a partnership between a robot
+    company and a manufacturer. Tesla's programme is different in a fundamental way: Tesla is simultaneously the robot
+    manufacturer and the manufacturing customer. Optimus is built in Tesla factories, deployed in Tesla factories, and
+    will eventually be sold to other manufacturers. This vertical integration gives Tesla a structural advantage that no
+    other humanoid company can replicate in the near term: every robot deployed internally generates training data, cost
+    reduction data, and production insights that directly feed the next generation of the product.</p>
+<p>The 1,000-unit Fremont milestone is not just a deployment number. It is proof that Tesla's manufacturing supply chain
+    — the same one that produces 500,000+ vehicles per year — can produce humanoid robots at industrial scale. <a
+        href="https://ifactoryapp.com" class="TO-link">iFactory's platform</a> provides the production integration layer
+    that connects Optimus task data to MES systems, quality management, and enterprise analytics for manufacturers
+    adopting the platform externally.</p>
+<div class="TO-advantage-strip">
+    <div class="TO-adv">
+        <div class="TO-adv-icon">V</div>
+        <div class="TO-adv-label">Vertical Integration</div>
+        <div class="TO-adv-desc">Builds AND deploys Optimus internally — no external partnership required</div>
+    </div>
+    <div class="TO-adv-div"><br />
+    </div>
+    <div class="TO-adv">
+        <div class="TO-adv-icon">S</div>
+        <div class="TO-adv-label">Scale Manufacturing</div>
+        <div class="TO-adv-desc">Same supply chain as 500K+ vehicles/yr — humanoid production at automotive volume</div>
+    </div>
+    <div class="TO-adv-div"><br />
+    </div>
+    <div class="TO-adv">
+        <div class="TO-adv-icon">D</div>
+        <div class="TO-adv-label">Data Flywheel</div>
+        <div class="TO-adv-desc">1,000+ robots × every production cycle = unmatched real-world training dataset</div>
+    </div>
+    <div class="TO-adv-div"><br />
+    </div>
+    <div class="TO-adv">
+        <div class="TO-adv-icon">P</div>
+        <div class="TO-adv-label">Price Target</div>
+        <div class="TO-adv-desc">$20–30K commercial target — 5–10× cheaper than nearest competitor</div>
+    </div>
+</div>
+<h2>Optimus Gen 3: Full Technical Specification</h2>
+<p>Gen 3 is not an incremental hardware update. It represents a complete redesign from Gen 2's prototype architecture to
+    a production-optimised platform — lower part count, higher reliability, and a computing backbone built on Tesla's
+    own FSD (Full Self-Driving) computer hardware rather than off-the-shelf components. <a
+        href="https://calendly.com/contact-ifactoryapp/30min" class="TO-link">See how iFactory integrates with
+        FSD-powered Optimus in a live demo.</a></p>
+<div class="TO-spec-card">
+    <div class="TO-spec-header">Tesla Optimus Gen 3 — Complete Specification</div>
+    <div class="TO-spec-grid">
+        <div class="TO-spec-section">
+            <div class="TO-ss-title">Physical</div>
+            <div class="TO-spec-row"><span class="TO-sk">Height</span><span class="TO-sv">1.73 m</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Weight</span><span class="TO-sv">57 kg</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Max Payload</span><span class="TO-sv">20 kg (carry) · 150 kg
+                    (lift assist)</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Walk Speed</span><span class="TO-sv">1.0 m/s (current) · 2.0
+                    m/s (target)</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Degrees of Freedom</span><span class="TO-sv">28 total body
+                    DOF</span></div>
+        </div>
+        <div class="TO-spec-section">
+            <div class="TO-ss-title">Hands &amp; Dexterity</div>
+            <div class="TO-spec-row"><span class="TO-sk">Hand DOF</span><span class="TO-sv TO-sv-hi">22-DOF tactile
+                    hands</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Actuation</span><span class="TO-sv">Tendon-driven, in-house
+                    design</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Force Sensing</span><span class="TO-sv">6-axis F/T per
+                    finger</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Grip Modes</span><span class="TO-sv">Pinch, power, tool,
+                    lateral</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Finger Speed</span><span class="TO-sv">Target:
+                    human-equivalent</span></div>
+        </div>
+        <div class="TO-spec-section">
+            <div class="TO-ss-title">AI &amp; Computing</div>
+            <div class="TO-spec-row"><span class="TO-sk">Compute</span><span class="TO-sv TO-sv-hi">Tesla FSD Computer
+                    (custom silicon)</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Vision</span><span class="TO-sv">Tesla Autopilot camera system
+                    (adapted)</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Training Method</span><span class="TO-sv">Video prediction +
+                    imitation learning</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Fleet Learning</span><span class="TO-sv">1,000+ units
+                    contribute to shared model</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Language Model</span><span class="TO-sv">Voice interaction —
+                    task instruction receipt</span></div>
+        </div>
+        <div class="TO-spec-section">
+            <div class="TO-ss-title">Power &amp; Reliability</div>
+            <div class="TO-spec-row"><span class="TO-sk">Battery</span><span class="TO-sv TO-sv-hi">Tesla 2.3 kWh —
+                    in-house cell</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Runtime</span><span class="TO-sv">~8 hours per charge</span>
+            </div>
+            <div class="TO-spec-row"><span class="TO-sk">Charge Time</span><span class="TO-sv">~2 hours (fast
+                    charge)</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Target Price</span><span class="TO-sv TO-sv-hi">$20,000–$30,000
+                    commercial</span></div>
+            <div class="TO-spec-row"><span class="TO-sk">Current Cost</span><span class="TO-sv">~$150K (est. internal
+                    2025)</span></div>
+        </div>
+    </div>
+</div>
+<h2>The Fremont Deployment: From 1 Robot to 1,000+ in 18 Months</h2>
+<div class="TO-timeline">
+    <div class="TO-tl-item">
+        <div class="TO-tl-marker">
+            <div class="TO-tl-dot"><br />
+            </div>
+            <div class="TO-tl-line"><br />
+            </div>
+        </div>
+        <div class="TO-tl-content">
+            <div class="TO-tl-date">September 2023</div>
+            <div class="TO-tl-title">Optimus Gen 1 — First Internal Deployment</div>
+            <div class="TO-tl-body">Tesla deploys the first Optimus unit at Fremont for basic parts-sorting tasks. Gen 1
+                is slow, limited in dexterity, and requires significant teleoperation support — but the internal
+                deployment begins generating the training data that will define Gen 2 and Gen 3.</div>
+        </div>
+    </div>
+    <div class="TO-tl-item">
+        <div class="TO-tl-marker">
+            <div class="TO-tl-dot"><br />
+            </div>
+            <div class="TO-tl-line"><br />
+            </div>
+        </div>
+        <div class="TO-tl-content">
+            <div class="TO-tl-date">December 2023</div>
+            <div class="TO-tl-title">Optimus Gen 2 Released — Major Dexterity Upgrade</div>
+            <div class="TO-tl-body">Gen 2 introduces 11-DOF hands (up from 6), 30% faster walking speed, and improved
+                balance. Elon Musk publicly demonstrates Optimus Gen 2 handling fragile objects and performing sorting
+                tasks at speed. Internal Fremont deployment scales to dozens of units across battery assembly and parts
+                handling zones.</div>
+        </div>
+    </div>
+    <div class="TO-tl-item">
+        <div class="TO-tl-marker">
+            <div class="TO-tl-dot"><br />
+            </div>
+            <div class="TO-tl-line"><br />
+            </div>
+        </div>
+        <div class="TO-tl-content">
+            <div class="TO-tl-date">Q2 2024</div>
+            <div class="TO-tl-title">Battery Module Assembly — First High-Precision Task</div>
+            <div class="TO-tl-body">Optimus Gen 2 begins performing battery module assembly tasks at Fremont — handling
+                lithium-ion cells, seating electrical connectors, and placing thermal management components. These tasks
+                require the sub-millimetre precision that was not achievable with Gen 1. Tesla reports that Optimus is
+                performing these tasks entirely unsupervised during this period.</div>
+        </div>
+    </div>
+    <div class="TO-tl-item">
+        <div class="TO-tl-marker">
+            <div class="TO-tl-dot"><br />
+            </div>
+            <div class="TO-tl-line"><br />
+            </div>
+        </div>
+        <div class="TO-tl-content">
+            <div class="TO-tl-date">Q3–Q4 2024</div>
+            <div class="TO-tl-title">Gen 3 Development — FSD Computer Integration</div>
+            <div class="TO-tl-body">Tesla integrates its custom FSD (Full Self-Driving) AI chip into the Optimus Gen 3
+                computing architecture. This is the same silicon that powers Tesla's autonomous vehicle fleet — giving
+                Optimus access to vastly more onboard compute than any competitor platform using off-the-shelf chips.
+                The 22-DOF tactile hand system is designed, manufactured, and validated entirely in-house.</div>
+        </div>
+    </div>
+    <div class="TO-tl-item">
+        <div class="TO-tl-marker">
+            <div class="TO-tl-dot"><br />
+            </div>
+            <div class="TO-tl-line"><br />
+            </div>
+        </div>
+        <div class="TO-tl-content">
+            <div class="TO-tl-date">January 2026</div>
+            <div class="TO-tl-title">1,000+ Units — The Volume Milestone No One Else Has Reached</div>
+            <div class="TO-tl-body">Elon Musk confirms 1,000+ Optimus Gen 3 units are operating at Fremont. The fleet is
+                working across battery assembly, EV pack loading, cable routing, connector seating, and parts handling.
+                The 1,000-unit threshold makes Tesla's deployment larger than the combined total of all other automotive
+                humanoid deployments globally at that date.</div>
+        </div>
+    </div>
+    <div class="TO-tl-item">
+        <div class="TO-tl-marker">
+            <div class="TO-tl-dot"><br />
+            </div>
+        </div>
+        <div class="TO-tl-content">
+            <div class="TO-tl-date">2026–2027 Roadmap</div>
+            <div class="TO-tl-title">External Sales Launch + Gigafactory Expansion</div>
+            <div class="TO-tl-body">Tesla plans to begin external commercial sales of Optimus in 2026 at the $20–30K
+                target price — a price point that would make humanoid robots accessible to mid-size manufacturers for
+                the first time. Parallel expansion into Gigafactory Texas, Gigafactory Berlin, and Gigafactory Shanghai
+                is planned for 2027.</div>
+        </div>
+    </div>
+</div>
+<h2>What Optimus Does at Fremont: Production Zone Breakdown</h2>
+<div class="TO-zones-wrap">
+    <div class="TO-zones">
+        <div class="TO-zone-card TO-zone-primary">
+            <div class="TO-zone-tag">Primary Zone</div>
+            <div class="TO-zone-name">Battery Module &amp; Pack Assembly</div>
+            <div class="TO-zone-detail">
+                <div class="TO-zone-stat"><span class="TO-zs-k">Task success rate</span><span class="TO-zs-v">Reported
+                        &gt;99%</span></div>
+                <div class="TO-zone-stat"><span class="TO-zs-k">Key tasks</span><span class="TO-zs-v">Cell handling ·
+                        Connector seating · Thermal pad placement · HV cable routing · Pack loading</span></div>
+                <div class="TO-zone-stat"><span class="TO-zs-k">Why here first</span><span class="TO-zs-v">EV battery
+                        assembly requires consistent fine-motor dexterity — a task humans perform with high variability
+                        and injury rate</span></div>
+            </div>
+        </div>
+        <div class="TO-zone-card">
+            <div class="TO-zone-tag TO-zt-sec">Secondary Zone</div>
+            <div class="TO-zone-name">Parts Sorting &amp; Kitting</div>
+            <div class="TO-zone-detail">
+                <div class="TO-zone-stat"><span class="TO-zs-k">Key tasks</span><span class="TO-zs-v">Part
+                        identification · Bin sorting · Kit assembly for assembly stations · Rack replenishment</span>
+                </div>
+                <div class="TO-zone-stat"><span class="TO-zs-k">AI method</span><span class="TO-zs-v">FSD vision +
+                        imitation learning from teleoperated demonstrations</span></div>
+            </div>
+        </div>
+        <div class="TO-zone-card">
+            <div class="TO-zone-tag TO-zt-sec">Secondary Zone</div>
+            <div class="TO-zone-name">Final Assembly Assist</div>
+            <div class="TO-zone-detail">
+                <div class="TO-zone-stat"><span class="TO-zs-k">Key tasks</span><span class="TO-zs-v">Panel clip
+                        installation · Fastener assist · Wiring harness routing · Trim clip seating</span></div>
+                <div class="TO-zone-stat"><span class="TO-zs-k">Integration</span><span class="TO-zs-v">MES vehicle
+                        build sequence drives task assignment per station</span></div>
+            </div>
+        </div>
+        <div class="TO-zone-card TO-zone-roadmap">
+            <div class="TO-zone-tag TO-zt-road">2027 Roadmap</div>
+            <div class="TO-zone-name">Gigafactory Expansion — Texas, Berlin, Shanghai</div>
+            <div class="TO-zone-detail">
+                <div class="TO-zone-stat"><span class="TO-zs-k">Target</span><span class="TO-zs-v">Multi-Gigafactory
+                        fleet deployment · 10,000+ units across Tesla global network</span></div>
+                <div class="TO-zone-stat"><span class="TO-zs-k">External sales</span><span class="TO-zs-v">Commercial
+                        availability at $20–30K targeting Tier-1 suppliers and OEM assembly plants</span></div>
+            </div>
+        </div>
+    </div>
+</div>
+<h2>The Optimus Economics Breakthrough: Why $20–30K Changes Everything</h2>
+<p>The economics of humanoid robotics are currently at an inflection point. At $150K–$250K per unit (the approximate
+    2025 price range for leading platforms), humanoid robots have an 18–36 month ROI payback at ergonomic-risk stations
+    and a questionable business case for lower-risk tasks. At $20–30K — Tesla's stated commercial target for Optimus —
+    the payback period collapses to 3–6 months for high-repetition tasks. This changes who can deploy humanoid robots,
+    what tasks justify the investment, and how quickly the industry scales. <a href="https://ifactoryapp.com/support"
+        class="TO-link">Talk to iFactory about building the integration infrastructure before Optimus reaches your
+        facility.</a></p>
+<div class="TO-economics">
+    <div class="TO-econ-header">Humanoid Robot ROI at Different Price Points</div>
+    <div class="TO-econ-grid">
+        <div class="TO-econ-card TO-econ-today">
+            <div class="TO-econ-price-tag">Current Market</div>
+            <div class="TO-econ-price">$150K–$250K</div>
+            <div class="TO-econ-rows">
+                <div class="TO-econ-row"><span class="TO-er-k">Payback period</span><span class="TO-er-v">18–36
+                        months</span></div>
+                <div class="TO-econ-row"><span class="TO-er-k">Viable task types</span><span
+                        class="TO-er-v">Ergonomic-risk, high-repetition only</span></div>
+                <div class="TO-econ-row"><span class="TO-er-k">Accessible to</span><span class="TO-er-v">Tier-1 OEMs and
+                        large Tier-1 suppliers</span></div>
+                <div class="TO-econ-row"><span class="TO-er-k">Deployment model</span><span class="TO-er-v">Pilot
+                        programmes, limited fleets</span></div>
+            </div>
+        </div>
+        <div class="TO-econ-card TO-econ-target">
+            <div class="TO-econ-price-tag">Tesla Optimus Target</div>
+            <div class="TO-econ-price">$20K–$30K</div>
+            <div class="TO-econ-rows">
+                <div class="TO-econ-row"><span class="TO-er-k">Payback period</span><span class="TO-er-v TO-er-good">3–6
+                        months</span></div>
+                <div class="TO-econ-row"><span class="TO-er-k">Viable task types</span><span
+                        class="TO-er-v TO-er-good">Most repetitive assembly tasks</span></div>
+                <div class="TO-econ-row"><span class="TO-er-k">Accessible to</span><span class="TO-er-v TO-er-good">All
+                        automotive tiers + mid-market mfg</span></div>
+                <div class="TO-econ-row"><span class="TO-er-k">Deployment model</span><span
+                        class="TO-er-v TO-er-good">Plant-wide fleet deployment</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="TO-econ-note">Tesla's $20–30K target is projected for 2026–2027 commercial availability. Current
+        internal production cost estimated at ~$150K with rapid cost reduction trajectory driven by vertical integration
+        and volume manufacturing.</div>
+</div>
+<h2>How iFactory Connects Optimus to Your Production Systems — On-Premise or Cloud</h2>
+<p>A 1,000-unit Optimus fleet generates enormous production data — task completions, quality flags, battery status,
+    cycle times, error recovery events. Without an integration layer connecting this data to your MES, quality system,
+    and maintenance platform, you have robots producing output but no production intelligence. iFactory provides that
+    integration layer in two deployment models, designed to match the data sovereignty and infrastructure requirements
+    of any automotive plant.</p>
+<div class="TO-ifactory-grid">
+    <div class="TO-if-card TO-if-onprem">
+        <div class="TO-if-badge">On-Premise Deployment</div>
+        <div class="TO-if-title">For Plants With Data Sovereignty or Air-Gap Requirements</div>
+        <div class="TO-if-body">iFactory's edge nodes are installed within your plant infrastructure — processing all
+            Optimus task data, quality records, and production events locally. No raw production data leaves your
+            facility. Fully operational during WAN outages. Designed for automotive plants operating under strict IP
+            protection agreements, ITAR requirements, or multi-OEM supplier data confidentiality obligations.</div>
+        <div class="TO-if-features">
+            <div class="TO-if-feat">Zero cloud dependency for real-time decisions</div>
+            <div class="TO-if-feat">Sub-5ms edge inference — matches Optimus cycle times</div>
+            <div class="TO-if-feat">Continues operating during internet outages</div>
+            <div class="TO-if-feat">Full data sovereignty — nothing leaves the plant</div>
+            <div class="TO-if-feat">MES, quality, and CMMS integration on-site</div>
+        </div>
+    </div>
+    <div class="TO-if-card TO-if-cloud">
+        <div class="TO-if-badge TO-if-badge-cloud">Cloud-Based Analytics</div>
+        <div class="TO-if-title">For Multi-Plant Fleet Management and Enterprise Visibility</div>
+        <div class="TO-if-body">iFactory's cloud platform aggregates Optimus fleet performance data across all your
+            plants — providing enterprise-level visibility into robot utilisation, task success rates, predictive
+            maintenance schedules, and cross-plant benchmarking. AI model updates and fleet learning improvements are
+            distributed from cloud to all on-premise edge nodes automatically.</div>
+        <div class="TO-if-features">
+            <div class="TO-if-feat">Cross-plant Optimus fleet dashboard</div>
+            <div class="TO-if-feat">AI model updates distributed to all edge nodes</div>
+            <div class="TO-if-feat">Enterprise energy and sustainability reporting</div>
+            <div class="TO-if-feat">Predictive maintenance analytics across entire fleet</div>
+            <div class="TO-if-feat">Scales from single plant to global Gigafactory network</div>
+        </div>
+    </div>
+</div>
+<div class="TO-if-flow">
+    <div class="TO-if-flow-title">Optimus → iFactory Integration Architecture</div>
+    <div class="TO-if-flow-steps">
+        <div class="TO-if-step">
+            <div class="TO-if-step-num">1</div>
+            <div class="TO-if-step-label">Optimus Robot</div>
+            <div class="TO-if-step-desc">Task data · Quality flags · Battery status · Cycle times</div>
+        </div>
+        <div class="TO-if-arr"><br />
+        </div>
+        <div class="TO-if-step">
+            <div class="TO-if-step-num">2</div>
+            <div class="TO-if-step-label">iFactory Edge Node</div>
+            <div class="TO-if-step-desc">On-premise processing · Real-time AI inference · MES context</div>
+        </div>
+        <div class="TO-if-arr"><br />
+        </div>
+        <div class="TO-if-step">
+            <div class="TO-if-step-num">3</div>
+            <div class="TO-if-step-label">MES / Quality / CMMS</div>
+            <div class="TO-if-step-desc">Work orders · Quality records · Maintenance work orders</div>
+        </div>
+        <div class="TO-if-arr"><br />
+        </div>
+        <div class="TO-if-step">
+            <div class="TO-if-step-num">4</div>
+            <div class="TO-if-step-label">iFactory Cloud</div>
+            <div class="TO-if-step-desc">Fleet analytics · Cross-plant benchmarking · Model updates</div>
+        </div>
+    </div>
+    <div class="TO-if-flow-cta"><a href="https://calendly.com/contact-ifactoryapp/30min" class="TO-link">Book a demo to
+            see the full integration architecture for Optimus</a></div>
+</div>
+<h2>Optimus vs Competitors: The 2026 Leaderboard</h2>
+<div class="TO-table-scroll">
+    <div class="TO-compare">
+        <div class="TO-cmp-head">
+            <div class="TO-cmp-col TO-cmp-spec">Metric</div>
+            <div class="TO-cmp-col TO-cmp-optimus">Optimus Gen 3</div>
+            <div class="TO-cmp-col">Figure 03</div>
+            <div class="TO-cmp-col">Apollo</div>
+            <div class="TO-cmp-col">Digit (Agility)</div>
+        </div>
+        <div class="TO-cmp-row">
+            <div class="TO-cmp-col TO-cmp-spec">Units Deployed</div>
+            <div class="TO-cmp-col TO-cmp-optimus"><strong>1,000+</strong></div>
+            <div class="TO-cmp-col">~20–50 est.</div>
+            <div class="TO-cmp-col">~20–40 est.</div>
+            <div class="TO-cmp-col">~10–30 est.</div>
+        </div>
+        <div class="TO-cmp-row">
+            <div class="TO-cmp-col TO-cmp-spec">Target Price</div>
+            <div class="TO-cmp-col TO-cmp-optimus"><strong>$20–30K</strong></div>
+            <div class="TO-cmp-col">~$150K+</div>
+            <div class="TO-cmp-col">~$150K+</div>
+            <div class="TO-cmp-col">~$250K+</div>
+        </div>
+        <div class="TO-cmp-row">
+            <div class="TO-cmp-col TO-cmp-spec">Hand DOF</div>
+            <div class="TO-cmp-col TO-cmp-optimus"><strong>22-DOF</strong></div>
+            <div class="TO-cmp-col">16-DOF</div>
+            <div class="TO-cmp-col">22-DOF</div>
+            <div class="TO-cmp-col">7-DOF</div>
+        </div>
+        <div class="TO-cmp-row">
+            <div class="TO-cmp-col TO-cmp-spec">AI Hardware</div>
+            <div class="TO-cmp-col TO-cmp-optimus"><strong>Tesla FSD chip</strong></div>
+            <div class="TO-cmp-col">OpenAI + custom</div>
+            <div class="TO-cmp-col">DeepMind + custom</div>
+            <div class="TO-cmp-col">Standard compute</div>
+        </div>
+        <div class="TO-cmp-row">
+            <div class="TO-cmp-col TO-cmp-spec">Battery Runtime</div>
+            <div class="TO-cmp-col TO-cmp-optimus"><strong>~8 hours</strong></div>
+            <div class="TO-cmp-col">~5 hours</div>
+            <div class="TO-cmp-col">~4 hours (hot-swap)</div>
+            <div class="TO-cmp-col">~4 hours</div>
+        </div>
+        <div class="TO-cmp-row">
+            <div class="TO-cmp-col TO-cmp-spec">OEM Partner</div>
+            <div class="TO-cmp-col TO-cmp-optimus"><strong>Tesla (internal)</strong></div>
+            <div class="TO-cmp-col">BMW</div>
+            <div class="TO-cmp-col">Mercedes-Benz</div>
+            <div class="TO-cmp-col">Ford / Amazon</div>
+        </div>
+        <div class="TO-cmp-row">
+            <div class="TO-cmp-col TO-cmp-spec">Total Funding</div>
+            <div class="TO-cmp-col TO-cmp-optimus"><strong>Internal (Tesla)</strong></div>
+            <div class="TO-cmp-col">$754M est.</div>
+            <div class="TO-cmp-col">$935M</div>
+            <div class="TO-cmp-col">~$320M</div>
+        </div>
+    </div>
+</div>
+<h2>FAQ: Tesla Optimus Gen 3 at Fremont</h2>
+<div class="TO-faq">
+    <div class="TO-faq-item">
+        <input type="checkbox" id="tofaq1" class="TO-faq-toggle" />
+        <label for="tofaq1" class="TO-faq-q">
+            Is Tesla really running 1,000+ Optimus robots on the production line at Fremont?
+            <span class="TO-faq-icon"></span>
+        </label>
+        <div class="TO-faq-a">Yes — Elon Musk confirmed the 1,000+ unit deployment milestone at Fremont in January 2026
+            via public statements and Tesla's Q4 2025 earnings call. The robots are operating on live production tasks —
+            not in isolated demonstration cells — including battery module assembly, parts kitting, and final assembly
+            assist. This is independently the largest deployment of humanoid robots in a single manufacturing facility
+            in history. Previous claims about single-digit or dozen-unit deployments referred to earlier pilot phases;
+            the 2026 figure represents the scaled operational fleet.</div>
+    </div>
+    <div class="TO-faq-item">
+        <input type="checkbox" id="tofaq2" class="TO-faq-toggle" />
+        <label for="tofaq2" class="TO-faq-q">
+            How does Tesla's FSD computer give Optimus an advantage over competitors?
+            <span class="TO-faq-icon"></span>
+        </label>
+        <div class="TO-faq-a">Tesla's FSD computer is custom silicon designed specifically for AI inference on real-time
+            camera data — the same computational challenge that both autonomous driving and robot perception require. It
+            delivers significantly more TOPS (tera operations per second) per watt than the off-the-shelf Nvidia Orin or
+            Qualcomm chips used by competitor platforms, at a cost that falls with Tesla's internal volume. This means
+            Optimus can run more complex vision and decision models onboard, with less latency, consuming less battery
+            power — a triple advantage that compounds as the fleet grows. Competitors using external chip suppliers are
+            buying compute at retail; Tesla buys it at internal cost.</div>
+    </div>
+    <div class="TO-faq-item">
+        <input type="checkbox" id="tofaq3" class="TO-faq-toggle" />
+        <label for="tofaq3" class="TO-faq-q">
+            When will Tesla Optimus be available for external manufacturers to purchase?
+            <span class="TO-faq-icon"></span>
+        </label>
+        <div class="TO-faq-a">Tesla has publicly targeted 2026 for the beginning of external Optimus sales, with volume
+            commercial availability in 2027. The $20–30K price target has been cited by Elon Musk multiple times as the
+            long-term commercial price — though independent analysts estimate 2026 early-access units will likely be
+            priced higher ($50–80K range) with the lower price point reached as volume manufacturing scales in
+            2027–2028. For manufacturers evaluating Optimus, the relevant planning horizon is 2027 for first commercial
+            deliveries at meaningful fleet volume, with 2026 representing early-access and pilot-quantity availability.
+            <a href="https://calendly.com/contact-ifactoryapp/30min" class="TO-link">Book a demo to begin building your
+                Optimus integration architecture now.</a></div>
+    </div>
+    <div class="TO-faq-item">
+        <input type="checkbox" id="tofaq4" class="TO-faq-toggle" />
+        <label for="tofaq4" class="TO-faq-q">
+            What production systems does Optimus need to integrate with in a non-Tesla plant?
+            <span class="TO-faq-icon"></span>
+        </label>
+        <div class="TO-faq-a">At minimum, Optimus requires four integration points in a non-Tesla manufacturing
+            environment: MES connectivity (to receive work orders, vehicle build sequences, and station assignments),
+            quality management system integration (to write task completion records and flag anomalies), safety system
+            integration (to participate in area control and emergency stop protocols), and energy management
+            connectivity (to coordinate charging with production windows and demand tariff avoidance). iFactory provides
+            all four integration layers as both on-premise edge deployment and cloud-based services — enabling
+            manufacturers to deploy Optimus without building custom integration from scratch. <a
+                href="https://ifactoryapp.com/support" class="TO-link">Contact iFactory to assess your integration
+                readiness for Optimus.</a></div>
+    </div>
+    <div class="TO-faq-item">
+        <input type="checkbox" id="tofaq5" class="TO-faq-toggle" />
+        <label for="tofaq5" class="TO-faq-q">
+            How does the Optimus data flywheel work and why does it matter for non-Tesla manufacturers?
+            <span class="TO-faq-icon"></span>
+        </label>
+        <div class="TO-faq-a">Every task completed by every Optimus unit in Tesla's 1,000+ unit fleet generates training
+            data — success rates, force profiles, vision observations, error recovery sequences — that feeds back into
+            the central AI model. This fleet-wide learning means that Optimus's task intelligence improves continuously,
+            and the improvement rate accelerates as the fleet grows. For non-Tesla manufacturers considering Optimus,
+            this means the robot they receive in 2027 will be significantly more capable than the robot Tesla is using
+            internally today — because 18 months of fleet learning will have already been incorporated. The data
+            flywheel is Tesla's most durable competitive advantage in humanoid robotics, and it is already running.
+        </div>
+    </div>
+</div>
+<div class="TO-final-cta">
+    <div class="TO-final-inner">
+        <h2>Prepare Your Plant for Optimus — On-Premise or Cloud, Both Available from iFactory</h2>
+        <p>iFactory provides the MES integration, quality data routing, and production analytics that connect Optimus to
+            your existing manufacturing systems. Choose on-premise edge deployment for data sovereignty, cloud-based
+            analytics for multi-plant fleet management — or run both together as a hybrid architecture. Build your
+            integration foundation now, before commercial Optimus availability opens in 2027.</p>
+        <div class="TO-final-btns">
+            <a href="https://calendly.com/contact-ifactoryapp/30min" class="TO-btn-cta-primary">Schedule a Demo</a>
+            <a href="https://ifactoryapp.com/support" class="TO-btn-cta-secondary">Get Support</a>
+        </div>
+        <div class="TO-final-pills">
+            <span class="TO-pill">On-Premise Edge</span>
+            <span class="TO-pill">Cloud Analytics</span>
+            <span class="TO-pill">MES Integration</span>
+            <span class="TO-pill">Quality Data Routing</span>
+            <span class="TO-pill">Fleet Management</span>
+        </div>
+    </div>
+</div>
+<style>
+    :root {
+        --primary: #605dba;
+        --light: #f5f3ff;
+        --dark: #1a1a2e;
+        --text: #4a4a6a;
+        --border: #e8e6f5
+    }
+
+    a {
+        color: var(--primary);
+        text-decoration: none
+    }
+
+    h2 {
+        font-size: 26px;
+        color: var(--primary);
+        border-bottom: 3px solid #1a1a1a;
+        padding-bottom: 8px;
+        margin: 34px 0 14px
+    }
+
+    strong {
+        font-weight: 700
+    }
+
+    .TO-link {
+        color: var(--primary);
+        font-weight: 700;
+        text-decoration: underline
+    }
+
+    .TO-link:hover {
+        opacity: .8
+    }
+
+    /* Hero */
+    .TO-hero {
+        background: var(--primary);
+        border-radius: 14px;
+        padding: 28px;
+        margin: 20px 0 30px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+        align-items: center
+    }
+
+    .TO-hero-badge {
+        display: inline-block;
+        background: rgba(255, 255, 255, .2);
+        color: #fff;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 5px 12px;
+        border-radius: 20px;
+        margin-bottom: 12px;
+        text-transform: uppercase;
+        letter-spacing: .6px
+    }
+
+    .TO-hero-title {
+        font-size: 21px;
+        font-weight: 800;
+        color: #fff;
+        line-height: 1.3;
+        margin-bottom: 10px
+    }
+
+    .TO-hero-sub {
+        font-size: 14px;
+        color: rgba(255, 255, 255, .85);
+        line-height: 1.6;
+        margin-bottom: 20px
+    }
+
+    .TO-hero-btns {
+        display: flex;
+        gap: 12px;
+        flex-wrap: nowrap
+    }
+
+    .TO-btn-primary {
+        padding: 12px 26px;
+        border-radius: 8px;
+        font-size: 15px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all .2s;
+        display: inline-block;
+        white-space: nowrap;
+        background: #fff;
+        color: var(--primary);
+        border: 2px solid #fff
+    }
+
+    .TO-btn-primary:hover {
+        background: transparent;
+        color: #fff
+    }
+
+    .TO-btn-secondary {
+        padding: 12px 26px;
+        border-radius: 8px;
+        font-size: 15px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all .2s;
+        display: inline-block;
+        white-space: nowrap;
+        background: transparent;
+        color: #fff;
+        border: 2px solid rgba(255, 255, 255, .6)
+    }
+
+    .TO-btn-secondary:hover {
+        background: white;
+        border-color: #fff
+    }
+
+    .TO-hero-stats {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px
+    }
+
+    .TO-hs {
+        background: rgba(255, 255, 255, .15);
+        border: 1px solid rgba(255, 255, 255, .25);
+        border-radius: 12px;
+        padding: 18px 14px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: 90px
+    }
+
+    .TO-hs-num {
+        font-size: 22px;
+        font-weight: 800;
+        color: #fff;
+        line-height: 1;
+        margin-bottom: 8px
+    }
+
+    .TO-hs-lbl {
+        font-size: 12px;
+        color: rgba(255, 255, 255, .85);
+        line-height: 1.4
+    }
+
+    /* Advantage Strip */
+    .TO-advantage-strip {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr;
+        align-items: center;
+        gap: 0;
+        border: 2px solid var(--primary);
+        border-radius: 12px;
+        overflow: hidden;
+        margin: 22px 0 28px
+    }
+
+    .TO-adv {
+        padding: 18px 14px;
+        text-align: center;
+        background: var(--light)
+    }
+
+    .TO-adv-icon {
+        width: 34px;
+        height: 34px;
+        background: var(--primary);
+        color: #fff;
+        border-radius: 50%;
+        font-size: 14px;
+        font-weight: 800;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 8px
+    }
+
+    .TO-adv-label {
+        font-size: 13px;
+        font-weight: 700;
+        color: var(--primary);
+        margin-bottom: 5px
+    }
+
+    .TO-adv-desc {
+        font-size: 12px;
+        color: var(--text);
+        line-height: 1.45
+    }
+
+    .TO-adv-div {
+        width: 1px;
+        background: var(--border);
+        align-self: stretch
+    }
+
+    /* Spec Card */
+    .TO-spec-card {
+        border: 2px solid var(--primary);
+        border-radius: 14px;
+        overflow: hidden;
+        margin: 20px 0 28px
+    }
+
+    .TO-spec-header {
+        background: var(--primary);
+        color: #fff;
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        padding: 11px 18px;
+        text-align: center
+    }
+
+    .TO-spec-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0;
+        background: #fff
+    }
+
+    .TO-spec-section {
+        padding: 16px 18px;
+        border-right: 1px solid var(--border);
+        border-bottom: 1px solid var(--border)
+    }
+
+    .TO-spec-section:nth-child(2n) {
+        border-right: none
+    }
+
+    .TO-spec-section:nth-child(3),
+    .TO-spec-section:nth-child(4) {
+        border-bottom: none
+    }
+
+    .TO-ss-title {
+        font-size: 11px;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        color: var(--primary);
+        margin-bottom: 10px;
+        padding-bottom: 6px;
+        border-bottom: 1px solid var(--border)
+    }
+
+    .TO-spec-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px 0;
+        border-bottom: 1px solid var(--border);
+        gap: 8px
+    }
+
+    .TO-spec-row:last-child {
+        border-bottom: none
+    }
+
+    .TO-sk {
+        font-size: 12px;
+        color: #888;
+        font-weight: 600;
+        flex-shrink: 0
+    }
+
+    .TO-sv {
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--dark);
+        text-align: right
+    }
+
+    .TO-sv-hi {
+        color: var(--primary)
+    }
+
+    /* Timeline */
+    .TO-timeline {
+        margin: 20px 0 28px;
+        display: flex;
+        flex-direction: column;
+        gap: 0
+    }
+
+    .TO-tl-item {
+        display: flex;
+        gap: 16px
+    }
+
+    .TO-tl-marker {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex-shrink: 0;
+        padding-top: 4px
+    }
+
+    .TO-tl-dot {
+        width: 14px;
+        height: 14px;
+        background: var(--primary);
+        border-radius: 50%;
+        border: 3px solid #fff;
+        box-shadow: 0 0 0 2px var(--primary);
+        flex-shrink: 0
+    }
+
+    .TO-tl-line {
+        width: 2px;
+        flex: 1;
+        background: var(--border);
+        margin-top: 4px;
+        min-height: 16px
+    }
+
+    .TO-tl-item:last-child .TO-tl-line {
+        display: none
+    }
+
+    .TO-tl-content {
+        padding-bottom: 20px;
+        flex: 1
+    }
+
+    .TO-tl-date {
+        font-size: 12px;
+        font-weight: 800;
+        color: var(--primary);
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        margin-bottom: 3px
+    }
+
+    .TO-tl-title {
+        font-size: 15px;
+        font-weight: 700;
+        color: var(--dark);
+        margin-bottom: 6px
+    }
+
+    .TO-tl-body {
+        font-size: 14px;
+        color: var(--text);
+        line-height: 1.6
+    }
+
+    /* Zone Cards */
+    .TO-zones-wrap {
+        margin: 20px 0 28px
+    }
+
+    .TO-zones {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 14px
+    }
+
+    .TO-zone-card {
+        border: 2px solid var(--primary);
+        border-radius: 12px;
+        padding: 16px 18px;
+        background: var(--light)
+    }
+
+    .TO-zone-primary {
+        border-width: 2px
+    }
+
+    .TO-zone-roadmap {
+        background: #fff;
+        border-color: var(--border)
+    }
+
+    .TO-zone-tag {
+        display: inline-block;
+        font-size: 11px;
+        font-weight: 700;
+        background: var(--primary);
+        color: #fff;
+        padding: 3px 9px;
+        border-radius: 4px;
+        text-transform: uppercase;
+        letter-spacing: .4px;
+        margin-bottom: 8px
+    }
+
+    .TO-zt-sec {
+        background: #7b78d0
+    }
+
+    .TO-zt-road {
+        background: #bbb
+    }
+
+    .TO-zone-name {
+        font-size: 15px;
+        font-weight: 700;
+        color: var(--primary);
+        margin-bottom: 10px;
+        line-height: 1.3
+    }
+
+    .TO-zone-roadmap .TO-zone-name {
+        color: #888
+    }
+
+    .TO-zone-detail {
+        display: flex;
+        flex-direction: column;
+        gap: 6px
+    }
+
+    .TO-zone-stat {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+        padding: 6px 0;
+        border-bottom: 1px solid var(--border)
+    }
+
+    .TO-zone-stat:last-child {
+        border-bottom: none
+    }
+
+    .TO-zs-k {
+        font-size: 11px;
+        font-weight: 700;
+        color: var(--primary);
+        text-transform: uppercase;
+        letter-spacing: .3px
+    }
+
+    .TO-zs-v {
+        font-size: 13px;
+        color: var(--text);
+        line-height: 1.4
+    }
+
+    /* Economics */
+    .TO-economics {
+        border: 2px solid var(--primary);
+        border-radius: 14px;
+        overflow: hidden;
+        margin: 20px 0 28px
+    }
+
+    .TO-econ-header {
+        background: var(--primary);
+        color: #fff;
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        padding: 11px 18px;
+        text-align: center
+    }
+
+    .TO-econ-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0
+    }
+
+    .TO-econ-card {
+        padding: 20px 18px;
+        border-right: 1px solid var(--border)
+    }
+
+    .TO-econ-card:last-child {
+        border-right: none
+    }
+
+    .TO-econ-today {
+        background: #fafafe
+    }
+
+    .TO-econ-target {
+        background: var(--light)
+    }
+
+    .TO-econ-price-tag {
+        font-size: 11px;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        color: #888;
+        margin-bottom: 6px
+    }
+
+    .TO-econ-target .TO-econ-price-tag {
+        color: var(--primary)
+    }
+
+    .TO-econ-price {
+        font-size: 26px;
+        font-weight: 800;
+        color: #aaa;
+        margin-bottom: 14px;
+        line-height: 1
+    }
+
+    .TO-econ-target .TO-econ-price {
+        color: var(--primary)
+    }
+
+    .TO-econ-rows {
+        display: flex;
+        flex-direction: column;
+        gap: 0
+    }
+
+    .TO-econ-row {
+        display: flex;
+        justify-content: space-between;
+        gap: 8px;
+        padding: 7px 0;
+        border-bottom: 1px solid var(--border);
+        align-items: flex-start
+    }
+
+    .TO-econ-row:last-child {
+        border-bottom: none
+    }
+
+    .TO-er-k {
+        font-size: 12px;
+        color: #999;
+        font-weight: 600;
+        flex-shrink: 0
+    }
+
+    .TO-er-v {
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--dark);
+        text-align: right
+    }
+
+    .TO-er-good {
+        color: #1a8a4a
+    }
+
+    .TO-econ-note {
+        padding: 10px 18px;
+        font-size: 12px;
+        color: #888;
+        font-style: italic;
+        background: #fff;
+        border-top: 1px solid var(--border)
+    }
+
+    /* Compare Table */
+    .TO-table-scroll {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        border-radius: 12px;
+        margin: 20px 0 28px
+    }
+
+    .TO-table-scroll::-webkit-scrollbar {
+        height: 5px
+    }
+
+    .TO-table-scroll::-webkit-scrollbar-track {
+        background: var(--border);
+        border-radius: 4px
+    }
+
+    .TO-table-scroll::-webkit-scrollbar-thumb {
+        background: var(--primary);
+        border-radius: 4px
+    }
+
+    .TO-compare {
+        border: 2px solid var(--primary);
+        border-radius: 12px;
+        overflow: hidden;
+        min-width: 600px
+    }
+
+    .TO-cmp-head {
+        display: grid;
+        grid-template-columns: 1.2fr 1fr 1fr 1fr 1fr;
+        background: var(--primary)
+    }
+
+    .TO-cmp-row {
+        display: grid;
+        grid-template-columns: 1.2fr 1fr 1fr 1fr 1fr;
+        border-top: 1px solid var(--border)
+    }
+
+    .TO-cmp-row:nth-child(even) {
+        background: var(--light)
+    }
+
+    .TO-cmp-row:nth-child(odd) {
+        background: #fff
+    }
+
+    .TO-cmp-col {
+        padding: 10px 12px;
+        font-size: 13px;
+        color: var(--text);
+        display: flex;
+        align-items: center
+    }
+
+    .TO-cmp-head .TO-cmp-col {
+        font-size: 11px;
+        font-weight: 700;
+        color: #fff;
+        text-transform: uppercase;
+        letter-spacing: .4px
+    }
+
+    .TO-cmp-spec {
+        font-weight: 600;
+        color: var(--dark)
+    }
+
+    .TO-cmp-optimus {
+        font-weight: 700;
+        color: var(--primary);
+        background: rgba(96, 93, 186, .05)
+    }
+
+    /* FAQ */
+    .TO-faq {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin: 18px 0 26px
+    }
+
+    .TO-faq-toggle {
+        display: none
+    }
+
+    .TO-faq-item {
+        border: 2px solid var(--border);
+        border-radius: 10px;
+        overflow: hidden;
+        background: #fff;
+        transition: border-color .2s
+    }
+
+    .TO-faq-item:hover {
+        border-color: var(--primary)
+    }
+
+    .TO-faq-q {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+        padding: 16px 20px;
+        background: #fff;
+        font-size: 16px;
+        font-weight: 500;
+        color: var(--dark);
+        cursor: pointer;
+        transition: background .2s, color .2s;
+        line-height: 1.4;
+        user-select: none
+    }
+
+    .TO-faq-q:hover {
+        background: var(--light);
+        color: var(--primary)
+    }
+
+    .TO-faq-icon {
+        flex-shrink: 0;
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        border: 2px solid var(--primary);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 17px;
+        color: var(--primary);
+        line-height: 1;
+        font-weight: 400
+    }
+
+    .TO-faq-icon::before {
+        content: "+"
+    }
+
+    .TO-faq-a {
+        max-height: 0;
+        overflow: hidden;
+        padding: 0 20px;
+        font-size: 15px;
+        color: var(--text);
+        line-height: 1.75;
+        transition: max-height .35s ease, padding .35s ease
+    }
+
+    .TO-faq-toggle:checked+.TO-faq-q {
+        background: var(--primary);
+        color: #fff
+    }
+
+    .TO-faq-toggle:checked+.TO-faq-q .TO-faq-icon {
+        background: #fff;
+        border-color: #fff;
+        color: var(--primary)
+    }
+
+    .TO-faq-toggle:checked+.TO-faq-q .TO-faq-icon::before {
+        content: "−"
+    }
+
+    .TO-faq-toggle:checked~.TO-faq-a {
+        max-height: 600px;
+        padding: 16px 20px;
+        border-top: 1px solid var(--border)
+    }
+
+    /* iFactory On-Premise vs Cloud */
+    .TO-ifactory-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 14px;
+        margin: 20px 0 16px
+    }
+
+    .TO-if-card {
+        border-radius: 12px;
+        padding: 20px;
+        border: 2px solid var(--primary)
+    }
+
+    .TO-if-onprem {
+        background: var(--light)
+    }
+
+    .TO-if-cloud {
+        background: #fff
+    }
+
+    .TO-if-badge {
+        display: inline-block;
+        font-size: 11px;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        background: var(--primary);
+        color: #fff;
+        padding: 4px 10px;
+        border-radius: 4px;
+        margin-bottom: 10px
+    }
+
+    .TO-if-badge-cloud {
+        background: #2980b9
+    }
+
+    .TO-if-title {
+        font-size: 15px;
+        font-weight: 700;
+        color: var(--primary);
+        margin-bottom: 8px;
+        line-height: 1.3
+    }
+
+    .TO-if-body {
+        font-size: 14px;
+        color: var(--text);
+        line-height: 1.6;
+        margin-bottom: 12px
+    }
+
+    .TO-if-features {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        border-top: 1px solid var(--border);
+        padding-top: 10px
+    }
+
+    .TO-if-feat {
+        font-size: 13px;
+        color: var(--text);
+        padding-left: 16px;
+        position: relative;
+        line-height: 1.4
+    }
+
+    .TO-if-feat::before {
+        content: '✓';
+        position: absolute;
+        left: 0;
+        color: var(--primary);
+        font-weight: 700;
+        font-size: 12px
+    }
+
+    /* Integration Flow */
+    .TO-if-flow {
+        border: 2px solid var(--primary);
+        border-radius: 12px;
+        overflow: hidden;
+        margin: 0 0 28px
+    }
+
+    .TO-if-flow-title {
+        background: var(--primary);
+        color: #fff;
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        padding: 10px 18px;
+        text-align: center
+    }
+
+    .TO-if-flow-steps {
+        display: flex;
+        align-items: center;
+        padding: 16px;
+        gap: 0;
+        background: #fff;
+        overflow-x: auto
+    }
+
+    .TO-if-step {
+        flex: 1;
+        min-width: 110px;
+        text-align: center;
+        padding: 10px 8px
+    }
+
+    .TO-if-step-num {
+        width: 32px;
+        height: 32px;
+        background: var(--primary);
+        color: #fff;
+        border-radius: 50%;
+        font-size: 14px;
+        font-weight: 800;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 8px
+    }
+
+    .TO-if-step-label {
+        font-size: 13px;
+        font-weight: 700;
+        color: var(--primary);
+        margin-bottom: 4px
+    }
+
+    .TO-if-step-desc {
+        font-size: 11px;
+        color: var(--text);
+        line-height: 1.4
+    }
+
+    .TO-if-arr {
+        flex-shrink: 0;
+        width: 20px;
+        height: 2px;
+        background: var(--primary);
+        position: relative;
+        margin: 0 -1px;
+        align-self: center
+    }
+
+    .TO-if-arr::after {
+        content: '';
+        position: absolute;
+        right: -5px;
+        top: -4px;
+        border: 5px solid transparent;
+        border-left-color: var(--primary)
+    }
+
+    .TO-if-flow-cta {
+        padding: 10px 18px;
+        background: var(--light);
+        border-top: 1px solid var(--border);
+        text-align: center;
+        font-size: 14px
+    }
+
+    /* Responsive additions */
+    @media(max-width:700px) {
+        .TO-ifactory-grid {
+            grid-template-columns: 1fr
+        }
+
+        .TO-if-flow-steps {
+            flex-direction: column;
+            gap: 8px
+        }
+
+        .TO-if-arr {
+            width: 2px;
+            height: 14px;
+            align-self: center;
+            margin: -1px 0
+        }
+
+        .TO-if-arr::after {
+            right: auto;
+            top: auto;
+            bottom: -5px;
+            left: -4px;
+            border-left-color: transparent;
+            border-top-color: var(--primary)
+        }
+    }
+
+    /* Final CTA */
+    .TO-final-cta {
+        background: var(--primary);
+        border-radius: 16px;
+        padding: 30px 28px;
+        text-align: center;
+        margin: 28px 0;
+        color: #fff
+    }
+
+    .TO-final-inner h2 {
+        color: #fff;
+        border-bottom: none;
+        font-size: 22px;
+        margin: 0 0 12px;
+        line-height: 1.3
+    }
+
+    .TO-final-inner p {
+        color: rgba(255, 255, 255, .88);
+        font-size: 17px;
+        margin-bottom: 20px
+    }
+
+    .TO-final-btns {
+        display: flex;
+        justify-content: center;
+        gap: 12px;
+        margin-bottom: 18px;
+        flex-wrap: wrap
+    }
+
+    .TO-btn-cta-primary {
+        padding: 12px 28px;
+        border-radius: 8px;
+        font-size: 15px;
+        font-weight: 700;
+        text-decoration: none;
+        display: inline-block;
+        background: #fff;
+        color: var(--primary);
+        border: 2px solid #fff;
+        transition: all .2s
+    }
+
+    .TO-btn-cta-primary:hover {
+        background: transparent;
+        color: #fff
+    }
+
+    .TO-btn-cta-secondary {
+        padding: 12px 28px;
+        border-radius: 8px;
+        font-size: 15px;
+        font-weight: 700;
+        text-decoration: none;
+        display: inline-block;
+        background: transparent;
+        color: #fff;
+        border: 2px solid rgba(255, 255, 255, .6);
+        transition: all .2s
+    }
+
+    .TO-btn-cta-secondary:hover {
+        background: rgba(255, 255, 255, .15);
+        border-color: #fff
+    }
+
+    .TO-final-pills {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px
+    }
+
+    .TO-pill {
+        background: rgba(255, 255, 255, .15);
+        border: 1px solid rgba(255, 255, 255, .3);
+        color: #fff;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 6px 13px;
+        border-radius: 16px
+    }
+
+    /* Responsive */
+    @media(max-width:900px) {
+        .TO-spec-grid {
+            grid-template-columns: 1fr
+        }
+
+        .TO-spec-section {
+            border-right: none
+        }
+
+        .TO-spec-section:nth-child(3) {
+            border-bottom: 1px solid var(--border)
+        }
+
+        .TO-advantage-strip {
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: auto auto
+        }
+
+        .TO-adv-div {
+            display: none
+        }
+
+        .TO-econ-grid {
+            grid-template-columns: 1fr
+        }
+
+        .TO-econ-card {
+            border-right: none;
+            border-bottom: 1px solid var(--border)
+        }
+
+        .TO-econ-card:last-child {
+            border-bottom: none
+        }
+    }
+
+    @media(max-width:700px) {
+        p {
+            font-size: 17px
+        }
+
+        h2 {
+            font-size: 22px
+        }
+
+        .TO-hero {
+            grid-template-columns: 1fr
+        }
+
+        .TO-hero-stats {
+            grid-template-columns: 1fr 1fr
+        }
+
+        .TO-hero-btns {
+            flex-wrap: wrap
+        }
+
+        .TO-zones {
+            grid-template-columns: 1fr
+        }
+
+        .TO-final-btns {
+            flex-direction: column
+        }
+
+        .TO-final-btns a {
+            width: 100%
+        }
+    }
+
+    @media(max-width:480px) {
+        h2 {
+            font-size: 20px
+        }
+
+        p {
+            font-size: 16px
+        }
+
+        .TO-hero-stats {
+            grid-template-columns: 1fr 1fr
+        }
+    }
+</style>

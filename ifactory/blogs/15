@@ -1,0 +1,539 @@
+<div class="opoa-layout-wrapper">
+    <!-- Panoramic Hero -->
+    <header class="opoa-hero">
+        <div class="opoa-hero-bg"></div>
+        <div class="opoa-hero-content">
+            <div class="opoa-badge">Upstream AI · Oilfield Production 2025</div>
+            <h1 class="opoa-title">Every Producing Well in Your Field Has an Optimal Operating Point</h1>
+            <p class="opoa-subtitle">AI finds the wells that have drifted away from it and tells you exactly how to bring them back.</p>
+            <div class="opoa-hero-actions">
+                <a href="https://calendly.com/contact-ifactoryapp/30min" class="opoa-btn-primary">Book Upstream AI Demo</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="opoa-container">
+        <!-- Sticky Sidebar Navigation -->
+        <aside class="opoa-sidebar">
+            <nav class="opoa-nav">
+                <ul>
+                    <li><a href="#gap">The Visibility Gap</a></li>
+                    <li><a href="#domains">Monitoring Domains</a></li>
+                    <li><a href="#downtime">Downtime Causes</a></li>
+                    <li><a href="#classification">Well Classification</a></li>
+                    <li><a href="#pipeline">Analytics Pipeline</a></li>
+                    <li><a href="#forecast">Forecasting Accuracy</a></li>
+                    <li><a href="#comparison">Field Comparison</a></li>
+                    <li><a href="#impact">Measured Impact</a></li>
+                    <li><a href="#faq">FAQs</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Scrolling Content -->
+        <main class="opoa-content">
+            
+            <section id="gap" class="opoa-section">
+                <h2 class="opoa-section-title">The Visibility Gap</h2>
+                <p>The production data exists, but it never reaches the engineer in time. The blocks below quantify the visibility gap caused by fragmented oilfield data systems.</p>
+                <div class="opoa-grid-2">
+                    <div class="opoa-glass-card">
+                        <div class="opoa-stat-val">2-4 Hrs</div>
+                        <div class="opoa-stat-lbl">Per Day Per Engineer</div>
+                        <p>Time spent manually pulling data from SCADA and allocation systems.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <div class="opoa-stat-val">5-8 Sys</div>
+                        <div class="opoa-stat-lbl">Data Sources Per Well</div>
+                        <p>Fragmented systems with different timestamps and units.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <div class="opoa-stat-val">24-72 Hrs</div>
+                        <div class="opoa-stat-lbl">Detection Lag</div>
+                        <p>Time between an anomaly occurring and engineer identification.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <div class="opoa-stat-val">8-15%</div>
+                        <div class="opoa-stat-lbl">Production Loss</div>
+                        <p>Lost to undetected artificial lift issues and suboptimal parameters.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="domains" class="opoa-section">
+                <h2 class="opoa-section-title">Six AI Monitoring Domains</h2>
+                <p>Effective optimization requires monitoring interdependent systems simultaneously.</p>
+                <div class="opoa-grid-2">
+                    <div class="opoa-glass-card">
+                        <h3>01. Artificial Lift</h3>
+                        <p>Rod pump dynocards, ESP motor current, gas lift injection rates.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <h3>02. Wellbore Flow</h3>
+                        <p>Flowing bottomhole pressure, water cut trending, GOR deviations.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <h3>03. Surface Flow Assurance</h3>
+                        <p>Flowline pressure drops indicating scale, paraffin, or hydrates.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <h3>04. Production Measurement</h3>
+                        <p>Meter performance, calibration status, allocation factor accuracy.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <h3>05. Injection Systems</h3>
+                        <p>Water injection rates, formation damage, chemical injection compliance.</p>
+                    </div>
+                    <div class="opoa-glass-card">
+                        <h3>06. Surface Constraints</h3>
+                        <p>Gathering system pressure, compression capacity, water handling bottlenecks.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="downtime" class="opoa-section">
+                <h2 class="opoa-section-title">Downtime Root Causes</h2>
+                <div class="opoa-bar-chart">
+                    <div class="opoa-bar-row">
+                        <div class="opoa-bar-lbl">Artificial Lift Failure</div>
+                        <div class="opoa-bar-track"><div class="opoa-bar-fill" style="width: 34%">34%</div></div>
+                    </div>
+                    <div class="opoa-bar-row">
+                        <div class="opoa-bar-lbl">Flow Assurance</div>
+                        <div class="opoa-bar-track"><div class="opoa-bar-fill" style="width: 18%">18%</div></div>
+                    </div>
+                    <div class="opoa-bar-row">
+                        <div class="opoa-bar-lbl">Surface Facility</div>
+                        <div class="opoa-bar-track"><div class="opoa-bar-fill" style="width: 15%">15%</div></div>
+                    </div>
+                    <div class="opoa-bar-row">
+                        <div class="opoa-bar-lbl">Wellbore/Completion</div>
+                        <div class="opoa-bar-track"><div class="opoa-bar-fill" style="width: 12%">12%</div></div>
+                    </div>
+                    <div class="opoa-bar-row">
+                        <div class="opoa-bar-lbl">Electrical/Inst.</div>
+                        <div class="opoa-bar-track"><div class="opoa-bar-fill" style="width: 10%">10%</div></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="classification" class="opoa-section">
+                <h2 class="opoa-section-title">Well Performance Classification</h2>
+                <div class="opoa-grid-2">
+                    <div class="opoa-glass-card opoa-status-critical">
+                        <div class="opoa-status-head">Critical — Immediate Action</div>
+                        <div class="opoa-status-pct">4%</div>
+                        <p>Production loss > 30% or shut in. Requires immediate diagnostic investigation.</p>
+                    </div>
+                    <div class="opoa-glass-card opoa-status-declining">
+                        <div class="opoa-status-head">Declining — Active Degradation</div>
+                        <div class="opoa-status-pct">12%</div>
+                        <p>Declining faster than expected curve due to wear, water cut, or restriction.</p>
+                    </div>
+                    <div class="opoa-glass-card opoa-status-under">
+                        <div class="opoa-status-head">Underperforming — Below Potential</div>
+                        <div class="opoa-status-pct">18%</div>
+                        <p>10-30% below potential due to suboptimal operating parameters.</p>
+                    </div>
+                    <div class="opoa-glass-card opoa-status-stable">
+                        <div class="opoa-status-head">Stable — On Curve</div>
+                        <div class="opoa-status-pct">38%</div>
+                        <p>Within 10% of expected decline curve. Routine monitoring required.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="pipeline" class="opoa-section">
+                <h2 class="opoa-section-title">The AI Analytics Pipeline</h2>
+                <div class="opoa-steps">
+                    <div class="opoa-step">
+                        <div class="opoa-step-num">IN</div>
+                        <div class="opoa-step-content">
+                            <h3>Data Ingestion</h3>
+                            <p>Telemetry from SCADA, RTUs, flow meters, validated continuously.</p>
+                        </div>
+                    </div>
+                    <div class="opoa-step">
+                        <div class="opoa-step-num">MD</div>
+                        <div class="opoa-step-content">
+                            <h3>Production Modeling</h3>
+                            <p>Dynamic expected production profiles based on decline curve behavior.</p>
+                        </div>
+                    </div>
+                    <div class="opoa-step">
+                        <div class="opoa-step-num">DT</div>
+                        <div class="opoa-step-content">
+                            <h3>Anomaly Detection</h3>
+                            <p>SPC methods identify sustained deviations > 10-15% below expected.</p>
+                        </div>
+                    </div>
+                    <div class="opoa-step">
+                        <div class="opoa-step-num">DG</div>
+                        <div class="opoa-step-content">
+                            <h3>Root Cause Diagnosis</h3>
+                            <p>Pattern recognition against known failure modes (gas interference, wear).</p>
+                        </div>
+                    </div>
+                    <div class="opoa-step">
+                        <div class="opoa-step-num">RX</div>
+                        <div class="opoa-step-content">
+                            <h3>Recommendation</h3>
+                            <p>Intervention matched and ranked by net economic value.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="forecast" class="opoa-section">
+                <h2 class="opoa-section-title">Forecasting Accuracy</h2>
+                <div class="opoa-grid-2">
+                    <div class="opoa-glass-card opoa-card-dark">
+                        <h3>Traditional DCA</h3>
+                        <ul class="opoa-list">
+                            <li><strong>30-Day Error:</strong> 8-14%</li>
+                            <li><strong>90-Day Error:</strong> 15-25%</li>
+                            <li><strong>6-Mo Error:</strong> 22-38%</li>
+                        </ul>
+                        <p><small>Cannot incorporate real-time changes or inter-well interference.</small></p>
+                    </div>
+                    <div class="opoa-glass-card opoa-card-highlight">
+                        <h3>iFactory AI Forecasting</h3>
+                        <ul class="opoa-list">
+                            <li><strong>30-Day Error:</strong> 3-5%</li>
+                            <li><strong>90-Day Error:</strong> 5-9%</li>
+                            <li><strong>6-Mo Error:</strong> 8-14%</li>
+                        </ul>
+                        <p><small>Incorporates real-time lift data and dynamic b-factors.</small></p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="comparison" class="opoa-section">
+                <h2 class="opoa-section-title">Multi-Field Comparison</h2>
+                <div class="opoa-table-wrap">
+                    <table class="opoa-table">
+                        <thead>
+                            <tr>
+                                <th>Metric</th>
+                                <th>Permian</th>
+                                <th>Eagle Ford</th>
+                                <th>Bakken</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Total Producing Wells</td>
+                                <td>342</td>
+                                <td>187</td>
+                                <td>124</td>
+                            </tr>
+                            <tr>
+                                <td>Oil Prod (BOPD)</td>
+                                <td>48,200</td>
+                                <td>22,800</td>
+                                <td>18,400</td>
+                            </tr>
+                            <tr>
+                                <td>Critical / Declining</td>
+                                <td>17%</td>
+                                <td>13%</td>
+                                <td>23%</td>
+                            </tr>
+                            <tr>
+                                <td>Optimization Opps</td>
+                                <td>25%</td>
+                                <td>22%</td>
+                                <td>31%</td>
+                            </tr>
+                            <tr>
+                                <td>Value of Opps</td>
+                                <td>$4.2M/yr</td>
+                                <td>$1.9M/yr</td>
+                                <td>$2.7M/yr</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section id="impact" class="opoa-section">
+                <h2 class="opoa-section-title">Measured Impact</h2>
+                <div class="opoa-grid-3">
+                    <div class="opoa-glass-card opoa-center">
+                        <div class="opoa-impact-num">8.4%</div>
+                        <p>Production uplift from AI rod pump optimizations.</p>
+                    </div>
+                    <div class="opoa-glass-card opoa-center">
+                        <div class="opoa-impact-num">12.1%</div>
+                        <p>Reduction in ESP failure rates (predictive maintenance).</p>
+                    </div>
+                    <div class="opoa-glass-card opoa-center">
+                        <div class="opoa-impact-num">67%</div>
+                        <p>Faster anomaly detection (36 hrs -> 12 hrs).</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="faq" class="opoa-section">
+                <h2 class="opoa-section-title">Frequently Asked Questions</h2>
+                <div class="opoa-faq-item">
+                    <h4>How does it handle different lift types?</h4>
+                    <p>Separate analytical models for rod pumps (dynocards), ESPs (current signatures), and gas lift (injection rates), feeding into a unified classification system.</p>
+                </div>
+                <div class="opoa-faq-item">
+                    <h4>What communication infrastructure is required?</h4>
+                    <p>Supports radio telemetry, cellular, satellite, and fiber via existing SCADA historians or data lakes without new wellsite hardware.</p>
+                </div>
+                <div class="opoa-faq-item">
+                    <h4>How does it distinguish depletion from equipment issues?</h4>
+                    <p>It compares actual production against a reservoir-adjusted expected profile. Deviations from that dynamic baseline signal equipment/flow issues.</p>
+                </div>
+            </section>
+
+        </main>
+    </div>
+</div>
+
+<style>
+/* =========================================
+   OPOA (Oilfield Production) - "STICKY SIDEBAR"
+   ========================================= */
+:root {
+    --opoa-bg: #f3f6f9;
+    --opoa-surface: rgba(255, 255, 255, 0.7);
+    --opoa-primary: #034694;
+    --opoa-secondary: #0ea5e9;
+    --opoa-dark: #0f172a;
+    --opoa-text: #475569;
+    --opoa-border: rgba(255,255,255,0.5);
+    
+    /* Status Colors */
+    --opoa-c-red: #ef4444;
+    --opoa-c-orange: #f97316;
+    --opoa-c-yellow: #eab308;
+    --opoa-c-green: #10b981;
+}
+
+body {
+    background: var(--opoa-bg);
+    background-image: 
+        radial-gradient(at 0% 0%, rgba(14, 165, 233, 0.1) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, rgba(3, 70, 148, 0.1) 0px, transparent 50%);
+    background-attachment: fixed;
+}
+
+.opoa-layout-wrapper {
+    font-family: 'Inter', system-ui, sans-serif;
+    color: var(--opoa-text);
+}
+
+/* Panoramic Hero */
+.opoa-hero {
+    position: relative;
+    height: 60vh;
+    min-height: 500px;
+    background: var(--opoa-dark);
+    display: flex;
+    align-items: flex-end;
+    padding: 60px 40px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.opoa-hero-bg {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to right, rgba(15,23,42,0.9) 0%, rgba(15,23,42,0.4) 100%), url('data:image/svg+xml;utf8,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="none"/><path d="M0 100 Q 25 50 50 100 T 100 100" stroke="rgba(255,255,255,0.1)" fill="none"/></svg>') repeat;
+    background-size: cover;
+    z-index: 1;
+}
+.opoa-hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 1000px;
+    color: #fff;
+}
+.opoa-badge {
+    display: inline-block;
+    color: var(--opoa-secondary);
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.opoa-title {
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.1;
+    margin: 0 0 20px 0;
+}
+.opoa-subtitle {
+    font-size: 1.25rem;
+    color: rgba(255,255,255,0.8);
+    margin: 0 0 30px 0;
+    max-width: 800px;
+    line-height: 1.6;
+}
+.opoa-btn-primary {
+    background: var(--opoa-secondary);
+    color: #fff;
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(14, 165, 233, 0.4);
+    transition: all 0.3s;
+}
+.opoa-btn-primary:hover {
+    background: #0284c7;
+    transform: translateY(-2px);
+}
+
+/* Container */
+.opoa-container {
+    display: flex;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 40px;
+    gap: 60px;
+}
+
+/* Sidebar */
+.opoa-sidebar {
+    flex: 0 0 250px;
+    position: sticky;
+    top: 40px;
+    height: max-content;
+}
+.opoa-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.opoa-nav li {
+    margin-bottom: 15px;
+}
+.opoa-nav a {
+    color: var(--opoa-text);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: color 0.2s;
+    display: block;
+    padding-left: 10px;
+    border-left: 2px solid transparent;
+}
+.opoa-nav a:hover {
+    color: var(--opoa-primary);
+    border-left-color: var(--opoa-primary);
+}
+
+/* Main Content */
+.opoa-content {
+    flex: 1;
+    padding-bottom: 100px;
+}
+.opoa-section {
+    margin-bottom: 80px;
+    scroll-margin-top: 40px;
+}
+.opoa-section-title {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: var(--opoa-dark);
+    margin: 0 0 20px 0;
+    line-height: 1.2;
+}
+.opoa-section > p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+/* Glassmorphism Cards */
+.opoa-glass-card {
+    background: var(--opoa-surface);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--opoa-border);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+    transition: transform 0.3s;
+}
+.opoa-glass-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.05);
+}
+.opoa-glass-card h3 {
+    margin: 0 0 12px 0;
+    color: var(--opoa-dark);
+    font-size: 1.2rem;
+}
+.opoa-glass-card p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* Grids */
+.opoa-grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+.opoa-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.opoa-center { text-align: center; }
+
+/* Stats & Specifics */
+.opoa-stat-val { font-size: 2.5rem; font-weight: 900; color: var(--opoa-primary); line-height: 1; margin-bottom: 8px; }
+.opoa-stat-lbl { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px; }
+.opoa-impact-num { font-size: 3rem; font-weight: 900; color: var(--opoa-secondary); margin-bottom: 12px; }
+
+/* Status Classes */
+.opoa-status-critical { border-top: 4px solid var(--opoa-c-red); }
+.opoa-status-declining { border-top: 4px solid var(--opoa-c-orange); }
+.opoa-status-under { border-top: 4px solid var(--opoa-c-yellow); }
+.opoa-status-stable { border-top: 4px solid var(--opoa-primary); }
+.opoa-status-head { font-weight: 800; font-size: 1.1rem; color: var(--opoa-dark); margin-bottom: 8px; }
+.opoa-status-pct { font-size: 2rem; font-weight: 900; color: var(--opoa-text); margin-bottom: 12px; }
+
+/* Bar Chart */
+.opoa-bar-chart { display: flex; flex-direction: column; gap: 16px; }
+.opoa-bar-row { display: flex; align-items: center; }
+.opoa-bar-lbl { width: 180px; font-weight: 600; font-size: 0.95rem; }
+.opoa-bar-track { flex: 1; background: rgba(0,0,0,0.05); height: 32px; border-radius: 8px; overflow: hidden; }
+.opoa-bar-fill { background: var(--opoa-primary); height: 100%; color: #fff; font-weight: 700; display: flex; align-items: center; justify-content: flex-end; padding-right: 12px; font-size: 0.9rem; }
+
+/* Pipeline Steps */
+.opoa-steps { display: flex; flex-direction: column; gap: 20px; }
+.opoa-step { display: flex; gap: 20px; background: var(--opoa-surface); padding: 24px; border-radius: 12px; border: 1px solid var(--opoa-border); }
+.opoa-step-num { width: 50px; height: 50px; background: var(--opoa-secondary); color: #fff; font-weight: 800; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; flex-shrink: 0; }
+.opoa-step-content h3 { margin: 0 0 8px 0; color: var(--opoa-dark); }
+.opoa-step-content p { margin: 0; line-height: 1.5; font-size: 0.95rem; }
+
+/* Comparisons */
+.opoa-card-dark { background: var(--opoa-dark); color: #fff; border: none; }
+.opoa-card-dark h3 { color: #fff; }
+.opoa-card-highlight { background: var(--opoa-primary); color: #fff; border: none; }
+.opoa-card-highlight h3 { color: #fff; }
+.opoa-list { padding-left: 20px; margin-bottom: 20px; }
+.opoa-list li { margin-bottom: 10px; font-size: 1rem; }
+
+/* Table */
+.opoa-table-wrap { overflow-x: auto; background: var(--opoa-surface); border-radius: 16px; border: 1px solid var(--opoa-border); padding: 20px; }
+.opoa-table { width: 100%; border-collapse: collapse; }
+.opoa-table th, .opoa-table td { padding: 16px; text-align: left; border-bottom: 1px solid rgba(0,0,0,0.05); }
+.opoa-table th { font-weight: 800; color: var(--opoa-dark); font-size: 0.9rem; text-transform: uppercase; }
+
+/* FAQ */
+.opoa-faq-item { margin-bottom: 30px; background: var(--opoa-surface); padding: 24px; border-radius: 12px; border: 1px solid var(--opoa-border); }
+.opoa-faq-item h4 { margin: 0 0 12px 0; font-size: 1.2rem; color: var(--opoa-dark); }
+.opoa-faq-item p { margin: 0; line-height: 1.6; }
+
+@media (max-width: 992px) {
+    .opoa-container { flex-direction: column; padding: 0 20px; }
+    .opoa-sidebar { display: none; }
+    .opoa-hero { padding: 40px 20px; }
+    .opoa-title { font-size: 2.5rem; }
+    .opoa-grid-2, .opoa-grid-3 { grid-template-columns: 1fr; }
+    .opoa-bar-row { flex-direction: column; align-items: flex-start; gap: 8px; }
+    .opoa-bar-lbl { width: 100%; }
+}
+</style>
