@@ -1,0 +1,704 @@
+<p>An MSHA inspector arrives unannounced at a cement quarry. Without a complete, timestamped record of workplace examinations, a serious violation becomes almost unavoidable — triggering fines, operational shutdowns, and a permanent mark on the compliance record. This is the story of how one cement quarry walked out of that inspection clean, because their Oxmaint CMMS had captured every workplace exam on every shift, for every active working area, in auditable digital records the inspector could review on the spot. If your quarry faces an MSHA inspection today, would your records hold up? <a href="https://app.oxmaint.ai">Start building your compliant examination records in Oxmaint free</a> before the next inspector walks through the gate.</p>
+<div class="pw">
+<div class="hero-blk">
+<div class="hb-label">Case Study — MSHA Compliance</div>
+<h2 class="hb-title">Cement Quarry Avoids MSHA S&amp;S Citation With CMMS-Tracked Workplace Exam Records</h2>
+<p class="hb-sub">How a mid-size cement quarry turned an unannounced MSHA inspection into a zero-citation outcome — by producing complete, timestamped, shift-by-shift workplace examination records from Oxmaint.</p>
+<div class="hb-cta">
+<a href="https://app.oxmaint.ai" class="btn-primary">Start Free</a>
+<a href="https://calendly.com/oxmaintapp/30min" class="btn-outline">Book a Demo</a>
+</div>
+</div>
+<div class="outcome-strip">
+<div class="os-item">
+<span class="os-val">0</span>
+<span class="os-lbl">S&amp;S Citations Issued</span>
+</div>
+<div class="os-divider"><br />
+</div>
+<div class="os-item">
+<span class="os-val">100%</span>
+<span class="os-lbl">Exam Records Produced On-Site</span>
+</div>
+<div class="os-divider"><br />
+</div>
+<div class="os-item">
+<span class="os-val">14 min</span>
+<span class="os-lbl">To Pull 90 Days of Exam History</span>
+</div>
+<div class="os-divider"><br />
+</div>
+<div class="os-item">
+<span class="os-val">$0</span>
+<span class="os-lbl">In Penalties or Operational Downtime</span>
+</div>
+</div>
+<div class="sect">
+<span class="eyebrow">The Situation</span>
+<h2 class="sh2">What MSHA Was Looking For — and What Most Quarries Cannot Produce</h2>
+<p class="sp">Under 30 CFR Part 56 and Part 57, surface and underground metal and nonmetal mines — which includes cement quarries — are required to conduct workplace examinations before each shift commences in each working area. The examination must be recorded, and those records must be available for inspector review. The regulation sounds straightforward. The reality inside most quarries is far messier.</p>
+<div class="two-col">
+<div class="tc-card tc-red">
+<div class="tc-head">What Most Quarries Have</div>
+<div class="tc-items">
+<div class="tc-item">Paper logbooks — often incomplete, illegible, or stored off-site</div>
+<div class="tc-item">Shared sign-off sheets with no individual accountability per area</div>
+<div class="tc-item">No timestamp verification — time of exam vs time of shift start is unverifiable</div>
+<div class="tc-item">Examination records that cover the gate entry, not every working area</div>
+<div class="tc-item">No deficiency tracking — hazards found have no documented corrective action trail</div>
+</div>
+</div>
+<div class="tc-card tc-green">
+<div class="tc-head">What MSHA Actually Requires</div>
+<div class="tc-items">
+<div class="tc-item">Individual examinations of each working area before each shift</div>
+<div class="tc-item">Named examiner recorded per location — not a group sign-off</div>
+<div class="tc-item">Timestamped record demonstrating exam occurred before work began</div>
+<div class="tc-item">Deficiency documentation with corrective action status</div>
+<div class="tc-item">Records retained and available for inspector review on demand</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect salt-sect">
+<span class="eyebrow">The Inspection Day</span>
+<h2 class="sh2">The Moment That Tests Every Compliance Programme</h2>
+<p class="sp">An MSHA compliance inspector arrived at the quarry at 6:47 AM — before the day shift supervisor had completed their morning walkthrough. The inspector requested workplace examination records for the past 90 days across all active areas: the primary crusher station, the haul road loading zone, the secondary processing area, and the conveyor transfer points.</p>
+<div class="timeline">
+<div class="tl-item">
+<div class="tl-dot"><br />
+</div>
+<div class="tl-content">
+<div class="tl-time">6:47 AM</div>
+<div class="tl-event">MSHA inspector arrives unannounced at quarry gate</div>
+<div class="tl-detail">Inspector requests 90-day workplace examination records for all active working areas under 30 CFR Part 56.18002</div>
+</div>
+</div>
+<div class="tl-item">
+<div class="tl-dot"><br />
+</div>
+<div class="tl-content">
+<div class="tl-time">6:51 AM</div>
+<div class="tl-event">Safety manager opens Oxmaint on mobile device</div>
+<div class="tl-detail">Pulls up digital examination record log filtered by asset area and date range — 90 days of shift-by-shift records load instantly</div>
+</div>
+</div>
+<div class="tl-item">
+<div class="tl-dot"><br />
+</div>
+<div class="tl-content">
+<div class="tl-time">7:01 AM</div>
+<div class="tl-event">Inspector begins reviewing timestamped exam records</div>
+<div class="tl-detail">Each record shows: examiner name, area examined, timestamp, hazards found (if any), corrective action status, and closure confirmation</div>
+</div>
+</div>
+<div class="tl-item">
+<div class="tl-dot tl-dot-green"><br />
+</div>
+<div class="tl-content">
+<div class="tl-time">8:23 AM</div>
+<div class="tl-event">Inspection concludes — zero citations issued</div>
+<div class="tl-detail">Inspector notes that records exceeded documentation standard. No S&amp;S designation, no penalty, no operational disruption</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect">
+<span class="eyebrow">How the Records Were Built</span>
+<h2 class="sh2">The Oxmaint Workflow That Made the Difference</h2>
+<p class="sp">The quarry had deployed Oxmaint six months before the inspection — initially to manage equipment maintenance work orders, not specifically for compliance. The workplace examination workflow was configured as a daily checklist assigned to each area supervisor at shift start. Three features proved decisive during the inspection.</p>
+<div class="feature-grid">
+<div class="fg-card">
+<div class="fg-num">01</div>
+<div class="fg-title">Geotimestamped Examination Records</div>
+<div class="fg-body">Each workplace examination checklist completion recorded the examiner's device GPS location and the precise completion time — making it verifiable that the examiner was physically in the working area at the time recorded, not completing forms remotely from an office.</div>
+</div>
+<div class="fg-card">
+<div class="fg-num">02</div>
+<div class="fg-title">Deficiency-to-Closure Tracking</div>
+<div class="fg-body">Any hazard or deficiency identified during an examination automatically created a linked work order with corrective action assignment, due date, and closure requirement. The inspector could see not only that hazards were found, but that each one was resolved — with evidence.</div>
+</div>
+<div class="fg-card">
+<div class="fg-num">03</div>
+<div class="fg-title">Exportable Audit Trail</div>
+<div class="fg-body">90 days of examination records were exportable as a structured report in under 15 minutes — filterable by area, examiner, shift, and date. No searching through binders, no gaps in records, no handwriting interpretation required during a live inspection.</div>
+</div>
+</div>
+</div>
+<div class="cta-mid">
+<h2>Build the examination records that protect your quarry before the next unannounced inspection</h2>
+<p>Oxmaint structures workplace examinations as digital shift checklists — timestamped, geolocated, and linked to corrective action tracking that satisfies MSHA documentation requirements on demand.</p>
+<div class="cta-btns">
+<a href="https://app.oxmaint.ai" class="btn-primary">Start Free</a>
+<a href="https://calendly.com/oxmaintapp/30min" class="btn-outline-gold">Book a Demo</a>
+</div>
+</div>
+<div class="sect salt-sect">
+<span class="eyebrow">MSHA S&amp;S Explained</span>
+<h2 class="sh2">What Makes a Workplace Exam Violation an S&amp;S Citation — and Why It Matters</h2>
+<p class="sp">An S&amp;S (Significant and Substantial) citation under the Federal Mine Safety and Health Act is issued when a violation is reasonably likely to result in injury or illness of a reasonably serious nature. For workplace examination failures, the S&amp;S designation is common — because the entire purpose of the examination is hazard prevention. A missing exam record implies a missed hazard opportunity.</p>
+<div class="risk-table-wrap">
+<table class="risk-tbl">
+	<thead>
+		<tr>
+			<th>Violation Type</th>
+			<th>Typical Penalty Range</th>
+			<th>S&amp;S Likelihood</th>
+			<th>Operational Impact</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="rt-name">No workplace examination conducted</td>
+			<td>$250 – $70,000+</td>
+			<td class="rt-high">High</td>
+			<td>Area closure until remediated</td>
+		</tr>
+		<tr>
+			<td class="rt-name">Examination not recorded</td>
+			<td>$250 – $15,000</td>
+			<td class="rt-med">Medium</td>
+			<td>Written notice, follow-up inspection</td>
+		</tr>
+		<tr>
+			<td class="rt-name">Records not available for review</td>
+			<td>$500 – $10,000</td>
+			<td class="rt-med">Medium</td>
+			<td>Records request, potential revisit</td>
+		</tr>
+		<tr>
+			<td class="rt-name">Hazard found, no corrective action</td>
+			<td>$1,000 – $50,000+</td>
+			<td class="rt-high">Very High</td>
+			<td>Immediate area closure possible</td>
+		</tr>
+		<tr>
+			<td class="rt-name">Pattern of exam failures</td>
+			<td>Enhanced penalties apply</td>
+			<td class="rt-high">Pattern of Violations</td>
+			<td>Potential mine closure order</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+<div class="sect">
+<span class="eyebrow">FAQ</span>
+<h2 class="sh2">Common Questions on MSHA Workplace Examination Compliance</h2>
+<div class="faq-list">
+<div class="fqi">
+<div class="fqi-q">What exactly must a workplace examination record contain to satisfy MSHA Part 56?</div>
+<div class="fqi-a">The record must identify who conducted the examination, which working area was examined, when the examination occurred (before the shift begins work in that area), and any hazardous conditions found with their resolution status. Oxmaint's examination checklist captures all four elements automatically on each submission. <a href="https://app.oxmaint.ai" class="fq-lnk">Start building compliant records free.</a></div>
+</div>
+<div class="fqi">
+<div class="fqi-q">How far back can MSHA request workplace examination records?</div>
+<div class="fqi-a">MSHA inspectors typically request records for the most recent inspection cycle — often 90 to 180 days. Records must be retained for at least one year under 30 CFR Part 56.18002(c). Oxmaint retains records indefinitely and makes any date range retrievable in minutes.</div>
+</div>
+<div class="fqi">
+<div class="fqi-q">Can a paper logbook satisfy the MSHA examination record requirement?</div>
+<div class="fqi-a">Paper logbooks are technically permissible but create compliance risk in practice — timestamps are unverifiable, entries are often incomplete or illegible, and gaps in records are common. Digital records produced from a CMMS carry timestamps, named examiners, and linked corrective actions that a paper log cannot replicate. <a href="https://calendly.com/oxmaintapp/30min" class="fq-lnk">See how Oxmaint structures the record.</a></div>
+</div>
+<div class="fqi">
+<div class="fqi-q">Does Oxmaint work for both surface (Part 56) and underground (Part 57) cement operations?</div>
+<div class="fqi-a">Yes. Oxmaint's workplace examination checklists are configurable for each regulatory requirement — surface examinations under Part 56 and underground examinations under Part 57 have different scope requirements, and both can be structured as distinct checklist types assigned to the appropriate areas and shift examiners.</div>
+</div>
+<div class="fqi">
+<div class="fqi-q">What happens if a hazard is found during the examination — how does Oxmaint handle the corrective action?</div>
+<div class="fqi-a">Any deficiency flagged in the examination checklist automatically generates a linked corrective action work order — assigned to a named technician with a due date and closure confirmation requirement. The examination record shows the hazard as open until the work order is closed, creating an auditable deficiency-to-resolution trail that satisfies the MSHA requirement to address hazards found.</div>
+</div>
+</div>
+</div>
+<div class="final-cta-blk">
+<h2>Do not let missing exam records turn a routine inspection into a penalty</h2>
+<p>Oxmaint converts workplace examination compliance from a paper liability into a documented, timestamped, audit-ready record — available to any inspector, on any device, in minutes.</p>
+<div class="cta-btns">
+<a href="https://app.oxmaint.ai" class="btn-primary">Start Free</a>
+<a href="https://calendly.com/oxmaintapp/30min" class="btn-outline-gold">Book a Demo</a>
+</div>
+</div>
+</div>
+<style>
+:root {
+--pr: #15227a;
+--sc: #fab758;
+--wh: #ffffff;
+--g50: #f8f9fb;
+--g100: #f1f3f7;
+--g200: #e2e6ef;
+--g400: #9ca3af;
+--g600: #4b5563;
+--g800: #1f2937;
+--red: #dc2626;
+--grn: #15803d;
+}
+.pw {
+width: 100%;
+}
+.hero-blk {
+background: var(--pr);
+border-radius: 16px;
+padding: 32px;
+margin-bottom: 8px;
+}
+.hb-label {
+font-size: 11px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.1em;
+color: var(--sc);
+margin-bottom: 12px;
+}
+.hb-title {
+font-size: 24px;
+font-weight: 800;
+color: var(--wh);
+line-height: 1.25;
+margin-bottom: 12px;
+}
+.hb-sub {
+font-size: 15px;
+color: rgba(255,255,255,0.72);
+line-height: 1.7;
+margin-bottom: 22px;
+}
+.hb-cta {
+display: flex;
+flex-direction: row;
+gap: 10px;
+flex-wrap: wrap;
+}
+.btn-primary {
+background: var(--sc);
+color: var(--pr);
+padding: 11px 26px;
+border-radius: 8px;
+font-weight: 700;
+font-size: 14px;
+text-decoration: none;
+border: 2px solid var(--sc);
+display: inline-block;
+white-space: nowrap;
+}
+.btn-primary:hover {
+background: var(--wh);
+border-color: var(--wh);
+}
+.btn-outline {
+background: transparent;
+color: var(--wh);
+padding: 10px 26px;
+border-radius: 8px;
+font-weight: 600;
+font-size: 14px;
+text-decoration: none;
+border: 2px solid rgba(255,255,255,0.45);
+display: inline-block;
+white-space: nowrap;
+}
+.btn-outline:hover {
+border-color: var(--wh);
+}
+.btn-outline-gold {
+background: transparent;
+color: var(--sc);
+padding: 10px 26px;
+border-radius: 8px;
+font-weight: 600;
+font-size: 14px;
+text-decoration: none;
+border: 2px solid var(--sc);
+display: inline-block;
+white-space: nowrap;
+}
+.btn-outline-gold:hover {
+background: var(--sc);
+color: var(--pr);
+}
+.outcome-strip {
+display: flex;
+align-items: center;
+background: var(--g50);
+border: 1px solid var(--g200);
+border-radius: 14px;
+padding: 20px 24px;
+margin-bottom: 8px;
+flex-wrap: wrap;
+gap: 12px;
+}
+.os-item {
+flex: 1 1 100px;
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+}
+.os-val {
+font-size: 28px;
+font-weight: 900;
+color: var(--pr);
+line-height: 1;
+margin-bottom: 4px;
+}
+.os-lbl {
+font-size: 13px;
+color: var(--g600);
+line-height: 1.4;
+}
+.os-divider {
+width: 1px;
+height: 48px;
+background: var(--g200);
+flex-shrink: 0;
+}
+.sect {
+padding: 28px 0;
+border-bottom: 1px solid var(--g200);
+}
+.sect:last-child {
+border-bottom: none;
+}
+.salt-sect {
+background: var(--g50);
+border-radius: 14px;
+padding: 24px 20px;
+margin: 8px 0;
+border-bottom: none;
+}
+.eyebrow {
+display: block;
+font-size: 11px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.1em;
+color: var(--sc);
+margin-bottom: 8px;
+}
+.sh2 {
+font-size: 22px;
+font-weight: 800;
+color: var(--pr);
+line-height: 1.28;
+margin-bottom: 12px;
+}
+.sp {
+font-size: 15px;
+color: var(--g600);
+line-height: 1.75;
+margin-bottom: 16px;
+}
+.two-col {
+display: flex;
+gap: 12px;
+flex-wrap: wrap;
+margin-top: 16px;
+}
+.tc-card {
+flex: 1 1 44%;
+border-radius: 12px;
+overflow: hidden;
+border: 1px solid var(--g200);
+}
+.tc-head {
+font-size: 14px;
+font-weight: 800;
+color: var(--wh);
+padding: 14px 18px;
+}
+.tc-red .tc-head {
+background: #6b7280;
+}
+.tc-green .tc-head {
+background: var(--pr);
+}
+.tc-items {
+background: var(--wh);
+padding: 12px 18px;
+display: flex;
+flex-direction: column;
+gap: 0;
+}
+.tc-item {
+font-size: 14px;
+color: var(--g600);
+padding: 9px 0 9px 14px;
+border-bottom: 1px solid var(--g100);
+line-height: 1.5;
+position: relative;
+}
+.tc-item:last-child {
+border-bottom: none;
+}
+.tc-red .tc-item::before {
+content: '';
+position: absolute;
+left: 0;
+top: 15px;
+width: 6px;
+height: 6px;
+border-radius: 50%;
+background: var(--red);
+}
+.tc-green .tc-item::before {
+content: '';
+position: absolute;
+left: 0;
+top: 15px;
+width: 6px;
+height: 6px;
+border-radius: 50%;
+background: var(--grn);
+}
+.timeline {
+margin-top: 20px;
+display: flex;
+flex-direction: column;
+gap: 0;
+border-left: 3px solid var(--pr);
+padding-left: 24px;
+}
+.tl-item {
+position: relative;
+padding-bottom: 24px;
+}
+.tl-item:last-child {
+padding-bottom: 0;
+}
+.tl-dot {
+position: absolute;
+left: -31px;
+top: 4px;
+width: 14px;
+height: 14px;
+border-radius: 50%;
+background: var(--pr);
+border: 3px solid var(--wh);
+box-shadow: 0 0 0 2px var(--pr);
+}
+.tl-dot-green {
+background: var(--grn);
+box-shadow: 0 0 0 2px var(--grn);
+}
+.tl-time {
+font-size: 12px;
+font-weight: 700;
+color: var(--sc);
+text-transform: uppercase;
+letter-spacing: 0.06em;
+margin-bottom: 4px;
+}
+.tl-event {
+font-size: 15px;
+font-weight: 700;
+color: var(--pr);
+margin-bottom: 5px;
+line-height: 1.3;
+}
+.tl-detail {
+font-size: 14px;
+color: var(--g600);
+line-height: 1.6;
+}
+.feature-grid {
+display: flex;
+gap: 12px;
+flex-wrap: wrap;
+margin-top: 18px;
+}
+.fg-card {
+flex: 1 1 28%;
+background: var(--wh);
+border: 1px solid var(--g200);
+border-radius: 12px;
+padding: 18px 16px;
+border-top: 4px solid var(--pr);
+}
+.fg-num {
+font-size: 30px;
+font-weight: 900;
+color: var(--g200);
+line-height: 1;
+margin-bottom: 8px;
+}
+.fg-title {
+font-size: 15px;
+font-weight: 800;
+color: var(--pr);
+margin-bottom: 8px;
+line-height: 1.3;
+}
+.fg-body {
+font-size: 14px;
+color: var(--g600);
+line-height: 1.65;
+}
+.cta-mid {
+background: var(--pr);
+border-radius: 14px;
+padding: 28px 32px;
+margin: 10px 0;
+}
+.cta-mid h2 {
+font-size: 20px;
+font-weight: 800;
+color: var(--wh);
+line-height: 1.3;
+margin-bottom: 10px;
+}
+.cta-mid p {
+font-size: 15px;
+color: rgba(255,255,255,0.72);
+line-height: 1.65;
+margin-bottom: 20px;
+}
+.cta-btns {
+display: flex;
+flex-direction: row;
+gap: 10px;
+flex-wrap: wrap;
+}
+.risk-table-wrap {
+overflow-x: auto;
+-webkit-overflow-scrolling: touch;
+border-radius: 12px;
+border: 1px solid var(--g200);
+margin-top: 18px;
+}
+.risk-tbl {
+width: 100%;
+border-collapse: collapse;
+background: var(--wh);
+min-width: 580px;
+}
+.risk-tbl thead tr {
+background: var(--pr);
+}
+.risk-tbl thead th {
+padding: 12px 14px;
+font-size: 13px;
+font-weight: 700;
+color: var(--wh);
+text-align: left;
+white-space: nowrap;
+}
+.risk-tbl tbody tr {
+border-bottom: 1px solid var(--g200);
+}
+.risk-tbl tbody tr:nth-child(even) {
+background: var(--g50);
+}
+.risk-tbl tbody tr:hover {
+background: #eef0ff;
+}
+.risk-tbl td {
+padding: 12px 14px;
+font-size: 14px;
+color: var(--g600);
+vertical-align: top;
+line-height: 1.5;
+}
+.rt-name {
+font-weight: 700;
+color: var(--g800);
+}
+.rt-high {
+font-weight: 700;
+color: var(--red);
+}
+.rt-med {
+font-weight: 700;
+color: #b45309;
+}
+.faq-list {
+display: flex;
+flex-direction: column;
+gap: 10px;
+margin-top: 16px;
+}
+.fqi {
+background: var(--wh);
+border: 1px solid var(--g200);
+border-left: 4px solid var(--pr);
+border-radius: 0 10px 10px 0;
+}
+.fqi-q {
+font-size: 15px;
+font-weight: 700;
+color: var(--pr);
+padding: 14px 18px 8px;
+line-height: 1.4;
+}
+.fqi-a {
+font-size: 14px;
+color: var(--g600);
+line-height: 1.7;
+padding: 0 18px 14px;
+}
+.fq-lnk {
+color: var(--pr);
+font-weight: 600;
+text-decoration: underline;
+}
+.final-cta-blk {
+background: var(--pr);
+border-radius: 16px;
+padding: 32px;
+margin-top: 10px;
+}
+.final-cta-blk h2 {
+font-size: 20px;
+font-weight: 800;
+color: var(--wh);
+line-height: 1.3;
+margin-bottom: 10px;
+}
+.final-cta-blk p {
+font-size: 15px;
+color: rgba(255,255,255,0.72);
+line-height: 1.65;
+margin-bottom: 22px;
+}
+@media (max-width: 992px) {
+.os-divider { display: none; }
+.os-item { flex: 1 1 44%; }
+.tc-card { flex: 1 1 100%; }
+.fg-card { flex: 1 1 44%; }
+.cta-mid { padding: 24px 24px; }
+.hero-blk { padding: 24px; }
+.final-cta-blk { padding: 24px; }
+}
+@media (max-width: 768px) {
+.hero-blk { padding: 20px 16px; border-radius: 12px; }
+.hb-title { font-size: 20px; }
+.sh2 { font-size: 19px; }
+.fg-card { flex: 1 1 100%; }
+.cta-mid { padding: 20px 16px; border-radius: 12px; }
+.final-cta-blk { padding: 20px 16px; border-radius: 12px; }
+.salt-sect { padding: 20px 16px; }
+.fqi-q { font-size: 14px; }
+}
+@media (max-width: 428px) {
+.hero-blk { padding: 16px 12px; }
+.hb-title { font-size: 17px; }
+.sh2 { font-size: 17px; }
+.hb-cta { flex-direction: column; align-items: stretch; }
+.cta-btns { flex-direction: column; align-items: stretch; }
+.btn-primary, .btn-outline, .btn-outline-gold { text-align: center; }
+.cta-mid { padding: 16px 12px; }
+.final-cta-blk { padding: 16px 12px; }
+.salt-sect { padding: 16px 12px; }
+.outcome-strip { padding: 16px 12px; }
+.fqi-q { padding: 12px 14px 8px; }
+.fqi-a { padding: 0 14px 12px; }
+.os-item { flex: 1 1 100%; }
+}
+@media (max-width: 375px) {
+.hb-title { font-size: 16px; }
+.sh2 { font-size: 16px; }
+.sp { font-size: 14px; }
+}
+@media (max-width: 320px) {
+.hb-title { font-size: 15px; }
+.sh2 { font-size: 15px; }
+.btn-primary, .btn-outline, .btn-outline-gold { font-size: 13px; padding: 10px 14px; }
+}
+</style>

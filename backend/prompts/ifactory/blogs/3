@@ -1,0 +1,744 @@
+<p>A body-in-white passes through more than four thousand spot welds before it ever reaches the paint shop, and every
+    one of those welds is a small opportunity for electrode wear, misaligned tip dress timing, or a weld schedule that
+    drifted slightly out of tune. Body shop engineers have traditionally managed this through fixed maintenance
+    intervals and periodic destructive testing, which either over-services healthy weld guns or misses a gun that's
+    degrading faster than the schedule assumes. AI-driven weld optimization tracks every weld gun's performance in real
+    time, tunes schedules automatically, and predicts electrode wear before it produces an undersized nugget. Body shop
+    engineers can <a href="https://calendly.com/contact-ifactoryapp/30min">book a demo</a> to see weld quality
+    monitoring running across a live production cell.</p>
+<div class="bsw-hero">
+    <div class="bsw-hero-eyebrow">BODY SHOP · AI ROBOTIC WELDING OPTIMIZATION</div>
+    <div class="bsw-hero-title">Every Spot Weld, Monitored and Tuned in Real Time</div>
+    <div class="bsw-hero-text">AI-driven welding optimization tunes weld schedules, times tip dress intervals, and
+        predicts electrode wear across every gun on the line, protecting body-in-white quality without slowing
+        throughput.</div>
+    <div class="bsw-hero-btns">
+        <a href="https://calendly.com/contact-ifactoryapp/30min" class="bsw-btn-fill">Book a Demo</a>
+        <a href="https://ifactoryapp.com/support" class="bsw-btn-ghost">Contact Support</a>
+    </div>
+</div>
+<div class="bsw-stats-row">
+    <div class="bsw-stat-box">
+        <div class="bsw-stat-num">4,000+</div>
+        <div class="bsw-stat-label">Spot welds monitored per body-in-white across a typical automotive body shop</div>
+    </div>
+    <div class="bsw-stat-box">
+        <div class="bsw-stat-num">Live</div>
+        <div class="bsw-stat-label">Weld current, voltage, and electrode force tracked on every single weld cycle</div>
+    </div>
+    <div class="bsw-stat-box">
+        <div class="bsw-stat-num">Predictive</div>
+        <div class="bsw-stat-label">Electrode wear forecast ahead of tip dress schedule to prevent undersized nuggets
+        </div>
+    </div>
+</div>
+<div class="bsw-section">
+    <div class="bsw-h2">Why Fixed Tip Dress Schedules Leave Quality Gaps</div>
+    <div class="bsw-text">A fixed tip dress interval assumes every electrode wears at the same rate, but material
+        thickness variation, gun angle, and even ambient conditions all change how fast a tip actually degrades.
+        Dressing too early wastes consumables and cycle time; dressing too late risks an undersized nugget that passes
+        visually but fails a peel test months later. AI weld monitoring tracks the actual electrical signature of each
+        weld cycle, so tip dress timing adjusts to real wear instead of a calendar assumption.</div>
+</div>
+<div class="bsw-metric-bars">
+    <div class="bsw-metric-row">
+        <div class="bsw-metric-label">Fixed-Interval Tip Dressing</div>
+        <div class="bsw-metric-track">
+            <div class="bsw-metric-fill bsw-metric-100"><br />
+            </div>
+        </div>
+        <div class="bsw-metric-value">Baseline</div>
+    </div>
+    <div class="bsw-metric-row">
+        <div class="bsw-metric-label">Condition-Based Tip Dressing</div>
+        <div class="bsw-metric-track">
+            <div class="bsw-metric-fill bsw-metric-62"><br />
+            </div>
+        </div>
+        <div class="bsw-metric-value">-38% Consumable Use</div>
+    </div>
+    <div class="bsw-metric-row">
+        <div class="bsw-metric-label">AI-Predicted Tip Dressing</div>
+        <div class="bsw-metric-track">
+            <div class="bsw-metric-fill bsw-metric-40"><br />
+            </div>
+        </div>
+        <div class="bsw-metric-value">-60% Undersized Nuggets</div>
+    </div>
+</div>
+<div class="bsw-metric-caption">Relative consumable use and undersized nugget rate by tip dress strategy, based on body
+    shop benchmark data</div>
+<div class="bsw-cta-banner">
+    <div class="bsw-cta-left">
+        <div class="bsw-cta-eyebrow">BODY SHOP · AI WELDING OPTIMIZATION</div>
+        <div class="bsw-cta-headline">See Weld Quality Monitoring on Your Own Cell</div>
+        <div class="bsw-cta-sub">Get a live walkthrough of AI-driven weld schedule tuning and electrode wear prediction
+            on your production line.</div>
+    </div>
+    <div class="bsw-cta-btns">
+        <a href="https://calendly.com/contact-ifactoryapp/30min" class="bsw-btn-fill">Book a Demo</a>
+        <a href="https://ifactoryapp.com/support" class="bsw-btn-ghost">Contact Support</a>
+    </div>
+</div>
+<div class="bsw-section">
+    <div class="bsw-h2">What Gets Monitored on Every Weld Gun</div>
+    <div class="bsw-process-list">
+        <div class="bsw-process-row">
+            <div class="bsw-process-marker">1</div>
+            <div class="bsw-process-content">
+                <div class="bsw-process-title">Weld Current &amp; Voltage Signature</div>
+                <div class="bsw-process-text">Every weld cycle's electrical signature is captured and compared against
+                    the expected profile for that joint configuration.</div>
+            </div>
+        </div>
+        <div class="bsw-process-row">
+            <div class="bsw-process-marker">2</div>
+            <div class="bsw-process-content">
+                <div class="bsw-process-title">Electrode Force Consistency</div>
+                <div class="bsw-process-text">Force tracking flags guns drifting outside acceptable pressure range
+                    before it affects nugget formation.</div>
+            </div>
+        </div>
+        <div class="bsw-process-row">
+            <div class="bsw-process-marker">3</div>
+            <div class="bsw-process-content">
+                <div class="bsw-process-title">Tip Wear Trend Analysis</div>
+                <div class="bsw-process-text">Cumulative weld count and electrical drift patterns predict remaining
+                    electrode life ahead of failure.</div>
+            </div>
+        </div>
+        <div class="bsw-process-row">
+            <div class="bsw-process-marker">4</div>
+            <div class="bsw-process-content">
+                <div class="bsw-process-title">Weld Schedule Auto-Tuning</div>
+                <div class="bsw-process-text">Schedules adjust automatically within approved process windows to
+                    compensate for material and gun variation.</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bsw-section">
+    <div class="bsw-h2">What Body Shop Managers Are Saying</div>
+    <div class="bsw-quote-card">
+        <div class="bsw-quote-text">We used to schedule tip dress by shift count, full stop, no matter what the data
+            showed. Now we get an alert when a specific gun is actually drifting, and the destructive test failures on
+            that gun's welds have dropped noticeably since we switched over. Our tooling budget has room to breathe for
+            the first time in years.</div>
+        <div class="bsw-quote-cite">Body Shop Manager, Automotive OEM Assembly Plant</div>
+    </div>
+</div>
+<div class="bsw-section">
+    <div class="bsw-h2">Where the Cost Savings Actually Come From</div>
+    <div class="bsw-text">Body shop managers tend to focus tip dress optimization purely on consumable spend, but the
+        bigger line item is usually unplanned downtime avoided. A gun that fails mid-shift because a tip wore out faster
+        than the schedule assumed forces a changeover that stops the cell, not just that one station, and cascading
+        stoppages on a synchronized body line are far more expensive than the consumable itself. Predictive tip dress
+        timing converts those unplanned stops into planned changeovers scheduled during natural line gaps, which
+        protects throughput in a way that raw consumable savings numbers alone don't capture. Combined with fewer
+        destructive test failures and less rework on marginal welds, the total cost impact typically runs well beyond
+        the electrode budget line.</div>
+</div>
+<div class="bsw-section">
+    <div class="bsw-h2">Signs Your Body Shop Is Ready for This</div>
+    <div class="bsw-text">Not every body shop needs to start with a full-line rollout, and knowing where your biggest
+        exposure sits helps target the pilot cell for the fastest payoff. Shops running high-mix production with
+        frequent gauge and material changes tend to see the largest gains first, since fixed schedules struggle hardest
+        under that kind of variability. Shops with a documented history of destructive test failures or NVH-related
+        warranty claims traced back to specific weld guns also make strong pilot candidates, since the connection
+        between weld data and downstream cost is already established.</div>
+    <div class="bsw-check-list">
+        <div class="bsw-check-row">
+            <div class="bsw-check-title">High-Mix Production Schedules</div>
+            <div class="bsw-check-text">Frequent material or gauge changes make fixed tip dress intervals especially
+                inaccurate.</div>
+        </div>
+        <div class="bsw-check-row">
+            <div class="bsw-check-title">Documented Destructive Test Failures</div>
+            <div class="bsw-check-text">A known pattern of test failures on specific guns points to a strong pilot
+                candidate.</div>
+        </div>
+        <div class="bsw-check-row">
+            <div class="bsw-check-title">Modern Weld Controllers Installed</div>
+            <div class="bsw-check-text">Digital output from existing controllers speeds up initial data integration
+                considerably.</div>
+        </div>
+    </div>
+</div>
+<div class="bsw-section">
+    <div class="bsw-h2">Frequently Asked Questions</div>
+    <div class="bsw-faq-list">
+        <div class="bsw-faq-item">
+            <input type="checkbox" id="bsw-faq-1" class="bsw-faq-toggle" />
+            <label for="bsw-faq-1" class="bsw-faq-q">Does this require replacing our existing weld controllers?</label>
+            <div class="bsw-faq-a">No, the monitoring system typically connects to the data output already produced by
+                modern weld controllers, reading current, voltage, and force signals without requiring a controller
+                replacement. For older analog controllers without digital output, a retrofit sensor kit can capture
+                equivalent data during the pilot phase. A quick equipment audit during rollout determines exactly what
+                each gun needs before any commitment is made, and specifics can be reviewed through <a
+                    href="https://calendly.com/contact-ifactoryapp/30min">book a demo</a>.</div>
+        </div>
+        <div class="bsw-faq-item">
+            <input type="checkbox" id="bsw-faq-2" class="bsw-faq-toggle" />
+            <label for="bsw-faq-2" class="bsw-faq-q">How does weld schedule auto-tuning stay within our approved process
+                window?</label>
+            <div class="bsw-faq-a">Auto-tuning operates strictly within the process parameters already approved in your
+                weld schedule documentation, making only small adjustments within that validated window rather than
+                introducing new, unvalidated settings. Any adjustment outside the approved range requires manual
+                engineering sign-off, so process control ownership stays with your team at all times. This keeps the
+                system compliant with existing PPAP and process validation requirements.</div>
+        </div>
+        <div class="bsw-faq-item">
+            <input type="checkbox" id="bsw-faq-3" class="bsw-faq-toggle" />
+            <label for="bsw-faq-3" class="bsw-faq-q">How far in advance can electrode wear actually be
+                predicted?</label>
+            <div class="bsw-faq-a">Depending on the weld application and material stack, electrode wear trends typically
+                become detectable hundreds of weld cycles before the tip would produce an out-of-spec nugget, giving
+                enough lead time to schedule tip dress or replacement during a planned changeover rather than as an
+                unplanned stop. Prediction accuracy improves over the first several weeks of monitoring as the model
+                learns the specific wear pattern for each gun and application.</div>
+        </div>
+        <div class="bsw-faq-item">
+            <input type="checkbox" id="bsw-faq-4" class="bsw-faq-toggle" />
+            <label for="bsw-faq-4" class="bsw-faq-q">Can this reduce our destructive weld testing sample size?</label>
+            <div class="bsw-faq-a">Many body shops use continuous electrical signature monitoring as supporting evidence
+                alongside their existing destructive test program, and some are able to work with their quality system
+                to adjust sampling frequency once monitoring has demonstrated consistent correlation with test results.
+                This is a plant-specific decision that typically involves your quality engineering team, and questions
+                on how other customers have approached it can be directed to <a
+                    href="https://ifactoryapp.com/support">support</a>.</div>
+        </div>
+    </div>
+    <div class="bsw-faq-item">
+        <input type="checkbox" id="bsw-faq-5" class="bsw-faq-toggle" />
+        <label for="bsw-faq-5" class="bsw-faq-q">How much of the savings comes from avoided downtime versus consumable
+            cost?</label>
+        <div class="bsw-faq-a">For most body shops, avoided unplanned downtime from converting reactive tip failures
+            into planned changeovers ends up being a larger contributor to total savings than the direct consumable cost
+            reduction, since a single mid-shift gun failure on a synchronized line can stop far more than just that one
+            station. Consumable savings are easier to measure and often quoted first, but the throughput protection
+            tends to be the larger number once a plant tracks both over a full quarter. A cost breakdown specific to
+            your cell layout can be built during a <a href="https://calendly.com/contact-ifactoryapp/30min">demo</a>.
+        </div>
+    </div>
+</div>
+<div class="bsw-cta-banner">
+    <div class="bsw-cta-left">
+        <div class="bsw-cta-eyebrow">BODY SHOP · AI WELDING OPTIMIZATION</div>
+        <div class="bsw-cta-headline">Protect Weld Quality Without Slowing the Line</div>
+        <div class="bsw-cta-sub">Get a personalized walkthrough of AI weld monitoring running against your own guns and
+            schedules.</div>
+    </div>
+    <div class="bsw-cta-btns">
+        <a href="https://calendly.com/contact-ifactoryapp/30min" class="bsw-btn-fill">Book a Demo</a>
+        <a href="https://ifactoryapp.com/support" class="bsw-btn-ghost">Contact Support</a>
+    </div>
+</div>
+<style>
+    .bsw-text {
+        font-size: 16px;
+        line-height: 1.75;
+        color: #1e293b;
+        margin-bottom: 12px
+    }
+
+    .bsw-h2 {
+        font-size: 22px;
+        color: #1a1a2e;
+        margin-bottom: 10px;
+        line-height: 1.35;
+        font-weight: 700
+    }
+
+    .bsw-section {
+        margin: 0 0 24px 0;
+        padding: 20px 18px;
+        background: #faf9ff;
+        border-radius: 14px;
+        box-sizing: border-box
+    }
+
+    .bsw-hero {
+        margin: 20px 0;
+        padding: 20px 18px;
+        background: #605dba;
+        border-radius: 16px;
+        box-sizing: border-box
+    }
+
+    .bsw-hero-eyebrow {
+        font-size: 14px;
+        font-weight: 700;
+        color: rgba(255, 255, 255, 0.75);
+        letter-spacing: 0.08em;
+        margin-bottom: 10px
+    }
+
+    .bsw-hero-title {
+        font-size: 24px;
+        font-weight: 800;
+        color: #fff;
+        line-height: 1.32;
+        margin-bottom: 10px
+    }
+
+    .bsw-hero-text {
+        font-size: 15px;
+        color: rgba(255, 255, 255, 0.9);
+        line-height: 1.7;
+        margin-bottom: 16px
+    }
+
+    .bsw-hero-btns {
+        display: flex;
+        gap: 12px;
+        box-sizing: border-box
+    }
+
+    .bsw-btn-fill {
+        display: block;
+        background: #fff;
+        color: #4a47a3;
+        padding: 13px 20px;
+        border-radius: 10px;
+        font-size: 15px;
+        font-weight: 700;
+        text-align: center;
+        transition: background 0.2s, transform 0.15s, box-shadow 0.2s
+    }
+
+    .bsw-btn-fill:hover {
+        background: #ede9ff;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18)
+    }
+
+    .bsw-btn-ghost {
+        display: block;
+        background: transparent;
+        color: #fff;
+        padding: 11px 20px;
+        border-radius: 10px;
+        font-size: 15px;
+        font-weight: 700;
+        text-align: center;
+        border: 2px solid rgba(255, 255, 255, 0.8);
+        transition: background 0.2s, transform 0.15s
+    }
+
+    .bsw-btn-ghost:hover {
+        background: #fff;
+        transform: translateY(-2px);
+        color: #605dba
+    }
+
+    .bsw-stats-row {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 14px;
+        margin: 0 0 24px 0
+    }
+
+    .bsw-stat-box {
+        background: #f5f4ff;
+        border-radius: 14px;
+        padding: 18px 14px;
+        border-top: 4px solid #605dba;
+        text-align: center;
+        box-sizing: border-box;
+        transition: transform 0.25s, box-shadow 0.25s
+    }
+
+    .bsw-stat-box:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 18px rgba(96, 93, 186, 0.18)
+    }
+
+    .bsw-stat-num {
+        font-size: 24px;
+        font-weight: 800;
+        color: #605dba;
+        margin-bottom: 8px
+    }
+
+    .bsw-stat-label {
+        font-size: 14px;
+        color: #334155;
+        line-height: 1.55
+    }
+
+    .bsw-metric-bars {
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        margin: 16px 0
+    }
+
+    .bsw-metric-row {
+        display: grid;
+        grid-template-columns: 200px 1fr 150px;
+        align-items: center;
+        gap: 12px
+    }
+
+    .bsw-metric-label {
+        font-size: 14px;
+        color: #1e293b;
+        font-weight: 700
+    }
+
+    .bsw-metric-track {
+        background: #e9e7f8;
+        border-radius: 10px;
+        height: 16px;
+        overflow: hidden;
+        box-sizing: border-box
+    }
+
+    .bsw-metric-fill {
+        background: #605dba;
+        height: 100%;
+        border-radius: 10px
+    }
+
+    .bsw-metric-100 {
+        width: 100%
+    }
+
+    .bsw-metric-62 {
+        width: 62%
+    }
+
+    .bsw-metric-40 {
+        width: 40%
+    }
+
+    .bsw-metric-value {
+        font-size: 14px;
+        color: #605dba;
+        font-weight: 700;
+        text-align: right
+    }
+
+    .bsw-metric-caption {
+        font-size: 14px;
+        color: #64748b;
+        margin: 0 0 24px 0
+    }
+
+    .bsw-cta-banner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        background: #605dba;
+        border-radius: 16px;
+        padding: 20px 18px;
+        margin: 0 0 24px 0;
+        flex-wrap: wrap;
+        box-sizing: border-box
+    }
+
+    .bsw-cta-left {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        flex: 1;
+        min-width: 220px
+    }
+
+    .bsw-cta-eyebrow {
+        font-size: 14px;
+        font-weight: 700;
+        color: rgba(255, 255, 255, 0.75);
+        letter-spacing: 0.08em
+    }
+
+    .bsw-cta-headline {
+        font-size: 20px;
+        font-weight: 800;
+        color: #fff;
+        line-height: 1.32
+    }
+
+    .bsw-cta-sub {
+        font-size: 14px;
+        color: rgba(255, 255, 255, 0.9);
+        line-height: 1.6
+    }
+
+    .bsw-cta-btns {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        flex-shrink: 0;
+        min-width: 190px;
+        box-sizing: border-box
+    }
+
+    .bsw-check-list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin: 16px 0
+    }
+
+    .bsw-check-row {
+        background: #fff;
+        border: 1.5px solid #e2e0f5;
+        border-left: 6px solid #605dba;
+        border-radius: 14px;
+        padding: 14px 16px;
+        box-sizing: border-box;
+        transition: border-color 0.25s
+    }
+
+    .bsw-check-row:hover {
+        border-color: #a89fe0
+    }
+
+    .bsw-check-title {
+        font-size: 15px;
+        font-weight: 800;
+        color: #1a1a2e;
+        margin-bottom: 6px
+    }
+
+    .bsw-check-text {
+        font-size: 14px;
+        color: #374151;
+        line-height: 1.6
+    }
+
+    .bsw-process-list {
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        margin: 16px 0
+    }
+
+    .bsw-process-row {
+        display: flex;
+        gap: 14px;
+        align-items: flex-start;
+        background: #fff;
+        border: 1.5px solid #e2e0f5;
+        border-radius: 14px;
+        padding: 14px;
+        box-sizing: border-box;
+        transition: border-color 0.25s
+    }
+
+    .bsw-process-row:hover {
+        border-color: #a89fe0
+    }
+
+    .bsw-process-marker {
+        width: 32px;
+        height: 32px;
+        border-radius: 8px;
+        background: #605dba;
+        color: #fff;
+        font-size: 15px;
+        font-weight: 800;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0
+    }
+
+    .bsw-process-title {
+        font-size: 15px;
+        font-weight: 800;
+        color: #1a1a2e;
+        margin-bottom: 6px
+    }
+
+    .bsw-process-text {
+        font-size: 14px;
+        color: #374151;
+        line-height: 1.6
+    }
+
+    .bsw-quote-card {
+        background: #f5f4ff;
+        border-radius: 14px;
+        padding: 20px 18px;
+        border-left: 6px solid #605dba;
+        box-sizing: border-box
+    }
+
+    .bsw-quote-text {
+        font-size: 16px;
+        line-height: 1.75;
+        color: #1f2937;
+        margin-bottom: 12px
+    }
+
+    .bsw-quote-cite {
+        font-size: 14px;
+        font-weight: 700;
+        color: #605dba
+    }
+
+    .bsw-faq-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin: 16px 0
+    }
+
+    .bsw-faq-item {
+        background: #fff;
+        border-radius: 14px;
+        border: 1.5px solid #e2e0f5;
+        overflow: hidden;
+        box-sizing: border-box;
+        transition: border-color 0.25s
+    }
+
+    .bsw-faq-item:hover {
+        border-color: #a89fe0
+    }
+
+    .bsw-faq-toggle {
+        display: none
+    }
+
+    .bsw-faq-q {
+        display: block;
+        padding: 15px 16px;
+        font-size: 15px;
+        font-weight: 700;
+        color: #3d3a8c;
+        line-height: 1.4;
+        border-left: 6px solid #605dba;
+        box-sizing: border-box
+    }
+
+    .bsw-faq-q:hover {
+        color: #605dba;
+        background: #faf9ff
+    }
+
+    .bsw-faq-a {
+        padding: 10px 16px 16px 22px;
+        box-sizing: border-box;
+        font-size: 14px;
+        color: #334155;
+        line-height: 1.7
+    }
+
+    @media(max-width:1024px) {
+        .bsw-stats-row {
+            grid-template-columns: repeat(2, 1fr)
+        }
+    }
+
+    @media(max-width:768px) {
+        .bsw-cta-banner {
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 18px 16px
+        }
+
+        .bsw-cta-btns {
+            flex-direction: row;
+            width: 100%;
+            min-width: 100%
+        }
+
+        .bsw-btn-fill,
+        .bsw-btn-ghost {
+            flex: 1
+        }
+
+        .bsw-hero-btns {
+            flex-direction: row
+        }
+
+        .bsw-metric-row {
+            grid-template-columns: 150px 1fr 110px
+        }
+    }
+
+    @media(max-width:600px) {
+        .bsw-stats-row {
+            grid-template-columns: 1fr
+        }
+
+        .bsw-cta-btns {
+            flex-direction: column
+        }
+
+        .bsw-hero-btns {
+            flex-direction: column
+        }
+
+        .bsw-hero-title {
+            font-size: 20px
+        }
+
+        .bsw-h2 {
+            font-size: 19px
+        }
+
+        .bsw-metric-row {
+            grid-template-columns: 1fr;
+            gap: 6px
+        }
+
+        .bsw-metric-value {
+            text-align: left
+        }
+    }
+
+    @media(max-width:428px) {
+        .bsw-section {
+            padding: 18px 12px
+        }
+
+        .bsw-hero {
+            padding: 18px 12px
+        }
+
+        .bsw-cta-banner {
+            padding: 16px 12px
+        }
+    }
+
+    @media(max-width:375px) {
+        .bsw-stat-num {
+            font-size: 22px
+        }
+
+        .bsw-hero-title {
+            font-size: 19px
+        }
+
+        .bsw-cta-headline {
+            font-size: 18px
+        }
+    }
+
+    @media(max-width:320px) {
+        .bsw-section {
+            padding: 16px 10px
+        }
+
+        .bsw-hero {
+            padding: 16px 10px
+        }
+
+        .bsw-cta-banner {
+            padding: 14px 10px
+        }
+
+        .bsw-h2 {
+            font-size: 18px
+        }
+
+        .bsw-process-row {
+            padding: 12px
+        }
+    }
+</style>

@@ -55,6 +55,10 @@ document.addEventListener("click", async function (event) {
   const target = event.target;
   
   if (target.className === "fillJson") {
+    if (typeof chrome === "undefined" || !chrome.storage || !chrome.storage.local) {
+      alert("Extension updated: Please completely refresh the page (F5) to continue.");
+      return;
+    }
     chrome.storage.local.get("jsonData", function (result) {
       if (!result.jsonData) {
         showToast("No JSON selected");
@@ -66,6 +70,10 @@ document.addEventListener("click", async function (event) {
 
   // AI Generation functionality
   if (target.id === "btn-generate-fill") {
+    if (typeof chrome === "undefined" || !chrome.storage || !chrome.storage.local) {
+      alert("Extension updated: Please completely refresh the page (F5) to continue.");
+      return;
+    }
     const btn = target;
     chrome.storage.local.get("jsonData", async function (result) {
       if (!result.jsonData) {
@@ -80,22 +88,26 @@ document.addEventListener("click", async function (event) {
       btn.disabled = true;
       
       try {
-        const response = await fetch("http://localhost:3000/generate-page", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ data: result.jsonData, hostname: window.location.hostname })
-        });
-        
-        if (!response.ok) throw new Error("Backend error!");
-        
-        const generatedData = await response.json();
-        autofillForm(generatedData);
-        showToast("✅ Page Generated & Filled Successfully!");
-        
+        chrome.runtime.sendMessage(
+          { action: "generatePage", payload: { data: result.jsonData, hostname: window.location.hostname } },
+          (response) => {
+            if (response && response.success) {
+              autofillForm(response.data);
+              showToast("✅ Page Generated & Filled Successfully!");
+            } else {
+              console.error("AI Generation Error:", response?.error || "Unknown error");
+              showToast("❌ Failed to generate content.");
+            }
+            // Reset button state inside callback
+            btn.innerText = originalText;
+            btn.style.opacity = "1";
+            btn.style.cursor = "pointer";
+            btn.disabled = false;
+          }
+        );
       } catch (error) {
-        console.error("AI Generation Error:", error);
-        showToast("❌ Failed to generate content.");
-      } finally {
+        console.error("Extension Messaging Error:", error);
+        showToast("❌ Extension Error. Please reload page.");
         btn.innerText = originalText;
         btn.style.opacity = "1";
         btn.style.cursor = "pointer";

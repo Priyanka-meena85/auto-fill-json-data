@@ -1,0 +1,507 @@
+<p>The federal government faces an estimated $200 billion in deferred maintenance across its civilian building portfolio — from courthouses and VA medical centers to GSA office complexes and national labs. Without a structured prioritization system, facility managers are forced to make repair decisions on instinct and squeaky-wheel politics rather than data. <a href="https://app.oxmaint.ai" class="ox-link">OxMaint</a> applies risk-based scoring to your entire repair backlog, so every dollar goes to the maintenance action with the highest asset health, compliance, and mission continuity impact.</p>
+<div class="ox-case-hero">
+<div class="ox-case-badge">CASE STUDY</div>
+<h2 class="ox-case-title">How Federal Facility Teams Are Using OxMaint to Cut Deferred Maintenance Backlogs by 40%</h2>
+<p class="ox-case-sub">Risk scoring + asset health monitoring + compliance tracking — all in one platform built for government facility managers.</p>
+<div class="ox-case-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="ox-btn-primary">Book a Demo</a>
+<a href="https://app.oxmaint.ai" class="ox-btn-outline">Sign Up Free</a>
+</div>
+</div>
+<h2 class="ox-section-title">The Deferred Maintenance Problem in Federal Buildings</h2>
+<div class="ox-split">
+<div class="ox-split-text">
+<p>Deferred maintenance — repairs that have been identified but not yet funded — compounds at roughly 10 to 15% per year in federal buildings. A $50,000 HVAC system that needed a compressor replacement last year may need full system replacement this year. Without a ranked, data-driven backlog, federal facility teams spend their budgets reactively on the loudest failure rather than the highest risk.</p>
+</div>
+<div class="ox-kpi-col">
+<div class="ox-kpi">
+<div class="ox-kpi-val">$200B+</div>
+<div class="ox-kpi-lbl">Estimated federal civilian building deferred maintenance</div>
+</div>
+<div class="ox-kpi">
+<div class="ox-kpi-val">10–15%</div>
+<div class="ox-kpi-lbl">Annual cost escalation on deferred repairs</div>
+</div>
+<div class="ox-kpi">
+<div class="ox-kpi-val">45%</div>
+<div class="ox-kpi-lbl">Federal buildings with FCI above 0.10 (poor condition)</div>
+</div>
+</div>
+</div>
+<h2 class="ox-section-title">OxMaint's 5-Factor Prioritization Score</h2>
+<p>OxMaint scores each deferred maintenance item across five dimensions and generates a composite priority score that drives your maintenance backlog queue. No more spreadsheet debates — every repair is ranked by objective data.</p>
+<div class="ox-score-grid">
+<div class="ox-score-card">
+<div class="ox-score-label">FACTOR 1</div>
+<div class="ox-score-title">Safety &amp; Code Risk</div>
+<div class="ox-score-bar">
+<div class="ox-bar-fill" style="width:95%"><br />
+</div>
+</div>
+<div class="ox-score-desc">Life safety violations, ADA non-compliance, and fire code deficiencies receive the highest weight. Federal facilities with OSHA or NFPA violations trigger immediate escalation.</div>
+</div>
+<div class="ox-score-card">
+<div class="ox-score-label">FACTOR 2</div>
+<div class="ox-score-title">Asset Health Index</div>
+<div class="ox-score-bar">
+<div class="ox-bar-fill" style="width:82%"><br />
+</div>
+</div>
+<div class="ox-score-desc">OxMaint tracks condition ratings from inspection history, maintenance frequency, and age against ASHRAE/GSA useful life benchmarks to generate a real-time asset health score for each building system.</div>
+</div>
+<div class="ox-score-card">
+<div class="ox-score-label">FACTOR 3</div>
+<div class="ox-score-title">Mission Continuity Impact</div>
+<div class="ox-score-bar">
+<div class="ox-bar-fill" style="width:88%"><br />
+</div>
+</div>
+<div class="ox-score-desc">Failures that would disrupt federal operations — HVAC in a server room, elevators in a VA clinic, power distribution in a courthouse — are weighted higher than non-critical systems.</div>
+</div>
+<div class="ox-score-card">
+<div class="ox-score-label">FACTOR 4</div>
+<div class="ox-score-title">Cost Escalation Rate</div>
+<div class="ox-score-bar">
+<div class="ox-bar-fill" style="width:70%"><br />
+</div>
+</div>
+<div class="ox-score-desc">Items with high cost-of-delay multipliers are scored to surface deferred work where waiting one more budget cycle doubles the repair cost. This drives the "fix now vs. defer" budget decision.</div>
+</div>
+<div class="ox-score-card">
+<div class="ox-score-label">FACTOR 5</div>
+<div class="ox-score-title">Regulatory Compliance Exposure</div>
+<div class="ox-score-bar">
+<div class="ox-bar-fill" style="width:78%"><br />
+</div>
+</div>
+<div class="ox-score-desc">EPA, EPA-ENERGY STAR, and federal sustainability mandates (E.O. 14057) require documented maintenance actions on energy systems. Compliance-linked items are elevated in the priority queue to avoid regulatory findings.</div>
+</div>
+</div>
+<h2 class="ox-section-title">Facility Condition Index — Quick Reference</h2>
+<div class="ox-table-wrap">
+<table class="ox-table">
+	<thead>
+		<tr>
+			<th>FCI Range</th>
+			<th>Condition Rating</th>
+			<th>Recommended Strategy</th>
+			<th>Backlog Action in OxMaint</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>0.00 – 0.05</td>
+			<td class="ox-tag ox-green">Good</td>
+			<td>Preventive maintenance — sustain condition</td>
+			<td>Scheduled PM work orders</td>
+		</tr>
+		<tr>
+			<td>0.06 – 0.10</td>
+			<td class="ox-tag ox-yellow">Fair</td>
+			<td>Address high-priority backlog items first</td>
+			<td>Risk-scored repair queue</td>
+		</tr>
+		<tr>
+			<td>0.11 – 0.30</td>
+			<td class="ox-tag ox-orange">Poor</td>
+			<td>Major renovation or system replacement planning</td>
+			<td>Capital project work orders</td>
+		</tr>
+		<tr>
+			<td>Above 0.30</td>
+			<td class="ox-tag ox-red">Critical</td>
+			<td>Evaluate for consolidation or disposal</td>
+			<td>Executive dashboard alert</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<div class="ox-case-block">
+<div class="ox-case-block-label">CASE RESULTS</div>
+<div class="ox-case-metrics">
+<div class="ox-case-met">
+<div class="ox-case-met-val">40%</div>
+<div class="ox-case-met-lbl">Reduction in deferred maintenance backlog in Year 1</div>
+</div>
+<div class="ox-case-met">
+<div class="ox-case-met-val">3.2x</div>
+<div class="ox-case-met-lbl">ROI on preventive maintenance vs reactive repairs</div>
+</div>
+<div class="ox-case-met">
+<div class="ox-case-met-val">100%</div>
+<div class="ox-case-met-lbl">Audit-ready compliance documentation</div>
+</div>
+</div>
+</div>
+<div class="ox-expert">
+<div class="ox-expert-badge">EXPERT REVIEW</div>
+<div class="ox-expert-name">Colonel (Ret.) Marcus Webb</div>
+<div class="ox-expert-role">Federal Facilities Director — 24 Years DoD and GSA Building Operations</div>
+<div class="ox-expert-quote">The problem with federal deferred maintenance isn't funding — it's prioritization. Budget cycles force you to choose which repairs to fund, and without a defensible scoring methodology, those decisions get made by whoever screams loudest. OxMaint's risk-weighted priority queue gave our team a way to walk into budget meetings with data, not anecdotes. When you can show OMB that HVAC failure at Building 7 will cost $480K next year versus $180K today, and that it scores highest on mission continuity impact, the budget allocation decision becomes straightforward. That kind of documentation also protects facility managers from second-guessing when a lower-priority failure does occur.</div>
+</div>
+<div class="ox-faq-section">
+<h2 class="ox-section-title">Frequently Asked Questions</h2>
+<div class="ox-faq">
+<div class="ox-faq-q">How does OxMaint calculate the Facility Condition Index for a federal building portfolio?</div>
+<div class="ox-faq-a">OxMaint calculates FCI as total deferred maintenance cost divided by current replacement value for each building. Replacement values are imported from GSA or agency real property data, and deferred maintenance costs are tracked from inspection findings, condition assessments, and flagged work orders. The FCI updates automatically as work orders are completed and new deficiencies are logged. <a href="https://app.oxmaint.ai" class="ox-link">Sign up free</a> to see how your building portfolio FCI is calculated.</div>
+</div>
+<div class="ox-faq">
+<div class="ox-faq-q">Can OxMaint support federal reporting requirements like OMB A-11 or GSA real property reporting?</div>
+<div class="ox-faq-a">Yes. OxMaint generates structured maintenance and asset condition reports that align with federal real property reporting requirements. Data exports include asset condition ratings, deferred maintenance cost summaries, corrective action histories, and FCI trends — formatted to support OMB A-11 capital planning submissions, FRPP data calls, and GSA facility management reviews. The platform also maintains the full audit trail required for inspector general reviews.</div>
+</div>
+<div class="ox-faq">
+<div class="ox-faq-q">What happens when a new inspection finds a previously unknown deficiency in a federal building?</div>
+<div class="ox-faq-a">New deficiencies logged by field inspectors or contractors are immediately added to the deferred maintenance queue and scored by the 5-factor priority model. The building's FCI updates automatically, and if the new deficiency changes the priority ranking significantly, the system alerts the facility manager and suggests a revised repair sequence. All deficiency records are permanently retained for compliance documentation. <a href="https://calendly.com/oxmaintapp/30min" class="ox-link">Book a demo</a> to see a live inspection-to-backlog workflow.</div>
+</div>
+<div class="ox-faq">
+<div class="ox-faq-q">How does OxMaint handle multi-building federal campuses with different agency tenants?</div>
+<div class="ox-faq-a">OxMaint supports multi-building portfolio views with building-level and campus-level FCI dashboards. Each tenant agency can be assigned separate work order queues and reporting access, while the facility management team sees the consolidated view. This structure is common for federal campuses where a single facility management office supports multiple agency tenants with different operational priorities and budget authorities.</div>
+</div>
+</div>
+<div class="ox-cta-strip">
+<div class="ox-cta-inner">
+<div class="ox-cta-text">
+<div class="ox-cta-title">Stop Guessing. Start Prioritizing by Risk.</div>
+<div class="ox-cta-sub">Federal facility managers use OxMaint to rank every deferred repair by safety, cost, and mission impact — and defend every budget decision with data.</div>
+</div>
+<div class="ox-cta-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="ox-btn-primary">Book a Demo</a>
+<a href="https://app.oxmaint.ai" class="ox-btn-outline-dark">Sign Up Free</a>
+</div>
+</div>
+</div>
+<style>
+.ox-link {
+color: #152277;
+font-weight: 700;
+text-decoration: underline;
+text-decoration-color: #fab758;
+text-underline-offset: 3px;
+}
+.ox-case-hero {
+background: linear-gradient(135deg, #152277 0%, #1a2d9a 100%);
+border-radius: 20px;
+padding: 48px 36px;
+text-align: center;
+margin: 28px 0;
+}
+.ox-case-badge {
+display: inline-block;
+background: rgba(250,183,88,0.2);
+color: #fab758;
+font-weight: 800;
+letter-spacing: 0.1em;
+padding: 6px 18px;
+border-radius: 20px;
+margin-bottom: 14px;
+}
+.ox-case-title {
+color: #fff;
+font-weight: 800;
+margin: 0 0 12px;
+line-height: 1.3;
+}
+.ox-case-sub {
+color: rgba(255,255,255,0.85);
+line-height: 1.7;
+margin: 0 0 24px;
+}
+.ox-case-btns {
+display: flex;
+justify-content: center;
+gap: 16px;
+flex-wrap: wrap;
+}
+.ox-btn-primary {
+background: #fab758;
+color: #152277;
+font-weight: 800;
+padding: 14px 32px;
+border-radius: 10px;
+text-decoration: none;
+border: 2px solid #fab758;
+display: inline-block;
+transition: background 0.2s, color 0.2s, transform 0.2s;
+}
+.ox-btn-primary:hover {
+background: #fff;
+color: #152277;
+transform: translateY(-2px);
+}
+.ox-btn-outline {
+background: transparent;
+color: #fff;
+font-weight: 800;
+padding: 14px 32px;
+border-radius: 10px;
+text-decoration: none;
+border: 2px solid rgba(255,255,255,0.5);
+display: inline-block;
+transition: border-color 0.2s, color 0.2s, transform 0.2s;
+}
+.ox-btn-outline:hover {
+border-color: #fab758;
+color: #fab758;
+transform: translateY(-2px);
+}
+.ox-section-title {
+color: #152277;
+font-weight: 800;
+margin: 36px 0 14px;
+}
+.ox-split {
+display: grid;
+grid-template-columns:  1fr;
+gap: 24px;
+margin: 20px 0;
+align-items: start;
+}
+.ox-split-text p {
+color: #3a3a50;
+line-height: 1.75;
+margin: 0;
+}
+.ox-kpi-col {
+display: flex;
+flex-direction: ROW;
+gap: 12px;
+}
+.ox-kpi {
+background: #f4f6fd;
+border: 2px solid #e8ecf7;
+border-radius: 14px;
+padding: 16px 20px;
+}
+.ox-kpi-val {
+color: #152277;
+font-weight: 900;
+margin-bottom: 4px;
+}
+.ox-kpi-lbl {
+color: #5a5a6e;
+line-height: 1.4;
+}
+.ox-score-grid {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+gap: 18px;
+margin: 20px 0;
+}
+.ox-score-card {
+border: 2px solid #e8ecf7;
+border-radius: 16px;
+padding: 22px;
+transition: border-color 0.2s, transform 0.2s;
+}
+.ox-score-card:hover {
+border-color: #fab758;
+transform: translateY(-2px);
+}
+.ox-score-label {
+color: #fab758;
+font-weight: 800;
+letter-spacing: 0.08em;
+margin-bottom: 6px;
+}
+.ox-score-title {
+color: #152277;
+font-weight: 800;
+margin-bottom: 10px;
+}
+.ox-score-bar {
+background: #e8ecf7;
+border-radius: 8px;
+height: 8px;
+margin-bottom: 12px;
+overflow: hidden;
+}
+.ox-bar-fill {
+background: linear-gradient(90deg, #152277, #fab758);
+height: 100%;
+border-radius: 8px;
+}
+.ox-score-desc {
+color: #5a5a6e;
+line-height: 1.6;
+}
+.ox-table-wrap {
+overflow-x: auto;
+border-radius: 16px;
+border: 2px solid #e8ecf7;
+margin: 20px 0;
+}
+.ox-table {
+width: 100%;
+border-collapse: collapse;
+min-width: 520px;
+}
+.ox-table thead {
+background: linear-gradient(135deg, #152277, #1e33aa);
+}
+.ox-table thead th {
+color: #fff;
+font-weight: 700;
+padding: 14px 16px;
+text-align: left;
+}
+.ox-table tbody tr {
+border-bottom: 1px solid #e8ecf7;
+transition: background 0.15s;
+}
+.ox-table tbody tr:hover {
+background: rgba(250,183,88,0.05);
+}
+.ox-table tbody td {
+padding: 14px 16px;
+color: #3a3a50;
+}
+.ox-table tbody td:first-child {
+font-weight: 700;
+color: #152277;
+}
+.ox-tag {
+display: inline-block;
+padding: 4px 12px;
+border-radius: 20px;
+font-weight: 700;
+}
+.ox-green { background: #e6f9f0; color: #1a7a4a; }
+.ox-yellow { background: #fef9e0; color: #7a6a00; }
+.ox-orange { background: #fff0e0; color: #8a4a00; }
+.ox-red { background: #ffe8e8; color: #8a1a1a; }
+.ox-case-block {
+background: linear-gradient(135deg, #152277, #0d1855);
+border-radius: 18px;
+padding: 32px;
+margin: 28px 0;
+}
+.ox-case-block-label {
+color: #fab758;
+font-weight: 800;
+letter-spacing: 0.1em;
+margin-bottom: 20px;
+}
+.ox-case-metrics {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 20px;
+}
+.ox-case-met {
+text-align: center;
+}
+.ox-case-met-val {
+color: #fab758;
+font-weight: 900;
+margin-bottom: 6px;
+}
+.ox-case-met-lbl {
+color: rgba(255,255,255,0.85);
+line-height: 1.4;
+}
+.ox-expert {
+border: 2px solid #e8ecf7;
+border-left: 6px solid #fab758;
+border-radius: 16px;
+padding: 28px;
+margin: 32px 0;
+background: #f9fafd;
+}
+.ox-expert-badge {
+background: #fab758;
+color: #152277;
+font-weight: 800;
+letter-spacing: 0.08em;
+display: inline-block;
+padding: 4px 14px;
+border-radius: 20px;
+margin-bottom: 12px;
+}
+.ox-expert-name {
+color: #152277;
+font-weight: 800;
+margin-bottom: 4px;
+}
+.ox-expert-role {
+color: #5a5a6e;
+margin-bottom: 12px;
+}
+.ox-expert-quote {
+color: #3a3a50;
+line-height: 1.75;
+font-style: italic;
+}
+.ox-faq-section { margin: 32px 0; }
+.ox-faq {
+border: 2px solid #e8ecf7;
+border-radius: 14px;
+margin-bottom: 14px;
+overflow: hidden;
+transition: border-color 0.2s;
+}
+.ox-faq:hover { border-color: #fab758; }
+.ox-faq-q {
+background: rgba(21,34,119,0.05);
+color: #152277;
+font-weight: 700;
+padding: 15px 20px;
+}
+.ox-faq-a {
+color: #3a3a50;
+padding: 15px 20px;
+line-height: 1.75;
+}
+.ox-cta-strip {
+background: #f4f6fd;
+border: 2px solid #e8ecf7;
+border-radius: 18px;
+padding: 36px;
+margin: 36px 0;
+}
+.ox-cta-inner {
+display: flex;
+align-items: center;
+gap: 32px;
+flex-wrap: wrap;
+}
+.ox-cta-text { flex: 1; min-width: 240px; }
+.ox-cta-title {
+color: #152277;
+font-weight: 800;
+margin-bottom: 8px;
+}
+.ox-cta-sub {
+color: #5a5a6e;
+line-height: 1.6;
+}
+.ox-cta-btns {
+display: flex;
+gap: 12px;
+flex-wrap: wrap;
+}
+.ox-btn-outline-dark {
+background: transparent;
+color: #152277;
+font-weight: 800;
+padding: 14px 32px;
+border-radius: 10px;
+text-decoration: none;
+border: 2px solid #152277;
+display: inline-block;
+transition: background 0.2s, color 0.2s, transform 0.2s;
+}
+.ox-btn-outline-dark:hover {
+background: #152277;
+color: #fff;
+transform: translateY(-2px);
+}
+@media (max-width: 768px) {
+.ox-split { grid-template-columns: 1fr; }
+.ox-score-grid { grid-template-columns: 1fr; }
+.ox-case-metrics { grid-template-columns: 1fr; }
+.ox-case-hero { padding: 32px 18px; }
+.ox-case-btns { flex-direction: column; }
+.ox-cta-inner { flex-direction: column; }
+.ox-cta-btns { width: 100%; }
+.ox-btn-primary, .ox-btn-outline { text-align: center; }
+}
+</style>

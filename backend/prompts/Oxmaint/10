@@ -1,0 +1,532 @@
+<p class="rs-intro">The 11th Edition of the MUTCD became the national standard on January 18, 2024, with states required to fully adopt it by January 18, 2026. Every municipality with road maintenance responsibilities — from township highway departments managing 200 signs to city public works departments managing 50,000 — is legally obligated under 23 CFR 655.601 to use an approved assessment or management method that maintains traffic sign retroreflectivity at or above FHWA minimum levels. A sign assessment and management programme has been a federal requirement since June 2014 for regulatory and warning signs, and since January 2018 for street name and overhead guide signs. Despite that timeline, most municipalities still manage sign and signal assets through paper route logs, spreadsheet inventories, and tribal knowledge — systems that cannot demonstrate MUTCD §2A.08 compliance during a federal audit, cannot prioritise replacement budgets objectively, and cannot answer the question a county attorney asks after a night-time crash: "When was that STOP sign last inspected, and what was its retroreflectivity rating?" <a href="https://app.oxmaint.ai/" class="rs-link">OxMaint's asset lifecycle management module</a> gives every sign and signal in the network its own digital record — installation date, retroreflectivity assessment history, maintenance events, condition photos, and replacement schedule — so compliance is a dashboard query, not a document hunt.</p>
+<div class="rs-hero">
+<div class="rs-hero-left">
+<div class="rs-eyebrow">Asset Lifecycle Management · MUTCD Compliance · Transportation Infrastructure</div>
+<div class="rs-h2-hero">Municipal Road Sign and Signal Asset Management</div>
+<p class="rs-hero-sub">MUTCD §2A.08 retroreflectivity compliance. Sign and signal inventory with GPS-confirmed locations. Lifecycle replacement scheduling. Inspection work orders with photo evidence. OxMaint manages every asset in the network from installation to end-of-life — and produces the compliance documentation your legal team needs before the audit arrives.</p>
+<div class="rs-hero-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="rs-btn-primary">Book a Demo</a>
+<a href="https://app.oxmaint.ai/" class="rs-btn-outline">Start Free Trial</a>
+</div>
+</div>
+<div class="rs-hero-right">
+<div class="rs-retro-panel">
+<div class="rs-rp-title">MUTCD §2A.09 — Minimum Retroreflectivity Levels (mcd/lx/m²)</div>
+<div class="rs-retro-rows">
+<div class="rs-rr rs-rr-header">
+<div class="rs-rr-sign">Sign Type</div>
+<div class="rs-rr-white">White</div>
+<div class="rs-rr-yellow">Yellow</div>
+<div class="rs-rr-red">Red</div>
+</div>
+<div class="rs-rr">
+<div class="rs-rr-sign">STOP / Yield (R1)</div>
+<div class="rs-rr-white">50</div>
+<div class="rs-rr-yellow">—</div>
+<div class="rs-rr-red">7</div>
+</div>
+<div class="rs-rr">
+<div class="rs-rr-sign">Regulatory (R)</div>
+<div class="rs-rr-white">50</div>
+<div class="rs-rr-yellow">—</div>
+<div class="rs-rr-red">7</div>
+</div>
+<div class="rs-rr">
+<div class="rs-rr-sign">Warning (W)</div>
+<div class="rs-rr-white">—</div>
+<div class="rs-rr-yellow">50</div>
+<div class="rs-rr-red">—</div>
+</div>
+<div class="rs-rr">
+<div class="rs-rr-sign">Street Name (D3)</div>
+<div class="rs-rr-white">50</div>
+<div class="rs-rr-yellow">—</div>
+<div class="rs-rr-red">—</div>
+</div>
+<div class="rs-rr">
+<div class="rs-rr-sign">Overhead Guide</div>
+<div class="rs-rr-white">25</div>
+<div class="rs-rr-yellow">—</div>
+<div class="rs-rr-red">—</div>
+</div>
+</div>
+<div class="rs-rp-methods">
+<div class="rs-rpm-label">Approved assessment methods:</div>
+<div class="rs-rpm-list">Retroreflectometer · Visual nighttime inspection · Expected sign life (blanket replacement) · Control signs</div>
+</div>
+</div>
+</div>
+</div>
+<div class="rs-stat-strip">
+<div class="rs-stat">
+<div class="rs-stat-n">Jan 2024</div>
+<div class="rs-stat-l">MUTCD 11th Edition effective date — states must fully adopt updated sign and signal standards by January 18, 2026; municipalities with federal-aid roads must comply immediately</div>
+</div>
+<div class="rs-stat">
+<div class="rs-stat-n">June 2014</div>
+<div class="rs-stat-l">Federal deadline for municipal sign assessment programmes — regulatory and warning sign retroreflectivity management has been a legal obligation for over a decade</div>
+</div>
+<div class="rs-stat">
+<div class="rs-stat-n">23 CFR</div>
+<div class="rs-stat-l">655.601 — MUTCD incorporated by reference in federal regulation; non-compliant sign programmes on federal-aid roads expose municipalities to funding liability</div>
+</div>
+<div class="rs-stat">
+<div class="rs-stat-n">7–12 yrs</div>
+<div class="rs-stat-l">Typical expected sign life for Type III–IV sheeting — the basis of blanket replacement programmes; actual degradation varies by orientation, climate, and sign colour</div>
+</div>
+</div>
+<div class="rs-section-h2">The Four Asset Categories in Municipal Sign and Signal Management</div>
+<p class="rs-body">Sign and signal programmes are not a single asset class — they are four distinct programmes with different maintenance obligations, different failure modes, and different regulatory compliance frameworks. OxMaint manages each as a separate asset category with category-specific inspection templates, lifecycle parameters, and compliance documentation requirements.</p>
+<div class="rs-category-grid">
+<div class="rs-cat-card rs-cat-1">
+<div class="rs-cat-number">01</div>
+<div class="rs-cat-header">
+<div class="rs-cat-title">Regulatory and Warning Signs</div>
+<div class="rs-cat-badge rs-cb-critical">MUTCD §2A.08 Mandatory</div>
+</div>
+<div class="rs-cat-body">STOP, YIELD, speed limit, no passing, school zone, curve warning, and intersection warning signs. Highest liability exposure in the sign portfolio — these are the signs where retroreflectivity failure directly contributes to night-time crash causation and municipal tort liability. Federal retroreflectivity management programme required since June 2014.</div>
+<div class="rs-cat-lifecycle">
+<div class="rs-cl-row"><span class="rs-cl-label">Sheeting life</span><span class="rs-cl-value">7–12 years (Type III); 10–15 years (Type IX/XI)</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Assessment freq</span><span class="rs-cl-value">Annual visual nighttime inspection or retroreflectometer measurement</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Failure trigger</span><span class="rs-cl-value">Below MUTCD Table 2A-3 minimum OR physical damage — replace within 72 hours</span></div>
+</div>
+</div>
+<div class="rs-cat-card rs-cat-2">
+<div class="rs-cat-number">02</div>
+<div class="rs-cat-header">
+<div class="rs-cat-title">Street Name Signs</div>
+<div class="rs-cat-badge rs-cb-high">MUTCD §2A.08 — Required since Jan 2018</div>
+</div>
+<div class="rs-cat-body">Intersection street name signs and addressing identification signs. Retroreflectivity management programme for street name signs became federally required on January 22, 2018. These are typically the largest volume sign category in a municipal inventory — often 3–5× the quantity of regulatory signs — and the most commonly overlooked in compliance programmes.</div>
+<div class="rs-cat-lifecycle">
+<div class="rs-cl-row"><span class="rs-cl-label">Sheeting life</span><span class="rs-cl-value">7–10 years typical for standard white-on-green retroreflective sheeting</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Assessment freq</span><span class="rs-cl-value">Per approved management method — blanket replacement programme most common at volume</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Failure trigger</span><span class="rs-cl-value">Below retroreflectivity minimum OR physical damage — replace within 30-day service window</span></div>
+</div>
+</div>
+<div class="rs-cat-card rs-cat-3">
+<div class="rs-cat-number">03</div>
+<div class="rs-cat-header">
+<div class="rs-cat-title">Traffic Signals and Controllers</div>
+<div class="rs-cat-badge rs-cb-moderate">MUTCD Part 4 · ITE Maintenance Standards</div>
+</div>
+<div class="rs-cat-body">Signal heads, LED modules, controller cabinets, emergency vehicle preemption systems, push-buttons, and detection loops. Traffic signal maintenance requires a formal programme covering preventive maintenance on controller hardware, LED module replacement before luminous intensity degradation, cabinet and wiring inspection, and emergency response for signal failures. Signal outages create intersection hazard conditions requiring 30-minute response on most state standards.</div>
+<div class="rs-cat-lifecycle">
+<div class="rs-cl-row"><span class="rs-cl-label">LED module life</span><span class="rs-cl-value">5–10 years before luminous intensity falls below ITE standards</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Controller PM</span><span class="rs-cl-value">Annual cabinet inspection, semi-annual timing verification, firmware update per vendor schedule</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Failure response</span><span class="rs-cl-value">Dark signal or all-red flash — respond within 30 minutes; police notification required</span></div>
+</div>
+</div>
+<div class="rs-cat-card rs-cat-4">
+<div class="rs-cat-number">04</div>
+<div class="rs-cat-header">
+<div class="rs-cat-title">Overhead Guide Signs and Structures</div>
+<div class="rs-cat-badge rs-cb-high">MUTCD §2A.08 — Required since Jan 2018 · Structural inspection</div>
+</div>
+<div class="rs-cat-body">Overhead guide signs, freeway and expressway signing, and their support structures — cantilever arms, box truss structures, and bridge-mounted sign panels. Overhead signs carry both retroreflectivity compliance obligations and structural inspection requirements. Support structure inspection intervals depend on detail category per AASHTO Supports Specification — typically 2-year or 4-year intervals based on fatigue classification.</div>
+<div class="rs-cat-lifecycle">
+<div class="rs-cl-row"><span class="rs-cl-label">Sign face life</span><span class="rs-cl-value">10–15 years for high-intensity prismatic sheeting on Type IX/XI backgrounds</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Structure inspection</span><span class="rs-cl-value">2 or 4-year interval per AASHTO detail category — PE required for structural assessment</span></div>
+<div class="rs-cl-row"><span class="rs-cl-label">Failure trigger</span><span class="rs-cl-value">Any structural anomaly — corrosion, crack, loose anchor — requires immediate engineering evaluation</span></div>
+</div>
+</div>
+</div>
+<div class="rs-section-h2">Asset Lifecycle Stages: What OxMaint Tracks at Each Phase</div>
+<p class="rs-body">Every sign and signal in the network passes through the same five lifecycle stages — but the timing, cost, and compliance implications of each stage depend on asset type, materials, and operating environment. OxMaint manages the full lifecycle from initial inventory capture through end-of-life replacement, generating the work orders and documentation appropriate to each stage.</p>
+<div class="rs-lifecycle">
+<div class="rs-lc-track">
+<div class="rs-lc-step rs-lcs-1">
+<div class="rs-lcs-dot">1</div>
+<div class="rs-lcs-label">Inventory &amp; Install</div>
+</div>
+<div class="rs-lc-line"><br />
+</div>
+<div class="rs-lc-step rs-lcs-2">
+<div class="rs-lcs-dot">2</div>
+<div class="rs-lcs-label">Active Service</div>
+</div>
+<div class="rs-lc-line"><br />
+</div>
+<div class="rs-lc-step rs-lcs-3">
+<div class="rs-lcs-dot">3</div>
+<div class="rs-lcs-label">Inspection Cycle</div>
+</div>
+<div class="rs-lc-line"><br />
+</div>
+<div class="rs-lc-step rs-lcs-4">
+<div class="rs-lcs-dot">4</div>
+<div class="rs-lcs-label">Degradation Alert</div>
+</div>
+<div class="rs-lc-line"><br />
+</div>
+<div class="rs-lc-step rs-lcs-5">
+<div class="rs-lcs-dot">5</div>
+<div class="rs-lcs-label">Replace &amp; Record</div>
+</div>
+</div>
+<div class="rs-lc-details">
+<div class="rs-lc-detail rs-lcd-1">
+<div class="rs-lcd-title">Installation Record</div>
+<div class="rs-lcd-body">GPS-confirmed location captured at installation — sign type, MUTCD designation, sheeting type and manufacturer lot, post type, mounting height, orientation, and installation date. QR code affixed to post links physical sign to its OxMaint asset record. Photo documentation of installation and surrounding environment captures sight-line condition at time of installation.</div>
+</div>
+<div class="rs-lc-detail rs-lcd-2">
+<div class="rs-lcd-title">Active Service Monitoring</div>
+<div class="rs-lcd-body">Reactive work orders created from citizen reports, officer observations, and route crew findings. Each reactive event logged against the specific sign asset record — damage type, cause assessment, response time, and repair action. Reactive event frequency feeds the risk scoring model that prioritises proactive assessment cycles.</div>
+</div>
+<div class="rs-lc-detail rs-lcd-3">
+<div class="rs-lcd-title">Scheduled Assessment</div>
+<div class="rs-lcd-body">Annual inspection work orders generated per MUTCD §2A.08 assessment method — route-based work orders assigned to inspection crews with mobile checklist including retroreflectivity measurement field (retroreflectometer reading or pass/fail visual nighttime assessment), physical condition rating, photo evidence, and any deficiency findings that trigger immediate replacement work orders.</div>
+</div>
+<div class="rs-lc-detail rs-lcd-4">
+<div class="rs-lcd-title">Degradation Trigger</div>
+<div class="rs-lcd-body">When retroreflectivity falls below MUTCD minimum, physical damage is identified, or the asset reaches its configured expected sign life threshold — OxMaint automatically generates a replacement work order. For signs identified as failing during nighttime visual inspection, the replacement work order carries a 72-hour SLA for regulatory and warning signs, 30 days for street name signs.</div>
+</div>
+<div class="rs-lc-detail rs-lcd-5">
+<div class="rs-lcd-title">Replacement and Closeout</div>
+<div class="rs-lcd-body">Replacement work order closed with new installation data — new sheeting type, new installation date, new expected life calculation, and photo confirmation. The asset record is updated, the compliance history preserved, and the replacement cycle reset. The old asset's complete history — every inspection, every reactive event, every retroreflectivity reading — is archived and permanently retrievable.</div>
+</div>
+</div>
+</div>
+<div class="rs-cta-mid">
+<div class="rs-cta-left">
+<strong>When a liability claim lands on the municipal attorney's desk asking when STOP sign #1847 was last assessed and what its retroreflectivity was — OxMaint answers that question in 30 seconds.</strong>
+Without an asset record, the answer is "we don't know" — and that is the most expensive sentence in municipal risk management.
+</div>
+<div class="rs-cta-right">
+<a href="https://calendly.com/oxmaintapp/30min" class="rs-btn-primary">Book a Demo</a>
+<a href="https://app.oxmaint.ai/" class="rs-btn-outline-dark">Start Free Trial</a>
+</div>
+</div>
+<div class="rs-section-h2">Approved MUTCD Retroreflectivity Assessment Methods — and How OxMaint Supports Each</div>
+<p class="rs-body">FHWA does not require a specific assessment method — it requires that agencies use one of the four approved methods consistently and document that they are doing so. The choice of method determines the inspection workflow, the documentation requirements, and the replacement trigger logic in OxMaint.</p>
+<div class="rs-method-grid">
+<div class="rs-method-card rs-mc-1">
+<div class="rs-mc-badge">Method A</div>
+<div class="rs-mc-title">Retroreflectometer Measurement</div>
+<div class="rs-mc-desc">Handheld or vehicle-mounted retroreflectometer measures retroreflectivity in mcd/lx/m² at each sign. Most precise method — directly verifies compliance against MUTCD Table 2A-3 minimum levels. Required for agencies seeking measurement-based compliance rather than presumptive compliance through blanket replacement.</div>
+<div class="rs-mc-oxmaint">OxMaint: Mobile inspection form with retroreflectivity reading field per sign — reading compared to MUTCD minimum for sign type and colour automatically. Below-minimum reading triggers replacement work order without crew decision required.</div>
+</div>
+<div class="rs-method-card rs-mc-2">
+<div class="rs-mc-badge">Method B</div>
+<div class="rs-mc-title">Visual Nighttime Inspection</div>
+<div class="rs-mc-desc">Inspector drives route at night and rates each sign as pass or fail based on visibility from driver perspective — typically at a specified speed and headlight distance. Subjective but FHWA-approved. More practical for large inventories where retroreflectometer measurement of every sign is resource-intensive.</div>
+<div class="rs-mc-oxmaint">OxMaint: Route-based nighttime inspection work order with pass/fail rating per sign, GPS-confirmed location, photo requirement for any fail rating. Fail rating triggers replacement work order with priority based on sign type.</div>
+</div>
+<div class="rs-method-card rs-mc-3">
+<div class="rs-mc-badge">Method C</div>
+<div class="rs-mc-title">Expected Sign Life (Blanket Replacement)</div>
+<div class="rs-mc-desc">Agency establishes maximum service life for each sign type and sheeting category — typically based on manufacturer data and FHWA guidance — and replaces all signs at or before that service life regardless of measured condition. Simplest method to implement and document. Eliminates need for retroreflectivity measurement but requires more proactive replacement spend.</div>
+<div class="rs-mc-oxmaint">OxMaint: Expected life configured per sign type and sheeting. Replacement work orders generated automatically when age reaches threshold — route-batched for efficient crew deployment. Complete replacement history documents programme for FHWA compliance.</div>
+</div>
+<div class="rs-method-card rs-mc-4">
+<div class="rs-mc-badge">Method D</div>
+<div class="rs-mc-title">Control Signs</div>
+<div class="rs-mc-desc">Agency selects representative sample signs (control signs) from each sign type, installs them alongside working signs, and monitors them with retroreflectometer measurements on a schedule. When control signs degrade to a trigger level, all signs of that type installed in the same cohort are replaced. Efficient for large homogeneous sign populations.</div>
+<div class="rs-mc-oxmaint">OxMaint: Control sign assets tagged and tracked separately — retroreflectometer measurement work orders on accelerated schedule. Trigger-level reading generates batch replacement work order for entire cohort. Cohort replacement history documented per compliance requirement.</div>
+</div>
+</div>
+<div class="rs-expert">
+<div class="rs-expert-q">"</div>
+<div class="rs-expert-body">
+<p class="rs-expert-text">The liability exposure from an undocumented sign programme is not theoretical — it is the first thing a plaintiff's attorney establishes in a roadway crash case involving a deficient or missing traffic control device. The question is always the same: "Did the municipality know or should have known that this sign did not meet MUTCD standards?" Without a documented assessment programme, the answer is effectively "we had no way of knowing" — which is not a defence, it is an admission of negligence per se under the MUTCD's mandatory language. With a documented programme — inspection records, retroreflectivity measurements, replacement work orders, and completion dates per sign — the municipality can demonstrate that it exercised reasonable care under an approved management method. I have defended municipalities in road sign litigation. The ones with documented programmes settle or prevail. The ones without them settle for whatever the plaintiff demands, because there is no factual record to contest. The asset record in a CMMS is not overhead — it is the legal defence file for every sign in the network.</p>
+<div class="rs-expert-name">Carlos Reinholt, PE, Esq.</div>
+<div class="rs-expert-title">Professional Engineer · Attorney at Law · 18 years municipal transportation infrastructure liability and MUTCD compliance · Former Senior Traffic Engineer, state DOT (23,000-sign network) · Specialist in traffic control device compliance programmes, municipal liability defence, and CMMS-integrated MUTCD documentation</div>
+</div>
+</div>
+<div class="rs-section-h2">Frequently Asked Questions</div>
+<div class="rs-faq-list">
+<div class="rs-faq-item">
+<div class="rs-faq-q">
+<span class="rs-faq-ico"></span>
+<h4>How does OxMaint build a sign inventory for a municipality that has no existing digital asset record?</h4>
+</div>
+<div class="rs-faq-a">
+<p class="rs-faq-ans">OxMaint supports <strong>field-driven inventory capture</strong> — crews use the OxMaint mobile app to walk or drive routes, photographing each sign and recording its GPS location, MUTCD designation, sheeting type, estimated age, and installation condition. The app creates the asset record in real time. For larger inventories, OxMaint supports bulk import from existing GIS shapefiles, CSV exports from legacy sign management systems, or imagery from mobile LiDAR or video survey runs. Most municipalities complete an initial inventory of a 5,000–15,000 sign network in 4–8 weeks of field crew time. <a href="https://app.oxmaint.ai/" class="rs-link">Start your free trial</a> to review the inventory capture workflow and import options for your network size.</p>
+</div>
+</div>
+<div class="rs-faq-item">
+<div class="rs-faq-q">
+<span class="rs-faq-ico"></span>
+<h4>Can OxMaint generate the documentation required to demonstrate MUTCD §2A.08 compliance during a federal audit?</h4>
+</div>
+<div class="rs-faq-a">
+<p class="rs-faq-ans">Yes. OxMaint generates a <strong>MUTCD Retroreflectivity Management Compliance Report</strong> that documents: the assessment method in use (retroreflectometer, visual nighttime, expected sign life, or control signs), the inspection frequency and most recent inspection date per sign or per sign class, the retroreflectivity readings or pass/fail results per sign where Method A or B is used, the replacement work orders generated from below-minimum findings, and the completion status of those replacements. This report constitutes the documentary evidence of a programme "designed to maintain sign retroreflectivity at or above minimum levels" as required by MUTCD §2A.08 Standard 02. <a href="https://calendly.com/oxmaintapp/30min" class="rs-link">Book a demo</a> to see the MUTCD compliance report format for your assessment method.</p>
+</div>
+</div>
+<div class="rs-faq-item">
+<div class="rs-faq-q">
+<span class="rs-faq-ico"></span>
+<h4>How does OxMaint manage the traffic signal preventive maintenance programme alongside the sign inventory?</h4>
+</div>
+<div class="rs-faq-a">
+<p class="rs-faq-ans">OxMaint manages traffic signals as a <strong>separate asset category</strong> within the same platform — each signal has its own asset record covering controller cabinet ID, intersection location, LED module installation dates (per head), detection loop condition, and push-button status. Preventive maintenance work orders are generated on the configured schedule — annual cabinet inspection, semi-annual timing verification, LED module life monitoring — while reactive work orders for signal outages or malfunctions carry the appropriate emergency priority and response SLA. The signal maintenance history is stored separately from the sign records and reportable independently for ITE maintenance programme documentation. <a href="https://app.oxmaint.ai/" class="rs-link">Start your free trial</a> to configure the signal asset register for your network's intersection count.</p>
+</div>
+</div>
+<div class="rs-faq-item">
+<div class="rs-faq-q">
+<span class="rs-faq-ico"></span>
+<h4>How does OxMaint support citizen-reported sign damage and integrate it with the asset record?</h4>
+</div>
+<div class="rs-faq-a">
+<p class="rs-faq-ans">OxMaint integrates with <strong>citizen reporting portals and 311 systems</strong> — when a resident reports a damaged, missing, or obscured sign through a 311 app or municipal website, the report creates a work order in OxMaint automatically and is matched to the nearest sign asset record by GPS coordinates. The field crew receives the work order with the sign's full history — last inspection date, retroreflectivity status, age, and prior damage events. After repair or replacement, the crew closes the work order with a photo, and the sign's asset record is updated. This creates an unbroken audit trail from citizen report to documented resolution. <a href="https://calendly.com/oxmaintapp/30min" class="rs-link">Book a demo</a> to see the 311 integration workflow for your municipality's public reporting system.</p>
+</div>
+</div>
+</div>
+<div class="rs-cta-final">
+<div class="rs-cf-tag">Asset Lifecycle Management · MUTCD Compliance · Transportation · OxMaint</div>
+<div class="rs-cta-h2">Every Sign in the Network Is Either an Asset with a Record — or a Liability Without One.</div>
+<p class="rs-cf-sub">OxMaint gives every regulatory sign, warning sign, street name sign, and traffic signal its own digital asset record — with GPS location, installation date, retroreflectivity history, inspection work orders, and replacement documentation — so MUTCD compliance is provable, replacement budgets are defensible, and liability exposure is bounded by evidence rather than uncertainty.</p>
+<div class="rs-final-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="rs-btn-primary">Book a Demo</a>
+<a href="https://app.oxmaint.ai/" class="rs-btn-outline">Start Free Trial</a>
+</div>
+</div>
+<style>
+.rs-intro, .rs-body, .rs-hero-sub, .rs-cf-sub,
+.rs-expert-text, .rs-faq-ans {
+font-size: clamp(14px, 1.4vw, 15px);
+line-height: 1.75;
+color: #333;
+margin-bottom: 12px;
+}
+.rs-section-h2 {
+color: #152277;
+font-size: clamp(17px, 2.2vw, 22px);
+font-weight: 800;
+line-height: 1.3;
+margin: 36px 0 12px;
+}
+.rs-h2-hero {
+color: #fff;
+font-size: clamp(19px, 2.4vw, 26px);
+font-weight: 900;
+line-height: 1.2;
+margin: 0 0 14px;
+display: block;
+letter-spacing: -0.3px;
+}
+h4 { color: #152277; font-size: clamp(14px, 1.5vw, 16px); font-weight: 700; margin: 0 0 5px; }
+a { color: #152277; }
+.rs-link { color: #152277; font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
+/* BUTTONS */
+.rs-btn-primary {
+display: inline-block; background: #fab758; color: #152277; font-weight: 800;
+font-size: 14px; padding: 12px 28px; border-radius: 8px; text-decoration: none;
+border: 2px solid #fab758; transition: background .2s, color .2s, border-color .2s, transform .18s;
+white-space: nowrap;
+}
+.rs-btn-primary:hover { background: #152277; color: #fab758; border-color: #fab758; transform: translateY(-2px); }
+.rs-btn-outline {
+display: inline-block; background: transparent; color: #fff; font-weight: 700;
+font-size: 14px; padding: 12px 28px; border-radius: 8px; text-decoration: none;
+border: 2px solid rgba(255,255,255,.45);
+transition: background .2s, color .2s, border-color .2s, transform .18s; white-space: nowrap;
+}
+.rs-btn-outline:hover { background: rgba(250,183,88,.15); color: #fab758; border-color: #fab758; transform: translateY(-2px); }
+.rs-btn-outline-dark {
+display: inline-block; background: transparent; color: #152277; font-weight: 700;
+font-size: 14px; padding: 12px 28px; border-radius: 8px; text-decoration: none;
+border: 2px solid rgba(21,34,119,.3);
+transition: background .2s, color .2s, border-color .2s, transform .18s; white-space: nowrap;
+}
+.rs-btn-outline-dark:hover { background: #152277; color: #fab758; border-color: #152277; transform: translateY(-2px); }
+/* HERO */
+.rs-hero {
+display: flex; gap: 28px; background: #152277;
+border-radius: 20px; padding: 36px 32px; margin: 20px 0 28px; align-items: flex-start;
+}
+.rs-hero-left { flex: 1; min-width: 0; }
+.rs-eyebrow { font-size: 11px; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #fab758; margin-bottom: 14px; }
+.rs-hero-sub { color: rgba(255,255,255,.75); margin-bottom: 24px; font-size: clamp(13.5px, 1.4vw, 15px); line-height: 1.7; margin-top: 0; }
+.rs-hero-btns { display: flex; gap: 12px; flex-wrap: wrap; }
+.rs-hero-right { flex-shrink: 0; width: 280px; }
+/* RETROREFLECTIVITY PANEL */
+.rs-retro-panel { background: rgba(0,0,0,.22); border-radius: 14px; padding: 13px; }
+.rs-rp-title { font-size: 9.5px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: rgba(255,255,255,.38); margin-bottom: 10px; line-height: 1.4; }
+.rs-retro-rows { display: flex; flex-direction: column; gap: 3px; margin-bottom: 10px; }
+.rs-rr { display: grid; grid-template-columns: 1.6fr .7fr .7fr .7fr; gap: 4px; align-items: center; border-radius: 5px; padding: 5px 8px; }
+.rs-rr-header { background: rgba(255,255,255,.06); }
+.rs-rr:not(.rs-rr-header) { background: rgba(255,255,255,.04); }
+.rs-rr:not(.rs-rr-header):hover { background: rgba(255,255,255,.08); }
+.rs-rr-sign { font-size: 11px; font-weight: 700; color: rgba(255,255,255,.8); }
+.rs-rr-header .rs-rr-sign,
+.rs-rr-header .rs-rr-white,
+.rs-rr-header .rs-rr-yellow,
+.rs-rr-header .rs-rr-red { font-size: 9px; color: rgba(255,255,255,.4); font-weight: 800; text-transform: uppercase; letter-spacing: .5px; }
+.rs-rr-white  { font-size: 12px; font-weight: 900; color: #fff; text-align: center; }
+.rs-rr-yellow { font-size: 12px; font-weight: 900; color: #fab758; text-align: center; }
+.rs-rr-red    { font-size: 12px; font-weight: 900; color: #f87171; text-align: center; }
+.rs-rp-methods { background: rgba(255,255,255,.05); border-radius: 7px; padding: 8px 10px; }
+.rs-rpm-label { font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: .8px; color: rgba(255,255,255,.35); margin-bottom: 3px; }
+.rs-rpm-list  { font-size: 10.5px; color: rgba(255,255,255,.55); line-height: 1.45; }
+/* STAT STRIP */
+.rs-stat-strip {
+display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;
+margin: 0 0 36px; border: 2px solid rgba(21,34,119,.08);
+border-radius: 16px; padding: 20px; background: rgba(21,34,119,.02);
+}
+.rs-stat { text-align: center; }
+.rs-stat-n { font-size: clamp(14px, 1.6vw, 17px); font-weight: 900; color: #152277; line-height: 1.15; margin-bottom: 6px; }
+.rs-stat-l { font-size: 12px; color: #64748b; line-height: 1.45; }
+/* CATEGORY CARDS */
+.rs-category-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin: 20px 0 36px; }
+.rs-cat-card {
+border-radius: 14px; overflow: hidden; background: #fff;
+border: 2px solid rgba(21,34,119,.08); transition: border-color .25s, transform .2s;
+}
+.rs-cat-card:hover { border-color: #fab758; transform: translateY(-2px); }
+.rs-cat-1 { border-color: rgba(220,38,38,.2); }
+.rs-cat-2 { border-color: rgba(234,88,12,.18); }
+.rs-cat-3 { border-color: rgba(21,34,119,.18); }
+.rs-cat-4 { border-color: rgba(180,83,9,.18); }
+.rs-cat-number { font-size: 34px; font-weight: 900; color: rgba(21,34,119,.07); line-height: 1; padding: 12px 16px 4px; }
+.rs-cat-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; padding: 0 16px 12px; }
+.rs-cat-title { font-size: 14px; font-weight: 800; color: #152277; line-height: 1.3; flex: 1; }
+.rs-cat-badge {
+font-size: 9.5px; font-weight: 900; text-transform: uppercase;
+padding: 3px 8px; border-radius: 5px; white-space: nowrap; flex-shrink: 0; text-align: right; line-height: 1.4;
+}
+.rs-cb-critical { background: rgba(220,38,38,.1); color: #dc2626; }
+.rs-cb-high     { background: rgba(234,88,12,.1); color: #ea580c; }
+.rs-cb-moderate { background: rgba(21,34,119,.08); color: #152277; }
+.rs-cat-body { font-size: 12.5px; color: #555; line-height: 1.62; padding: 0 16px 12px; }
+.rs-cat-lifecycle { border-top: 1px solid rgba(21,34,119,.07); padding: 10px 16px; display: flex; flex-direction: column; gap: 6px; }
+.rs-cl-row { display: flex; gap: 8px; font-size: 12px; align-items: flex-start; }
+.rs-cl-label { font-weight: 800; color: #152277; min-width: 90px; flex-shrink: 0; font-size: 11px; padding-top: 1px; }
+.rs-cl-value { color: #555; line-height: 1.45; }
+/* LIFECYCLE TRACK */
+.rs-lifecycle { margin: 20px 0 36px; border: 2px solid rgba(21,34,119,.08); border-radius: 18px; overflow: hidden; }
+.rs-lc-track {
+display: flex; align-items: center; padding: 16px 20px;
+background: #152277; gap: 0;
+}
+.rs-lc-step { display: flex; flex-direction: column; align-items: center; gap: 5px; }
+.rs-lcs-dot {
+width: 32px; height: 32px; border-radius: 50%;
+font-size: 13px; font-weight: 900; color: #152277;
+display: flex; align-items: center; justify-content: center;
+background: #fab758; flex-shrink: 0;
+}
+.rs-lcs-1 .rs-lcs-dot { background: #dc2626; color: #fff; }
+.rs-lcs-2 .rs-lcs-dot { background: #ea580c; color: #fff; }
+.rs-lcs-3 .rs-lcs-dot { background: #fab758; color: #152277; }
+.rs-lcs-4 .rs-lcs-dot { background: #7c3aed; color: #fff; }
+.rs-lcs-5 .rs-lcs-dot { background: #15803d; color: #fff; }
+.rs-lcs-label { font-size: 10px; font-weight: 800; color: rgba(255,255,255,.7); text-align: center; white-space: nowrap; }
+.rs-lc-line { flex: 1; height: 2px; background: rgba(255,255,255,.15); margin: 0 4px 18px; }
+.rs-lc-details { display: grid; grid-template-columns: repeat(5, 1fr); background: #fff; }
+.rs-lc-detail { padding: 14px 14px 16px; border-right: 1px solid rgba(21,34,119,.06); }
+.rs-lc-detail:last-child { border-right: none; }
+.rs-lcd-title { font-size: 12px; font-weight: 800; margin-bottom: 6px; }
+.rs-lcd-1 .rs-lcd-title { color: #dc2626; }
+.rs-lcd-2 .rs-lcd-title { color: #ea580c; }
+.rs-lcd-3 .rs-lcd-title { color: #b45309; }
+.rs-lcd-4 .rs-lcd-title { color: #7c3aed; }
+.rs-lcd-5 .rs-lcd-title { color: #15803d; }
+.rs-lcd-body { font-size: 11.5px; color: #555; line-height: 1.55; }
+/* MID CTA */
+.rs-cta-mid {
+display: flex; align-items: center; gap: 24px;
+background: rgba(21,34,119,.04); border: 2px solid rgba(21,34,119,.1);
+border-radius: 16px; padding: 22px 28px; margin: 0 0 36px; flex-wrap: wrap;
+}
+.rs-cta-left { flex: 1; min-width: 200px; font-size: 14px; color: #444; line-height: 1.65; }
+.rs-cta-left strong { display: block; font-size: clamp(14px, 1.4vw, 15px); color: #152277; margin-bottom: 4px; }
+.rs-cta-right { display: flex; gap: 12px; align-items: center; flex-shrink: 0; flex-wrap: wrap; }
+/* METHOD CARDS */
+.rs-method-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin: 20px 0 36px; }
+.rs-method-card {
+border: 2px solid rgba(21,34,119,.08); border-radius: 14px;
+padding: 18px 16px; background: #fff; transition: border-color .25s, transform .2s;
+}
+.rs-method-card:hover { border-color: #fab758; transform: translateY(-2px); }
+.rs-mc-badge {
+display: inline-block; font-size: 11px; font-weight: 900; text-transform: uppercase;
+letter-spacing: .8px; padding: 4px 12px; border-radius: 6px; margin-bottom: 8px;
+}
+.rs-mc-1 .rs-mc-badge { background: rgba(220,38,38,.08); color: #dc2626; }
+.rs-mc-2 .rs-mc-badge { background: rgba(234,88,12,.08); color: #ea580c; }
+.rs-mc-3 .rs-mc-badge { background: rgba(21,34,119,.08); color: #152277; }
+.rs-mc-4 .rs-mc-badge { background: rgba(21,128,61,.08); color: #15803d; }
+.rs-mc-title { font-size: 14px; font-weight: 800; color: #152277; margin-bottom: 8px; }
+.rs-mc-desc { font-size: 12.5px; color: #555; line-height: 1.65; margin-bottom: 10px; }
+.rs-mc-oxmaint {
+font-size: 12px; color: #152277; font-weight: 600;
+background: rgba(21,34,119,.04); border-left: 3px solid #152277;
+padding: 8px 12px; border-radius: 0 6px 6px 0; line-height: 1.5;
+}
+/* EXPERT */
+.rs-expert {
+display: flex; gap: 18px; background: #f4f7ff;
+border: 1.5px solid #dde2f5; border-radius: 16px;
+padding: 28px 24px; margin: 12px 0 36px; align-items: flex-start;
+}
+.rs-expert-q { font-size: 64px; font-weight: 900; color: #fab758; line-height: .75; flex-shrink: 0; user-select: none; }
+.rs-expert-body { border-left: 3px solid #fab758; padding-left: 18px; flex: 1; min-width: 0; }
+.rs-expert-text { font-style: italic; color: #2a2a3a; line-height: 1.8; margin-bottom: 14px; font-size: clamp(14px, 1.4vw, 15px); }
+.rs-expert-name { font-size: 14px; font-weight: 800; color: #152277; margin-bottom: 4px; }
+.rs-expert-title { font-size: 12px; color: #5a5a72; line-height: 1.45; }
+/* FAQ */
+.rs-faq-list { margin: 16px 0 36px; display: flex; flex-direction: column; gap: 12px; }
+.rs-faq-item { background: #fff; border-radius: 14px; border: 1.5px solid rgba(21,34,119,.08); overflow: hidden; }
+.rs-faq-q { display: flex; align-items: flex-start; gap: 14px; padding: 16px 18px; background: rgba(21,34,119,.025); }
+.rs-faq-ico {
+width: 28px; height: 28px; background: #152277;
+border-radius: 7px; flex-shrink: 0; position: relative;
+}
+.rs-faq-ico::before { content: ''; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 10px; height: 2px; background: #fab758; border-radius: 1px; }
+.rs-faq-ico::after  { content: ''; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 2px; height: 10px; background: #fab758; border-radius: 1px; }
+.rs-faq-a { padding: 14px 18px 16px 60px; }
+.rs-faq-ans { margin: 0; }
+/* FINAL CTA */
+.rs-cta-final {
+background: #152277; border-radius: 20px;
+padding: 44px 36px; text-align: center; margin: 12px 0 20px;
+}
+.rs-cf-tag {
+display: inline-block; background: rgba(250,183,88,.15); color: #fab758;
+font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px;
+padding: 5px 16px; border-radius: 30px; margin-bottom: 16px;
+}
+.rs-cta-h2 {
+color: #fff; font-size: clamp(17px, 2.2vw, 22px);
+font-weight: 800; line-height: 1.3; margin: 0 0 12px;
+}
+.rs-cf-sub { color: rgba(255,255,255,.8); margin: 0 auto 26px; font-size: clamp(14px, 1.4vw, 15px); line-height: 1.75; display: block; }
+.rs-final-btns { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+/* RESPONSIVE */
+@media (max-width: 1024px) {
+.rs-lc-details { grid-template-columns: 1fr 1fr; }
+.rs-lc-detail { border-bottom: 1px solid rgba(21,34,119,.06); }
+.rs-lc-detail:nth-child(even) { border-right: none; }
+.rs-lc-detail:last-child { grid-column: 1 / -1; }
+}
+@media (max-width: 900px) {
+.rs-hero { flex-direction: column; }
+.rs-hero-right { width: 100%; }
+.rs-stat-strip { grid-template-columns: repeat(2, 1fr); }
+.rs-category-grid { grid-template-columns: 1fr; }
+.rs-method-grid { grid-template-columns: 1fr; }
+.rs-cta-mid { flex-direction: column; align-items: stretch; }
+.rs-cta-right { justify-content: flex-start; }
+.rs-lc-track { flex-wrap: wrap; gap: 8px; justify-content: center; }
+.rs-lc-line { display: none; }
+.rs-lc-details { grid-template-columns: 1fr; }
+.rs-lc-detail { border-right: none; }
+}
+@media (max-width: 600px) {
+.rs-hero { padding: 24px 18px; border-radius: 14px; }
+.rs-hero-btns { flex-direction: column; }
+.rs-hero-btns a { text-align: center; width: 100%; }
+.rs-stat-strip { grid-template-columns: 1fr 1fr; padding: 14px; gap: 10px; }
+.rs-cat-header { flex-direction: column; gap: 6px; }
+.rs-expert { flex-direction: column; gap: 10px; }
+.rs-expert-q { display: none; }
+.rs-faq-a { padding-left: 18px; }
+.rs-cta-right { flex-direction: column; width: 100%; }
+.rs-cta-right a { text-align: center; width: 100%; }
+.rs-final-btns { flex-direction: column; align-items: center; }
+.rs-final-btns a { width: 100%; text-align: center; }
+.rs-cta-final { padding: 30px 18px; }
+}
+</style>

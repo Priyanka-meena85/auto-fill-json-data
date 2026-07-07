@@ -1,0 +1,772 @@
+<p>A water main break doesn't start with a rupture — it starts with a maintenance gap. The American Society of Civil Engineers estimates the U.S. loses 6 billion gallons of treated water daily through leaking and aging pipes, and the average municipal water system responds to a main break 4.2 hours after it's reported. For public works teams, every hour of delay compounds infrastructure damage, citizen impact, and regulatory exposure. <a href="https://app.oxmaint.ai">OxMaint coordinates the entire break response workflow — from the first 311 ticket to the final site restoration record.</a></p>
+<section class="wm-hero">
+<div class="wm-alert-bar">
+<div class="wm-alert-icon">!</div>
+<div class="wm-alert-text">Water Main Break Response Time Benchmark: U.S. Average 4.2 Hours · Target with CMMS: Under 90 Minutes</div>
+</div>
+<div class="wm-hero-body">
+<div class="wm-hero-left">
+<div class="wm-eyebrow">Water Utilities · Emergency Response · Work Order Management</div>
+<h2 class="wm-hero-h">Water Main Break Response &amp; Maintenance Coordination</h2>
+<p class="wm-hero-p">How public works teams cut response times, protect service continuity, and build the documented repair histories that regulators, insurers, and councils expect.</p>
+<div class="wm-hero-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="wm-btn-p">Book a Demo</a>
+<a href="https://app.oxmaint.ai" class="wm-btn-s">Start Free Trial</a>
+</div>
+</div>
+<div class="wm-hero-right">
+<div class="wm-timeline-mini">
+<div class="wm-tl-row">
+<div class="wm-tl-dot wm-dot-red"><br />
+</div>
+<div class="wm-tl-label">Break Reported</div>
+<div class="wm-tl-time">T+0</div>
+</div>
+<div class="wm-tl-line"><br />
+</div>
+<div class="wm-tl-row">
+<div class="wm-tl-dot wm-dot-gold"><br />
+</div>
+<div class="wm-tl-label">Work Order Created</div>
+<div class="wm-tl-time">T+5 min</div>
+</div>
+<div class="wm-tl-line"><br />
+</div>
+<div class="wm-tl-row">
+<div class="wm-tl-dot wm-dot-gold"><br />
+</div>
+<div class="wm-tl-label">Crew Dispatched</div>
+<div class="wm-tl-time">T+18 min</div>
+</div>
+<div class="wm-tl-line"><br />
+</div>
+<div class="wm-tl-row">
+<div class="wm-tl-dot wm-dot-gold"><br />
+</div>
+<div class="wm-tl-label">Valve Isolation Logged</div>
+<div class="wm-tl-time">T+35 min</div>
+</div>
+<div class="wm-tl-line"><br />
+</div>
+<div class="wm-tl-row">
+<div class="wm-tl-dot wm-dot-green"><br />
+</div>
+<div class="wm-tl-label">Service Restored</div>
+<div class="wm-tl-time">T+82 min</div>
+</div>
+<div class="wm-tl-caption">OxMaint-coordinated response workflow</div>
+</div>
+</div>
+</div>
+</section>
+<section class="wm-cost">
+<div class="wm-eyebrow">The Real Cost</div>
+<h2 class="wm-sec-h">What Every Uncoordinated Main Break Actually Costs</h2>
+<div class="wm-cost-grid">
+<div class="wm-cost-card">
+<div class="wm-cost-num">$8,000</div>
+<div class="wm-cost-label">Emergency repair cost for a 6-inch main break</div>
+<div class="wm-cost-sub">vs $1,200 for proactive inspection-triggered repair</div>
+</div>
+<div class="wm-cost-card">
+<div class="wm-cost-num">47%</div>
+<div class="wm-cost-label">Of pipe failures occur in mains with no recent inspection record</div>
+<div class="wm-cost-sub">Source: AWWA State of the Water Industry</div>
+</div>
+<div class="wm-cost-card">
+<div class="wm-cost-num">6B gal</div>
+<div class="wm-cost-label">Treated water lost daily across U.S. water systems</div>
+<div class="wm-cost-sub">ASCE Infrastructure Report Card 2025</div>
+</div>
+<div class="wm-cost-card">
+<div class="wm-cost-num">3.2x</div>
+<div class="wm-cost-label">Greater property damage when response exceeds 2 hours</div>
+<div class="wm-cost-sub">Flood damage compounds exponentially with time</div>
+</div>
+</div>
+</section>
+<section class="wm-workflow">
+<div class="wm-eyebrow">Response Workflow</div>
+<h2 class="wm-sec-h">The Coordinated Break Response Checklist</h2>
+<div class="wm-wf-table-wrap">
+<table class="wm-table">
+	<thead>
+		<tr>
+			<th>Phase</th>
+			<th>Action Required</th>
+			<th>Who</th>
+			<th>OxMaint Function</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="wm-phase wm-phase-1">Immediate</td>
+			<td>Log break report, create emergency work order</td>
+			<td>Dispatcher</td>
+			<td>Auto work order from 311 / mobile report</td>
+		</tr>
+		<tr>
+			<td class="wm-phase wm-phase-1">Immediate</td>
+			<td>Identify nearest valve locations from asset map</td>
+			<td>Dispatcher</td>
+			<td>GIS-linked asset registry with valve inventory</td>
+		</tr>
+		<tr>
+			<td class="wm-phase wm-phase-2">0–30 min</td>
+			<td>Dispatch crew with pipe specs &amp; repair history</td>
+			<td>Field Supervisor</td>
+			<td>Mobile work order with asset history pushed to crew</td>
+		</tr>
+		<tr>
+			<td class="wm-phase wm-phase-2">0–30 min</td>
+			<td>Isolate valve, document which zone is affected</td>
+			<td>Field Crew</td>
+			<td>Valve operation logged with timestamp &amp; GPS</td>
+		</tr>
+		<tr>
+			<td class="wm-phase wm-phase-3">30–90 min</td>
+			<td>Excavation, repair materials staged from inventory</td>
+			<td>Field Crew</td>
+			<td>Parts consumed auto-deducted from parts inventory</td>
+		</tr>
+		<tr>
+			<td class="wm-phase wm-phase-3">30–90 min</td>
+			<td>Repair completed, pressure test passed</td>
+			<td>Field Crew</td>
+			<td>Work order closed with photo, test result, sign-off</td>
+		</tr>
+		<tr>
+			<td class="wm-phase wm-phase-4">Post-Repair</td>
+			<td>Site restoration, regulatory notification filed</td>
+			<td>Supervisor</td>
+			<td>SLA clock logged, report auto-generated</td>
+		</tr>
+		<tr>
+			<td class="wm-phase wm-phase-4">Post-Repair</td>
+			<td>Root cause logged, PM trigger reviewed</td>
+			<td>Manager</td>
+			<td>Failure analysis linked to asset history</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</section>
+<section class="wm-cta-mid">
+<div class="wm-cta-inner">
+<h2 class="wm-cta-h">When a main breaks, every minute matters. Don't add coordination time to response time.</h2>
+<p class="wm-cta-p">OxMaint gives your dispatch team, field crew, and supervisors one platform — so the right information reaches the right person the moment a break is reported.</p>
+<div class="wm-cta-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="wm-btn-p">Book a Demo</a>
+<a href="https://app.oxmaint.ai" class="wm-btn-s">Start Free Trial</a>
+</div>
+</div>
+</section>
+<section class="wm-prevent">
+<div class="wm-eyebrow">Prevention Program</div>
+<h2 class="wm-sec-h">The Proactive Inspection Program That Prevents Most Breaks</h2>
+<div class="wm-prevent-row">
+<div class="wm-prev-card">
+<div class="wm-prev-num">01</div>
+<div class="wm-prev-name">Acoustic Leak Detection</div>
+<div class="wm-prev-text">Annual acoustic survey on mains over 15 years old. Vibration sensors detect pre-failure pipe stress weeks before rupture. Results trigger condition-based work orders, not calendar-based guesses.</div>
+</div>
+<div class="wm-prev-card">
+<div class="wm-prev-num">02</div>
+<div class="wm-prev-name">Valve Exercise Program</div>
+<div class="wm-prev-text">Unexercised valves are the leading cause of delayed isolation during a break. AWWA recommends annual exercise on all distribution valves — every exercise logged in OxMaint with turn count and condition rating.</div>
+</div>
+<div class="wm-prev-card">
+<div class="wm-prev-num">03</div>
+<div class="wm-prev-name">Hydrant Flush &amp; Flow Test</div>
+<div class="wm-prev-text">Bi-annual hydrant flushing flushes sediment, confirms flow rates, and identifies pressure zone anomalies that indicate upstream pipe deterioration before it becomes an emergency callout.</div>
+</div>
+<div class="wm-prev-card">
+<div class="wm-prev-num">04</div>
+<div class="wm-prev-name">Pipe Condition Assessment</div>
+<div class="wm-prev-text">Priority-based CCTV or sonar inspection on highest-risk mains — those with multiple prior breaks, age over 40 years, or in aggressive soil conditions. Inspection findings feed directly into capital replacement prioritization.</div>
+</div>
+</div>
+</section>
+<section class="wm-expert">
+<div class="wm-eyebrow">Expert Review</div>
+<h2 class="wm-sec-h">What Water Utility Leaders Say</h2>
+<div class="wm-expert-wrap">
+<div class="wm-exp-card wm-exp-featured">
+<div class="wm-exp-q">“The cities that consistently achieve sub-90-minute main break response times share two characteristics: a real-time asset registry with valve and pipe data accessible in the field, and a dispatch protocol that creates the work order before the crew leaves the yard. Every minute of pre-dispatch coordination is a minute added to customer outage. Technology solves this — paper and phone calls don't.”</div>
+<div class="wm-exp-meta">
+<div class="wm-exp-av">DM</div>
+<div>
+<div class="wm-exp-nm">David McKinley</div>
+<div class="wm-exp-rl">Water Distribution Operations Director, AWWA</div>
+</div>
+</div>
+</div>
+<div class="wm-exp-card">
+<div class="wm-exp-q">“Regulatory scrutiny on water loss and emergency response documentation has increased sharply. State primacy agencies are now requesting work order histories as part of system review. Utilities without a CMMS are spending weeks reconstructing what should be a 10-minute export.”</div>
+<div class="wm-exp-meta">
+<div class="wm-exp-av">PV</div>
+<div>
+<div class="wm-exp-nm">Patricia Vance</div>
+<div class="wm-exp-rl">Drinking Water Program Specialist, EPA Region 5</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="wm-faq">
+<div class="wm-eyebrow">FAQ</div>
+<h2 class="wm-sec-h">Questions Water Utilities Ask About Break Response Management</h2>
+<div class="wm-faq-list">
+<details class="wm-faq-item" open="">
+<summary class="wm-faq-q">How does OxMaint help reduce water main break response time?</summary>
+<div class="wm-faq-a">OxMaint compresses the coordination gap between break report and crew arrival. When a break is reported — via 311 intake, SCADA alarm, or field observation — a work order is generated immediately with the affected asset pre-populated, the nearest valve locations pulled from the asset registry, and the repair history attached. The crew receives all of this on their mobile device before they leave the yard, eliminating the radio and call-back loops that typically add 30–60 minutes to response. <a href="https://calendly.com/oxmaintapp/30min">See the emergency response workflow in a live demo.</a></div>
+</details>
+<details class="wm-faq-item">
+<summary class="wm-faq-q">What documentation does OxMaint generate for regulatory reporting after a main break?</summary>
+<div class="wm-faq-a">OxMaint automatically timestamps every step of the response workflow — break report, work order creation, crew dispatch, valve isolation, repair completion, and site restoration. This generates a complete event record with GPS coordinates, labor hours, parts used, pressure test results, and photographic evidence. For state regulatory submissions and EPA public notification requirements, this record can be exported in minutes rather than reconstructed from field notes over days.</div>
+</details>
+<details class="wm-faq-item">
+<summary class="wm-faq-q">Can OxMaint support a valve exercise program across a large distribution system?</summary>
+<div class="wm-faq-a">Yes. OxMaint maintains a complete valve registry with exercise history, condition ratings, and next-due dates. Work orders for valve exercise campaigns are auto-generated by zone, crew territory, or valve age. Field crews record turn count, ease of operation, and any corrosion or seal issues on mobile — building the documented exercise history that AWWA and state regulators increasingly require. <a href="https://app.oxmaint.ai">Start tracking your valve program in OxMaint today.</a></div>
+</details>
+<details class="wm-faq-item">
+<summary class="wm-faq-q">How does OxMaint help prioritize which mains to inspect proactively?</summary>
+<div class="wm-faq-a">OxMaint tracks break history, pipe age, material type, and repair frequency per main segment. The analytics dashboard surfaces mains with repeated failures, deferred inspections, or aging profiles that match your highest-risk failure patterns. This data feeds directly into capital replacement prioritization and helps public works managers justify inspection budget requests to council with defensible, asset-specific risk evidence rather than citywide averages.</div>
+</details>
+</div>
+</section>
+<section class="wm-cta-final">
+<div class="wm-fin-in">
+<div class="wm-fin-badge">Free Trial · No Credit Card · Emergency Workflows Ready Day One</div>
+<h2 class="wm-fin-h">The next main break is coming. Make sure your team is ready before it does.</h2>
+<p class="wm-fin-p">Connect your asset registry, dispatch workflow, and regulatory documentation into one platform — and cut response time before the next call comes in.</p>
+<div class="wm-fin-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="wm-btn-p">Book a Demo</a>
+<a href="https://app.oxmaint.ai" class="wm-btn-s">Start Free Trial</a>
+</div>
+</div>
+</section>
+<style>
+:root {
+--wnv: #152277;
+--wgold: #fab758;
+--wnv-lt: rgba(21,34,119,0.06);
+--wnv-md: rgba(21,34,119,0.13);
+--wgold-lt: rgba(250,183,88,0.14);
+--wtxt: #253050;
+--wmid: #556080;
+--wbg: #f4f6fb;
+--ww: #ffffff;
+--wr: 14px;
+}
+.wm-hero {
+background: var(--wbg);
+border-radius: var(--wr);
+padding: 0;
+margin-bottom: 28px;
+overflow: hidden;
+}
+.wm-alert-bar {
+background: #c0392b;
+display: flex;
+align-items: center;
+gap: 12px;
+padding: 12px 20px;
+}
+.wm-alert-icon {
+width: 28px;
+height: 28px;
+background: var(--ww);
+color: #c0392b;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 16px;
+font-weight: 900;
+flex-shrink: 0;
+}
+.wm-alert-text {
+font-size: 13px;
+font-weight: 800;
+color: var(--ww);
+line-height: 1.4;
+}
+.wm-hero-body {
+display: grid;
+grid-template-columns: 1.2fr 0.8fr;
+gap: 24px;
+padding: 24px 20px;
+}
+.wm-eyebrow {
+font-size: 12px;
+font-weight: 800;
+color: var(--wgold);
+text-transform: uppercase;
+letter-spacing: 1.4px;
+margin-bottom: 8px;
+}
+.wm-hero-h {
+font-size: 26px;
+font-weight: 900;
+color: var(--wnv);
+line-height: 1.25;
+margin-bottom: 12px;
+}
+.wm-hero-p {
+font-size: 15px;
+color: var(--wmid);
+line-height: 1.72;
+margin-bottom: 18px;
+}
+.wm-hero-btns {
+display: flex;
+gap: 12px;
+flex-wrap: wrap;
+}
+.wm-btn-p {
+background: var(--wnv);
+color: var(--wgold);
+padding: 12px 24px;
+border-radius: 8px;
+font-weight: 800;
+font-size: 14px;
+text-decoration: none;
+display: inline-block;
+border: 2px solid var(--wnv);
+transition: background 0.2s, color 0.2s, transform 0.18s, box-shadow 0.2s;
+}
+.wm-btn-p:hover {
+background: var(--wgold);
+color: var(--wnv);
+transform: translateY(-2px);
+box-shadow: 0 8px 20px var(--wgold-lt);
+}
+.wm-btn-s {
+background: transparent;
+color: var(--wnv);
+padding: 12px 24px;
+border-radius: 8px;
+font-weight: 800;
+font-size: 14px;
+text-decoration: none;
+display: inline-block;
+border: 2px solid var(--wnv);
+transition: background 0.2s, color 0.2s, transform 0.18s;
+}
+.wm-btn-s:hover {
+background: var(--wnv);
+color: var(--wgold);
+transform: translateY(-2px);
+}
+.wm-timeline-mini {
+background: var(--wnv);
+border-radius: 12px;
+padding: 18px;
+display: flex;
+flex-direction: column;
+gap: 0;
+}
+.wm-tl-row {
+display: flex;
+align-items: center;
+gap: 10px;
+}
+.wm-tl-dot {
+width: 14px;
+height: 14px;
+border-radius: 50%;
+flex-shrink: 0;
+}
+.wm-dot-red { background: #e74c3c; }
+.wm-dot-gold { background: var(--wgold); }
+.wm-dot-green { background: #2ecc71; }
+.wm-tl-label {
+font-size: 13px;
+color: rgba(255,255,255,0.82);
+flex: 1;
+}
+.wm-tl-time {
+font-size: 12px;
+font-weight: 900;
+color: var(--wgold);
+}
+.wm-tl-line {
+width: 2px;
+height: 16px;
+background: rgba(255,255,255,0.2);
+margin-left: 6px;
+}
+.wm-tl-caption {
+font-size: 11px;
+color: rgba(255,255,255,0.4);
+margin-top: 10px;
+text-align: center;
+font-style: italic;
+}
+.wm-cost {
+background: var(--wnv);
+border-radius: var(--wr);
+padding: 24px 20px;
+margin-bottom: 24px;
+}
+.wm-cost .wm-eyebrow { color: var(--wgold); }
+.wm-cost .wm-sec-h { color: var(--ww); }
+.wm-cost-grid {
+display: grid;
+grid-template-columns: repeat(4,1fr);
+gap: 12px;
+margin-top: 14px;
+}
+.wm-cost-card {
+background: rgba(255,255,255,0.08);
+border: 1px solid rgba(255,255,255,0.14);
+border-radius: 12px;
+padding: 16px 14px;
+text-align: center;
+}
+.wm-cost-num {
+font-size: 24px;
+font-weight: 900;
+color: var(--wgold);
+line-height: 1;
+margin-bottom: 6px;
+}
+.wm-cost-label {
+font-size: 13px;
+color: rgba(255,255,255,0.80);
+line-height: 1.5;
+margin-bottom: 6px;
+}
+.wm-cost-sub {
+font-size: 12px;
+color: rgba(255,255,255,0.45);
+line-height: 1.4;
+font-style: italic;
+}
+.wm-sec-h {
+font-size: 22px;
+font-weight: 900;
+color: var(--wnv);
+line-height: 1.3;
+margin-bottom: 14px;
+}
+.wm-workflow {
+background: var(--wbg);
+border-radius: var(--wr);
+padding: 24px 20px;
+margin-bottom: 24px;
+}
+.wm-wf-table-wrap {
+overflow-x: auto;
+-webkit-overflow-scrolling: touch;
+border-radius: 10px;
+border: 1px solid var(--wnv-md);
+margin-top: 16px;
+}
+.wm-table {
+width: 100%;
+border-collapse: collapse;
+min-width: 580px;
+background: var(--ww);
+}
+.wm-table thead tr { background: var(--wnv); }
+.wm-table th {
+color: var(--ww);
+font-size: 13px;
+font-weight: 800;
+padding: 13px 14px;
+text-align: left;
+}
+.wm-table td {
+font-size: 14px;
+color: var(--wtxt);
+padding: 12px 14px;
+border-bottom: 1px solid var(--wnv-lt);
+line-height: 1.5;
+}
+.wm-table tbody tr:last-child td { border-bottom: none; }
+.wm-table tbody tr:hover td { background: var(--wbg); }
+.wm-phase {
+font-size: 12px;
+font-weight: 800;
+border-radius: 6px;
+text-align: center;
+white-space: nowrap;
+}
+.wm-phase-1 { color: #c0392b; background: rgba(192,57,43,0.1); }
+.wm-phase-2 { color: #a07010; background: var(--wgold-lt); }
+.wm-phase-3 { color: #1e6b44; background: rgba(30,107,68,0.1); }
+.wm-phase-4 { color: var(--wnv); background: var(--wnv-lt); }
+.wm-cta-mid {
+background: var(--wnv);
+border-radius: var(--wr);
+padding: 28px 24px;
+margin-bottom: 24px;
+text-align: center;
+}
+.wm-cta-h {
+font-size: 21px;
+font-weight: 900;
+color: var(--ww);
+line-height: 1.3;
+margin-bottom: 10px;
+}
+.wm-cta-p {
+font-size: 15px;
+color: rgba(255,255,255,0.74);
+line-height: 1.7;
+margin-bottom: 18px;
+}
+.wm-cta-btns {
+display: flex;
+gap: 12px;
+justify-content: center;
+flex-wrap: wrap;
+}
+.wm-cta-mid .wm-btn-p {
+background: var(--wgold);
+color: var(--wnv);
+border-color: var(--wgold);
+}
+.wm-cta-mid .wm-btn-p:hover {
+background: var(--ww);
+border-color: var(--ww);
+}
+.wm-cta-mid .wm-btn-s {
+color: var(--wgold);
+border-color: rgba(250,183,88,0.5);
+}
+.wm-cta-mid .wm-btn-s:hover {
+background: var(--wgold);
+color: var(--wnv);
+}
+.wm-prevent {
+padding: 24px 0 16px;
+}
+.wm-prevent-row {
+display: grid;
+grid-template-columns: repeat(4,1fr);
+gap: 12px;
+margin-top: 14px;
+}
+.wm-prev-card {
+background: var(--ww);
+border: 1px solid var(--wnv-md);
+border-radius: 12px;
+padding: 18px 14px;
+border-top: 4px solid var(--wgold);
+transition: transform 0.2s, box-shadow 0.2s;
+}
+.wm-prev-card:hover {
+transform: translateY(-4px);
+box-shadow: 0 10px 24px var(--wnv-lt);
+}
+.wm-prev-num {
+font-size: 11px;
+font-weight: 900;
+color: var(--wgold);
+letter-spacing: 1px;
+margin-bottom: 6px;
+}
+.wm-prev-name {
+font-size: 14px;
+font-weight: 900;
+color: var(--wnv);
+margin-bottom: 8px;
+line-height: 1.3;
+}
+.wm-prev-text {
+font-size: 13px;
+color: var(--wmid);
+line-height: 1.6;
+}
+.wm-expert {
+background: var(--wbg);
+border-radius: var(--wr);
+padding: 24px 20px;
+margin-bottom: 24px;
+}
+.wm-expert-wrap {
+display: grid;
+grid-template-columns: 1.2fr 0.8fr;
+gap: 14px;
+margin-top: 16px;
+}
+.wm-exp-card {
+background: var(--ww);
+border-radius: 12px;
+padding: 20px;
+transition: transform 0.2s, box-shadow 0.2s;
+}
+.wm-exp-card:hover {
+transform: translateY(-3px);
+box-shadow: 0 10px 24px var(--wnv-lt);
+}
+.wm-exp-featured {
+border-left: 4px solid var(--wgold);
+}
+.wm-exp-q {
+font-size: 14px;
+color: var(--wmid);
+line-height: 1.72;
+font-style: italic;
+margin-bottom: 16px;
+}
+.wm-exp-meta {
+display: flex;
+align-items: center;
+gap: 12px;
+}
+.wm-exp-av {
+width: 40px;
+height: 40px;
+background: var(--wnv);
+color: var(--wgold);
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 13px;
+font-weight: 900;
+flex-shrink: 0;
+}
+.wm-exp-nm {
+font-size: 14px;
+font-weight: 800;
+color: var(--wnv);
+}
+.wm-exp-rl {
+font-size: 12px;
+color: var(--wmid);
+margin-top: 2px;
+}
+.wm-faq {
+padding: 24px 0 16px;
+}
+.wm-faq-list {
+margin-top: 16px;
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+.wm-faq-item {
+background: var(--ww);
+border: 1px solid var(--wnv-md);
+border-left: 4px solid var(--wgold);
+border-radius: 0 10px 10px 0;
+overflow: hidden;
+}
+.wm-faq-q {
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 14px;
+padding: 14px 18px;
+font-size: 15px;
+font-weight: 800;
+color: var(--wnv);
+cursor: pointer;
+list-style: none;
+transition: background 0.18s;
+line-height: 1.4;
+}
+.wm-faq-q:hover { background: var(--wnv-lt); }
+.wm-faq-q::-webkit-details-marker { display: none; }
+.wm-faq-q::after {
+content: '+';
+font-size: 22px;
+font-weight: 300;
+color: var(--wgold);
+flex-shrink: 0;
+transition: transform 0.2s;
+}
+details[open] .wm-faq-q::after { transform: rotate(45deg); }
+.wm-faq-a {
+padding: 10px 18px 16px;
+font-size: 14px;
+color: var(--wtxt);
+line-height: 1.72;
+border-top: 1px solid var(--wnv-lt);
+}
+.wm-faq-a a {
+color: var(--wnv);
+font-weight: 700;
+text-decoration: underline;
+text-underline-offset: 2px;
+}
+.wm-cta-final {
+background: linear-gradient(135deg, var(--wnv) 0%, #0c1348 100%);
+border-radius: var(--wr);
+padding: 30px 24px;
+margin-bottom: 16px;
+text-align: center;
+}
+.wm-fin-badge {
+display: inline-block;
+font-size: 12px;
+font-weight: 800;
+color: var(--wgold);
+text-transform: uppercase;
+letter-spacing: 1.2px;
+padding: 5px 14px;
+border-radius: 20px;
+border: 1px solid rgba(250,183,88,0.35);
+background: rgba(250,183,88,0.08);
+margin-bottom: 14px;
+}
+.wm-fin-h {
+font-size: 22px;
+font-weight: 900;
+color: var(--ww);
+line-height: 1.28;
+margin-bottom: 10px;
+}
+.wm-fin-p {
+font-size: 15px;
+color: rgba(255,255,255,0.74);
+line-height: 1.7;
+margin-bottom: 18px;
+}
+.wm-fin-btns {
+display: flex;
+gap: 12px;
+justify-content: center;
+flex-wrap: wrap;
+}
+.wm-cta-final .wm-btn-p {
+background: var(--wgold);
+color: var(--wnv);
+border-color: var(--wgold);
+}
+.wm-cta-final .wm-btn-p:hover {
+background: var(--ww);
+border-color: var(--ww);
+}
+.wm-cta-final .wm-btn-s {
+color: var(--wgold);
+border-color: rgba(250,183,88,0.5);
+}
+.wm-cta-final .wm-btn-s:hover {
+background: var(--wgold);
+color: var(--wnv);
+}
+@media (max-width: 900px) {
+.wm-hero-body { grid-template-columns: 1fr; }
+.wm-prevent-row { grid-template-columns: repeat(2,1fr); }
+.wm-expert-wrap { grid-template-columns: 1fr; }
+.wm-cost-grid { grid-template-columns: repeat(2,1fr); }
+.wm-hero-h { font-size: 22px; }
+}
+@media (max-width: 600px) {
+.wm-hero { padding: 0; }
+.wm-hero-body { padding: 18px 14px; }
+.wm-prevent-row { grid-template-columns: 1fr; }
+.wm-cost-grid { grid-template-columns: 1fr; }
+.wm-cta-mid, .wm-cta-final { padding: 22px 16px; }
+.wm-sec-h { font-size: 19px; }
+.wm-hero-h { font-size: 20px; }
+.wm-hero-btns, .wm-cta-btns, .wm-fin-btns { flex-direction: column; align-items: stretch; }
+.wm-btn-p, .wm-btn-s { text-align: center; }
+}
+</style>

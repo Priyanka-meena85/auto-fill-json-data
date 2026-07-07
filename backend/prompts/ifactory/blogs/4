@@ -1,0 +1,697 @@
+<p>Paint defect inspection has always been one of the most subjective steps in automotive finishing, where two
+    experienced inspectors can look at the same panel under the same booth lighting and disagree on whether a mark is a
+    buffable dirt nib or a rework-worthy defect. That subjectivity gets expensive fast, since over-classification sends
+    good panels to unnecessary rework while under-classification lets real defects slip through to final inspection or
+    the customer. AI vision classification removes the guesswork by scoring every defect against a consistent, trained
+    standard covering dirt, runs, sags, orange peel, craters, and mapping, all in the time it takes the panel to pass
+    under the camera. Finishing quality managers can <a href="https://calendly.com/contact-ifactoryapp/30min">book a
+        demo</a> and see live classification against their own paint defect standard.</p>
+<div class="pdc-hero">
+    <div class="pdc-hero-eyebrow">PAINT DEFECT CLASSIFICATION · AI VISION INSPECTION</div>
+    <div class="pdc-hero-title">Consistent Paint Defect Calls, Every Panel, Every Shift</div>
+    <div class="pdc-hero-text">AI vision classifies dirt, runs, sags, orange peel, craters, and mapping automatically,
+        cutting manual inspection labor while catching more defects across every classification category.</div>
+    <div class="pdc-hero-btns">
+        <a href="https://calendly.com/contact-ifactoryapp/30min" class="pdc-btn-fill">Book a Demo</a>
+        <a href="https://ifactoryapp.com/support" class="pdc-btn-ghost">Contact Support</a>
+    </div>
+</div>
+<div class="pdc-tag-grid">
+    <div class="pdc-tag-card">Dirt Nibs</div>
+    <div class="pdc-tag-card">Paint Runs</div>
+    <div class="pdc-tag-card">Sags</div>
+    <div class="pdc-tag-card">Orange Peel</div>
+    <div class="pdc-tag-card">Craters</div>
+    <div class="pdc-tag-card">Mapping</div>
+</div>
+<div class="pdc-section">
+    <div class="pdc-h2">Why Two Inspectors Rarely Agree on the Same Panel</div>
+    <div class="pdc-text">Paint defect grading depends heavily on lighting angle, inspector experience, and even how
+        tired someone is by hour seven of a shift. A subtle case of orange peel that one inspector waves through might
+        get flagged as rework-worthy by another, and that inconsistency creates real cost whether it swings toward
+        unnecessary rework or toward defects reaching the customer. AI vision applies the exact same trained
+        classification standard to every panel under controlled multi-angle lighting, removing the shift-to-shift and
+        inspector-to-inspector variability that makes paint grading so hard to standardize.</div>
+</div>
+<div class="pdc-stats-row">
+    <div class="pdc-stat-box">
+        <div class="pdc-stat-num">70%</div>
+        <div class="pdc-stat-label">Reduction in manual paint inspection labor reported after AI vision deployment</div>
+    </div>
+    <div class="pdc-stat-box">
+        <div class="pdc-stat-num">6 Categories</div>
+        <div class="pdc-stat-label">Distinct defect classifications trained and scored on every panel automatically
+        </div>
+    </div>
+    <div class="pdc-stat-box">
+        <div class="pdc-stat-num">Full Line Speed</div>
+        <div class="pdc-stat-label">Classification happens inline without slowing the paint finishing process</div>
+    </div>
+</div>
+<div class="pdc-cta-banner">
+    <div class="pdc-cta-left">
+        <div class="pdc-cta-eyebrow">PAINT DEFECT CLASSIFICATION · AI VISION</div>
+        <div class="pdc-cta-headline">See Every Defect Category Classified Live</div>
+        <div class="pdc-cta-sub">Walk through AI classification running against real panel images from your finishing
+            line.</div>
+    </div>
+    <div class="pdc-cta-btns">
+        <a href="https://calendly.com/contact-ifactoryapp/30min" class="pdc-btn-fill">Book a Demo</a>
+        <a href="https://ifactoryapp.com/support" class="pdc-btn-ghost">Contact Support</a>
+    </div>
+</div>
+<div class="pdc-section">
+    <div class="pdc-h2">How Each Defect Category Gets Classified</div>
+    <div class="pdc-table-wrap">
+        <table class="pdc-table">
+            <thead>
+                <tr>
+                    <th>Defect Category</th>
+                    <th>Visual Signature</th>
+                    <th>Typical Root Cause</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td data-label="Category"><strong>Dirt Nibs</strong></td>
+                    <td data-label="Signature">Small raised particles trapped under clear coat</td>
+                    <td data-label="Cause">Booth contamination or airborne particulate</td>
+                </tr>
+                <tr>
+                    <td data-label="Category"><strong>Runs &amp; Sags</strong></td>
+                    <td data-label="Signature">Uneven paint film flow on vertical surfaces</td>
+                    <td data-label="Cause">Excess film build or incorrect gun distance</td>
+                </tr>
+                <tr>
+                    <td data-label="Category"><strong>Orange Peel</strong></td>
+                    <td data-label="Signature">Textured, uneven surface resembling citrus skin</td>
+                    <td data-label="Cause">Viscosity, spray pressure, or booth temperature</td>
+                </tr>
+                <tr>
+                    <td data-label="Category"><strong>Craters</strong></td>
+                    <td data-label="Signature">Small circular depressions in the finish</td>
+                    <td data-label="Cause">Silicone or oil contamination on the surface</td>
+                </tr>
+                <tr>
+                    <td data-label="Category"><strong>Mapping</strong></td>
+                    <td data-label="Signature">Underlying substrate pattern visible through paint</td>
+                    <td data-label="Cause">Substrate texture or inconsistent primer coverage</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="pdc-section">
+    <div class="pdc-h2">What Finishing Quality Managers Are Saying</div>
+    <div class="pdc-quote-card">
+        <div class="pdc-quote-text">Consistency was our biggest headache. The same panel could pass on nights and get
+            flagged on days depending on who was inspecting. Since moving to AI classification, our rework rate has
+            actually dropped even though we're catching more real defects, because the calls are finally consistent
+            across every shift.</div>
+        <div class="pdc-quote-cite">Finishing Quality Manager, Automotive Paint Shop</div>
+    </div>
+</div>
+<div class="pdc-section">
+    <div class="pdc-h2">The Real Cost of Inconsistent Paint Grading</div>
+    <div class="pdc-text">Inconsistent defect grading pulls cost from both directions at once. Over-classification sends
+        visually acceptable panels into unnecessary buff and polish rework, consuming labor and booth time on parts that
+        never needed it. Under-classification lets real defects through to final inspection or, worse, to the customer,
+        where a comeback vehicle or a dealer-reported paint issue costs far more to resolve than catching it inline ever
+        would. Because AI classification applies one trained standard regardless of shift or inspector, plants typically
+        see both failure modes shrink at the same time, which is unusual since most quality improvements trade one type
+        of error for the other rather than reducing both.</div>
+</div>
+<div class="pdc-section">
+    <div class="pdc-h2">Getting Your Defect Standard Ready for Training</div>
+    <div class="pdc-text">The accuracy of the classification model depends heavily on the quality and consistency of the
+        defect standard it's trained against, so a bit of preparation before kickoff pays off significantly during the
+        shadow mode period. Plants with a documented severity scale, even an informal one built from years of inspector
+        judgment, give the model a much clearer target than plants where grading decisions live entirely in individual
+        inspectors' experience. Pulling together a sample set of images across each defect category and severity level
+        before training begins is usually the single highest-leverage step in the entire rollout.</div>
+    <div class="pdc-check-list">
+        <div class="pdc-check-row">
+            <div class="pdc-check-title">Documented Severity Scale</div>
+            <div class="pdc-check-text">Even an informal buffable-versus-rework standard gives the model a clear
+                training target.</div>
+        </div>
+        <div class="pdc-check-row">
+            <div class="pdc-check-title">Sample Images Per Category</div>
+            <div class="pdc-check-text">A representative image set across all six defect categories speeds up initial
+                accuracy significantly.</div>
+        </div>
+        <div class="pdc-check-row">
+            <div class="pdc-check-title">Color &amp; Finish Mix Documented</div>
+            <div class="pdc-check-text">Knowing your production color mix upfront helps plan the calibration sequence
+                for the pilot phase.</div>
+        </div>
+    </div>
+</div>
+<div class="pdc-section">
+    <div class="pdc-h2">Frequently Asked Questions</div>
+    <div class="pdc-faq-list">
+        <div class="pdc-faq-item">
+            <input type="checkbox" id="pdc-faq-1" class="pdc-faq-toggle" />
+            <label for="pdc-faq-1" class="pdc-faq-q">How does the system tell the difference between buffable and
+                rework-worthy defects?</label>
+            <div class="pdc-faq-a">The classification model is trained on your specific severity thresholds, so it
+                learns not just to identify a defect category but to score its severity against the same
+                buffable-versus-rework standard your quality team already uses. This training happens using your own
+                historical defect images and grading decisions, so the system reflects your plant's actual standard
+                rather than a generic industry threshold. Teams can <a
+                    href="https://calendly.com/contact-ifactoryapp/30min">book a demo</a> to see severity scoring
+                calibrated to their standard.</div>
+        </div>
+        <div class="pdc-faq-item">
+            <input type="checkbox" id="pdc-faq-2" class="pdc-faq-toggle" />
+            <label for="pdc-faq-2" class="pdc-faq-q">Can the same system be used across different paint colors and
+                finishes?</label>
+            <div class="pdc-faq-a">Yes, the vision model is trained separately for each color and finish type since
+                defect visibility varies significantly between, for example, a solid dark color and a light metallic
+                finish, and multi-angle lighting is calibrated accordingly. Adding a new color to the production mix
+                typically requires a short calibration period with sample panels before that color reaches full
+                classification accuracy. This ensures accuracy stays consistent as your color mix changes over time.
+            </div>
+        </div>
+        <div class="pdc-faq-item">
+            <input type="checkbox" id="pdc-faq-3" class="pdc-faq-toggle" />
+            <label for="pdc-faq-3" class="pdc-faq-q">Does this replace our final quality inspectors entirely?</label>
+            <div class="pdc-faq-a">Most plants keep a smaller final inspection team in place for edge cases,
+                customer-facing surfaces, and spot audits, while AI classification handles the high-volume, repetitive
+                grading work that previously consumed the majority of inspection labor. This typically shifts inspectors
+                toward higher-value tasks like root cause investigation rather than eliminating the quality role.
+                Questions about staffing transition planning can be directed to <a
+                    href="https://ifactoryapp.com/support">support</a>.</div>
+        </div>
+        <div class="pdc-faq-item">
+            <input type="checkbox" id="pdc-faq-4" class="pdc-faq-toggle" />
+            <label for="pdc-faq-4" class="pdc-faq-q">How long does training take before the system reaches production
+                accuracy?</label>
+            <div class="pdc-faq-a">Initial training against a solid historical defect image library typically takes two
+                to four weeks before the model reaches usable classification accuracy across all six defect categories,
+                with continued refinement over the following months as it sees more real-world panel variation. A shadow
+                mode period running alongside existing inspectors is recommended before any classification decisions are
+                handed over, so accuracy is proven on your specific panels before going live.</div>
+        </div>
+    </div>
+    <div class="pdc-faq-item">
+        <input type="checkbox" id="pdc-faq-5" class="pdc-faq-toggle" />
+        <label for="pdc-faq-5" class="pdc-faq-q">Does reducing over-classification actually save meaningful
+            labor?</label>
+        <div class="pdc-faq-a">Yes, over-classification is often the larger hidden cost in paint finishing since it
+            sends visually acceptable panels into buff and polish rework that consumes booth time and labor without
+            improving the outcome, and plants rarely track this separately from genuine defect rework. Because AI
+            classification applies the same trained severity standard to every panel, plants typically see fewer
+            marginal panels pulled for unnecessary rework alongside better catch rates on real defects, rather than
+            trading one problem for the other. A breakdown of your current rework mix can be reviewed during a <a
+                href="https://calendly.com/contact-ifactoryapp/30min">demo</a>.</div>
+    </div>
+</div>
+<div class="pdc-cta-banner">
+    <div class="pdc-cta-left">
+        <div class="pdc-cta-eyebrow">PAINT DEFECT CLASSIFICATION · AI VISION</div>
+        <div class="pdc-cta-headline">Bring Consistency to Every Paint Inspection Call</div>
+        <div class="pdc-cta-sub">Get a personalized walkthrough of AI classification running against your own defect
+            standard.</div>
+    </div>
+    <div class="pdc-cta-btns">
+        <a href="https://calendly.com/contact-ifactoryapp/30min" class="pdc-btn-fill">Book a Demo</a>
+        <a href="https://ifactoryapp.com/support" class="pdc-btn-ghost">Contact Support</a>
+    </div>
+</div>
+<style>
+    .pdc-text {
+        font-size: 16px;
+        line-height: 1.75;
+        color: #1e293b;
+        margin-bottom: 12px
+    }
+
+    .pdc-h2 {
+        font-size: 22px;
+        color: #1a1a2e;
+        margin-bottom: 10px;
+        line-height: 1.35;
+        font-weight: 700
+    }
+
+    .pdc-section {
+        margin: 0 0 24px 0;
+        padding: 20px 18px;
+        background: #faf9ff;
+        border-radius: 14px;
+        box-sizing: border-box
+    }
+
+    .pdc-hero {
+        margin: 20px 0;
+        padding: 20px 18px;
+        background: #605dba;
+        border-radius: 16px;
+        box-sizing: border-box
+    }
+
+    .pdc-hero-eyebrow {
+        font-size: 14px;
+        font-weight: 700;
+        color: rgba(255, 255, 255, 0.75);
+        letter-spacing: 0.08em;
+        margin-bottom: 10px
+    }
+
+    .pdc-hero-title {
+        font-size: 24px;
+        font-weight: 800;
+        color: #fff;
+        line-height: 1.32;
+        margin-bottom: 10px
+    }
+
+    .pdc-hero-text {
+        font-size: 15px;
+        color: rgba(255, 255, 255, 0.9);
+        line-height: 1.7;
+        margin-bottom: 16px
+    }
+
+    .pdc-hero-btns {
+        display: flex;
+        gap: 12px;
+        box-sizing: border-box
+    }
+
+    .pdc-btn-fill {
+        display: block;
+        background: #fff;
+        color: #4a47a3;
+        padding: 13px 20px;
+        border-radius: 10px;
+        font-size: 15px;
+        font-weight: 700;
+        text-align: center;
+        transition: background 0.2s, transform 0.15s, box-shadow 0.2s
+    }
+
+    .pdc-btn-fill:hover {
+        background: #ede9ff;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18)
+    }
+
+    .pdc-btn-ghost {
+        display: block;
+        background: transparent;
+        color: #fff;
+        padding: 11px 20px;
+        border-radius: 10px;
+        font-size: 15px;
+        font-weight: 700;
+        text-align: center;
+        border: 2px solid rgba(255, 255, 255, 0.8);
+        transition: background 0.2s, transform 0.15s
+    }
+
+    .pdc-btn-ghost:hover {
+        background: #fff;
+        transform: translateY(-2px);
+        color: #605dba
+    }
+
+    .pdc-tag-grid {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 10px;
+        margin: 0 0 24px 0
+    }
+
+    .pdc-tag-card {
+        background: #f5f4ff;
+        border: 1.5px solid #d8d4f5;
+        border-radius: 20px;
+        padding: 14px 10px;
+        text-align: center;
+        font-size: 14px;
+        font-weight: 700;
+        color: #4a47a3;
+        box-sizing: border-box;
+        transition: background 0.25s, transform 0.2s
+    }
+
+    .pdc-tag-card:hover {
+        background: #605dba;
+        color: #fff;
+        transform: translateY(-2px)
+    }
+
+    .pdc-stats-row {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 14px;
+        margin: 0 0 24px 0
+    }
+
+    .pdc-stat-box {
+        background: #f5f4ff;
+        border-radius: 14px;
+        padding: 18px 14px;
+        border-top: 4px solid #605dba;
+        text-align: center;
+        box-sizing: border-box;
+        transition: transform 0.25s, box-shadow 0.25s
+    }
+
+    .pdc-stat-box:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 18px rgba(96, 93, 186, 0.18)
+    }
+
+    .pdc-stat-num {
+        font-size: 24px;
+        font-weight: 800;
+        color: #605dba;
+        margin-bottom: 8px
+    }
+
+    .pdc-stat-label {
+        font-size: 14px;
+        color: #334155;
+        line-height: 1.55
+    }
+
+    .pdc-cta-banner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        background: #605dba;
+        border-radius: 16px;
+        padding: 20px 18px;
+        margin: 0 0 24px 0;
+        flex-wrap: wrap;
+        box-sizing: border-box
+    }
+
+    .pdc-cta-left {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        flex: 1;
+        min-width: 220px
+    }
+
+    .pdc-cta-eyebrow {
+        font-size: 14px;
+        font-weight: 700;
+        color: rgba(255, 255, 255, 0.75);
+        letter-spacing: 0.08em
+    }
+
+    .pdc-cta-headline {
+        font-size: 20px;
+        font-weight: 800;
+        color: #fff;
+        line-height: 1.32
+    }
+
+    .pdc-cta-sub {
+        font-size: 14px;
+        color: rgba(255, 255, 255, 0.9);
+        line-height: 1.6
+    }
+
+    .pdc-cta-btns {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        flex-shrink: 0;
+        min-width: 190px;
+        box-sizing: border-box
+    }
+
+    .pdc-check-list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin: 16px 0
+    }
+
+    .pdc-check-row {
+        background: #fff;
+        border: 1.5px solid #e2e0f5;
+        border-left: 6px solid #605dba;
+        border-radius: 14px;
+        padding: 14px 16px;
+        box-sizing: border-box;
+        transition: border-color 0.25s
+    }
+
+    .pdc-check-row:hover {
+        border-color: #a89fe0
+    }
+
+    .pdc-check-title {
+        font-size: 15px;
+        font-weight: 800;
+        color: #1a1a2e;
+        margin-bottom: 6px
+    }
+
+    .pdc-check-text {
+        font-size: 14px;
+        color: #374151;
+        line-height: 1.6
+    }
+
+    .pdc-table-wrap {
+        overflow-x: auto;
+        margin: 16px 0;
+        border: 1.5px solid #e2e0f5;
+        border-radius: 14px;
+        box-sizing: border-box;
+        -webkit-overflow-scrolling: touch
+    }
+
+    .pdc-table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 640px
+    }
+
+    .pdc-table thead {
+        background: #605dba;
+        color: #fff
+    }
+
+    .pdc-table th {
+        padding: 12px 14px;
+        text-align: left;
+        font-size: 14px;
+        font-weight: 700;
+        white-space: nowrap
+    }
+
+    .pdc-table td {
+        padding: 12px 14px;
+        font-size: 14px;
+        border-bottom: 1px solid #ece9fb;
+        color: #1f2937;
+        vertical-align: top;
+        line-height: 1.55
+    }
+
+    .pdc-table tr:last-child td {
+        border-bottom: none
+    }
+
+    .pdc-table tbody tr:nth-child(even) {
+        background: #f7f6fd
+    }
+
+    .pdc-table tbody tr:hover {
+        background: #f0edfc
+    }
+
+    .pdc-quote-card {
+        background: #f5f4ff;
+        border-radius: 14px;
+        padding: 20px 18px;
+        border-left: 6px solid #605dba;
+        box-sizing: border-box
+    }
+
+    .pdc-quote-text {
+        font-size: 16px;
+        line-height: 1.75;
+        color: #1f2937;
+        margin-bottom: 12px
+    }
+
+    .pdc-quote-cite {
+        font-size: 14px;
+        font-weight: 700;
+        color: #605dba
+    }
+
+    .pdc-faq-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin: 16px 0
+    }
+
+    .pdc-faq-item {
+        background: #fff;
+        border-radius: 14px;
+        border: 1.5px solid #e2e0f5;
+        overflow: hidden;
+        box-sizing: border-box;
+        transition: border-color 0.25s
+    }
+
+    .pdc-faq-item:hover {
+        border-color: #a89fe0
+    }
+
+    .pdc-faq-toggle {
+        display: none
+    }
+
+    .pdc-faq-q {
+        display: block;
+        padding: 15px 16px;
+        font-size: 15px;
+        font-weight: 700;
+        color: #3d3a8c;
+        line-height: 1.4;
+        border-left: 6px solid #605dba;
+        box-sizing: border-box
+    }
+
+    .pdc-faq-q:hover {
+        color: #605dba;
+        background: #faf9ff
+    }
+
+    .pdc-faq-a {
+        padding: 10px 16px 16px 22px;
+        box-sizing: border-box;
+        font-size: 14px;
+        color: #334155;
+        line-height: 1.7
+    }
+
+    @media(max-width:1024px) {
+        .pdc-tag-grid {
+            grid-template-columns: repeat(3, 1fr)
+        }
+
+        .pdc-stats-row {
+            grid-template-columns: repeat(2, 1fr)
+        }
+    }
+
+    @media(max-width:768px) {
+        .pdc-cta-banner {
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 18px 16px
+        }
+
+        .pdc-cta-btns {
+            flex-direction: row;
+            width: 100%;
+            min-width: 100%
+        }
+
+        .pdc-btn-fill,
+        .pdc-btn-ghost {
+            flex: 1
+        }
+
+        .pdc-hero-btns {
+            flex-direction: row
+        }
+    }
+
+    @media(max-width:600px) {
+        .pdc-tag-grid {
+            grid-template-columns: repeat(2, 1fr)
+        }
+
+        .pdc-stats-row {
+            grid-template-columns: 1fr
+        }
+
+        .pdc-cta-btns {
+            flex-direction: column
+        }
+
+        .pdc-hero-btns {
+            flex-direction: column
+        }
+
+        .pdc-hero-title {
+            font-size: 20px
+        }
+
+        .pdc-h2 {
+            font-size: 19px
+        }
+    }
+
+    @media(max-width:428px) {
+        .pdc-section {
+            padding: 18px 12px
+        }
+
+        .pdc-hero {
+            padding: 18px 12px
+        }
+
+        .pdc-cta-banner {
+            padding: 16px 12px
+        }
+
+        .pdc-table th,
+        .pdc-table td {
+            padding: 10px 12px;
+            font-size: 14px
+        }
+    }
+
+    @media(max-width:375px) {
+        .pdc-stat-num {
+            font-size: 22px
+        }
+
+        .pdc-hero-title {
+            font-size: 19px
+        }
+
+        .pdc-cta-headline {
+            font-size: 18px
+        }
+    }
+
+    @media(max-width:320px) {
+        .pdc-section {
+            padding: 16px 10px
+        }
+
+        .pdc-hero {
+            padding: 16px 10px
+        }
+
+        .pdc-cta-banner {
+            padding: 14px 10px
+        }
+
+        .pdc-h2 {
+            font-size: 18px
+        }
+
+        .pdc-tag-grid {
+            grid-template-columns: 1fr 1fr
+        }
+    }
+</style>

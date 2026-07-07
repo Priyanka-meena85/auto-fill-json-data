@@ -1,0 +1,471 @@
+<p>Blocked storm drains are the leading preventable cause of urban flooding in the United States, yet most public works departments still schedule catch basin cleaning based on calendar dates rather than actual field conditions. <a href="https://app.oxmaint.ai" class="ox-link">OxMaint</a> gives stormwater crews a smarter way to inspect, schedule, and document drain cleaning — so your municipality is always prepared before the next heavy rain, not scrambling after one.</p>
+<div class="ox-banner">
+<div class="ox-banner-inner">
+<div class="ox-banner-label">STORMWATER COMPLIANCE TOOL</div>
+<h2 class="ox-banner-title">Is Your Storm Drain Network Ready for the Next Storm?</h2>
+<p class="ox-banner-desc">OxMaint schedules cleanings, logs field inspections with photos, and converts blocked drains into urgent work orders — before flooding becomes a liability.</p>
+<div class="ox-banner-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="ox-btn-gold">Book a Demo</a>
+<a href="https://app.oxmaint.ai" class="ox-btn-white">Sign Up Free</a>
+</div>
+</div>
+</div>
+<div class="ox-risk-grid">
+<div class="ox-risk-card ox-risk-high">
+<div class="ox-risk-num">72%</div>
+<div class="ox-risk-label">of urban flood events linked to blocked drainage infrastructure</div>
+</div>
+<div class="ox-risk-card ox-risk-med">
+<div class="ox-risk-num">2x</div>
+<div class="ox-risk-label">higher cleaning cost when drains are left unscheduled beyond 12 months</div>
+</div>
+<div class="ox-risk-card ox-risk-low">
+<div class="ox-risk-num">$2.4B</div>
+<div class="ox-risk-label">annual municipal stormwater infrastructure spending in the US</div>
+</div>
+</div>
+<h2 class="ox-section-title">Storm Drain Cleaning — Master Checklist</h2>
+<p>Use this checklist to standardize your crew's inspection and cleaning process. OxMaint digitizes every step with mobile sign-off, photo capture, and automatic escalation when a drain requires urgent attention.</p>
+<div class="ox-checklist-wrap">
+<div class="ox-cl-header">
+<span>Pre-Season Storm Drain Inspection &amp; Cleaning Checklist</span>
+<span class="ox-cl-badge">NPDES / MS4 Compliance</span>
+</div>
+<div class="ox-cl-group">
+<div class="ox-cl-group-label">PRE-INSPECTION SETUP</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Pull work order and confirm asset location on map</div>
+<div class="ox-cl-desc">Access the drain asset in OxMaint to review last cleaning date, prior inspection photos, and any flagged sediment accumulation from the previous visit before arriving on site.</div>
+</div>
+</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Confirm equipment readiness — vac truck, jetting hose, safety cones</div>
+<div class="ox-cl-desc">Verify vacuum truck fluid levels, jetting pressure system, and confined space safety gear before dispatch. A pre-trip equipment check logged in OxMaint prevents mid-job equipment failures.</div>
+</div>
+</div>
+</div>
+<div class="ox-cl-group">
+<div class="ox-cl-group-label">FIELD INSPECTION</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Remove and inspect grate for damage, corrosion, or displacement</div>
+<div class="ox-cl-desc">Photograph grate condition before removal. Note cracked frames, bent bars, or missing covers that create pedestrian safety hazards. Flag damaged grates as a separate repair work order in OxMaint.</div>
+</div>
+</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Measure sediment accumulation depth and classify debris type</div>
+<div class="ox-cl-desc">Record sediment depth in inches and classify material as standard sediment, organic debris, or hazardous material (oil sheen, chemical odor, unusual color). Hazardous findings trigger immediate supervisor notification through OxMaint.</div>
+</div>
+</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Photograph interior before cleaning — required for compliance documentation</div>
+<div class="ox-cl-desc">Before-cleaning photos are mandatory for MS4 permit compliance and provide legal evidence that conditions were documented before any spill or flood event. OxMaint geo-tags and timestamps each photo automatically.</div>
+</div>
+</div>
+</div>
+<div class="ox-cl-group">
+<div class="ox-cl-group-label">CLEANING EXECUTION</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Vacuum or jet clean to remove all sediment and debris</div>
+<div class="ox-cl-desc">Use high-pressure jetting for compacted sediment followed by vacuum extraction. Record volume of material removed — this data supports disposal manifests and helps identify drains that need more frequent scheduling.</div>
+</div>
+</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Inspect outlet pipe for blockage, root intrusion, or structural damage</div>
+<div class="ox-cl-desc">After debris removal, visually inspect outlet connections for crushed pipe, root intrusion, or joint separation. Structural issues are logged as asset defects in OxMaint and escalated to the engineering team for repair planning.</div>
+</div>
+</div>
+</div>
+<div class="ox-cl-group">
+<div class="ox-cl-group-label">POST-CLEANING CLOSEOUT</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Photograph interior after cleaning and replace grate</div>
+<div class="ox-cl-desc">After-cleaning photo closes the work order documentation loop. Confirm grate is properly seated and secured before leaving site. Unsecured grates are a public safety liability.</div>
+</div>
+</div>
+<div class="ox-cl-item">
+<div class="ox-cl-box"><br />
+</div>
+<div class="ox-cl-content">
+<div class="ox-cl-title">Complete work order in OxMaint — log time, crew, materials, next cleaning date</div>
+<div class="ox-cl-desc">Closing the work order in OxMaint automatically updates the drain's maintenance history, triggers the next scheduled cleaning in the PM calendar, and adds the cleaning to your MS4 annual report data export.</div>
+</div>
+</div>
+</div>
+</div>
+<h2 class="ox-section-title">Cleaning Frequency by Drain Location Type</h2>
+<div class="ox-table-wrap">
+<table class="ox-table">
+	<thead>
+		<tr>
+			<th>Drain Location Type</th>
+			<th>Recommended Frequency</th>
+			<th>Risk if Missed</th>
+			<th>OxMaint Trigger</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>High-traffic intersections</td>
+			<td>Every 3–4 months</td>
+			<td>Critical — flooding and traffic</td>
+			<td>Calendar + rainfall event</td>
+		</tr>
+		<tr>
+			<td>Commercial/industrial zones</td>
+			<td>Every 4–6 months</td>
+			<td>High — sediment and pollutants</td>
+			<td>Calendar schedule</td>
+		</tr>
+		<tr>
+			<td>Residential streets</td>
+			<td>Annually (pre-season)</td>
+			<td>Medium — localized flooding</td>
+			<td>Annual PM trigger</td>
+		</tr>
+		<tr>
+			<td>Catch basins near tree cover</td>
+			<td>Every 2–3 months (fall)</td>
+			<td>High — leaf debris blockage</td>
+			<td>Seasonal trigger</td>
+		</tr>
+		<tr>
+			<td>Construction zone drains</td>
+			<td>Monthly during active work</td>
+			<td>Critical — permit compliance</td>
+			<td>Project-linked work order</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<div class="ox-expert">
+<div class="ox-expert-badge">EXPERT REVIEW</div>
+<div class="ox-expert-name">Sandra Tran, PE, CFM</div>
+<div class="ox-expert-role">Certified Floodplain Manager — 16 Years Municipal Stormwater Operations</div>
+<div class="ox-expert-quote">Most MS4 permit violations I've reviewed trace back to one root cause: no documentation. The cleaning happened, but there's no photo, no date, no volume recorded. When a resident floods and sues the city, "we think we cleaned it last year" is not a defense. Digital maintenance systems that capture crew signoffs, before-and-after photos, and GPS timestamps give public works departments the evidence trail they need to demonstrate due diligence. Beyond compliance, real data on sediment volumes by location lets you reallocate crew time from drains that don't need frequent cleaning to the ones that do.</div>
+</div>
+<div class="ox-faq-section">
+<h2 class="ox-section-title">Frequently Asked Questions</h2>
+<div class="ox-faq">
+<div class="ox-faq-q">How does OxMaint handle emergency work orders for blocked drains after a storm event?</div>
+<div class="ox-faq-a">When a drain is reported blocked via citizen portal, 311 system, or field crew alert, OxMaint creates an urgent work order instantly — assigning the nearest available crew based on location, notifying the supervisor, and tracking response time from report to resolution. All emergency responses are logged to the drain's asset history for flood liability documentation. <a href="https://app.oxmaint.ai" class="ox-link">Sign up free</a> to configure your emergency dispatch workflow.</div>
+</div>
+<div class="ox-faq">
+<div class="ox-faq-q">Can OxMaint generate the stormwater maintenance reports required for MS4 NPDES permits?</div>
+<div class="ox-faq-a">Yes. OxMaint's reporting module produces MS4 annual report data exports showing number of catch basins cleaned, inspection dates, crew hours, material volumes removed, and corrective actions taken. Reports can be filtered by watershed, neighborhood, or permit area — matching the reporting boundaries required by your state environmental agency. The system maintains a 5-year audit trail to support permit renewals and inspections.</div>
+</div>
+<div class="ox-faq">
+<div class="ox-faq-q">How do we migrate our existing drain inventory spreadsheets into OxMaint?</div>
+<div class="ox-faq-a">OxMaint's onboarding team imports your existing drain inventory from CSV, Excel, or GIS shapefiles during setup. Each drain becomes a geo-located asset record with your historical data attached. Most public works departments complete the full drain inventory migration in 2 to 3 weeks. <a href="https://calendly.com/oxmaintapp/30min" class="ox-link">Book a demo</a> to see the import process live.</div>
+</div>
+<div class="ox-faq">
+<div class="ox-faq-q">What happens when a crew finds a drain with structural damage that can't be cleaned?</div>
+<div class="ox-faq-a">In OxMaint, the field crew closes the cleaning work order as "blocked — structural defect" and the system automatically creates a repair work order routed to the engineering or capital projects team. The drain is flagged on the asset map with a defect status, ensuring it doesn't fall through the cracks while awaiting a repair budget. Supervisors see all defect-flagged assets on a single dashboard.</div>
+</div>
+</div>
+<div class="ox-banner">
+<div class="ox-banner-inner">
+<h2 class="ox-banner-title">Is Your Storm Drain Network Ready for the Next Storm?</h2>
+<div class="ox-banner-btns">
+<a href="https://calendly.com/oxmaintapp/30min" class="ox-btn-gold">Book a Demo</a>
+<a href="https://app.oxmaint.ai" class="ox-btn-white">Sign Up Free</a>
+</div>
+</div>
+</div>
+<style>
+.ox-link {
+color: #152277;
+font-weight: 700;
+text-decoration: underline;
+text-decoration-color: #fab758;
+text-underline-offset: 3px;
+}
+.ox-banner {
+background: linear-gradient(135deg, #152277 0%, #0d1855 100%);
+border-radius: 20px;
+padding: 48px 36px;
+margin: 28px 0;
+text-align: center;
+}
+.ox-banner-inner {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.ox-banner-label {
+background: rgba(250,183,88,0.2);
+color: #fab758;
+font-weight: 800;
+letter-spacing: 0.1em;
+padding: 6px 18px;
+border-radius: 20px;
+margin-bottom: 14px;
+display: inline-block;
+}
+.ox-banner-title {
+color: #fff;
+font-weight: 800;
+margin: 0 0 12px;
+line-height: 1.3;
+}
+.ox-banner-desc {
+color: rgba(255,255,255,0.85);
+line-height: 1.7;
+margin: 0 0 24px;
+}
+.ox-banner-btns {
+display: flex;
+gap: 16px;
+flex-wrap: wrap;
+justify-content: center;
+}
+.ox-btn-gold {
+background: #fab758;
+color: #152277;
+font-weight: 800;
+padding: 14px 32px;
+border-radius: 10px;
+text-decoration: none;
+border: 2px solid #fab758;
+display: inline-block;
+transition: background 0.2s, color 0.2s, transform 0.2s;
+}
+.ox-btn-gold:hover {
+background: #fff;
+color: #152277;
+transform: translateY(-2px);
+}
+.ox-btn-white {
+background: transparent;
+color: #fff;
+font-weight: 800;
+padding: 14px 32px;
+border-radius: 10px;
+text-decoration: none;
+border: 2px solid rgba(255,255,255,0.5);
+display: inline-block;
+transition: border-color 0.2s, color 0.2s, transform 0.2s;
+}
+.ox-btn-white:hover {
+border-color: #fab758;
+color: #fab758;
+transform: translateY(-2px);
+}
+.ox-risk-grid {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 16px;
+margin: 28px 0;
+}
+.ox-risk-card {
+border-radius: 16px;
+padding: 24px 18px;
+text-align: center;
+border: 2px solid transparent;
+}
+.ox-risk-high { background: #fff2f2; border-color: #e8aaaa; }
+.ox-risk-med { background: #fff8e8; border-color: #e8d088; }
+.ox-risk-low { background: #f0f4ff; border-color: #b8c8f0; }
+.ox-risk-num {
+color: #152277;
+font-weight: 900;
+margin-bottom: 8px;
+}
+.ox-risk-label {
+color: #5a5a6e;
+line-height: 1.5;
+}
+.ox-section-title {
+color: #152277;
+font-weight: 800;
+margin: 36px 0 14px;
+}
+.ox-checklist-wrap {
+border: 2px solid #e8ecf7;
+border-radius: 18px;
+overflow: hidden;
+margin: 20px 0;
+}
+.ox-cl-header {
+background: linear-gradient(135deg, #152277, #1e33aa);
+color: #fff;
+font-weight: 800;
+padding: 16px 24px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+gap: 10px;
+}
+.ox-cl-badge {
+background: rgba(250,183,88,0.25);
+color: #fab758;
+font-weight: 700;
+padding: 5px 14px;
+border-radius: 20px;
+}
+.ox-cl-group {
+border-bottom: 2px solid #e8ecf7;
+}
+.ox-cl-group:last-child {
+border-bottom: none;
+}
+.ox-cl-group-label {
+background: rgba(21,34,119,0.04);
+color: #152277;
+font-weight: 800;
+letter-spacing: 0.08em;
+padding: 10px 24px;
+border-bottom: 1px solid #e8ecf7;
+}
+.ox-cl-item {
+display: flex;
+gap: 16px;
+padding: 16px 24px;
+border-bottom: 1px solid #f0f2fa;
+align-items: flex-start;
+transition: background 0.15s;
+}
+.ox-cl-item:hover {
+background: rgba(250,183,88,0.04);
+}
+.ox-cl-item:last-child {
+border-bottom: none;
+}
+.ox-cl-box {
+width: 22px;
+height: 22px;
+border: 2px solid #152277;
+border-radius: 6px;
+flex-shrink: 0;
+margin-top: 2px;
+}
+.ox-cl-title {
+color: #152277;
+font-weight: 700;
+margin-bottom: 5px;
+}
+.ox-cl-desc {
+color: #5a5a6e;
+line-height: 1.6;
+}
+.ox-table-wrap {
+overflow-x: auto;
+border-radius: 16px;
+border: 2px solid #e8ecf7;
+margin: 20px 0;
+}
+.ox-table {
+width: 100%;
+border-collapse: collapse;
+min-width: 560px;
+}
+.ox-table thead {
+background: linear-gradient(135deg, #152277, #1e33aa);
+}
+.ox-table thead th {
+color: #fff;
+font-weight: 700;
+padding: 14px 16px;
+text-align: left;
+}
+.ox-table tbody tr {
+border-bottom: 1px solid #e8ecf7;
+transition: background 0.15s;
+}
+.ox-table tbody tr:hover {
+background: rgba(250,183,88,0.05);
+}
+.ox-table tbody td {
+padding: 13px 16px;
+color: #3a3a50;
+}
+.ox-table tbody td:first-child {
+font-weight: 700;
+color: #152277;
+}
+.ox-expert {
+border: 2px solid #e8ecf7;
+border-left: 6px solid #fab758;
+border-radius: 16px;
+padding: 28px;
+margin: 32px 0;
+background: #f9fafd;
+}
+.ox-expert-badge {
+background: #fab758;
+color: #152277;
+font-weight: 800;
+letter-spacing: 0.08em;
+display: inline-block;
+padding: 4px 14px;
+border-radius: 20px;
+margin-bottom: 12px;
+}
+.ox-expert-name {
+color: #152277;
+font-weight: 800;
+margin-bottom: 4px;
+}
+.ox-expert-role {
+color: #5a5a6e;
+margin-bottom: 12px;
+}
+.ox-expert-quote {
+color: #3a3a50;
+line-height: 1.75;
+font-style: italic;
+}
+.ox-faq-section { margin: 32px 0; }
+.ox-faq {
+border: 2px solid #e8ecf7;
+border-radius: 14px;
+margin-bottom: 14px;
+overflow: hidden;
+transition: border-color 0.2s;
+}
+.ox-faq:hover { border-color: #fab758; }
+.ox-faq-q {
+background: rgba(21,34,119,0.05);
+color: #152277;
+font-weight: 700;
+padding: 15px 20px;
+}
+.ox-faq-a {
+color: #3a3a50;
+padding: 15px 20px;
+line-height: 1.75;
+}
+@media (max-width: 768px) {
+.ox-risk-grid { grid-template-columns: 1fr; }
+.ox-banner { padding: 32px 18px; }
+.ox-banner-btns { flex-direction: column; }
+.ox-btn-gold, .ox-btn-white { text-align: center; }
+.ox-cl-header { flex-direction: column; align-items: flex-start; }
+.ox-cl-item { padding: 14px 16px; }
+.ox-cl-group-label { padding: 10px 16px; }
+}
+</style>
