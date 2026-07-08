@@ -4,7 +4,7 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 
-const getOxmaintPrompt = require('./prompts/oxmaint/oxmaint');
+const getoxmaintPrompt = require('./prompts/oxmaint/oxmaint');
 const getIfactoryappPrompt = require('./prompts/ifactory/ifactoryapp');
 
 const app = express();
@@ -38,7 +38,7 @@ app.post('/generate-page', async (req, res) => {
                 // Otherwise, generate a new image using Pollinations AI
                 const topic = inputData.topic || inputData.title || inputData.heading || 'Industrial Manufacturing AI';
                 const imagePrompt = `A highly professional, ultra-realistic daylight photograph of modern industrial workers in a bright, clean factory. The workers are wearing hard hats and looking at a high-tech digital tablet or dashboard. An advanced AI vision camera is visible in the background. The scene is related to ${topic}. DO NOT INCLUDE ANY TEXT OR WORDS IN THE IMAGE to avoid spelling errors. The image must be hyper-detailed and corporate.`;
-                
+
                 generatedImageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(imagePrompt)}?width=1200&height=800&nologo=true`;
                 console.log("Generated Image URL (Pollinations):", generatedImageUrl);
             }
@@ -55,7 +55,7 @@ app.post('/generate-page', async (req, res) => {
         // Get a random template for the specific industry
         let templateHTML = "";
         let templateDir = "";
-        
+
         if (hostname.includes("oxmaint")) {
             templateDir = "C:\\Users\\User\\OneDrive\\Desktop\\oxmaint";
         } else {
@@ -77,7 +77,7 @@ app.post('/generate-page', async (req, res) => {
                 }
             }
             getFiles(templateDir);
-            
+
             if (files.length > 0) {
                 const randomFile = files[Math.floor(Math.random() * files.length)];
                 console.log("Using template:", randomFile);
@@ -89,9 +89,9 @@ app.post('/generate-page', async (req, res) => {
 
         // Construct the prompt for the AI
         let prompt = "";
-        
+
         if (hostname.includes("oxmaint")) {
-            prompt = getOxmaintPrompt(inputData, templateHTML);
+            prompt = getoxmaintPrompt(inputData, templateHTML);
         } else {
             prompt = getIfactoryappPrompt(inputData, templateHTML);
         }
@@ -127,7 +127,7 @@ app.post('/generate-page', async (req, res) => {
 
         // Extract content and parse JSON (cleaning markdown block if present)
         let generatedText = aiResponse.choices[0].message.content.trim();
-        
+
         let parsedJson = null;
         try {
             // First attempt: try to parse the entire text (if it's already pure JSON)
@@ -167,10 +167,10 @@ app.get('/fetch-image', async (req, res) => {
     try {
         const imageUrl = req.query.url;
         if (!imageUrl) return res.status(400).send("Missing url parameter");
-        
+
         const response = await fetch(imageUrl);
         if (!response.ok) throw new Error("Failed to fetch image");
-        
+
         const arrayBuffer = await response.arrayBuffer();
         res.set('Content-Type', 'image/jpeg');
         res.send(Buffer.from(arrayBuffer));
