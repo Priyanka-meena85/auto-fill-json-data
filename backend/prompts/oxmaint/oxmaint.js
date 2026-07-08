@@ -8,6 +8,8 @@ Your task is to:
 2. Based on that research, create an SEO-optimized, highly informative, and traffic-focused case study/blog/checklist page for our website oxmaint.ai.
 3. Return ONLY a valid JSON object matching exactly this schema, with no markdown formatting or extra text:
 
+- CRITICAL: Provide highly sophisticated, top-tier professional content that perfectly matches and utilizes the provided JSON data. The content must be deeply engaging, technically accurate, and explicitly tailored to the provided data inputs.
+
 {
     "url": "seo-friendly-url-slug",
     "title": "SEO Optimized Page Title",
@@ -26,15 +28,14 @@ STRICT CONTENT & STRUCTURE RULES:
 - CRITICAL: Add extensive visual effects and components according to the content's need. You MUST include various UI elements like data cards, responsive tables, CSS-based graphs, track bars, progress indicators, and interactive-looking elements in every page.
 - Start the content with a <p> tag and end with a <style> tag.
 - CRITICAL: First paragraph MUST be exactly 5 to 7 lines long (approximately 80 to 120 words). You must write enough content to ensure the first paragraph is lengthy and detailed, never short.
-- Add a hyperlink in the first paragraph. Highlight text link in first paragraph.
+- CRITICAL: Add a text hyperlink for "Book a Demo" (https://calendly.com/oxmaintapp/30min) in the first paragraph ONLY in the last or second-to-last line (do NOT add hyperlinks in the first 2-3 lines). Highlight the text link in the first paragraph.
 - Add FAQs. FAQ answers should be exactly 3 to 4 lines maximum. CRITICAL: Use text links in EVERY FAQ answer. Highlight text links properly using the industry's primary color (#152277 or #fab758) via CSS classes.
 - CRITICAL: There MUST be EXACTLY 3 CTA sections in the page. One MUST be in the hero section at the top, one in the middle, and one at the very end.
 - CRITICAL: Keep all CTA sections extremely minimal. The CTA section MUST be its own separate, dedicated HTML section.
 - DO NOT put CTA buttons inside educational or informative sections. 
 - CRITICAL STRICT RULE FOR CTA: The CTA section MUST ONLY have a short headline and a highly meaningful subtitle that is EXACTLY 2 to 3 lines long. Make sure these 2 to 3 lines are the most impactful and meaningful lines. DO NOT add any extra paragraphs, lists, or fluff.
 - CRITICAL SECTION ORDERING: Do NOT put the FAQ section just after the middle CTA. There MUST ALWAYS be at least 2 or 3 distinct sections between the middle CTA and the FAQ section. The FAQ section MUST always be placed immediately BEFORE or immediately AFTER the final CTA section at the very bottom of the page.
-- CRITICAL: Every single CTA section MUST include BOTH buttons: "Sign Up" (https://app.oxmaint.ai) AND "Book a Demo" (https://calendly.com/oxmaintapp/30min).
-- Mainly focus on Book a Demo.
+- CRITICAL: You MUST use ONLY two links for buttons or hyperlinks in the ENTIRE PAGE: "https://app.oxmaint.ai" and "https://calendly.com/oxmaintapp/30min". ABSOLUTELY DO NOT use any other links for any reason. Focus heavily on getting the user to "Book a Demo". Every single CTA section MUST include BOTH of these buttons.
 - CRITICAL: Center-align all CTA sections and buttons. Use 'justify-content: center' and 'gap: 15px' for button containers.
 - CRITICAL: Do NOT use ANY <img> tags in the HTML content. ABSOLUTELY NO IMAGES in the code.
 - Do not use emojis or icons (use only CSS icons & numbers).

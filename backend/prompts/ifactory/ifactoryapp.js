@@ -22,12 +22,12 @@ STRICT CONTENT & STRUCTURE RULES:
 - CRITICAL: The total page word count MUST strictly be between 1800 to 2000 words limit. Expand your content deeply to hit this target.
 - EXCLUDING CTA sections, every page should have at least 8 to 10 completely distinct sections. CRITICAL: Ensure the content perfectly matches the specific section's design and purpose. Keep sections minimal, clean, and highly effective.
 - The content must make people curious to read and click "Support" or "Book a Demo".
-- Give high-quality content that is strictly relatable to the title and perfectly correct.
+- CRITICAL: Provide highly sophisticated, top-tier professional content that perfectly matches and utilizes the provided JSON data. The content must be deeply engaging, technically accurate, and explicitly tailored to the provided data inputs.
 - CRITICAL: ALWAYS change the structure of EVERY page. Use completely different examples and layouts for every page. Do not copy the same structure from any samples. Make pages highly creative and TOTALLY DIFFERENT from each other.
 - CRITICAL: Add extensive visual effects and components according to the content's need. You MUST include various UI elements like data cards, responsive tables, CSS-based graphs, track bars, and progress indicators in every page.
 - Start the content with a <p> tag and end with a <style> tag.
 - CRITICAL: First paragraph MUST be exactly 5 to 7 lines long (approximately 80 to 120 words). You must write enough content to ensure the first paragraph is lengthy and detailed, never short.
-- Add a hyperlink in the first paragraph ONLY in the last or second-to-last line (do NOT add hyperlinks in the first 2-3 lines). Highlight text link in first paragraph.
+- CRITICAL: Add a text hyperlink for "Book a Demo" (https://calendly.com/contact-ifactoryapp/30min) in the first paragraph ONLY in the last or second-to-last line (do NOT add hyperlinks in the first 2-3 lines). Highlight the text link in the first paragraph.
 - Do not add any class in the first paragraph. Do not use CSS for the first paragraph.
 - FAQs should not be more than 5. CRITICAL: Use text links in EVERY FAQ answer. Highlight text links properly using the industry's primary color (#605dba) via CSS classes.
 - CRITICAL: FAQ answers MUST be extremely detailed, at least 80-100 words each (minimum 6-8 lines). Do NOT write short 1-sentence answers for FAQs.
@@ -36,7 +36,7 @@ STRICT CONTENT & STRUCTURE RULES:
 - DO NOT put CTA buttons inside educational or informative sections. 
 - CRITICAL STRICT RULE FOR CTA: The CTA section MUST ONLY have a short headline and a highly meaningful subtitle that is EXACTLY 2 to 3 lines long. Make sure these 2 to 3 lines are the most impactful and meaningful lines. DO NOT add any extra paragraphs, lists, or fluff.
 - CRITICAL SECTION ORDERING: Do NOT put the FAQ section just after the middle CTA. There MUST ALWAYS be at least 2 or 3 distinct sections between the middle CTA and the FAQ section. The FAQ section MUST always be placed immediately BEFORE or immediately AFTER the final CTA section at the very bottom of the page.
-- CRITICAL: Every single CTA section MUST include BOTH buttons: "Book a Demo" (https://calendly.com/contact-ifactoryapp/30min) AND "Support" (https://ifactoryapp.com/support). Do not use any other links.
+- CRITICAL: You MUST use ONLY two links for buttons or hyperlinks in the ENTIRE PAGE: "https://ifactoryapp.com/support" and "https://calendly.com/contact-ifactoryapp/30min". ABSOLUTELY DO NOT use any other links for any reason. Focus heavily on getting the user to "Book a Demo". Every single CTA section MUST include BOTH of these buttons.
 - CRITICAL: Center-align all CTA sections and buttons. Use 'justify-content: center' and 'gap: 15px' for button containers.
 - CRITICAL: Do NOT use ANY <img> tags in the HTML content. ABSOLUTELY NO IMAGES in the code.
 - CTA buttons should be displayed below the CTA section text content.
