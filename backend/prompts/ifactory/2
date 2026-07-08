@@ -211,7 +211,7 @@
                 reaching higher reductions over time. The exact number depends on your starting maintenance maturity,
                 how many critical assets are already sensored, and how quickly your team acts on alerts. Facilities
                 coming from a purely reactive baseline tend to see the fastest early gains, since almost every prevented
-                failure represents new savings.</div>
+                failure represents new savings. <a href="https://calendly.com/contact-ifactoryapp/30min">Book a demo</a> to explore downtime reduction for your plant.</div>
         </div>
         <div class="pm-faq-item">
             <input type="checkbox" id="pm-faq-2" class="pm-faq-toggle" />
@@ -220,7 +220,7 @@
                 exists in your PLCs, SCADA historian, and existing condition-monitoring sensors, so the initial gap is
                 usually analytics rather than hardware. For assets without any existing instrumentation, low-cost
                 retrofit sensors can be added during the pilot phase without production disruption. A data audit in the
-                first two weeks of rollout will tell you exactly where the gaps are before any spend is committed.</div>
+                first two weeks of rollout will tell you exactly where the gaps are before any spend is committed. <a href="https://calendly.com/contact-ifactoryapp/30min">Book a demo</a> to discuss your existing setup.</div>
         </div>
         <div class="pm-faq-item">
             <input type="checkbox" id="pm-faq-3" class="pm-faq-toggle" />
@@ -242,7 +242,7 @@
                 replacing it. The goal is to redirect maintenance effort toward the assets that are actually drifting
                 toward failure, while routine preventive tasks like lubrication and filter changes continue on their
                 normal schedule. This is exactly where the 18-25% maintenance cost reduction comes from: less
-                unnecessary servicing on healthy equipment and faster intervention on equipment that genuinely needs it.
+                unnecessary servicing on healthy equipment and faster intervention on equipment that genuinely needs it. <a href="https://calendly.com/contact-ifactoryapp/30min">Book a demo</a> to see how this fits into your workflow.
             </div>
         </div>
         <div class="pm-faq-item">
@@ -254,7 +254,7 @@
                 to six weeks in advance depending on the asset and failure mode. Early in deployment, accuracy is lower
                 while the model learns your specific equipment, which is why a validated pilot phase matters before
                 scaling plant-wide. Teams with questions about accuracy on their own asset mix can reach out through <a
-                    href="https://ifactoryapp.com/support">support</a> for a technical walkthrough.</div>
+                    href="https://ifactoryapp.com/support">support</a> for a technical walkthrough or <a href="https://calendly.com/contact-ifactoryapp/30min">book a demo</a>.</div>
         </div>
     </div>
 </div>

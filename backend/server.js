@@ -4,8 +4,8 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 
-const getOxmaintPrompt = require('./prompts/oxmaint');
-const getIfactoryappPrompt = require('./prompts/ifactoryapp');
+const getOxmaintPrompt = require('./prompts/oxmaint/oxmaint');
+const getIfactoryappPrompt = require('./prompts/ifactory/ifactoryapp');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
