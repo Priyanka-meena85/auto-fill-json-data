@@ -1,14 +1,12 @@
 module.exports = function getOxmaintPrompt(inputData, templateHTML) {
     return `
-You are an expert SEO content generator and web designer. 
+You are an elite, world-class SEO content generator and expert UI/UX web designer. 
 I am providing you with a JSON object containing raw data for a page.
 
 Your task is to:
-1. Do market research on this topic.
-2. Based on that research, create an SEO-optimized, highly informative, and traffic-focused case study/blog/checklist page for our website oxmaint.ai.
+1. Conduct deep market research on this topic to ensure extreme technical accuracy.
+2. Based on that research, create an SEO-optimized, highly informative, and traffic-focused case study/blog/checklist page for our website oxmaint.ai. Our brand focuses on CMMS (Computerized Maintenance Management Systems), daily maintenance checklists, work order management, facility safety, and operational efficiency. The tone must be highly practical, actionable, authoritative, and reliable.
 3. Return ONLY a valid JSON object matching exactly this schema, with no markdown formatting or extra text:
-
-- CRITICAL: Provide highly sophisticated, top-tier professional content that perfectly matches and utilizes the provided JSON data. The content must be deeply engaging, technically accurate, and explicitly tailored to the provided data inputs.
 
 {
     "url": "seo-friendly-url-slug",
@@ -21,45 +19,50 @@ Your task is to:
 }
 
 STRICT CONTENT & STRUCTURE RULES:
-- CRITICAL: The total page word count MUST strictly be between 1800 to 2000 words limit. Expand your content deeply to hit this target.
-- EXCLUDING CTA sections, every page should have at least 8 to 10 completely distinct sections. CRITICAL: Ensure the content perfectly matches the specific section's design and purpose. Keep sections minimal, clean, and highly effective.
-- You MUST include: responsive tables, graphs (HTML/CSS representation), real data, and an "Expert Review" section on EVERY page.
-- CRITICAL: ALWAYS change the structure of EVERY page. Use completely different examples and layouts for every page. Do not copy the same structure from any samples. Make pages highly creative and TOTALLY DIFFERENT from each other.
-- CRITICAL: Add extensive visual effects and components according to the content's need. You MUST include various UI elements like data cards, responsive tables, CSS-based graphs, track bars, progress indicators, and interactive-looking elements in every page.
+- CRITICAL EXTREME MANDATE FOR LENGTH: The total page word count MUST strictly be MINIMUM 3000 to 4000 words. This is a massive, highly detailed long-form guide. You MUST expand your content deeply, providing extensive paragraphs, multiple sub-topics, deep-dive technical explanations, and thorough examples to hit this target. Provide high-value, actionable maintenance insights.
+- EXCLUDING CTA sections, every page should have at least 15 to 20 completely distinct sections. Keep sections clean, purposeful, and highly actionable for maintenance teams.
+- CRITICAL CREATIVITY: Ensure every single section is unique and highly creative. Do not repeat formats. Alternate between grids, lists, tables, infographics (CSS), and deep-dive text blocks.
+- You MUST include: actionable safety checklists, responsive data tables, CSS-based graphs, and an "Expert Review" section on EVERY page.
+- CRITICAL: ALWAYS change the structure of EVERY page. Use completely different examples and layouts for every page. Do not copy the same structure from any samples. Make pages TOTALLY DIFFERENT from each other.
+- CRITICAL: Add extensive visual effects and rich UI components. You MUST include various elements like elegant data cards, highly readable responsive tables, CSS-based statistical graphs, track bars, and interactive-looking checklists.
 - Start the content with a <p> tag and end with a <style> tag.
-- CRITICAL: First paragraph MUST be exactly 5 to 7 lines long (approximately 80 to 120 words). You must write enough content to ensure the first paragraph is lengthy and detailed, never short.
-- CRITICAL: Add a text hyperlink for "Book a Demo" (https://calendly.com/oxmaintapp/30min) in the first paragraph ONLY in the last or second-to-last line (do NOT add hyperlinks in the first 2-3 lines). Highlight the text link in the first paragraph.
-- Add FAQs. FAQ answers should be exactly 3 to 4 lines maximum. CRITICAL: Use text links in EVERY FAQ answer. Highlight text links properly using the industry's primary color (#152277 or #fab758) via CSS classes.
-- CRITICAL: There MUST be EXACTLY 3 CTA sections in the page. One MUST be in the hero section at the top, one in the middle, and one at the very end.
-- CRITICAL: Keep all CTA sections extremely minimal. The CTA section MUST be its own separate, dedicated HTML section.
+- CRITICAL: First paragraph MUST be exactly 5 to 7 lines long (approximately 80 to 120 words). It must be deeply engaging and highly detailed.
+- CRITICAL: Add a text hyperlink for "Book a Demo" (https://calendly.com/oxmaintapp/30min) in the first paragraph ONLY in the last or second-to-last line. Highlight this link using the primary color.
+- Do not add any CSS class to the very first paragraph.
+- FAQs should not be more than 5. CRITICAL: Use text links in EVERY FAQ answer. Highlight text links properly.
+- CRITICAL: FAQ answers MUST be extremely detailed, at least 80-100 words each (minimum 6-8 lines). Do NOT write short 1-sentence answers.
+- CRITICAL: There MUST be EXACTLY 3 CTA sections in the page. One in the hero section at the top, one in the middle, and one at the very end.
+- CRITICAL STRICT RULE FOR CTA: Keep CTA sections extremely minimal. They MUST ONLY have a short headline and a highly meaningful, persuasive subtitle that is EXACTLY 2 to 3 lines long. DO NOT add any extra paragraphs, lists, or fluff inside CTA sections.
 - DO NOT put CTA buttons inside educational or informative sections. 
-- CRITICAL STRICT RULE FOR CTA: The CTA section MUST ONLY have a short headline and a highly meaningful subtitle that is EXACTLY 2 to 3 lines long. Make sure these 2 to 3 lines are the most impactful and meaningful lines. DO NOT add any extra paragraphs, lists, or fluff.
-- CRITICAL SECTION ORDERING: Do NOT put the FAQ section just after the middle CTA. There MUST ALWAYS be at least 2 or 3 distinct sections between the middle CTA and the FAQ section. The FAQ section MUST always be placed immediately BEFORE or immediately AFTER the final CTA section at the very bottom of the page.
-- CRITICAL: You MUST use ONLY two links for buttons or hyperlinks in the ENTIRE PAGE: "https://app.oxmaint.ai" and "https://calendly.com/oxmaintapp/30min". ABSOLUTELY DO NOT use any other links for any reason. Focus heavily on getting the user to "Book a Demo". Every single CTA section MUST include BOTH of these buttons.
-- CRITICAL: Center-align all CTA sections and buttons. Use 'justify-content: center' and 'gap: 15px' for button containers.
+- CRITICAL SECTION ORDERING: Do NOT put the FAQ section just after the middle CTA. There MUST ALWAYS be at least 2 or 3 distinct sections between the middle CTA and the FAQ section. The FAQ section MUST always be placed immediately BEFORE or immediately AFTER the final CTA section at the very bottom.
+- CRITICAL: You MUST use ONLY two links for buttons or hyperlinks in the ENTIRE PAGE: "https://app.oxmaint.ai" and "https://calendly.com/oxmaintapp/30min". Focus heavily on getting the user to "Book a Demo". Every CTA section MUST include BOTH of these buttons.
+- CRITICAL: Center-align all CTA sections and buttons. Use 'display: flex; justify-content: center; gap: 15px;' for button containers.
 - CRITICAL: Do NOT use ANY <img> tags in the HTML content. ABSOLUTELY NO IMAGES in the code.
-- Do not use emojis or icons (use only CSS icons & numbers).
+- CTA buttons should be displayed directly below the CTA text content.
+- Do not use icons or emojis. Use only clean, professional typography and CSS shapes.
 - Do not add HTML boilerplate (no html, head, body tags).
 
-
-STRICT CSS & DESIGN RULES:
-- CRITICAL CREATIVITY MANDATE: Do NOT make pages boring! You MUST create highly attractive, visually stunning, and extremely effective layouts. Do NOT just output plain text in basic divs. Use rich, dynamic UI patterns: Zig-Zag Content Sections, Grid Cards with box-shadows and hover effects, Step-by-Step Timelines, and Statistics Highlight Banners. Every section must have a unique, engaging layout style.
-- Primary colors: #152277 and #fab758.
-- Use different text and bg color for buttons compared to the CTA section background color.
-- MUST use different colors for CTA buttons on HOVER. Use correct hover effect & alignment on buttons.
-- Add border-radius in ALL sections. Make the whole corners rounded.
-- CRITICAL: ABSOLUTELY DO NOT use max-width ANYWHERE. Make everything 100% width fluid.
-- Ensure all tables and content are completely device responsive.
-- Do NOT use h1 tag.
-- Do NOT use font-family, font-size, JavaScript, or extra margin/padding.
-- Keep the standard font size which is readable to people of all ages.
-- CRITICAL STRICT CSS RULE: ABSOLUTELY DO NOT use inline CSS (e.g., style="...") anywhere in the HTML. All styling MUST be done via CSS classes in the <style> block.
-- CRITICAL STRICT CSS RULE: ABSOLUTELY DO NOT use the 'body', 'html', or '*' (universal) selectors in your CSS. All CSS must be scoped to specific class names.
-- Do NOT use comments in code.
-- Do NOT add any CSS in hyperlinks without a class name.
-- Do NOT use padding more than 20px at y-axis (top and bottom) and 18px at x-axis (left and right) in main sections.
-- In mobile view: do NOT use side padding more than 12px.
-- Use correct alignment of CTA buttons and cards in all devices.
+STRICT CSS, UI/UX & PERFECT ALIGNMENT RULES:
+- CRITICAL CREATIVITY MANDATE: You MUST create highly attractive, visually stunning, and extremely professional layouts. Use rich, dynamic UI patterns: Zig-Zag Content Sections, elegant Grid Cards with subtle hover effects, sleek Step-by-Step Timelines, and Statistics Highlight Banners.
+- CRITICAL PERFECT ALIGNMENT RULE: When using Flexbox or Grid for cards or columns, you MUST prevent vertical stretching! Cards must wrap tightly around their text content. NEVER leave huge, inappropriate empty white space at the bottom of a card. Use 'align-items: flex-start;' on flex containers, or 'height: fit-content;' on cards to prevent them from stretching to match taller siblings.
+- TYPOGRAPHY & READABILITY: Enforce professional typography. Set paragraph 'line-height' to 1.6 or 1.8. Differentiate headings with strong 'font-weight' (e.g., 600 or 700) and use slightly muted colors (e.g., #34495e or #4a5568) for body text to reduce eye strain.
+- CONSISTENT SPACING: Use Flexbox/Grid 'gap' for spacing between elements instead of unpredictable margins. Ensure all paddings and margins are perfectly symmetrical and modern.
+- CRITICAL: Use beautiful CSS properties like subtle, soft box-shadows (e.g., 'box-shadow: 0 4px 12px rgba(0,0,0,0.05)'), elegant gradients, and rich background contrasts (e.g., a very light #f8f9fa background for cards placed on a pure #ffffff container).
+- CRITICAL: You MUST use 'border-radius: 12px;' or '16px;' on EVERY main section container, feature card, grid box, and wrapper. Make everything beautifully, elegantly rounded.
+- CRITICAL: Do NOT use excessive, bloated white space. Keep layouts tight, mathematically aligned, and dense but actionable.
+- CRITICAL: Ensure 100% mobile responsiveness. Elements should gracefully stack on smaller screens. No horizontal overflow.
+- Primary colors: #152277 (Oxmaint Blue) and #fab758 (Action Yellow). Use the primary color boldly in CTA sections. MUST use different colors for CTA buttons on HOVER.
+- CRITICAL CONTRAST RULE: If a section has a dark background (like #152277), ALL text inside it (especially headings) MUST be pure white (#fff) for perfect readability.
+- Do not use font size less than 14px anywhere.
+- Make tables perfectly styled: alternating row colors, strong header backgrounds, and scrollable horizontally on mobile.
+- Use smooth, professional hover effects on buttons and cards (e.g., 'transform: translateY(-2px); transition: all 0.3s ease;').
+- Do NOT use the <h1> tag.
+- CRITICAL: ABSOLUTELY DO NOT use 'max-width' ANYWHERE in the main structure. Make everything 100% width fluid within its container.
+- Do NOT use comments, JavaScript, italic fonts, or 'font-family' declarations.
+- CRITICAL STRICT CSS RULE: ABSOLUTELY DO NOT use inline CSS (e.g., style="..."). All styling MUST be done via well-named semantic CSS classes in the <style> block.
+- CRITICAL STRICT CSS RULE: ABSOLUTELY DO NOT use the 'body', 'html', or '*' (universal) selectors in your CSS.
+- Do NOT use padding more than 20px at y-axis and 18px at x-axis in main sections. Limit mobile side padding to 12px.
+- Use precise, perfect alignment of CTA buttons and cards across all devices.
 
 YOU MUST USE THIS EXACT CSS PATTERN TO PREVENT RESPONSIVE ISSUES:
 .section-wrapper { width: 100%; box-sizing: border-box; padding: 20px 18px; margin: 0; }
@@ -67,7 +70,7 @@ YOU MUST USE THIS EXACT CSS PATTERN TO PREVENT RESPONSIVE ISSUES:
 .grid-col { flex: 1 1 100%; box-sizing: border-box; }
 @media (max-width: 768px) { .section-wrapper { padding: 15px 12px; } }
 @media (min-width: 769px) { .grid-col { flex: 1; } }
-(Use this pattern, replacing class names with semantic ones, but keeping the exact flex-wrap and box-sizing rules).
+(Use this pattern, replacing class names with semantic ones, but keeping the exact flex-wrap, align-items, and box-sizing rules).
 
 CRITICAL UI TEMPLATE REFERENCE:
 Below is a sample HTML template. ONLY use this to understand our general aesthetic (colors, border-radius, typography style). 
