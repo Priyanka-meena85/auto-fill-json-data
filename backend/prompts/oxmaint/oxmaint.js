@@ -63,7 +63,7 @@ STRICT CSS & DESIGN RULES:
 
 YOU MUST USE THIS EXACT CSS PATTERN TO PREVENT RESPONSIVE ISSUES:
 .section-wrapper { width: 100%; box-sizing: border-box; padding: 20px 18px; margin: 0; }
-.grid-row { display: flex; flex-wrap: wrap; gap: 15px; width: 100%; margin: 0; box-sizing: border-box; }
+.grid-row { display: flex; flex-wrap: wrap; gap: 15px; width: 100%; margin: 0; box-sizing: border-box; align-items: flex-start; }
 .grid-col { flex: 1 1 100%; box-sizing: border-box; }
 @media (max-width: 768px) { .section-wrapper { padding: 15px 12px; } }
 @media (min-width: 769px) { .grid-col { flex: 1; } }

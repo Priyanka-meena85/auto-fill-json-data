@@ -1,6 +1,6 @@
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     if (request.action === "generatePage") {
-        fetch("http://localhost:3000/generate-page", {
+        fetch("https://auto-fill-json-data.onrender.com/generate-page", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
