@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Backend is running successfully");
+    res.send("Backend is running successfully");
 });
 
 app.post('/generate-page', async (req, res) => {
@@ -63,7 +63,7 @@ app.post('/generate-page', async (req, res) => {
         if (hostname.includes("oxmaint")) {
             templateDir = "C:\\Users\\User\\OneDrive\\Desktop\\oxmaint";
         } else {
-            templateDir = path.join(__dirname, '../ifactory/blogs');
+            templateDir = path.join(__dirname, '../ifactory');
         }
 
         try {
@@ -185,5 +185,5 @@ app.get('/fetch-image', async (req, res) => {
 });
 
 app.listen(PORT, "0.0.0.0", () => {
-  console.log(`Server running on port ${PORT}`);
+    console.log(`Server running on port ${PORT}`);
 });
