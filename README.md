@@ -48,7 +48,7 @@ The backend acts as the bridge between the extension and the DeepSeek AI model.
    ```bash
    node server.js
    ```
-   *The server should now be running on `http://localhost:5000`.*
+   *The server should now be running on `http://localhost:3000`.*
 
 ### Installing the Chrome Extension
 1. Open Google Chrome and navigate to `chrome://extensions/`.

@@ -140,6 +140,8 @@ function getInputFields() {
 }
 //    AUTOFILL FORM
 function autofillForm(jsonData) {
+  if (!jsonData) jsonData = {};
+
   // console.log("inside autofill function");
   let jsonDataKeys = Object.keys(jsonData);
   jsonDataKeys.forEach((key) => {
@@ -239,6 +241,42 @@ function autofillForm(jsonData) {
     authorName.value = "James Smith";
     readingTime.value = setReadingTime();
   });
+
+  // Ensure default/fallback values for missing properties after parsing
+  if (urlField && !urlField.value) urlField.value = "generated-url-slug-" + Date.now();
+  if (pageTitle && !pageTitle.value) pageTitle.value = "Generated Title - Please Update";
+  if (description && !description.value) description.value = "Generated description. Please update with relevant information.";
+  if (metaKeywords && !metaKeywords.value) metaKeywords.value = "maintenance, software, ai";
+  
+  if (category && (!category.value || category.options[category.selectedIndex].text === "Select Category")) {
+    Array.from(category.options).forEach((option) => {
+      if (option.text.toLowerCase().includes("article")) {
+        category.value = option.value;
+      }
+    });
+  }
+
+  let contentInjected = false;
+  const wysiwyg = document.querySelector('div[contenteditable="true"]');
+  if (wysiwyg && wysiwyg.innerHTML && wysiwyg.innerHTML.trim().length > 0) contentInjected = true;
+  
+  if (!contentInjected) {
+      let fallbackContent = "<p>Content generation failed or is missing. Please try again.</p>";
+      const codeBox = document.querySelector("rte-codebox");
+      if (codeBox) {
+        const codeTextarea = codeBox.querySelector("textarea");
+        if (codeTextarea) {
+          codeTextarea.value = fallbackContent;
+          codeTextarea.dispatchEvent(new Event("input", { bubbles: true }));
+          codeTextarea.dispatchEvent(new Event("change", { bubbles: true }));
+        }
+      }
+      if (wysiwyg) {
+        wysiwyg.innerHTML = fallbackContent;
+        wysiwyg.dispatchEvent(new Event("input", { bubbles: true }));
+      }
+  }
+
   checkEmptyFields();
   showToast("Form autofilled");
 }
