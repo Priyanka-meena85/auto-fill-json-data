@@ -16,7 +16,7 @@ let hostname = window.location.hostname;
 let isAllowed = allowedSites.some((site) => hostname.includes(site));
 
 let pageUrl = window.location.href;
-if (isAllowed && pageUrl.includes("manage-post-2k26/add_post")) {
+if (isAllowed && pageUrl.includes("manage-post-2k26/add_post") && window.self === window.top) {
   let filBtn = document.createElement("button");
   filBtn.className = "fillJson";
   filBtn.innerText = "Fill Json Data";

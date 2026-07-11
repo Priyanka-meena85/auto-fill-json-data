@@ -111,6 +111,8 @@ Generate unique, professional, SEO-friendly content according to the supplied
 page title and metadata.
 Do not remove mandatory sections from the selected template.
 
+CRITICAL MOBILE BUTTON RESPONSIVENESS: On mobile screens (e.g., max-width 768px), ALL CTA buttons MUST appear in two separate rows (stack vertically), taking 100% width each, with proper spacing between them. You MUST add the necessary responsive CSS media queries to enforce this behavior without affecting the desktop layout.
+
 Return the result in the exact JSON schema expected by the existing frontend:
 {
     "url": "seo-friendly-url-slug",
