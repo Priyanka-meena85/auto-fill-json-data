@@ -30,7 +30,34 @@ if (isAllowed && pageUrl.includes("manage-post-2k26/add_post")) {
     .querySelector(".container_12")
     ?.querySelector(".grid_10")
     ?.querySelector("h2");
-  console.log(header);
+    
+  if (!header) {
+    // Fallback: try to find any header containing "Add New Post" or similar
+    const headers = document.querySelectorAll("h1, h2, h3, h4, h5, .card-header");
+    for (let i = 0; i < headers.length; i++) {
+      if (headers[i].innerText.toLowerCase().includes("add new post") || headers[i].innerText.toLowerCase().includes("add post")) {
+        header = headers[i];
+        break;
+      }
+    }
+  }
+  
+  if (!header) {
+      // Final fallback: append to the form or body as a floating container
+      const container = document.createElement("div");
+      container.style.position = "fixed";
+      container.style.bottom = "20px";
+      container.style.right = "20px";
+      container.style.zIndex = "9999";
+      container.style.padding = "10px";
+      container.style.backgroundColor = "white";
+      container.style.border = "1px solid #ccc";
+      container.style.borderRadius = "8px";
+      document.body.appendChild(container);
+      header = container;
+  }
+
+  console.log("Button container:", header);
   if (header) {
     header.appendChild(filBtn);
 
@@ -120,23 +147,19 @@ document.addEventListener("click", async function (event) {
 // get all input fields that need to be filled
 function getInputFields() {
   // console.log("goint to get inputs");
-  fields = document.querySelectorAll(
-    'input[name="title"], input[name="heading"], input[name="descr"], select[name="category_id"], input[name="image"], input[name="author"], input[name="time"], input[name="tags"], input[name="submit"]',
-  );
-  if (!fields) {
-    return;
-  } else {
-    urlField = fields[0];
-    pageTitle = fields[1];
-    description = fields[2];
-    category = fields[3];
-    image = fields[4];
-    authorName = fields[5];
-    readingTime = fields[6];
-    metaKeywords = fields[7];
-    submitButton = fields[8];
-    // checkEmptyFields();
-  }
+  
+  // Use multiple selectors to be robust against form changes
+  urlField = document.querySelector('input[name="url"], input[name="title"], input[placeholder*="URL" i]'); 
+  pageTitle = document.querySelector('input[name="heading"], input[name="page_title"], input[placeholder*="Title" i]');
+  description = document.querySelector('input[name="descr"], input[name="description"], input[placeholder*="Description" i]');
+  category = document.querySelector('select[name="category_id"], select[name="category"]');
+  image = document.querySelector('input[name="image"], input[type="file"]');
+  authorName = document.querySelector('input[name="author"], input[name="author_name"], input[placeholder*="author" i]');
+  readingTime = document.querySelector('input[name="time"], input[name="reading_time"], input[placeholder*="Reading Time" i]');
+  metaKeywords = document.querySelector('input[name="tags"], input[name="meta_keywords"], input[placeholder*="tags" i]');
+  submitButton = document.querySelector('input[name="submit"], button[type="submit"]');
+
+  fields = [urlField, pageTitle, description, category, image, authorName, readingTime, metaKeywords, submitButton].filter(Boolean);
 }
 //    AUTOFILL FORM
 function autofillForm(jsonData) {
@@ -145,23 +168,23 @@ function autofillForm(jsonData) {
   // console.log("inside autofill function");
   let jsonDataKeys = Object.keys(jsonData);
   jsonDataKeys.forEach((key) => {
-    if (key.toLowerCase().includes("url")) {
+    if (key.toLowerCase().includes("url") && urlField) {
       urlField.value = jsonData[key];
     }
-    if (key.toLowerCase().includes("title")) {
+    if (key.toLowerCase().includes("title") && pageTitle) {
       pageTitle.value = jsonData[key];
     }
-    if (key.toLowerCase().includes("description")) {
+    if (key.toLowerCase().includes("description") && description) {
       description.value = jsonData[key];
     }
-    if (key.toLowerCase().includes("type")) {
+    if (key.toLowerCase().includes("type") && category) {
       Array.from(category.options).forEach((option) => {
         if (jsonData[key].toLowerCase() == option.text.toLowerCase()) {
           category.value = option.value;
         }
       });
     }
-    if (key.toLowerCase().includes("keywords")) {
+    if (key.toLowerCase().includes("keywords") && metaKeywords) {
       metaKeywords.value = jsonData[key];
     }
     if (key.toLowerCase().includes("content")) {
@@ -238,8 +261,8 @@ function autofillForm(jsonData) {
            console.error("Error attaching base64 image:", err);
        }
     }
-    authorName.value = "James Smith";
-    readingTime.value = setReadingTime();
+    if (authorName) authorName.value = "James Smith";
+    if (readingTime) readingTime.value = setReadingTime();
   });
 
   // Ensure default/fallback values for missing properties after parsing
@@ -288,24 +311,37 @@ function setReadingTime() {
 // checking empty fields
 function checkEmptyFields() {
   // console.log("Checking empty fields");
-  submitButton.disabled = true;
-  submitButton.style.backgroundColor = "grey";
-  submitButton.style.cursor = "not-allowed";
+  if (submitButton) {
+      submitButton.disabled = true;
+      submitButton.style.backgroundColor = "grey";
+      submitButton.style.cursor = "not-allowed";
+  }
+  
+  const isUrlFilled = urlField ? (urlField.value !== "" && blogUrlHasNoHyphens(urlField)) : true;
+  const isTitleFilled = pageTitle ? pageTitle.value !== "" : true;
+  const isDescriptionFilled = description ? description.value !== "" : true;
+  const isCategoryFilled = category ? (category.selectedIndex >= 0 && category.options[category.selectedIndex].text !== "Select Category") : true;
+  const isImageFilled = image ? image.value !== "" : true;
+  const isAuthorFilled = authorName ? authorName.value !== "" : true;
+  const isReadingTimeFilled = readingTime ? readingTime.value !== "" : true;
+  const isMetaKeywordsFilled = metaKeywords ? metaKeywords.value !== "" : true;
+
   if (
-    urlField.value !== "" &&
-    blogUrlHasNoHyphens(urlField) &&
-    pageTitle.value !== "" &&
-    description.value !== "" &&
-    category.options[category.selectedIndex].text !== "Select Category" &&
-    image.value !== "" &&
-    authorName.value !== "" &&
-    readingTime.value !== "" &&
-    metaKeywords.value !== ""
+    isUrlFilled &&
+    isTitleFilled &&
+    isDescriptionFilled &&
+    isCategoryFilled &&
+    isImageFilled &&
+    isAuthorFilled &&
+    isReadingTimeFilled &&
+    isMetaKeywordsFilled
   ) {
     console.log("All fields are filled");
-    submitButton.disabled = false;
-    submitButton.style.backgroundColor = "";
-    submitButton.style.cursor = "";
+    if (submitButton) {
+        submitButton.disabled = false;
+        submitButton.style.backgroundColor = "";
+        submitButton.style.cursor = "";
+    }
   } else {
     // console.log("At least one fild is empty");
   }
