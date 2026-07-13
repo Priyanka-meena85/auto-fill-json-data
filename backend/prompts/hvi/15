@@ -349,7 +349,7 @@ body {
 .opoa-hero-content {
     position: relative;
     z-index: 2;
-    max-width: 1000px;
+    
     color: #fff;
 }
 .opoa-badge {
@@ -371,7 +371,7 @@ body {
     font-size: 1.25rem;
     color: rgba(255,255,255,0.8);
     margin: 0 0 30px 0;
-    max-width: 800px;
+    
     line-height: 1.6;
 }
 .opoa-btn-primary {
@@ -392,7 +392,7 @@ body {
 /* Container */
 .opoa-container {
     display: flex;
-    max-width: 1400px;
+    
     margin: 0 auto;
     padding: 0 40px;
     gap: 60px;

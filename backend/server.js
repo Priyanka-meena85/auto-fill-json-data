@@ -130,7 +130,7 @@ Follow these rules strictly:
 - use readable font size and text color with background color
 - faq answers should be of minimum 2 to 4 lines, make table scrollable horizontally in mobile view if needed
 - minimum two cta sections and maximum three cta sections should be in the page
-- don't use icons and emoji
+- NEVER use emojis (e.g. ⚡). ALWAYS use inline SVG code for icons.
 - cta buttons should be displayed below the cta section text content
 - don't use margin for x-axis(left and right) on main sections
 - don't use padding more than 20px at y-axis (top and bottom) and 18px at x axis(left and right)
@@ -179,6 +179,10 @@ ${JSON.stringify(pageData, null, 2)}
 Template Name: ${templateName}
 
 ${instructions}
+
+CRITICAL ICONOGRAPHY: NEVER use emojis (e.g. ⚡, 📝, 🚀) anywhere in the page. You MUST use proper inline SVG code for all icons.
+CRITICAL UNIQUENESS: Ensure EVERY generated page is structurally and visually unique. Do not blindly copy the template's exact layout for every page; innovate on the design and create highly engaging, distinct structures while maintaining the core brand guidelines.
+CRITICAL LAYOUT & RESPONSIVENESS: Do NOT use `max-width` anywhere in the content, CTA, or hero sections. Even if the supplied template uses `max-width`, you MUST remove it in your generated code! You MUST ensure the generated page is 100% fluid and fully responsive across ALL devices (mobile, tablet, desktop) using appropriate CSS media queries.
 
 CRITICAL: You MUST generate complete and high-quality values for ALL fields in the JSON object (url, title, description, keywords). Do NOT leave them blank. Do NOT return the placeholder text.
 

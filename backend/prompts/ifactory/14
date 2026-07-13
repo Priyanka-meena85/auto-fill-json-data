@@ -221,7 +221,7 @@ body {
 .oee-timeline-wrapper {
     font-family: 'Inter', system-ui, sans-serif;
     color: var(--oee-text);
-    max-width: 1200px;
+    
     margin: 0 auto;
     padding: 20px;
 }
@@ -566,7 +566,7 @@ body {
     text-align: center;
 }
 .oee-footer-content {
-    max-width: 700px;
+    
     margin: 0 auto;
 }
 .oee-footer h2 {
