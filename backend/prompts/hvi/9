@@ -1,0 +1,1227 @@
+<p>A global electronics distributor ran a wall-to-wall physical inventory count across its three largest warehouses. The
+    result: a $2.3 million discrepancy between system records and actual stock — representing 4.6% of total inventory
+    value. The root causes were mundane but devastating: mispicked SKUs shelved in wrong locations, inbound pallets
+    stored without bin assignment, and returns processed without system updates. Every one of these errors had been
+    invisible to manual processes. A computer vision system running on the warehouse ceiling would have caught each
+    discrepancy the moment it occurred — not 90 days later during an audit. AI vision does not forget, does not fatigue,
+    and does not approximate. It counts.</p>
+<div class="Facility1-hero-section">
+    <div class="Facility1-hs-badge">Inventory Intelligence</div>
+    <div class="Facility1-hs-title">AI Vision for Inventory Management &amp; Warehouse Automation</div>
+    <div class="Facility1-hs-subtitle">How computer vision transforms warehouse operations — from manual counts and
+        guesswork to real-time, autonomous inventory intelligence</div>
+    <div class="F3-hero-stats">
+        <div class="F3-hs-stat">
+            <div class="F3-hss-value">$1.77T</div>
+            <div class="F3-hss-label">Global annual cost of inventory distortion</div>
+            <div class="F3-hss-tag F3-hss-tag-red">Stockouts + Overstock</div>
+        </div>
+        <div class="F3-hs-stat">
+            <div class="F3-hss-value">99.5%+</div>
+            <div class="F3-hss-label">Inventory accuracy achievable with AI vision</div>
+            <div class="F3-hss-tag F3-hss-tag-green">vs 63% Manual Average</div>
+        </div>
+    </div>
+</div>
+<h2>The Problem With Manual Inventory Management</h2>
+<p>Most warehouses still rely on periodic physical counts, handheld barcode scanners, and human memory to track millions
+    of dollars in inventory. The result is a permanent gap between what the system says and what actually exists on the
+    shelf. That gap silently erodes margins, disrupts fulfillment, and destroys demand forecast accuracy — every single
+    day.</p>
+<div class="F3-gap-cascade">
+    <div class="F3-gc-title">How Inventory Blind Spots Become Million-Dollar Losses</div>
+    <div class="F3-gc-steps">
+        <div class="F3-gc-step">
+            <div class="F3-gcs-num">1</div>
+            <div class="F3-gcs-content">
+                <div class="F3-gcs-title">The Accuracy Gap</div>
+                <div class="F3-gcs-desc">The average warehouse maintains only 63% inventory record accuracy. Even
+                    operations targeting 95% accuracy still carry a 5% error rate — on $10M of inventory, that is
+                    $500,000 in misallocated, misplaced, or phantom stock at any given time.</div>
+            </div>
+        </div>
+        <div class="F3-gc-connector"><br />
+        </div>
+        <div class="F3-gc-step">
+            <div class="F3-gcs-num">2</div>
+            <div class="F3-gcs-content">
+                <div class="F3-gcs-title">The Shrinkage Drain</div>
+                <div class="F3-gcs-desc">Inventory shrinkage costs retailers an average of 1.44% of sales annually —
+                    translating to nearly $100 billion in industry-wide losses. Administrative errors, misplaced stock,
+                    and process failures account for more shrinkage than theft in most warehouses.</div>
+            </div>
+        </div>
+        <div class="F3-gc-connector"><br />
+        </div>
+        <div class="F3-gc-step">
+            <div class="F3-gcs-num">3</div>
+            <div class="F3-gcs-content">
+                <div class="F3-gcs-title">The Stockout Cascade</div>
+                <div class="F3-gcs-desc">Stockouts from inaccurate records cost global retail over $1 trillion in missed
+                    sales annually. When your system shows stock that does not physically exist, orders fail, customers
+                    leave, and 30% of them never come back.</div>
+            </div>
+        </div>
+        <div class="F3-gc-connector"><br />
+        </div>
+        <div class="F3-gc-step">
+            <div class="F3-gcs-num">4</div>
+            <div class="F3-gcs-content">
+                <div class="F3-gcs-title">The Labour Cost Trap</div>
+                <div class="F3-gcs-desc">Manual cycle counts consume thousands of labour hours annually and still only
+                    sample a fraction of inventory. Annual wall-to-wall counts shut down operations for days. Even after
+                    all that effort, accuracy degrades within weeks as daily errors re-accumulate.</div>
+            </div>
+        </div>
+    </div>
+</div>
+<p class="Facility1-text-cta">What is inventory inaccuracy really costing your operation? <a
+        href="https://calendly.com/contact-heavyvehicleinspection/30min">Book a demo to see AI vision count your warehouse in real
+        time</a>.</p>
+<h2>What AI Vision Monitors in Your Warehouse</h2>
+<p>AI-powered camera systems mounted across your warehouse continuously monitor inventory movement, storage accuracy,
+    and operational activity — replacing periodic counts with perpetual, real-time visibility. The system sees
+    everything that humans cannot track at scale: every pallet placed, every pick made, every location that drifts from
+    its record.</p>
+<div class="F3-defect-grid">
+    <div class="F3-dg-item">
+        <div class="F3-dgi-header">
+            <div class="F3-dgih-tag">Stock Level Monitoring</div>
+        </div>
+        <div class="F3-dgi-types">
+            <span>Pallet counts</span>
+            <span>Bin fill levels</span>
+            <span>Shelf occupancy</span>
+            <span>Empty location detection</span>
+            <span>Overstock alerts</span>
+        </div>
+        <div class="F3-dgi-detail">
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">What AI Sees</div>
+                <div class="F3-dgid-value">Overhead and aisle cameras continuously count pallets, cartons, and bin fill
+                    levels across every storage location — updating inventory records in real time without manual
+                    scanning</div>
+            </div>
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">Impact</div>
+                <div class="F3-dgid-value F3-dgid-highlight">Eliminates periodic cycle counts — inventory accuracy
+                    maintained continuously at 99.5%+</div>
+            </div>
+        </div>
+    </div>
+    <div class="F3-dg-item">
+        <div class="F3-dgi-header">
+            <div class="F3-dgih-tag">Location Accuracy</div>
+        </div>
+        <div class="F3-dgi-types">
+            <span>Putaway verification</span>
+            <span>Misplaced SKU detection</span>
+            <span>Bin assignment validation</span>
+            <span>Zone compliance</span>
+            <span>Slotting drift alerts</span>
+        </div>
+        <div class="F3-dgi-detail">
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">What AI Sees</div>
+                <div class="F3-dgid-value">Vision systems verify that every item is placed in its assigned location,
+                    detecting misplacements the moment they happen — not weeks later during a physical count</div>
+            </div>
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">Impact</div>
+                <div class="F3-dgid-value F3-dgid-highlight">Reduces mis-picks by 80%+ and eliminates phantom inventory
+                    from misplaced stock</div>
+            </div>
+        </div>
+    </div>
+    <div class="F3-dg-item">
+        <div class="F3-dgi-header">
+            <div class="F3-dgih-tag">Receiving &amp; Shipping Verification</div>
+        </div>
+        <div class="F3-dgi-types">
+            <span>Inbound count validation</span>
+            <span>ASN matching</span>
+            <span>Outbound order accuracy</span>
+            <span>Load verification</span>
+            <span>Damage detection</span>
+        </div>
+        <div class="F3-dgi-detail">
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">What AI Sees</div>
+                <div class="F3-dgid-value">Cameras at dock doors automatically count and verify inbound and outbound
+                    shipments against purchase orders and pick lists — catching discrepancies before they enter the
+                    system</div>
+            </div>
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">Impact</div>
+                <div class="F3-dgid-value F3-dgid-highlight">Eliminates receiving errors that create 25%+ of all
+                    inventory inaccuracies</div>
+            </div>
+        </div>
+    </div>
+    <div class="F3-dg-item">
+        <div class="F3-dgi-header">
+            <div class="F3-dgih-tag">Pick &amp; Pack Accuracy</div>
+        </div>
+        <div class="F3-dgi-types">
+            <span>Pick verification</span>
+            <span>Quantity validation</span>
+            <span>SKU confirmation</span>
+            <span>Pack completeness</span>
+            <span>Label accuracy</span>
+        </div>
+        <div class="F3-dgi-detail">
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">What AI Sees</div>
+                <div class="F3-dgid-value">Vision at pick stations and pack benches validates that the right product,
+                    right quantity, and right label go into every order — catching errors before shipment, not after
+                    customer complaint</div>
+            </div>
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">Impact</div>
+                <div class="F3-dgid-value F3-dgid-highlight">Reduces mis-ships to near zero — protecting customer
+                    satisfaction and preventing costly returns</div>
+            </div>
+        </div>
+    </div>
+    <div class="F3-dg-item">
+        <div class="F3-dgi-header">
+            <div class="F3-dgih-tag">Space &amp; Utilisation Analytics</div>
+        </div>
+        <div class="F3-dgi-types">
+            <span>Aisle congestion</span>
+            <span>Dead stock detection</span>
+            <span>Space utilisation heatmaps</span>
+            <span>Velocity-based slotting</span>
+            <span>Seasonal rebalancing</span>
+        </div>
+        <div class="F3-dgi-detail">
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">What AI Sees</div>
+                <div class="F3-dgid-value">Continuous monitoring of how warehouse space is used — identifying
+                    underutilised zones, congestion bottlenecks, dead stock, and slotting opportunities that optimise
+                    throughput</div>
+            </div>
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">Impact</div>
+                <div class="F3-dgid-value F3-dgid-highlight">Increases effective storage capacity 15–25% without
+                    expanding facility footprint</div>
+            </div>
+        </div>
+    </div>
+    <div class="F3-dg-item">
+        <div class="F3-dgi-header">
+            <div class="F3-dgih-tag">Safety &amp; Compliance</div>
+        </div>
+        <div class="F3-dgi-types">
+            <span>Forklift traffic monitoring</span>
+            <span>PPE compliance</span>
+            <span>Aisle obstruction alerts</span>
+            <span>Hazmat zone monitoring</span>
+            <span>Emergency exit clearance</span>
+        </div>
+        <div class="F3-dgi-detail">
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">What AI Sees</div>
+                <div class="F3-dgid-value">Vision systems monitor safety compliance in real time — detecting blocked
+                    aisles, missing PPE, unsafe forklift operation, and zone violations that create liability and injury
+                    risk</div>
+            </div>
+            <div class="F3-dgid-row">
+                <div class="F3-dgid-label">Impact</div>
+                <div class="F3-dgid-value F3-dgid-highlight">Reduces workplace incidents and ensures continuous
+                    regulatory compliance without manual audits</div>
+            </div>
+        </div>
+    </div>
+</div>
+<h2>From Counting to Intelligence: The AI Inventory Loop</h2>
+<p>Traditional inventory management is a snapshot — a periodic count that is outdated the moment it is complete. AI
+    vision creates a continuous loop: watching, recording, reconciling, and optimising in real time. The warehouse
+    system of record is always accurate because it is always being updated.</p>
+<div class="F3-loop-visual">
+    <div class="F3-lv-title">AI Vision Inventory Intelligence Pipeline</div>
+    <div class="F3-lv-steps">
+        <div class="F3-lv-step">
+            <div class="F3-lvs-phase">See</div>
+            <div class="F3-lvs-content">
+                <div class="F3-lvs-title">Continuous Visual Monitoring</div>
+                <div class="F3-lvs-desc">Cameras across the warehouse capture every movement — inbound receipts,
+                    putaway, picks, replenishment, and shipments — creating a visual record of all inventory
+                    transactions.</div>
+            </div>
+        </div>
+        <div class="F3-lv-step">
+            <div class="F3-lvs-phase">Count</div>
+            <div class="F3-lvs-content">
+                <div class="F3-lvs-title">Autonomous Inventory Counting</div>
+                <div class="F3-lvs-desc">AI models count pallets, cartons, and items in every monitored location
+                    continuously. No manual counts, no cycle count schedules, no operational shutdowns.</div>
+            </div>
+        </div>
+        <div class="F3-lv-step">
+            <div class="F3-lvs-phase">Reconcile</div>
+            <div class="F3-lvs-content">
+                <div class="F3-lvs-title">Real-Time Record Matching</div>
+                <div class="F3-lvs-desc">Vision data is compared against WMS records in real time. Any discrepancy is
+                    flagged instantly — wrong location, wrong quantity, missing item — with timestamp and visual
+                    evidence.</div>
+            </div>
+        </div>
+        <div class="F3-lv-step">
+            <div class="F3-lvs-phase">Optimise</div>
+            <div class="F3-lvs-content">
+                <div class="F3-lvs-title">Intelligent Warehouse Actions</div>
+                <div class="F3-lvs-desc">System generates slotting recommendations, replenishment triggers, dead stock
+                    alerts, and space utilisation insights — turning raw visibility into operational intelligence.</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="Facility1-cta-section">
+    <div class="Facility1-cta-content">
+        <div class="Facility1-cta-title">Stop Counting. Start Knowing.</div>
+        <div class="Facility1-cta-text">iFactory's AI vision platform gives your warehouse real-time inventory accuracy
+            without manual counts, barcode dependencies, or operational shutdowns. See every item, every location, every
+            movement — continuously.</div>
+    </div>
+    <div class="Facility1-cta-buttons">
+        <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="Facility1-btn-primary">Book Your Free Demo</a>
+        <a href="https://heavyvehicleinspection.com/support" class="Facility1-btn-secondary">Talk to a Specialist</a>
+    </div>
+</div>
+<h2>The True Cost of Inventory Inaccuracy</h2>
+<p>Inventory errors do not stay in the warehouse. They cascade through every function — purchasing buys what you already
+    have, sales promises what you do not, finance reports assets that do not exist, and customers receive the wrong
+    order or no order at all. Here is the full cost picture.</p>
+<div class="Facility1-math-visual">
+    <div class="F3-cost-breakdown">
+        <div class="F3-cb-item">
+            <div class="F3-cbi-category">Shrinkage Losses</div>
+            <div class="F3-cbi-detail">Misplaced stock, administrative errors, damage, and theft consume 1.4–2% of total
+                inventory value annually. For a $20M inventory, that is $280K–$400K vanishing from the balance sheet
+                every year.</div>
+            <div class="F3-cbi-cost">1.4–2% of inventory</div>
+        </div>
+        <div class="F3-cb-item">
+            <div class="F3-cbi-category">Stockout Revenue Loss</div>
+            <div class="F3-cbi-detail">When system records show stock that does not physically exist, orders fail at
+                fulfillment. 30% of affected customers switch to competitors permanently. Globally, stockouts cost
+                retail over $1 trillion annually.</div>
+            <div class="F3-cbi-cost">$1T+ globally/year</div>
+        </div>
+        <div class="F3-cb-item">
+            <div class="F3-cbi-category">Overstock &amp; Carrying</div>
+            <div class="F3-cbi-detail">Inaccurate data triggers safety stock inflation and unnecessary reorders. Storage
+                costs increase 20–30% with excess inventory — tying up working capital in products that sit rather than
+                sell.</div>
+            <div class="F3-cbi-cost">20–30% cost inflation</div>
+        </div>
+        <div class="F3-cb-item F3-cb-total">
+            <div class="F3-cbi-category">Total Inventory Distortion</div>
+            <div class="F3-cbi-detail">Combined cost of shrinkage, stockouts, overstock, mis-ships, and returns driven
+                by inaccurate inventory records — the largest preventable cost in warehouse operations.</div>
+            <div class="F3-cbi-cost">$1.77T globally/year</div>
+        </div>
+    </div>
+</div>
+<h2>How the Technology Works</h2>
+<p>AI vision for inventory management deploys industrial cameras across key warehouse zones — receiving docks, storage
+    aisles, pick stations, and shipping lanes — connected to edge-deployed deep learning models that understand what
+    inventory looks like, where it belongs, and when something is wrong.</p>
+<div class="F3-tech-stack">
+    <div class="F3-ts-layer">
+        <div class="F3-tsl-num">Layer 1</div>
+        <div class="F3-tsl-content">
+            <div class="F3-tsl-title">Strategic Camera Placement</div>
+            <div class="F3-tsl-desc">Overhead, aisle-level, and dock-mounted cameras provide full warehouse coverage. A
+                single overhead camera can monitor an entire storage bay. Dock cameras verify every inbound and outbound
+                load. Pick station cameras validate every order.</div>
+        </div>
+    </div>
+    <div class="F3-ts-layer">
+        <div class="F3-tsl-num">Layer 2</div>
+        <div class="F3-tsl-content">
+            <div class="F3-tsl-title">Object Recognition &amp; Counting</div>
+            <div class="F3-tsl-desc">Deep learning models trained on warehouse environments recognise pallets, cartons,
+                individual SKUs, labels, and barcodes. The system counts inventory visually — no RFID tags, no barcode
+                dependency, no contact scanning required.</div>
+        </div>
+    </div>
+    <div class="F3-ts-layer">
+        <div class="F3-tsl-num">Layer 3</div>
+        <div class="F3-tsl-content">
+            <div class="F3-tsl-title">Edge Processing</div>
+            <div class="F3-tsl-desc">GPU-accelerated edge computing processes visual data locally in real time. No
+                dependency on cloud connectivity for core operations. Sub-second processing ensures inventory updates
+                happen as movements occur — not hours later in batch uploads.</div>
+        </div>
+    </div>
+    <div class="F3-ts-layer">
+        <div class="F3-tsl-num">Layer 4</div>
+        <div class="F3-tsl-content">
+            <div class="F3-tsl-title">Anomaly &amp; Discrepancy Detection</div>
+            <div class="F3-tsl-desc">AI compares visual inventory state against WMS records continuously. Any mismatch —
+                wrong location, unexpected quantity change, unrecorded movement — triggers an instant alert with
+                timestamp, location, and visual evidence for rapid resolution.</div>
+        </div>
+    </div>
+    <div class="F3-ts-layer">
+        <div class="F3-tsl-num">Layer 5</div>
+        <div class="F3-tsl-content">
+            <div class="F3-tsl-title">WMS &amp; ERP Integration</div>
+            <div class="F3-tsl-desc">Bi-directional integration with your WMS, ERP, and order management systems.
+                AI-verified inventory data flows into existing workflows — updating stock levels, triggering
+                replenishment, adjusting allocations, and feeding demand forecasting with accurate inputs.</div>
+        </div>
+    </div>
+</div>
+<p class="Facility1-text-cta">See how AI vision integrates with your existing WMS. <a
+        href="https://calendly.com/contact-heavyvehicleinspection/30min">Schedule a live demonstration</a>.</p>
+<h2>Proven Results from AI Inventory Deployments</h2>
+<div class="F3-results-showcase">
+    <div class="F3-rs-stat">
+        <div class="F3-rss-value">99.5%+</div>
+        <div class="F3-rss-label">Inventory accuracy maintained continuously without manual counts</div>
+    </div>
+    <div class="F3-rs-stat">
+        <div class="F3-rss-value">80%</div>
+        <div class="F3-rss-label">Reduction in mis-picks and fulfilment errors documented</div>
+    </div>
+    <div class="F3-rs-stat">
+        <div class="F3-rss-value">90%</div>
+        <div class="F3-rss-label">Reduction in cycle count labour hours through autonomous counting</div>
+    </div>
+    <div class="F3-rs-stat">
+        <div class="F3-rss-value">25%</div>
+        <div class="F3-rss-label">Increase in effective storage capacity from AI-driven slotting</div>
+    </div>
+    <div class="F3-rs-stat">
+        <div class="F3-rss-value">6–9 mo</div>
+        <div class="F3-rss-label">Average payback period for AI warehouse vision systems</div>
+    </div>
+    <div class="F3-rs-stat">
+        <div class="F3-rss-value">50%</div>
+        <div class="F3-rss-label">Reduction in inventory shrinkage after AI vision deployment</div>
+    </div>
+</div>
+<h2>Where AI Vision Transforms Warehouse Operations</h2>
+<p>Every warehouse handling physical goods faces the same fundamental challenge: knowing exactly what you have, where it
+    is, and whether it matches your records. AI vision solves this across every industry vertical and warehouse type.
+</p>
+<div class="F3-application-map">
+    <div class="F3-am-item">
+        <div class="F3-ami-stage">E-Commerce &amp; Retail Fulfilment</div>
+        <div class="F3-ami-desc">High-velocity picking environments where mis-ships destroy customer trust. AI validates
+            every pick, every pack, and every shipment against the order — at speeds that manual QC cannot match.</div>
+        <div class="F3-ami-impact">Mis-ship rates reduced to near zero — protecting ratings, reviews, and repeat
+            business</div>
+    </div>
+    <div class="F3-am-item">
+        <div class="F3-ami-stage">Manufacturing &amp; Industrial</div>
+        <div class="F3-ami-desc">Raw material and WIP inventory feeding production lines. AI tracks component
+            consumption, monitors buffer stock levels, and prevents line stoppages from stockouts that manual counts
+            miss.</div>
+        <div class="F3-ami-impact">Production lines fed continuously with accurate BOM-level inventory visibility</div>
+    </div>
+    <div class="F3-am-item">
+        <div class="F3-ami-stage">3PL &amp; Distribution</div>
+        <div class="F3-ami-desc">Multi-client warehouses where accuracy is contractual. AI provides client-specific
+            inventory visibility, automated receiving verification, and shrinkage tracking that protects SLA compliance.
+        </div>
+        <div class="F3-ami-impact">Shrinkage tracked to root cause — reducing variance claims and protecting margins
+        </div>
+    </div>
+    <div class="F3-am-item">
+        <div class="F3-ami-stage">Pharma, Food &amp; Cold Chain</div>
+        <div class="F3-ami-desc">Regulated environments requiring full traceability, FEFO/FIFO compliance, and
+            batch-level tracking. AI monitors expiry rotation, temperature zone compliance, and lot segregation
+            automatically.</div>
+        <div class="F3-ami-impact">Full regulatory traceability maintained autonomously without manual audit overhead
+        </div>
+    </div>
+</div>
+<h2>Frequently Asked Questions</h2>
+<div class="Facility1-faq">
+    <div class="Facility1-faq-item">
+        <div class="Facility1-faq-q">Does AI vision replace barcode scanning?</div>
+        <div class="Facility1-faq-a">AI vision works alongside or independent of barcode systems. It can read barcodes
+            and labels optically, but more importantly, it recognises products, pallets, and locations visually —
+            meaning it works even when labels are damaged, missing, or obscured. This provides a redundant layer of
+            accuracy that barcode-only systems cannot achieve.</div>
+    </div>
+    <div class="Facility1-faq-item">
+        <div class="Facility1-faq-q">How much warehouse area can one camera system cover?</div>
+        <div class="Facility1-faq-a">A single overhead camera can monitor an entire storage bay or aisle section.
+            Typical deployments use 15–30 cameras for a 50,000 sq ft warehouse, with strategic placement at docks,
+            high-value zones, pick faces, and shipping lanes. The system is modular — you start with highest-impact
+            zones and expand as ROI is proven.</div>
+    </div>
+    <div class="Facility1-faq-item">
+        <div class="Facility1-faq-q">What is the ROI for AI inventory vision?</div>
+        <div class="Facility1-faq-a">Most warehouses achieve payback within 6–9 months. ROI comes from eliminated cycle
+            count labour (90% reduction), reduced shrinkage (50% reduction), fewer mis-ships and returns, improved space
+            utilisation (15–25% gain), and the downstream revenue protection from accurate stock availability data
+            feeding your sales channels.</div>
+    </div>
+    <div class="Facility1-faq-item">
+        <div class="Facility1-faq-q">Does this integrate with our existing WMS?</div>
+        <div class="Facility1-faq-a">Yes. The platform integrates bi-directionally with all major WMS, ERP, and order
+            management systems. AI-verified inventory data syncs into your existing workflows in real time — updating
+            stock levels, triggering replenishment, and feeding demand planning without requiring WMS replacement or
+            major system changes.</div>
+    </div>
+    <div class="Facility1-faq-item">
+        <div class="Facility1-faq-q">Can AI vision work in cold storage and dark warehouses?</div>
+        <div class="Facility1-faq-a">Yes. Industrial camera systems operate in temperatures from -30°C to +60°C with
+            infrared and low-light imaging capabilities. Cold chain warehouses, dark stores, and automated facilities
+            benefit particularly because AI vision works without human presence — monitoring inventory in environments
+            where manual counting is impractical or unsafe.</div>
+    </div>
+</div>
+<div class="Facility1-cta-section Facility1-cta-final">
+    <div class="Facility1-cta-content">
+        <div class="Facility1-cta-title">See Every Item. Know Every Location. Trust Every Record.</div>
+        <div class="Facility1-cta-text">Your warehouse records are wrong right now. AI vision fixes that — continuously,
+            autonomously, in real time. Find out what your current inventory system is missing.</div>
+    </div>
+    <div class="Facility1-cta-buttons">
+        <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="Facility1-btn-primary">Get Your Free Demo</a>
+        <a href="https://heavyvehicleinspection.com/support" class="Facility1-btn-secondary">Contact Support</a>
+    </div>
+</div>
+<style>
+    .Facility1-hero-section {
+        background: #fff;
+        border: 2px solid #345180;
+        border-radius: 16px;
+        padding: 32px;
+        margin: 32px 0;
+        text-align: center
+    }
+
+    .Facility1-hs-badge {
+        display: inline-block;
+        background: #345180;
+        color: #fff;
+        padding: 6px 16px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 700;
+        margin-bottom: 16px
+    }
+
+    .Facility1-hs-title {
+        font-size: 24px;
+        font-weight: 800;
+        color: #222;
+        margin-bottom: 8px
+    }
+
+    .Facility1-hs-subtitle {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 28px
+    }
+
+    .F3-hero-stats {
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+        flex-wrap: wrap
+    }
+
+    .F3-hs-stat {
+        background: #f9fafd;
+        border: 2px solid #e8e8e8;
+        border-radius: 12px;
+        padding: 22px 36px;
+        text-align: center;
+        min-width: 200px
+    }
+
+    .F3-hss-value {
+        font-size: 32px;
+        font-weight: 800;
+        color: #345180
+    }
+
+    .F3-hss-label {
+        font-size: 12px;
+        color: #666;
+        margin-top: 4px;
+        margin-bottom: 10px
+    }
+
+    .F3-hss-tag {
+        display: inline-block;
+        padding: 4px 12px;
+        border-radius: 12px;
+        font-size: 11px;
+        font-weight: 700
+    }
+
+    .F3-hss-tag-red {
+        background: #fef5f5;
+        color: #e74c3c
+    }
+
+    .F3-hss-tag-green {
+        background: #e8f8f0;
+        color: #27ae60
+    }
+
+    .F3-gap-cascade {
+        background: #f9fafd;
+        border: 2px solid #e8e8e8;
+        border-radius: 14px;
+        padding: 28px;
+        margin: 28px 0
+    }
+
+    .F3-gc-title {
+        font-size: 18px;
+        font-weight: 700;
+        color: #222;
+        text-align: center;
+        margin-bottom: 24px
+    }
+
+    .F3-gc-step {
+        display: flex;
+        gap: 16px;
+        align-items: flex-start
+    }
+
+    .F3-gcs-num {
+        width: 36px;
+        height: 36px;
+        background: #345180;
+        color: #fff;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+        font-weight: 800;
+        flex-shrink: 0
+    }
+
+    .F3-gcs-title {
+        font-size: 15px;
+        font-weight: 700;
+        color: #222;
+        margin-bottom: 4px
+    }
+
+    .F3-gcs-desc {
+        font-size: 13px;
+        color: #666;
+        line-height: 1.6
+    }
+
+    .F3-gc-connector {
+        width: 2px;
+        height: 20px;
+        background: #345180;
+        margin: 6px 0 6px 17px;
+        opacity: 0.3
+    }
+
+    .Facility1-text-cta {
+        background: #f9fafd;
+        border-left: 4px solid #345180;
+        padding: 16px 20px;
+        margin: 28px 0;
+        font-size: 14px;
+        color: #444;
+        border-radius: 0 8px 8px 0
+    }
+
+    .Facility1-text-cta a {
+        color: #345180;
+        font-weight: 600;
+        text-decoration: underline
+    }
+
+    .F3-defect-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+        margin: 28px 0
+    }
+
+    .F3-dg-item {
+        background: #fff;
+        border: 2px solid #e8e8e8;
+        border-radius: 12px;
+        overflow: hidden;
+        transition: border-color 0.2s
+    }
+
+    .F3-dg-item:hover {
+        border-color: #345180
+    }
+
+    .F3-dgi-header {
+        padding: 16px 18px 12px
+    }
+
+    .F3-dgih-tag {
+        display: inline-block;
+        background: #345180;
+        color: #fff;
+        padding: 5px 14px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 700
+    }
+
+    .F3-dgi-types {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        padding: 0 18px 14px
+    }
+
+    .F3-dgi-types span {
+        font-size: 11px;
+        padding: 4px 10px;
+        background: #f5f5f5;
+        border-radius: 12px;
+        color: #555
+    }
+
+    .F3-dgi-detail {
+        background: #f9fafd;
+        border-top: 1px solid #e8e8e8;
+        padding: 14px 18px
+    }
+
+    .F3-dgid-row {
+        margin-bottom: 8px
+    }
+
+    .F3-dgid-row:last-child {
+        margin-bottom: 0
+    }
+
+    .F3-dgid-label {
+        font-size: 11px;
+        font-weight: 700;
+        color: #999;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 2px
+    }
+
+    .F3-dgid-value {
+        font-size: 12px;
+        color: #555;
+        line-height: 1.5
+    }
+
+    .F3-dgid-highlight {
+        color: #27ae60;
+        font-weight: 600
+    }
+
+    .F3-loop-visual {
+        background: #fff;
+        border: 2px solid #345180;
+        border-radius: 14px;
+        padding: 28px;
+        margin: 28px 0
+    }
+
+    .F3-lv-title {
+        font-size: 18px;
+        font-weight: 700;
+        color: #222;
+        text-align: center;
+        margin-bottom: 24px
+    }
+
+    .F3-lv-steps {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 12px
+    }
+
+    .F3-lv-step {
+        text-align: center
+    }
+
+    .F3-lvs-phase {
+        display: inline-block;
+        background: #345180;
+        color: #fff;
+        padding: 6px 18px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 14px
+    }
+
+    .F3-lvs-title {
+        font-size: 13px;
+        font-weight: 700;
+        color: #222;
+        margin-bottom: 6px
+    }
+
+    .F3-lvs-desc {
+        font-size: 12px;
+        color: #666;
+        line-height: 1.5
+    }
+
+    .Facility1-cta-section {
+        background: linear-gradient(135deg, #345180 0%, #4a478f 100%);
+        border-radius: 14px;
+        margin: 32px 0;
+        padding: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 28px
+    }
+
+    .Facility1-cta-content {
+        flex: 1
+    }
+
+    .Facility1-cta-title {
+        font-size: 20px;
+        font-weight: 700;
+        color: #fff;
+        margin-bottom: 8px
+    }
+
+    .Facility1-cta-text {
+        font-size: 14px;
+        color: rgba(255, 255, 255, 0.9);
+        line-height: 1.5
+    }
+
+    .Facility1-cta-buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        flex-shrink: 0
+    }
+
+    .Facility1-btn-primary,
+    .Facility1-btn-secondary {
+        display: inline-block;
+        padding: 12px 22px;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 600;
+        text-decoration: none;
+        text-align: center;
+        white-space: nowrap;
+        transition: all 0.2s ease;
+        box-sizing: border-box
+    }
+
+    .Facility1-btn-primary {
+        background: #fff;
+        color: #345180
+    }
+
+    .Facility1-btn-primary:hover {
+        background: #f0eeff
+    }
+
+    .Facility1-btn-secondary {
+        background: transparent;
+        color: #fff;
+        border: 2px solid rgba(255, 255, 255, 0.8)
+    }
+
+    .Facility1-btn-secondary:hover {
+        background: #fff;
+        color: #345180;
+        border-color: #fff
+    }
+
+    .Facility1-math-visual {
+        background: #f9fafd;
+        border: 2px solid #e8e8e8;
+        border-radius: 14px;
+        padding: 28px;
+        margin: 28px 0
+    }
+
+    .F3-cost-breakdown {
+        display: flex;
+        flex-direction: column;
+        gap: 12px
+    }
+
+    .F3-cb-item {
+        display: grid;
+        grid-template-columns: 160px 1fr 160px;
+        gap: 16px;
+        align-items: center;
+        background: #fff;
+        border: 2px solid #e8e8e8;
+        border-radius: 10px;
+        padding: 18px 20px
+    }
+
+    .F3-cb-total {
+        border-color: #e74c3c;
+        background: #fef5f5
+    }
+
+    .F3-cbi-category {
+        font-size: 14px;
+        font-weight: 700;
+        color: #222
+    }
+
+    .F3-cb-total .F3-cbi-category {
+        color: #e74c3c
+    }
+
+    .F3-cbi-detail {
+        font-size: 12px;
+        color: #666;
+        line-height: 1.5
+    }
+
+    .F3-cbi-cost {
+        font-size: 18px;
+        font-weight: 800;
+        color: #345180;
+        text-align: right
+    }
+
+    .F3-cb-total .F3-cbi-cost {
+        color: #e74c3c;
+        font-size: 22px
+    }
+
+    .F3-tech-stack {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin: 28px 0
+    }
+
+    .F3-ts-layer {
+        display: flex;
+        gap: 18px;
+        background: #fff;
+        border: 2px solid #e8e8e8;
+        border-radius: 12px;
+        padding: 20px;
+        transition: border-color 0.2s
+    }
+
+    .F3-ts-layer:hover {
+        border-color: #345180
+    }
+
+    .F3-tsl-num {
+        background: #f0eeff;
+        color: #345180;
+        padding: 6px 14px;
+        border-radius: 8px;
+        font-size: 11px;
+        font-weight: 700;
+        white-space: nowrap;
+        height: fit-content
+    }
+
+    .F3-tsl-title {
+        font-size: 15px;
+        font-weight: 700;
+        color: #222;
+        margin-bottom: 4px
+    }
+
+    .F3-tsl-desc {
+        font-size: 13px;
+        color: #666;
+        line-height: 1.6
+    }
+
+    .F3-results-showcase {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+        margin: 28px 0
+    }
+
+    .F3-rs-stat {
+        background: #f9fafd;
+        border: 2px solid #e8e8e8;
+        border-radius: 12px;
+        padding: 24px 20px;
+        text-align: center;
+        transition: border-color 0.2s
+    }
+
+    .F3-rs-stat:hover {
+        border-color: #345180
+    }
+
+    .F3-rss-value {
+        font-size: 30px;
+        font-weight: 800;
+        color: #345180;
+        margin-bottom: 8px
+    }
+
+    .F3-rss-label {
+        font-size: 12px;
+        color: #666;
+        line-height: 1.5
+    }
+
+    .F3-application-map {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+        margin: 28px 0
+    }
+
+    .F3-am-item {
+        background: #fff;
+        border: 2px solid #e8e8e8;
+        border-radius: 12px;
+        padding: 22px;
+        transition: border-color 0.2s
+    }
+
+    .F3-am-item:hover {
+        border-color: #345180
+    }
+
+    .F3-ami-stage {
+        font-size: 16px;
+        font-weight: 800;
+        color: #345180;
+        margin-bottom: 8px
+    }
+
+    .F3-ami-desc {
+        font-size: 13px;
+        color: #555;
+        line-height: 1.6;
+        margin-bottom: 12px
+    }
+
+    .F3-ami-impact {
+        font-size: 12px;
+        font-weight: 700;
+        color: #27ae60;
+        background: #e8f8f0;
+        padding: 8px 12px;
+        border-radius: 8px
+    }
+
+    .Facility1-faq {
+        margin: 28px 0
+    }
+
+    .Facility1-faq-item {
+        background: #f9fafd;
+        border-left: 4px solid #345180;
+        border-radius: 0 12px 12px 0;
+        padding: 20px 24px;
+        margin-bottom: 12px
+    }
+
+    .Facility1-faq-item:last-child {
+        margin-bottom: 0
+    }
+
+    .Facility1-faq-q {
+        font-size: 15px;
+        font-weight: 700;
+        color: #222;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: flex-start;
+        gap: 10px
+    }
+
+    .Facility1-faq-q::before {
+        content: "Q";
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 24px;
+        height: 24px;
+        background: #345180;
+        color: #fff;
+        border-radius: 50%;
+        font-size: 12px;
+        font-weight: 700;
+        flex-shrink: 0
+    }
+
+    .Facility1-faq-a {
+        font-size: 14px;
+        color: #555;
+        line-height: 1.7;
+        padding-left: 34px
+    }
+
+    @media(max-width:900px) {
+        .F3-hero-stats {
+            flex-direction: column;
+            align-items: center
+        }
+
+        .F3-hs-stat {
+            min-width: unset;
+            width: 100%;
+            max-width: 300px
+        }
+
+        .F3-defect-grid {
+            grid-template-columns: 1fr
+        }
+
+        .F3-lv-steps {
+            grid-template-columns: repeat(2, 1fr)
+        }
+
+        .F3-cb-item {
+            grid-template-columns: 1fr;
+            text-align: center
+        }
+
+        .F3-cbi-cost {
+            text-align: center
+        }
+
+        .F3-results-showcase {
+            grid-template-columns: repeat(2, 1fr)
+        }
+
+        .F3-application-map {
+            grid-template-columns: 1fr
+        }
+
+        .Facility1-cta-section {
+            flex-direction: column;
+            text-align: center;
+            padding: 24px 18px
+        }
+
+        .Facility1-cta-buttons {
+            flex-direction: column;
+            width: 100%;
+            gap: 8px
+        }
+
+        .Facility1-btn-primary,
+        .Facility1-btn-secondary {
+            width: 100%;
+            padding: 12px 18px
+        }
+    }
+
+    @media(max-width:600px) {
+        .Facility1-hero-section {
+            padding: 24px 16px
+        }
+
+        .Facility1-hs-title {
+            font-size: 18px
+        }
+
+        .F3-hss-value {
+            font-size: 26px
+        }
+
+        .F3-gap-cascade {
+            padding: 20px 16px
+        }
+
+        .F3-gc-title {
+            font-size: 16px
+        }
+
+        .F3-lv-steps {
+            grid-template-columns: 1fr
+        }
+
+        .F3-loop-visual {
+            padding: 20px 16px
+        }
+
+        .F3-results-showcase {
+            grid-template-columns: 1fr
+        }
+
+        .F3-rss-value {
+            font-size: 24px
+        }
+
+        .Facility1-cta-section {
+            padding: 20px 14px;
+            margin: 24px 0;
+            border-radius: 10px
+        }
+
+        .Facility1-cta-title {
+            font-size: 16px
+        }
+
+        .Facility1-cta-text {
+            font-size: 13px
+        }
+
+        .Facility1-text-cta {
+            padding: 14px 16px;
+            font-size: 13px;
+            margin: 20px 0
+        }
+
+        .Facility1-faq-item {
+            padding: 16px 18px
+        }
+
+        .Facility1-faq-q {
+            font-size: 14px
+        }
+
+        .Facility1-faq-a {
+            font-size: 13px;
+            padding-left: 32px
+        }
+
+        .F3-ts-layer {
+            flex-direction: column;
+            gap: 10px
+        }
+
+        .F3-tsl-num {
+            align-self: flex-start
+        }
+
+        .Facility1-math-visual {
+            padding: 16px
+        }
+
+        .F3-cb-item {
+            padding: 14px
+        }
+
+        .F3-cbi-cost {
+            font-size: 16px
+        }
+
+        .F3-cb-total .F3-cbi-cost {
+            font-size: 18px
+        }
+    }
+</style>

@@ -20,7 +20,7 @@
       "run_at": "document_idle"
     },
     {
-      "matches": ["https://oxmaint.com/*/add_post*", "https://ifactoryapp.com/*/add_post*"],
+      "matches": ["*://*/*"],
       "js": ["autofill-json-data.js"],
       "run_at": "document_idle",
       "all_frames": true,

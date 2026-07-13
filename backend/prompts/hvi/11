@@ -1,0 +1,1170 @@
+<p>Generative artificial intelligence has introduced a paradigm shift in textile design, compressing the
+	concept-to-sample cycle from weeks to days and enabling design exploration at a scale impossible with traditional
+	CAD tools. Fashion brands and textile mills are deploying AI tools across the design workflow — Midjourney and
+	DALL-E for concept generation and mood board creation, Vizoo for photorealistic 3D material visualization, Pattern
+	Bank and Stylezone AI for automated seamless repeat generation, and Adobe Firefly for commercially safe print and
+	pattern creation with copyright-cleared training data. The 2025 McKinsey Fashion &amp; Technology report found that
+	early-adopter textile mills using generative AI in their design process reduced concept-to-approval time by 60 to 70
+	percent, increased design output per designer by 3 to 5 times, and reduced sample fabric waste by 40 to 55 percent
+	by eliminating physical sampling of rejected designs. For mills supplying fast-fashion, luxury, and performance
+	brands, AI-augmented design is becoming a competitive requirement rather than an experimental tool — brands
+	increasingly expect mills to respond to design briefs with AI-generated options within 24 to 48 hours, a cadence
+	impossible with traditional manual design methods.</p>
+<div class="ai-cta">
+	<div class="ai-cta-bg"><br />
+	</div>
+	<div class="ai-cta-inner">
+		<div class="ai-cta-text">
+			<h3 class="ai-cta-heading">Accelerate Your Design-to-Sample Pipeline with AI</h3>
+			<p class="ai-cta-sub">iFactory Design AI module integrates generative pattern tools, color reduction
+				engines, and digital sample management into a single workflow from brief to production-ready artwork.
+			</p>
+		</div>
+		<div class="ai-cta-actions">
+			<a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="ai-btn-primary" target="_blank"
+				rel="noopener">
+				<svg viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 3 8 L 13 8 M 9 4 L 13 8 L 9 12" fill="none" stroke="currentColor" stroke-width="2"
+						stroke-linecap="round" stroke-linejoin="round"></path>
+				</svg>
+				Book a Demo
+			</a>
+			<a href="https://heavyvehicleinspection.com/support" class="ai-btn-secondary" target="_blank" rel="noopener">Support
+				Call</a>
+		</div>
+	</div>
+</div>
+<div class="ai-section">
+	<div class="ai-section-head">
+		<span class="ai-chip">Tools</span>
+		<h2 class="ai-h2">AI Design Tools Comparison — Capabilities and Best Use Cases</h2>
+		<p class="ai-body">Each AI design tool occupies a different position in the textile design workflow, from
+			early-stage concept exploration to production-ready artwork generation.</p>
+	</div>
+	<div class="ai-table-wrap">
+		<table class="ai-table">
+			<thead>
+				<tr>
+					<th>Tool</th>
+					<th>Primary Function</th>
+					<th>Output Format</th>
+					<th>Copyright Safety</th>
+					<th>Textile-Specific</th>
+					<th>Learning Curve</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td><span class="ai-param">Midjourney</span></td>
+					<td>Concept generation, mood boards</td>
+					<td>Raster images, 1024–2048 px</td>
+					<td>Limited — trained on web data</td>
+					<td>No — requires prompt engineering</td>
+					<td>Medium</td>
+				</tr>
+				<tr>
+					<td><span class="ai-param">DALL-E 3</span></td>
+					<td>Concept exploration, variations</td>
+					<td>Raster images, 1024 px</td>
+					<td>Moderate — content policy filters</td>
+					<td>No — general purpose</td>
+					<td>Low</td>
+				</tr>
+				<tr>
+					<td><span class="ai-param">Adobe Firefly</span></td>
+					<td>Commercial print &amp; pattern</td>
+					<td>Raster + vector, up to 4K</td>
+					<td>High — trained on licensed Adobe Stock</td>
+					<td>Partial — pattern generation tools</td>
+					<td>Low</td>
+				</tr>
+				<tr>
+					<td><span class="ai-param">Vizoo</span></td>
+					<td>3D material scanning &amp; visualization</td>
+					<td>PBR textures, 3D assets</td>
+					<td>Full — own designs only</td>
+					<td>Yes — fabric-specific capture hardware</td>
+					<td>Medium</td>
+				</tr>
+				<tr>
+					<td><span class="ai-param">Pattern Bank</span></td>
+					<td>Seamless repeat generation</td>
+					<td>Vector + raster repeats</td>
+					<td>High — trained on owned patterns</td>
+					<td>Yes — dedicated textile repeat engine</td>
+					<td>Low</td>
+				</tr>
+				<tr>
+					<td><span class="ai-param">Stylezone AI</span></td>
+					<td>Print design with color reduction</td>
+					<td>Vector files, color-separated</td>
+					<td>High — brand-owned data only</td>
+					<td>Yes — screen print + digital print ready</td>
+					<td>Low</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<div class="ai-section ai-band">
+	<div class="ai-section-head">
+		<span class="ai-chip">Workflow</span>
+		<h2 class="ai-h2">From Prompt to Print — Six-Stage AI Design Workflow</h2>
+		<p class="ai-body">The AI-augmented textile design workflow replaces iterative manual sketching with rapid
+			digital exploration at every stage, from initial brand brief to production-ready artwork.</p>
+	</div>
+	<div class="ai-flow">
+		<div class="ai-fn">
+			<div class="ai-fn-num">1</div>
+			<div class="ai-fn-body">
+				<div class="ai-fn-name">Brief Interpretation</div>
+				<div class="ai-fn-desc">Design brief is converted into structured prompts: theme, color palette, pattern
+					type, scale, mood references. AI generates 20–50 concept variations in 5 minutes.</div>
+			</div>
+		</div>
+		<div class="ai-fn">
+			<div class="ai-fn-num">2</div>
+			<div class="ai-fn-body">
+				<div class="ai-fn-name">Pattern Generation</div>
+				<div class="ai-fn-desc">Selected concepts are processed through Pattern Bank or Firefly to create
+					seamless repeats. AI handles tile matching, edge blending, and symmetry automatically.</div>
+			</div>
+		</div>
+		<div class="ai-fn">
+			<div class="ai-fn-num">3</div>
+			<div class="ai-fn-body">
+				<div class="ai-fn-name">Color Separation</div>
+				<div class="ai-fn-desc">AI reduces artwork from thousands of colors (generated raster) to 6–14
+					production colors for screen printing or keeps full color for digital printing.</div>
+			</div>
+		</div>
+		<div class="ai-fn">
+			<div class="ai-fn-num">4</div>
+			<div class="ai-fn-body">
+				<div class="ai-fn-name">Virtual Prototyping</div>
+				<div class="ai-fn-desc">Design wrapped onto garment silhouettes in Vizoo or CLO 3D. Realistic fabric
+					drape, texture, and print alignment reviewed digitally before any physical sample.</div>
+			</div>
+		</div>
+		<div class="ai-fn">
+			<div class="ai-fn-num">5</div>
+			<div class="ai-fn-body">
+				<div class="ai-fn-name">Brand Approval</div>
+				<div class="ai-fn-desc">Digital strike-off shared with brand via collaborative platform. AI generates
+					colorway variations and placement options on demand during review meeting.</div>
+			</div>
+		</div>
+		<div class="ai-fn">
+			<div class="ai-fn-num">6</div>
+			<div class="ai-fn-body">
+				<div class="ai-fn-name">Production Handoff</div>
+				<div class="ai-fn-desc">Approved artwork exported in production-ready formats — screen separation films,
+					digital print RIP files, or engraving files for rotary printing.</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ai-section">
+	<div class="ai-section-head">
+		<span class="ai-chip">Color</span>
+		<h2 class="ai-h2">AI Color Matching and Reduction — From Thousands to Production-Ready</h2>
+		<p class="ai-body">One of the most valuable AI applications in textile design is intelligent color reduction —
+			converting full-color generative artwork into production-ready color-separated files that minimize screens,
+			ink usage, and setup cost without sacrificing visual quality.</p>
+	</div>
+	<div class="ai-color">
+		<div class="ai-color-card">
+			<div class="ai-color-head">
+				<svg viewBox="0 0 24 24" width="16" height="16">
+					<circle cx="12" cy="12" r="10" fill="none" stroke="#345180" stroke-width="2"></circle>
+					<circle cx="9" cy="10" r="3" fill="none" stroke="#345180" stroke-width="1.5"></circle>
+					<circle cx="15" cy="15" r="2" fill="#345180"></circle>
+				</svg>
+				Generative Output
+			</div>
+			<div class="ai-color-stat">8,000–16,000 colors</div>
+			<div class="ai-color-desc">AI-generated raster images contain millions of unique pixel colors. Direct screen
+				printing would require hundreds of screens — commercially infeasible and cost-prohibitive.</div>
+		</div>
+		<div class="ai-color-arrow">
+			<svg viewBox="0 0 40 20" width="36" height="16">
+				<path d="M 0 10 L 36 10 M 30 4 L 36 10 L 30 16" fill="none" stroke="#345180" stroke-width="2"
+					stroke-linecap="round" stroke-linejoin="round"></path>
+			</svg>
+		</div>
+		<div class="ai-color-card">
+			<div class="ai-color-head">
+				<svg viewBox="0 0 24 24" width="16" height="16">
+					<rect x="4" y="6" width="16" height="12" rx="2" fill="none" stroke="#10b981" stroke-width="1.8">
+					</rect>
+					<circle cx="8" cy="12" r="2" fill="#345180"></circle>
+					<circle cx="13" cy="12" r="2" fill="#10b981"></circle>
+					<circle cx="18" cy="12" r="2" fill="#f59e0b"></circle>
+				</svg>
+				AI Reduction
+			</div>
+			<div class="ai-color-stat">6–14 colors</div>
+			<div class="ai-color-desc">AI color quantization preserves visual distinctiveness while reducing to
+				production-viable palettes. Each color selected for minimum ink mixing and maximum visual separation.
+			</div>
+		</div>
+		<div class="ai-color-arrow">
+			<svg viewBox="0 0 40 20" width="36" height="16">
+				<path d="M 0 10 L 36 10 M 30 4 L 36 10 L 30 16" fill="none" stroke="#345180" stroke-width="2"
+					stroke-linecap="round" stroke-linejoin="round"></path>
+			</svg>
+		</div>
+		<div class="ai-color-card">
+			<div class="ai-color-head">
+				<svg viewBox="0 0 24 24" width="16" height="16">
+					<path d="M 6 18 L 6 6 L 18 6 L 18 18 Z" fill="none" stroke="#f59e0b" stroke-width="2"
+						stroke-linejoin="round"></path>
+					<path d="M 10 6 L 10 18 M 14 6 L 14 18" stroke="#f59e0b" stroke-width="1.2"></path>
+				</svg>
+				Production Ready
+			</div>
+			<div class="ai-color-stat">6–14 screens or 1 digital file</div>
+			<div class="ai-color-desc">Reduced palette output as separated screen films for rotary/flatbed printing or
+				as a single digital print file. Color mapping to Pantone TCX library for brand compliance.</div>
+		</div>
+	</div>
+	<div class="ai-color-methods">
+		<div class="ai-cm">
+			<div class="ai-cm-head">K-Means Clustering</div>
+			<p class="ai-cm-desc">Groups pixel colors into K clusters where K equals target color count. Fast and
+				effective for artwork with distinct color regions. Works best for 8–16 color targets.</p>
+		</div>
+		<div class="ai-cm">
+			<div class="ai-cm-head">Median Cut Quantization</div>
+			<p class="ai-cm-desc">Recursively divides color space into boxes with equal pixel counts. Preserves detail
+				in high-density color areas. Preferred for photographic and gradient-rich designs.</p>
+		</div>
+		<div class="ai-cm">
+			<div class="ai-cm-head">Palette-Constrained Optimization</div>
+			<p class="ai-cm-desc">AI constrained to a brand-specific or print-specific color palette. Maps nearest
+				available colors while minimizing perceptual distance. Ensures brand color compliance.</p>
+		</div>
+		<div class="ai-cm">
+			<div class="ai-cm-head">Perceptual Color Difference</div>
+			<p class="ai-cm-desc">Uses CIEDE2000 color difference formula to optimize reduction for human visual
+				perception rather than pixel-value proximity. Produces visually superior results at low color counts.
+			</p>
+		</div>
+	</div>
+</div>
+<div class="ai-cta">
+	<div class="ai-cta-bg"><br />
+	</div>
+	<div class="ai-cta-inner">
+		<div class="ai-cta-text">
+			<h3 class="ai-cta-heading">From Generative Art to Production-Ready Color Separation</h3>
+			<p class="ai-cta-sub">iFactory Color AI module automates color reduction, Pantone mapping, and screen
+				separation file generation from any AI-generated or scanned artwork input.</p>
+		</div>
+		<div class="ai-cta-actions">
+			<a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="ai-btn-primary" target="_blank"
+				rel="noopener">
+				<svg viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 3 8 L 13 8 M 9 4 L 13 8 L 9 12" fill="none" stroke="currentColor" stroke-width="2"
+						stroke-linecap="round" stroke-linejoin="round"></path>
+				</svg>
+				Book a Demo
+			</a>
+			<a href="https://heavyvehicleinspection.com/support" class="ai-btn-secondary" target="_blank" rel="noopener">Support
+				Call</a>
+		</div>
+	</div>
+</div>
+<div class="ai-section ai-band">
+	<div class="ai-section-head">
+		<span class="ai-chip">Impact</span>
+		<h2 class="ai-h2">Speed, Cost, and Sustainability — Measured Impact of AI Design</h2>
+		<p class="ai-body">The business case for AI-augmented textile design rests on three measurable outcomes: faster
+			time-to-sample, lower design cost, and reduced physical waste from eliminated sampling rounds.</p>
+	</div>
+	<div class="ai-metrics">
+		<div class="ai-metric">
+			<div class="ai-metric-icon">
+				<svg viewBox="0 0 28 28" width="20" height="20">
+					<circle cx="14" cy="14" r="10" fill="none" stroke="#345180" stroke-width="2"></circle>
+					<path d="M 14 8 L 14 14 L 18 18" fill="none" stroke="#345180" stroke-width="2"
+						stroke-linecap="round"></path>
+				</svg>
+			</div>
+			<div class="ai-metric-val">3–5<span class="ai-metric-unit">×</span></div>
+			<div class="ai-metric-label">Design Output per Designer</div>
+			<div class="ai-metric-bar">
+				<div class="ai-metric-fill" style="width: 80%;"><br />
+				</div>
+			</div>
+		</div>
+		<div class="ai-metric">
+			<div class="ai-metric-icon">
+				<svg viewBox="0 0 28 28" width="20" height="20">
+					<path d="M 6 18 L 6 8 L 14 4 L 22 8 L 22 18 L 14 22 Z" fill="none" stroke="#10b981"
+						stroke-width="1.8" stroke-linejoin="round"></path>
+					<path d="M 10 12 L 14 15 L 18 10" fill="none" stroke="#10b981" stroke-width="2"
+						stroke-linecap="round" stroke-linejoin="round"></path>
+				</svg>
+			</div>
+			<div class="ai-metric-val">60–70<span class="ai-metric-unit">%</span></div>
+			<div class="ai-metric-label">Faster Concept-to-Approval</div>
+			<div class="ai-metric-bar">
+				<div class="ai-metric-fill" style="width: 65%; background: linear-gradient(90deg, #10b981, #34d399);">
+					<br />
+				</div>
+			</div>
+		</div>
+		<div class="ai-metric">
+			<div class="ai-metric-icon">
+				<svg viewBox="0 0 28 28" width="20" height="20">
+					<rect x="6" y="8" width="16" height="12" rx="2" fill="none" stroke="#f59e0b" stroke-width="1.8">
+					</rect>
+					<path d="M 10 8 L 10 6 C 10 4 12 3 14 3 C 16 3 18 4 18 6 L 18 8" fill="none" stroke="#f59e0b"
+						stroke-width="1.5"></path>
+				</svg>
+			</div>
+			<div class="ai-metric-val">40–55<span class="ai-metric-unit">%</span></div>
+			<div class="ai-metric-label">Sample Fabric Waste Reduction</div>
+			<div class="ai-metric-bar">
+				<div class="ai-metric-fill" style="width: 48%; background: linear-gradient(90deg, #f59e0b, #fbbf24);">
+					<br />
+				</div>
+			</div>
+		</div>
+		<div class="ai-metric">
+			<div class="ai-metric-icon">
+				<svg viewBox="0 0 28 28" width="20" height="20">
+					<path d="M 8 20 L 8 12 C 8 8 12 6 14 6 C 16 6 20 8 20 12 L 20 20" fill="none" stroke="#3b82f6"
+						stroke-width="1.8" stroke-linejoin="round"></path>
+				</svg>
+			</div>
+			<div class="ai-metric-val">2–4<span class="ai-metric-unit"> rounds</span></div>
+			<div class="ai-metric-label">Fewer Sampling Iterations</div>
+			<div class="ai-metric-bar">
+				<div class="ai-metric-fill" style="width: 55%; background: linear-gradient(90deg, #3b82f6, #60a5fa);">
+					<br />
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ai-section">
+	<div class="ai-section-head">
+		<span class="ai-chip">FAQ</span>
+		<h2 class="ai-h2">Frequently Asked Questions</h2>
+	</div>
+	<div class="ai-faq">
+		<details class="ai-faq-item">
+			<summary class="ai-faq-q">
+				<span class="ai-faq-q-text">Can AI-generated textile designs be copyrighted?</span>
+				<svg class="ai-faq-icon" viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 4 6 L 8 10 L 12 6" fill="none" stroke="#345180" stroke-width="2.2" stroke-linecap="round"
+						stroke-linejoin="round"></path>
+				</svg>
+			</summary>
+			<p class="ai-faq-a">The copyright status of AI-generated designs depends on the tool's training data and the
+				degree of human creative input. In the United States, the Copyright Office has ruled that works created
+				entirely by AI without human creative contribution are not eligible for copyright protection. However,
+				designs where a human artist provides significant creative direction — such as composing detailed
+				prompts, selecting and arranging AI outputs, and making manual modifications — may qualify for copyright
+				on the human-authored elements. Adobe Firefly offers the strongest commercial copyright protection
+				because its training data is limited to licensed Adobe Stock content and public-domain works where
+				rights have been cleared. Midjourney and DALL-E have more uncertain copyright status for commercial
+				textile use because their training data includes web-scraped images. For mills producing designs for
+				brand customers, the safest approach is to use AI as a concept generation tool and have a human designer
+				create the final production artwork, or to use tools like Firefly and Pattern Bank that offer copyright
+				indemnification for commercial use.</p>
+		</details>
+		<details class="ai-faq-item">
+			<summary class="ai-faq-q">
+				<span class="ai-faq-q-text">How does AI handle pattern repeat generation for textile printing?</span>
+				<svg class="ai-faq-icon" viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 4 6 L 8 10 L 12 6" fill="none" stroke="#345180" stroke-width="2.2" stroke-linecap="round"
+						stroke-linejoin="round"></path>
+				</svg>
+			</summary>
+			<p class="ai-faq-a">AI-powered pattern repeat generation automates the most time-consuming manual task in
+				textile design — creating seamless repeating patterns that match at all four edges with no visible
+				seams. Pattern Bank and similar tools use convolutional neural networks trained on thousands of textile
+				repeats to analyze a base design and compute optimal repeat boundaries. The AI identifies the dominant
+				motif elements, calculates the repeat dimensions that best preserve the design intent, and blends edge
+				regions using content-aware fill algorithms. Advanced tools offer multiple repeat types: block repeat
+				(simple grid), half-drop repeat (offset every other row), brick repeat (offset every other column), and
+				random or scattered repeats for organic patterns. The AI also handles complex technical requirements for
+				textile printing, including rapport size specifications for rotary screens, overlap allowances for
+				wallpaper-style matching, and color separation boundaries that ensure each screen layer has adequate
+				registration tolerance. iFactory's Pattern AI module generates production-ready repeat files that are
+				compatible with all major textile CAD and RIP systems.</p>
+		</details>
+		<details class="ai-faq-item">
+			<summary class="ai-faq-q">
+				<span class="ai-faq-q-text">What skills do textile designers need to work effectively with AI
+					tools?</span>
+				<svg class="ai-faq-icon" viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 4 6 L 8 10 L 12 6" fill="none" stroke="#345180" stroke-width="2.2" stroke-linecap="round"
+						stroke-linejoin="round"></path>
+				</svg>
+			</summary>
+			<p class="ai-faq-a">Textile designers working with AI tools need three skill sets beyond traditional design
+				expertise. Prompt engineering is the most immediately useful skill — the ability to write structured,
+				detailed prompts that consistently produce usable designs requires practice and an understanding of how
+				different AI models interpret language. Designers who document successful prompts and build prompt
+				libraries achieve 3 to 5 times higher productivity than those who write prompts from scratch each time.
+				Color management knowledge is essential because AI-generated colors rarely match production-ready
+				specifications — designers must understand color separation, Pantone mapping, and how different printing
+				technologies (screen, digital, rotary) handle color. Technical textile knowledge — understanding how
+				repeat size, motif scale, and color count affect production cost and feasibility — becomes more
+				important rather than less important in an AI-augmented workflow, because AI can rapidly generate
+				designs that are technically impossible to produce. iFactory's AI Design module includes role-specific
+				training that helps designers build these skills incrementally, with guided prompt templates and
+				automated production-feasibility checking that flags non-producible designs before they reach the
+				sampling stage.</p>
+		</details>
+		<details class="ai-faq-item">
+			<summary class="ai-faq-q">
+				<span class="ai-faq-q-text">How does AI color reduction affect print quality compared to manual color
+					separation?</span>
+				<svg class="ai-faq-icon" viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 4 6 L 8 10 L 12 6" fill="none" stroke="#345180" stroke-width="2.2" stroke-linecap="round"
+						stroke-linejoin="round"></path>
+				</svg>
+			</summary>
+			<p class="ai-faq-a">AI color reduction has reached parity with manual color separation for the majority of
+				commercial textile applications and exceeds manual quality in certain areas. For designs with 8 to 14
+				target colors — the most common range for rotary screen printing — modern AI quantization algorithms
+				produce color separations that experienced print technicians rate as equal or superior to manual
+				separations in blind tests, particularly for complex designs with photographic elements, gradients, and
+				fine detail. The CIEDE2000 perceptual color difference formula used by advanced AI tools produces color
+				mappings that better preserve visual contrast and detail than the nearest-color and manual selection
+				methods traditionally used by screen printers. For very low color counts (2 to 5 colors), experienced
+				human color separators still hold an advantage in preserving design intent through selective color
+				merging, though the gap is narrowing with each generation of AI tools. For high-color digital printing
+				(full CMYK plus spot colors), AI color management outperforms manual methods by automatically generating
+				ICC profiles optimized for specific fabric and ink combinations.</p>
+		</details>
+		<details class="ai-faq-item">
+			<summary class="ai-faq-q">
+				<span class="ai-faq-q-text">What is the ROI of implementing AI in a textile mill design
+					department?</span>
+				<svg class="ai-faq-icon" viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 4 6 L 8 10 L 12 6" fill="none" stroke="#345180" stroke-width="2.2" stroke-linecap="round"
+						stroke-linejoin="round"></path>
+				</svg>
+			</summary>
+			<p class="ai-faq-a">The ROI of AI implementation in a textile mill design department typically reaches
+				breakeven within 6 to 12 months based on three quantifiable benefits. First, increased design capacity:
+				a 5-person design team using AI tools generates 15 to 25 design options per week versus 3 to 5 without
+				AI, allowing the mill to respond to more brand briefs and win more business without headcount growth.
+				Second, sample cost reduction: each physical strike-off sample costs $50 to $200 in fabric, ink, and
+				labor. AI-powered virtual prototyping eliminates 2 to 4 sampling rounds per design, saving $500 to
+				$2,000 per approved design. For a mill producing 500 approved designs per year, annual savings range
+				from $250,000 to $1,000,000. Third, faster time-to-sample reduces brand response time from 2 to 3 weeks
+				to 3 to 5 days, which directly improves win rates on competitive bids by 15 to 25 percent. Software
+				costs for AI design tools range from $50 to $200 per user per month for Midjourney, Firefly, and similar
+				tools, plus $10,000 to $30,000 per year for Pattern Bank or Vizoo licenses. iFactory's ROI calculator
+				module tracks these metrics against your actual design volume, sample costs, and win rates.</p>
+		</details>
+	</div>
+</div>
+<div class="ai-cta ai-final">
+	<div class="ai-cta-bg"><br />
+	</div>
+	<div class="ai-cta-inner">
+		<div class="ai-cta-text">
+			<span class="ai-chip ai-chip-light">Midjourney · Firefly · Pattern Bank · Color Reduction · Digital
+				Sampling</span>
+			<h3 class="ai-cta-heading">From Brief to Production-Ready Artwork in Days, Not Weeks</h3>
+			<p class="ai-cta-sub">iFactory Design AI module connects generative pattern tools, color separation engines,
+				and sample management into one workflow that matches your mill's production capabilities.</p>
+		</div>
+		<div class="ai-cta-actions">
+			<a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="ai-btn-primary" target="_blank"
+				rel="noopener">
+				<svg viewBox="0 0 16 16" width="14" height="14">
+					<path d="M 3 8 L 13 8 M 9 4 L 13 8 L 9 12" fill="none" stroke="currentColor" stroke-width="2"
+						stroke-linecap="round" stroke-linejoin="round"></path>
+				</svg>
+				Book a Demo
+			</a>
+			<a href="https://heavyvehicleinspection.com/support" class="ai-btn-secondary" target="_blank" rel="noopener">Support
+				Call</a>
+		</div>
+	</div>
+</div>
+<style>
+	:root {
+		font-size: 16.5px;
+	}
+
+	a {
+		color: #345180;
+		text-decoration: none;
+		font-weight: 700;
+	}
+
+	.ai-chip {
+		display: inline-flex;
+		align-items: center;
+		font-size: 10.5px;
+		font-weight: 800;
+		text-transform: uppercase;
+		letter-spacing: 1.6px;
+		color: #345180;
+		background: linear-gradient(135deg, rgba(96, 93, 186, .12), rgba(120, 114, 201, .05));
+		border: 1px solid rgba(96, 93, 186, .22);
+		padding: 6px 15px;
+		border-radius: 26px;
+		margin-bottom: 16px;
+		width: fit-content;
+	}
+
+	.ai-chip-light {
+		color: #fff;
+		background: rgba(255, 255, 255, .14);
+		border: 1px solid rgba(255, 255, 255, .25);
+	}
+
+	.ai-section {
+		padding: 44px 0;
+	}
+
+	.ai-section-head {
+		margin-bottom: 28px;
+	}
+
+	.ai-band {
+		background: linear-gradient(180deg, #f0fdf4 0%, #dcfce7 100%);
+		border-radius: 22px;
+		padding: 44px 32px;
+		margin: 16px 0;
+	}
+
+	.ai-h2 {
+		font-size: clamp(24px, 2.9vw, 34px);
+		font-weight: 800;
+		color: #0f0f23;
+		line-height: 1.15;
+		margin: 0 0 14px;
+		letter-spacing: -0.7px;
+	}
+
+	.ai-body {
+		font-size: 15.5px;
+		color: #52525e;
+		line-height: 1.75;
+		margin: 0;
+	}
+
+	.ai-table-wrap {
+		overflow-x: auto;
+		border-radius: 14px;
+		border: 1px solid rgba(96, 93, 186, .13);
+	}
+
+	.ai-table {
+		width: 100%;
+		border-collapse: collapse;
+		font-size: 14px;
+		min-width: 600px;
+	}
+
+	.ai-table th {
+		background: linear-gradient(135deg, #15227a, #345180);
+		color: #fff;
+		padding: 14px 16px;
+		text-align: left;
+		font-size: 12px;
+		font-weight: 800;
+		text-transform: uppercase;
+		letter-spacing: 0.8px;
+		white-space: nowrap;
+	}
+
+	.ai-table td {
+		padding: 12px 16px;
+		border-bottom: 1px solid rgba(96, 93, 186, .08);
+		color: #3a3a42;
+		font-weight: 500;
+	}
+
+	.ai-table tbody tr {
+		transition: background .2s ease;
+	}
+
+	.ai-table tbody tr:nth-child(even) {
+		background: rgba(96, 93, 186, .04);
+	}
+
+	.ai-table tbody tr:hover {
+		background: rgba(96, 93, 186, .09);
+	}
+
+	.ai-table tbody tr:last-child td {
+		border-bottom: none;
+	}
+
+	.ai-param {
+		font-weight: 800;
+		color: #345180;
+	}
+
+	.ai-flow {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 10px;
+	}
+
+	.ai-fn {
+		display: flex;
+		gap: 10px;
+		align-items: flex-start;
+		background: #fff;
+		border: 1px solid rgba(96, 93, 186, .12);
+		border-radius: 12px;
+		padding: 14px;
+		transition: all .3s ease;
+	}
+
+	.ai-fn:hover {
+		border-color: rgba(96, 93, 186, .28);
+		box-shadow: 0 6px 16px rgba(96, 93, 186, .07);
+	}
+
+	.ai-fn-num {
+		width: 26px;
+		height: 26px;
+		min-width: 26px;
+		background: linear-gradient(135deg, #345180, #7b73cc);
+		color: #fff;
+		font-size: 11px;
+		font-weight: 900;
+		border-radius: 7px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.ai-fn-body {
+		flex: 1;
+	}
+
+	.ai-fn-name {
+		font-size: 12.5px;
+		font-weight: 800;
+		color: #0f0f23;
+		margin-bottom: 2px;
+		letter-spacing: -0.1px;
+	}
+
+	.ai-fn-desc {
+		font-size: 11px;
+		color: #52525e;
+		line-height: 1.5;
+	}
+
+	.ai-color {
+		display: flex;
+		align-items: center;
+		gap: 4px;
+		margin-bottom: 20px;
+	}
+
+	.ai-color-card {
+		flex: 1;
+		background: #fff;
+		border: 1px solid rgba(96, 93, 186, .12);
+		border-radius: 12px;
+		padding: 16px;
+		display: flex;
+		flex-direction: column;
+		gap: 6px;
+		text-align: center;
+	}
+
+	.ai-color-head {
+		font-size: 12px;
+		font-weight: 800;
+		color: #0f0f23;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 6px;
+		text-transform: uppercase;
+		letter-spacing: 0.3px;
+	}
+
+	.ai-color-stat {
+		font-size: 18px;
+		font-weight: 900;
+		color: #0f0f23;
+	}
+
+	.ai-color-desc {
+		font-size: 11px;
+		color: #52525e;
+		line-height: 1.5;
+	}
+
+	.ai-color-arrow {
+		flex-shrink: 0;
+		display: flex;
+		align-items: center;
+	}
+
+	.ai-color-methods {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 10px;
+	}
+
+	.ai-cm {
+		background: #fff;
+		border: 1px solid rgba(96, 93, 186, .12);
+		border-radius: 12px;
+		padding: 14px;
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+	}
+
+	.ai-cm-head {
+		font-size: 12px;
+		font-weight: 800;
+		color: #0f0f23;
+		letter-spacing: -0.1px;
+	}
+
+	.ai-cm-desc {
+		font-size: 11px;
+		color: #52525e;
+		line-height: 1.5;
+		margin: 0;
+	}
+
+	.ai-metrics {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 12px;
+	}
+
+	.ai-metric {
+		background: #fff;
+		border: 1px solid rgba(96, 93, 186, .12);
+		border-radius: 14px;
+		padding: 18px;
+		display: flex;
+		flex-direction: column;
+		gap: 6px;
+		transition: all .35s ease;
+	}
+
+	.ai-metric:hover {
+		border-color: rgba(96, 93, 186, .28);
+		box-shadow: 0 8px 20px rgba(96, 93, 186, .07);
+	}
+
+	.ai-metric-icon {
+		width: 36px;
+		height: 36px;
+		background: rgba(96, 93, 186, .06);
+		border-radius: 10px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.ai-metric-val {
+		font-size: 24px;
+		font-weight: 900;
+		color: #0f0f23;
+		line-height: 1.1;
+	}
+
+	.ai-metric-unit {
+		font-size: 14px;
+		font-weight: 700;
+		color: #345180;
+		margin-left: 2px;
+	}
+
+	.ai-metric-label {
+		font-size: 11px;
+		font-weight: 700;
+		color: #6b6b78;
+		text-transform: uppercase;
+		letter-spacing: 0.3px;
+	}
+
+	.ai-metric-bar {
+		height: 5px;
+		background: #e5e4f3;
+		border-radius: 3px;
+		overflow: hidden;
+	}
+
+	.ai-metric-fill {
+		height: 100%;
+		background: linear-gradient(90deg, #345180, #8b83d9);
+		border-radius: 3px;
+	}
+
+	.ai-faq {
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+	}
+
+	.ai-faq-item {
+		background: linear-gradient(180deg, #fff, #fbfaff);
+		border: 1px solid rgba(96, 93, 186, .14);
+		border-left: 4px solid #345180;
+		border-radius: 0 16px 16px 0;
+		overflow: hidden;
+		transition: all .4s cubic-bezier(.4, 0, .2, 1);
+	}
+
+	.ai-faq-item:hover {
+		border-left-width: 6px;
+		border-color: #15227a;
+	}
+
+	.ai-faq-item[open] {
+		box-shadow: 0 10px 26px rgba(96, 93, 186, .1);
+		border-color: #345180;
+	}
+
+	.ai-faq-q {
+		font-size: 15.5px;
+		font-weight: 800;
+		color: #0f0f23;
+		line-height: 1.4;
+		padding: 18px 22px;
+		cursor: pointer;
+		list-style: none;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 14px;
+		user-select: none;
+		letter-spacing: -0.2px;
+	}
+
+	.ai-faq-q::-webkit-details-marker {
+		display: none;
+	}
+
+	.ai-faq-q-text {
+		flex: 1;
+	}
+
+	.ai-faq-icon {
+		background: linear-gradient(135deg, rgba(96, 93, 186, .1), rgba(120, 114, 201, .04));
+		border-radius: 50%;
+		width: 30px;
+		height: 30px;
+		min-width: 30px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		transition: all .35s ease;
+	}
+
+	.ai-faq-item[open] .ai-faq-icon {
+		transform: rotate(180deg);
+		background: linear-gradient(135deg, #345180, #7872c9);
+	}
+
+	.ai-faq-item[open] .ai-faq-icon path {
+		stroke: #fff;
+	}
+
+	.ai-faq-a {
+		font-size: 14px;
+		color: #52525e;
+		line-height: 1.75;
+		margin: 0;
+		padding: 0 22px 20px;
+	}
+
+	.ai-cta {
+		background: linear-gradient(135deg, #15227a 0%, #345180 50%, #7068cc 100%);
+		border-radius: 18px;
+		padding: 28px 32px;
+		margin: 20px 0;
+		position: relative;
+		overflow: hidden;
+	}
+
+	.ai-cta-bg {
+		position: absolute;
+		inset: 0;
+		background: radial-gradient(ellipse at 20% 50%, rgba(255, 255, 255, .1) 0%, transparent 60%), radial-gradient(ellipse at 80% 50%, rgba(255, 255, 255, .06) 0%, transparent 50%);
+		pointer-events: none;
+	}
+
+	.ai-cta-inner {
+		position: relative;
+		z-index: 1;
+		display: flex;
+		align-items: center;
+		gap: 28px;
+	}
+
+	.ai-cta-text {
+		flex: 1;
+		min-width: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 6px;
+	}
+
+	.ai-cta-heading {
+		font-size: clamp(17px, 1.6vw, 22px);
+		font-weight: 900;
+		color: #fff;
+		margin: 0;
+		line-height: 1.25;
+		letter-spacing: -0.3px;
+	}
+
+	.ai-cta-sub {
+		font-size: 13.5px;
+		color: rgba(255, 255, 255, .85);
+		margin: 0;
+		line-height: 1.55;
+	}
+
+	.ai-cta-actions {
+		display: flex;
+		gap: 10px;
+		flex-shrink: 0;
+	}
+
+	.ai-btn-primary {
+		display: inline-flex;
+		align-items: center;
+		gap: 8px;
+		padding: 11px 20px;
+		background: #fff;
+		color: #15227a;
+		font-size: 13.5px;
+		font-weight: 800;
+		border-radius: 10px;
+		text-decoration: none;
+		border: none;
+		transition: all .25s ease;
+		text-align: center;
+		white-space: nowrap;
+		letter-spacing: -0.2px;
+		box-sizing: border-box;
+	}
+
+	.ai-btn-primary:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 8px 22px rgba(0, 0, 0, .15);
+	}
+
+	.ai-btn-primary svg {
+		transition: transform .3s ease;
+	}
+
+	.ai-btn-primary:hover svg {
+		transform: translateX(3px);
+	}
+
+	.ai-btn-secondary {
+		display: inline-flex;
+		align-items: center;
+		gap: 8px;
+		padding: 11px 20px;
+		background: rgba(255, 255, 255, .12);
+		color: #fff;
+		font-size: 13.5px;
+		font-weight: 800;
+		border-radius: 10px;
+		text-decoration: none;
+		border: 1.5px solid rgba(255, 255, 255, .35);
+		transition: all .25s ease;
+		text-align: center;
+		white-space: nowrap;
+		letter-spacing: -0.2px;
+		box-sizing: border-box;
+	}
+
+	.ai-btn-secondary:hover {
+		background: rgba(255, 255, 255, .2);
+		border-color: rgba(255, 255, 255, .55);
+		transform: translateY(-2px);
+	}
+
+	.ai-final {
+		margin: 24px 0 0;
+	}
+
+	@media (max-width: 960px) {
+		.ai-flow {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		.ai-color {
+			flex-direction: column;
+			gap: 8px;
+		}
+
+		.ai-color-arrow {
+			transform: rotate(90deg);
+		}
+
+		.ai-color-methods {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		.ai-metrics {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		.ai-band {
+			padding: 36px 24px;
+			border-radius: 18px;
+		}
+
+		.ai-cta {
+			padding: 24px 26px;
+			border-radius: 16px;
+		}
+
+		.ai-cta-inner {
+			flex-direction: column;
+			gap: 16px;
+			align-items: stretch;
+		}
+
+		.ai-cta-actions {
+			width: 100%;
+		}
+	}
+
+	@media (max-width: 640px) {
+		.ai-section {
+			padding: 32px 0;
+		}
+
+		.ai-band {
+			padding: 28px 16px;
+			border-radius: 16px;
+			margin: 12px 0;
+		}
+
+		.ai-flow {
+			grid-template-columns: 1fr;
+		}
+
+		.ai-fn {
+			padding: 12px;
+		}
+
+		.ai-fn-name {
+			font-size: 12px;
+		}
+
+		.ai-fn-desc {
+			font-size: 10.5px;
+		}
+
+		.ai-color-card {
+			padding: 12px;
+		}
+
+		.ai-color-stat {
+			font-size: 16px;
+		}
+
+		.ai-color-desc {
+			font-size: 10px;
+		}
+
+		.ai-color-methods {
+			grid-template-columns: 1fr;
+		}
+
+		.ai-cm {
+			padding: 12px;
+		}
+
+		.ai-cm-head {
+			font-size: 11px;
+		}
+
+		.ai-cm-desc {
+			font-size: 10.5px;
+		}
+
+		.ai-metrics {
+			grid-template-columns: 1fr;
+		}
+
+		.ai-metric {
+			padding: 14px;
+		}
+
+		.ai-metric-val {
+			font-size: 20px;
+		}
+
+		.ai-cta {
+			padding: 20px 18px;
+			border-radius: 14px;
+			margin: 14px 0;
+		}
+
+		.ai-cta-inner {
+			flex-direction: column;
+			gap: 14px;
+			align-items: stretch;
+		}
+
+		.ai-cta-actions {
+			flex-direction: column;
+			width: 100%;
+			gap: 8px;
+		}
+
+		.ai-btn-primary,
+		.ai-btn-secondary {
+			width: 100%;
+			justify-content: center;
+			padding: 11px 16px;
+			font-size: 13px;
+			white-space: normal;
+		}
+
+		.ai-faq-q {
+			font-size: 14.5px;
+			padding: 14px 16px;
+		}
+
+		.ai-faq-a {
+			padding: 0 16px 16px;
+			font-size: 13.5px;
+		}
+
+		.ai-table-wrap {
+			border-radius: 10px;
+		}
+
+		.ai-table {
+			font-size: 13px;
+		}
+
+		.ai-table th {
+			padding: 11px 12px;
+			font-size: 11px;
+		}
+
+		.ai-table td {
+			padding: 10px 12px;
+			font-size: 12px;
+		}
+	}
+</style>

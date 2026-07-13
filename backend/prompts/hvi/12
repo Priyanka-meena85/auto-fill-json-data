@@ -1,0 +1,590 @@
+<div class="aiv-split-hero">
+    <div class="aiv-split-content">
+        <span class="aiv-badge">AI-Powered Quality · 2026 Guide</span>
+        <h1 class="aiv-title">AI Computer Vision for Food Quality Inspection</h1>
+        <h2 class="aiv-title-sub">Detecting Defects at Full Production Speed</h2>
+        <p class="aiv-subtitle">From contaminant detection to packaging validation — a technical guide to deploying machine vision AI across food production lines. Eliminate manual inspection bottlenecks and achieve zero-defect manufacturing.</p>
+        <div class="aiv-banner-btns">
+            <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="aiv-btn-primary">Book a Free Demo</a>
+            <a href="https://heavyvehicleinspection.com/support" class="aiv-btn-ghost">Talk to Support</a>
+        </div>
+    </div>
+    <div class="aiv-split-visual">
+        <div class="aiv-visual-box">
+            <div class="aiv-visual-bg"></div>
+            <div class="aiv-float-badge aiv-b1">
+                <span class="aiv-num">99.9%</span>
+                <span class="aiv-lbl">Detection Accuracy</span>
+            </div>
+            <div class="aiv-float-badge aiv-b2">
+                <span class="aiv-num">3,000+</span>
+                <span class="aiv-lbl">Units/Min Inspected</span>
+            </div>
+            <div class="aiv-float-badge aiv-b3">
+                <span class="aiv-num">85%</span>
+                <span class="aiv-lbl">Waste Reduction</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="aiv-intro-bar">
+    <p>Food manufacturing has entered a new era where <strong>AI computer vision for food quality inspection</strong> is no longer experimental — it's the operational standard. Traditional manual inspection misses up to 15% of defects at high line speeds, while automated systems powered by machine vision deliver 99%+ accuracy across every unit, every shift, with zero fatigue.</p>
+</div>
+
+<section class="aiv-zigzag">
+    <!-- Zigzag Row 1 -->
+    <div class="aiv-zz-row">
+        <div class="aiv-zz-text">
+            <span class="aiv-tag">The Problem</span>
+            <h2>Why Manual Inspection Is Failing</h2>
+            <p>Human inspectors remain the weakest link on high-speed production lines. Manual inspection misses roughly 1 in 7 defects. A single recall costs millions, and accuracy drops significantly due to inspector fatigue in the final hours of any shift.</p>
+            <ul class="aiv-list">
+                <li><strong>15% Defect Miss Rate:</strong> Defects reach consumers and regulators.</li>
+                <li><strong>$10M+ Average Recall Cost:</strong> Massive financial and brand liability.</li>
+                <li><strong>High Fatigue Risk:</strong> Inconsistent quality windows across 3 shifts.</li>
+            </ul>
+        </div>
+        <div class="aiv-zz-graphic aiv-bg-pattern1">
+            <div class="aiv-glass-card">
+                <div class="aiv-icon-wrapper">⏱️</div>
+                <h3>0 ms AI Response Time</h3>
+                <p>Machine vision flags and ejects defective units in real time — no delay, no second-guessing, no missed batches.</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Zigzag Row 2 (Reversed) -->
+    <div class="aiv-zz-row aiv-reverse">
+        <div class="aiv-zz-text">
+            <span class="aiv-tag">How It Works</span>
+            <h2>Real-Time Defect Detection</h2>
+            <p>Modern AI food safety inspection systems combine deep learning, high-resolution imaging, and edge computing to deliver production-speed defect detection without line slowdowns.</p>
+            <div class="aiv-step-list">
+                <div class="aiv-step"><span class="aiv-step-dot">1</span> <strong>Multi-Spectrum Capture:</strong> RGB, X-ray, and NIR imaging detect visible and internal defects.</div>
+                <div class="aiv-step"><span class="aiv-step-dot">2</span> <strong>Deep Learning:</strong> CNNs classify defects in &lt;10ms per frame.</div>
+                <div class="aiv-step"><span class="aiv-step-dot">3</span> <strong>Auto Rejection:</strong> Triggers pneumatic rejection and logs FSMA 204 data.</div>
+                <div class="aiv-step"><span class="aiv-step-dot">4</span> <strong>Continuous Learning:</strong> Inspection data feeds back to improve models.</div>
+            </div>
+        </div>
+        <div class="aiv-zz-graphic aiv-bg-pattern2">
+             <div class="aiv-glass-card aiv-data-card">
+                 <h3>Detection Accuracy</h3>
+                 <div class="aiv-chart-sim">
+                     <div class="aiv-bar-row"><span>Contaminants</span> <div class="aiv-bar"><div class="aiv-fill" style="width: 99.7%"></div></div> <span>99.7%</span></div>
+                     <div class="aiv-bar-row"><span>Surface Defects</span> <div class="aiv-bar"><div class="aiv-fill" style="width: 99.2%"></div></div> <span>99.2%</span></div>
+                     <div class="aiv-bar-row"><span>Shape Deviation</span> <div class="aiv-bar"><div class="aiv-fill" style="width: 99.8%"></div></div> <span>99.8%</span></div>
+                     <div class="aiv-bar-row"><span>Packaging Faults</span> <div class="aiv-bar"><div class="aiv-fill" style="width: 99.5%"></div></div> <span>99.5%</span></div>
+                 </div>
+             </div>
+        </div>
+    </div>
+</section>
+
+<section class="aiv-masonry-wrapper">
+    <div class="aiv-center-head">
+        <span class="aiv-tag">Capabilities & ROI</span>
+        <h2>Transforming Food Quality Control</h2>
+        <p>The essential machine vision capabilities that replace manual QC and deliver ROI within 8-14 months.</p>
+    </div>
+    <div class="aiv-masonry">
+        <div class="aiv-card aiv-card-large aiv-card-dark">
+            <h3>Real-Time Defect Classification</h3>
+            <p>AI models classify defects across 50+ categories simultaneously at full line speed — no sampling, no batch delays.</p>
+            <div class="aiv-cap-tags"><span>Deep learning</span><span>Multi-class AI</span></div>
+        </div>
+        <div class="aiv-card">
+            <h3>Packaging Integrity</h3>
+            <p>Verify seal quality, label accuracy, and barcode readability before it leaves the line.</p>
+        </div>
+        <div class="aiv-card">
+            <h3>Foreign Object ID</h3>
+            <p>X-ray and hyperspectral AI catches metal, glass, bone, rubber, and biological contaminants.</p>
+        </div>
+        <div class="aiv-card">
+            <h3>Automated Sorting</h3>
+            <p>AI grades produce, proteins, and processed foods by size, color, and quality instantly.</p>
+        </div>
+        <div class="aiv-card aiv-card-wide">
+            <h3>Predictive Quality Analytics</h3>
+            <p>Aggregates inspection data to predict quality drift before defect rates spike, reducing waste by up to 30% and lowering QC labor costs by 60%.</p>
+        </div>
+    </div>
+</section>
+
+<div class="aiv-dark-footer">
+    <div class="aiv-footer-content">
+        <h2>Every Defect Caught. Every Batch Documented. Every Audit Ready.</h2>
+        <p>AI computer vision for food quality inspection isn't a future investment — it's the baseline for manufacturers who want to compete on quality, compliance, and cost efficiency in 2026.</p>
+        <div class="aiv-banner-btns">
+            <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="aiv-btn-white">Book a Free Demo</a>
+            <a href="https://heavyvehicleinspection.com/support" class="aiv-btn-ghost-light">Explore Traceability</a>
+        </div>
+    </div>
+</div>
+
+<style>
+/* =========================================
+   AIV (AI Vision) - "THE SPLIT SHOWCASE" 
+   ========================================= */
+:root {
+    --aiv-primary: #4f46e5;
+    --aiv-secondary: #4338ca;
+    --aiv-accent: #818cf8;
+    --aiv-dark: #1e1b4b;
+    --aiv-light: #e0e7ff;
+    --aiv-bg: #ffffff;
+    --aiv-text: #374151;
+    --aiv-text-light: #6b7280;
+}
+
+* { box-sizing: border-box; }
+
+/* Split Hero */
+.aiv-split-hero {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 85vh;
+    background: var(--aiv-dark);
+    border-radius: 24px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.aiv-split-content {
+    flex: 1 1 50%;
+    padding: 80px 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    z-index: 2;
+}
+
+.aiv-badge {
+    align-self: flex-start;
+    background: rgba(129, 140, 248, 0.2);
+    color: var(--aiv-accent);
+    padding: 6px 16px;
+    border-radius: 30px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    border: 1px solid rgba(129, 140, 248, 0.3);
+}
+
+.aiv-title {
+    color: #ffffff;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.1;
+    margin: 0 0 16px 0;
+}
+
+.aiv-title-sub {
+    color: var(--aiv-accent);
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0 0 24px 0;
+}
+
+.aiv-subtitle {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin: 0 0 40px 0;
+    max-width: 90%;
+}
+
+.aiv-banner-btns {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.aiv-btn-primary, .aiv-btn-white {
+    background: var(--aiv-primary);
+    color: #ffffff;
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s;
+    box-shadow: 0 4px 14px rgba(79, 70, 229, 0.4);
+}
+.aiv-btn-white {
+    background: #ffffff;
+    color: var(--aiv-dark);
+    box-shadow: 0 4px 14px rgba(255, 255, 255, 0.2);
+}
+
+.aiv-btn-primary:hover {
+    background: var(--aiv-secondary);
+    transform: translateY(-2px);
+}
+.aiv-btn-white:hover {
+    background: var(--aiv-light);
+    transform: translateY(-2px);
+}
+
+.aiv-btn-ghost {
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid rgba(255,255,255,0.2);
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+.aiv-btn-ghost-light {
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid rgba(255,255,255,0.4);
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.aiv-btn-ghost:hover, .aiv-btn-ghost-light:hover {
+    background: rgba(255,255,255,0.1);
+    border-color: #ffffff;
+}
+
+.aiv-split-visual {
+    flex: 1 1 50%;
+    position: relative;
+    background: linear-gradient(135deg, #312e81 0%, #1e1b4b 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.aiv-visual-bg {
+    position: absolute;
+    width: 150%;
+    height: 150%;
+    background: radial-gradient(circle at center, rgba(79, 70, 229, 0.3) 0%, transparent 60%);
+    animation: aiv-pulse 8s infinite alternate;
+}
+
+@keyframes aiv-pulse {
+    0% { transform: scale(1); opacity: 0.5; }
+    100% { transform: scale(1.2); opacity: 1; }
+}
+
+.aiv-visual-box {
+    position: relative;
+    width: 80%;
+    height: 70%;
+    z-index: 2;
+}
+
+.aiv-float-badge {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 20px 30px;
+    border-radius: 16px;
+    color: #ffffff;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    animation: aiv-float 6s ease-in-out infinite;
+}
+
+.aiv-num { font-size: 2.5rem; font-weight: 900; color: var(--aiv-accent); line-height: 1; margin-bottom: 8px; }
+.aiv-lbl { font-size: 0.9rem; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: rgba(255,255,255,0.7); }
+
+.aiv-b1 { top: 10%; left: 10%; animation-delay: 0s; }
+.aiv-b2 { top: 45%; right: 5%; animation-delay: 2s; }
+.aiv-b3 { bottom: 10%; left: 20%; animation-delay: 4s; }
+
+@keyframes aiv-float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+}
+
+/* Intro Bar */
+.aiv-intro-bar {
+    background: var(--aiv-light);
+    border-radius: 16px;
+    padding: 32px 48px;
+    margin-bottom: 60px;
+    border-left: 6px solid var(--aiv-primary);
+}
+.aiv-intro-bar p {
+    font-size: 1.2rem;
+    color: var(--aiv-dark);
+    line-height: 1.7;
+    margin: 0;
+}
+
+/* Zigzag Sections */
+.aiv-zigzag { margin-bottom: 80px; }
+.aiv-zz-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 40px;
+    min-height: 400px;
+}
+.aiv-reverse { flex-direction: row-reverse; }
+
+.aiv-zz-text {
+    flex: 1 1 50%;
+    padding: 40px 60px;
+}
+.aiv-tag {
+    display: inline-block;
+    color: var(--aiv-primary);
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 16px;
+    font-size: 0.85rem;
+}
+.aiv-zz-text h2 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: var(--aiv-dark);
+    margin: 0 0 24px 0;
+    line-height: 1.2;
+}
+.aiv-zz-text p {
+    font-size: 1.1rem;
+    color: var(--aiv-text);
+    line-height: 1.7;
+    margin: 0 0 24px 0;
+}
+
+.aiv-list, .aiv-step-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.aiv-list li {
+    font-size: 1.05rem;
+    color: var(--aiv-text);
+    padding: 12px 0;
+    border-bottom: 1px solid #e5e7eb;
+}
+.aiv-step {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+    font-size: 1.05rem;
+    color: var(--aiv-text);
+    line-height: 1.5;
+}
+.aiv-step-dot {
+    background: var(--aiv-primary);
+    color: #fff;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 700;
+    margin-right: 12px;
+    flex-shrink: 0;
+}
+
+.aiv-zz-graphic {
+    flex: 1 1 50%;
+    height: 100%;
+    min-height: 400px;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    position: relative;
+}
+.aiv-bg-pattern1 {
+    background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+}
+.aiv-bg-pattern2 {
+    background: linear-gradient(135deg, var(--aiv-light) 0%, #c7d2fe 100%);
+}
+
+.aiv-glass-card {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.05);
+    text-align: center;
+    width: 80%;
+}
+.aiv-icon-wrapper {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.aiv-glass-card h3 {
+    font-size: 1.5rem;
+    color: var(--aiv-dark);
+    margin: 0 0 16px 0;
+}
+.aiv-glass-card p {
+    color: var(--aiv-text-light);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.aiv-data-card { text-align: left; width: 90%; }
+.aiv-bar-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--aiv-text);
+}
+.aiv-bar-row span:first-child { width: 120px; }
+.aiv-bar-row span:last-child { width: 50px; text-align: right; color: var(--aiv-primary); }
+.aiv-bar {
+    flex-grow: 1;
+    height: 8px;
+    background: #e5e7eb;
+    border-radius: 4px;
+    margin: 0 12px;
+    overflow: hidden;
+}
+.aiv-fill {
+    height: 100%;
+    background: var(--aiv-primary);
+    border-radius: 4px;
+}
+
+/* Masonry / Grid Break */
+.aiv-center-head {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 40px auto;
+}
+.aiv-center-head h2 {
+    font-size: 2.2rem;
+    color: var(--aiv-dark);
+    margin: 0 0 16px 0;
+}
+.aiv-center-head p {
+    color: var(--aiv-text);
+    font-size: 1.1rem;
+}
+
+.aiv-masonry-wrapper {
+    margin-bottom: 80px;
+}
+.aiv-masonry {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(180px, auto);
+    gap: 24px;
+}
+.aiv-card {
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    padding: 32px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+    transition: transform 0.3s;
+}
+.aiv-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.06);
+}
+.aiv-card-large {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+.aiv-card-wide {
+    grid-column: span 3;
+}
+.aiv-card-dark {
+    background: var(--aiv-dark);
+    color: #fff;
+    border: none;
+}
+.aiv-card-dark h3 { color: #fff; }
+.aiv-card-dark p { color: rgba(255,255,255,0.7); }
+
+.aiv-card h3 {
+    font-size: 1.3rem;
+    color: var(--aiv-dark);
+    margin: 0 0 12px 0;
+}
+.aiv-card-large h3 { font-size: 2rem; margin-bottom: 20px; }
+.aiv-card p {
+    color: var(--aiv-text-light);
+    line-height: 1.6;
+    margin: 0;
+}
+.aiv-cap-tags {
+    margin-top: 24px;
+    display: flex;
+    gap: 8px;
+}
+.aiv-cap-tags span {
+    background: rgba(255,255,255,0.1);
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+/* Footer */
+.aiv-dark-footer {
+    background: var(--aiv-dark);
+    border-radius: 24px;
+    padding: 80px 40px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+.aiv-dark-footer::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at 50% 0%, rgba(79, 70, 229, 0.4) 0%, transparent 70%);
+}
+.aiv-footer-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.aiv-dark-footer h2 {
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin: 0 0 24px 0;
+    line-height: 1.2;
+}
+.aiv-dark-footer p {
+    font-size: 1.1rem;
+    color: rgba(255,255,255,0.7);
+    margin: 0 0 40px 0;
+    line-height: 1.6;
+}
+
+@media (max-width: 992px) {
+    .aiv-split-content, .aiv-zz-text { padding: 40px 24px; flex: 1 1 100%; }
+    .aiv-split-visual, .aiv-zz-graphic { flex: 1 1 100%; min-height: 400px; }
+    .aiv-title { font-size: 2.5rem; }
+    .aiv-b1, .aiv-b2, .aiv-b3 { position: static; margin: 10px; animation: none; transform: none !important; }
+    .aiv-visual-box { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; }
+    .aiv-masonry { grid-template-columns: 1fr; }
+    .aiv-card-large, .aiv-card-wide { grid-column: auto; grid-row: auto; }
+}
+</style>

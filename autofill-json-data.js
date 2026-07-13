@@ -10,72 +10,93 @@ let readingTime;
 let metaKeywords;
 let submitButton;
 
-// check page url to add button to fill json data
-const allowedSites = ["oxmaint", "ifactoryapp", "heavyvehicleinspection"];
-let hostname = window.location.hostname;
-let isAllowed = allowedSites.some((site) => hostname.includes(site));
+// Automatically try to add button to fill json data on potential admin/post pages
+let buttonInjected = false;
 
-let pageUrl = window.location.href;
-if (isAllowed && pageUrl.includes("manage-post-2k26/add_post") && window.self === window.top) {
-  let filBtn = document.createElement("button");
-  filBtn.className = "fillJson";
-  filBtn.innerText = "Fill Json Data";
-  filBtn.style.backgroundColor = "#15227a";
-  filBtn.style.color = "#fff";
-  filBtn.style.marginLeft = "20px";
-  filBtn.style.borderRadius = "14px";
-  filBtn.style.padding = "6px 12px";
-  filBtn.style.cursor = "pointer";
-  let header = document
-    .querySelector(".container_12")
-    ?.querySelector(".grid_10")
-    ?.querySelector("h2");
-    
-  if (!header) {
-    // Fallback: try to find any header containing "Add New Post" or similar
-    const headers = document.querySelectorAll("h1, h2, h3, h4, h5, .card-header");
-    for (let i = 0; i < headers.length; i++) {
-      if (headers[i].innerText.toLowerCase().includes("add new post") || headers[i].innerText.toLowerCase().includes("add post")) {
-        header = headers[i];
-        break;
+function attemptInjection() {
+  if (buttonInjected) return;
+
+  // Check if we can find typical form fields on this page
+  try {
+      getInputFields();
+  } catch (e) {
+      console.error("Autofill Extension: Error in getInputFields", e);
+  }
+  let hasFormFields = fields && fields.length >= 2;
+
+  // We ONLY inject if we actually found the form fields.
+  // This prevents the buttons from showing up on dashboard lists that have "manage" or "admin" in the URL,
+  // but don't actually have a form to fill.
+  let shouldInject = hasFormFields;
+
+  if (shouldInject) {
+    let filBtn = document.createElement("button");
+    filBtn.className = "fillJson";
+    filBtn.innerText = "Fill Json Data";
+    filBtn.style.backgroundColor = "#15227a";
+    filBtn.style.color = "#fff";
+    filBtn.style.marginLeft = "20px";
+    filBtn.style.borderRadius = "14px";
+    filBtn.style.padding = "6px 12px";
+    filBtn.style.cursor = "pointer";
+    let header = document
+      .querySelector(".container_12")
+      ?.querySelector(".grid_10")
+      ?.querySelector("h2");
+      
+    if (!header) {
+      // Fallback: try to find any header containing "Add New Post" or similar
+      const headers = document.querySelectorAll("h1, h2, h3, h4, h5, .card-header");
+      for (let i = 0; i < headers.length; i++) {
+        if (headers[i].innerText.toLowerCase().includes("add new post") || headers[i].innerText.toLowerCase().includes("add post")) {
+          header = headers[i];
+          break;
+        }
       }
     }
-  }
-  
-  if (!header) {
-      // Final fallback: append to the form or body as a floating container
-      const container = document.createElement("div");
-      container.style.position = "fixed";
-      container.style.bottom = "20px";
-      container.style.right = "20px";
-      container.style.zIndex = "9999";
-      container.style.padding = "10px";
-      container.style.backgroundColor = "white";
-      container.style.border = "1px solid #ccc";
-      container.style.borderRadius = "8px";
-      document.body.appendChild(container);
-      header = container;
-  }
+    
+    if (!header) {
+        // Final fallback: append to the form or body as a floating container
+        const container = document.createElement("div");
+        container.style.position = "fixed";
+        container.style.bottom = "20px";
+        container.style.right = "20px";
+        container.style.zIndex = "999999";
+        container.style.padding = "15px";
+        container.style.backgroundColor = "white";
+        container.style.border = "2px solid #15227a";
+        container.style.borderRadius = "8px";
+        container.style.boxShadow = "0 4px 12px rgba(0,0,0,0.15)";
+        document.body.appendChild(container);
+        header = container;
+    }
 
-  console.log("Button container:", header);
-  if (header) {
-    header.appendChild(filBtn);
+    console.log("Button container:", header);
+    if (header) {
+      header.appendChild(filBtn);
 
-    // New Generate + Fill Page Button
-    let genBtn = document.createElement("button");
-    genBtn.id = "btn-generate-fill";
-    genBtn.className = "generateFillJson";
-    genBtn.innerText = "Generate + Fill Page";
-    genBtn.style.backgroundColor = "#28a745";
-    genBtn.style.color = "#fff";
-    genBtn.style.marginLeft = "10px";
-    genBtn.style.borderRadius = "14px";
-    genBtn.style.padding = "6px 12px";
-    genBtn.style.cursor = "pointer";
-    header.appendChild(genBtn);
+      // New Generate + Fill Page Button
+      let genBtn = document.createElement("button");
+      genBtn.id = "btn-generate-fill";
+      genBtn.className = "generateFillJson";
+      genBtn.innerText = "Generate + Fill Page";
+      genBtn.style.backgroundColor = "#28a745";
+      genBtn.style.color = "#fff";
+      genBtn.style.marginLeft = "10px";
+      genBtn.style.borderRadius = "14px";
+      genBtn.style.padding = "6px 12px";
+      genBtn.style.cursor = "pointer";
+      header.appendChild(genBtn);
+    }
+    buttonInjected = true;
   }
-  getInputFields();
 }
+
+// Try injection immediately
+attemptInjection();
+
+// Also try periodically in case of Single Page Applications where the form loads later
+setInterval(attemptInjection, 2000);
 
 //    click autofill button
 document.addEventListener("click", async function (event) {
@@ -115,8 +136,9 @@ document.addEventListener("click", async function (event) {
       btn.disabled = true;
       
       try {
+        const primaryColor = getPrimaryColor();
         chrome.runtime.sendMessage(
-          { action: "generatePage", payload: { data: result.jsonData, hostname: window.location.hostname } },
+          { action: "generatePage", payload: { data: result.jsonData, hostname: window.location.hostname, primaryColor: primaryColor } },
           (response) => {
             if (response && response.success) {
               autofillForm(response.data);
@@ -143,6 +165,28 @@ document.addEventListener("click", async function (event) {
     });
   }
 });
+
+// Extract primary color dynamically from the page
+function getPrimaryColor() {
+  let color = "#333333"; // default fallback
+  try {
+    const header = document.querySelector('header, .header, #header, .navbar, nav');
+    if (header) {
+      const bg = window.getComputedStyle(header).backgroundColor;
+      if (bg && bg !== 'rgba(0, 0, 0, 0)' && bg !== 'transparent' && bg !== 'rgb(255, 255, 255)') {
+        return bg;
+      }
+    }
+    const btn = document.querySelector('button, .btn, .button, input[type="submit"]');
+    if (btn) {
+      const bg = window.getComputedStyle(btn).backgroundColor;
+      if (bg && bg !== 'rgba(0, 0, 0, 0)' && bg !== 'transparent') {
+        return bg;
+      }
+    }
+  } catch(e) {}
+  return color;
+}
 
 // get all input fields that need to be filled
 function getInputFields() {
@@ -367,6 +411,10 @@ function checkImageSize() {
     return true;
   }
 
+  // Only restrict image size on known admin domains to avoid breaking other websites
+  const isTargetDomain = ["ifactoryapp.com", "heavyvehicleinspection.com", "oxmaint.com", "localhost", "127.0.0.1"].some(domain => window.location.hostname.includes(domain)) || window.location.href.includes("add_post");
+  if (!isTargetDomain) return true;
+
   let file = image.files[0];
 
   // 1 MB = 1024 * 1024 bytes
@@ -406,6 +454,10 @@ function showToast(message) {
 }
 
 document.addEventListener("input", function (event) {
+  // Only run input validation on known admin domains or any 'add_post' page to avoid breaking other websites
+  const isTargetDomain = ["ifactoryapp.com", "heavyvehicleinspection.com", "oxmaint.com", "localhost", "127.0.0.1"].some(domain => window.location.hostname.includes(domain)) || window.location.href.includes("add_post");
+  if (!isTargetDomain) return;
+
   // FIX: Prevent error if fields is undefined on other websites like chatgpt.com
   if (!fields) return;
   

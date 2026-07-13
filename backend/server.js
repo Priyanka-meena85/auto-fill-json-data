@@ -10,6 +10,11 @@ const templateConfig = {
       "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"
     ]
   },
+  hvi: {
+    blog: [
+      "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"
+    ]
+  },
   oxmaint: {
     blog: [
       "blog.html",
@@ -28,7 +33,10 @@ const templateConfig = {
  * Extract available template pool based on website and page type.
  */
 function getTemplatePool(website, pageType) {
-    if (!templateConfig[website]) return [];
+    let targetWebsite = website;
+    if (!templateConfig[targetWebsite]) {
+        targetWebsite = 'ifactory'; // fallback
+    }
     
     // Normalize page type slightly (e.g. "case study" -> "caseStudy")
     let normalizedType = (pageType || "blog").toLowerCase();
@@ -36,7 +44,7 @@ function getTemplatePool(website, pageType) {
         normalizedType = "caseStudy";
     }
 
-    return templateConfig[website][normalizedType] || [];
+    return templateConfig[targetWebsite][normalizedType] || templateConfig[targetWebsite]['blog'] || [];
 }
 
 /**
@@ -86,9 +94,78 @@ function readTemplateFile(website, templateName) {
  * Builds the AI generation prompt combining data, template, and instructions.
  */
 function buildGenerationPrompt(pageData, templateContent, templateName, website) {
-    const brandContext = website === "ifactory" 
-        ? "https://ifactoryapp.com/ - Focus on Industry 4.0, AI-driven predictive maintenance, smart factory analytics, and enterprise manufacturing efficiency. Tone: professional, technical, authoritative."
-        : "oxmaint.ai - Focus on CMMS, daily maintenance checklists, work order management, facility safety, and operational efficiency. Tone: practical, actionable, authoritative.";
+    let brandContext = "";
+    if (website === "oxmaint") {
+        brandContext = "oxmaint.com - Focus on CMMS, daily maintenance checklists, work order management. Tone: practical, actionable. BRAND STYLING: You MUST strictly update all primary, CTA, and background colors in the CSS to Oxmaint's official color codes: #15227a (primary dark blue) and #fab758 (accent orange/yellow).";
+    } else if (website === "hvi") {
+        brandContext = "heavyvehicleinspection.com (HVI) - Focus on heavy vehicle inspection, fleet maintenance management, digital inspection apps, safety compliance. Tone: professional, safety-focused. BRAND STYLING: You MUST strictly update all primary, CTA, and background colors in the CSS to HVI's official color code: #345180 (primary steel blue).";
+    } else if (website === "ifactory") {
+        brandContext = "https://ifactoryapp.com/ - Focus on Industry 4.0, AI-driven predictive maintenance, smart factory analytics. Tone: professional, technical. BRAND STYLING: You MUST strictly update all primary, CTA, and background colors in the CSS to iFactory's official color code: #605dba (primary purple).";
+    } else {
+        const pColor = pageData.primaryColor || "#333333";
+        brandContext = `${website} - Tone: professional. BRAND STYLING: You MUST strictly update all primary, CTA, and background colors in the CSS to use this website's primary color code: ${pColor}.`;
+    }
+
+    let instructions = "";
+
+    if (website === "hvi") {
+        instructions = `INSTRUCTIONS:
+First collect content, then create section and template according to this. Follow page rules like cta section and start with p tag and end with style tag and signup book a demo interlink.
+Make sure all pages are different from each other. Do market research on this and create a seo-optimized and traffic-focused case study/blog/checklist page for heavyvehicleinspection.in that is highly informative and relatable, making people curious to read and click sign up or book a demo.
+Give high quality content relatable to title and correct.
+Give different structure as per the title, give very visualized designs, visually engaging infographics structure to represent the information in very visualized and attractive way.
+Follow these rules strictly:
+- don't use h1 tag
+- don't use max-width
+- don't use comments in code
+- don't use JavaScript
+- use border radius for main section
+- don't use italic font style
+- don't use font family
+- don't use inline CSS
+- don't use body element in CSS
+- use #345180 color as primary color, use #fff color as secondary color, use primary color in cta section, use correct hover effect
+- don't use universal selector (*) in CSS
+- don't add class in first para, don't use CSS for first paragraph
+- use readable font size and text color with background color
+- faq answers should be of minimum 2 to 4 lines, make table scrollable horizontally in mobile view if needed
+- minimum two cta sections and maximum three cta sections should be in the page
+- don't use icons and emoji
+- cta buttons should be displayed below the cta section text content
+- don't use margin for x-axis(left and right) on main sections
+- don't use padding more than 20px at y-axis (top and bottom) and 18px at x axis(left and right)
+- use only two links for buttons or hyperlinks in whole page one is https://heavyvehicleinspection.com/portal/signup and second is https://calendly.com/hviapp/30min, don't use other links for buttons or hyperlinks
+- put last cta section at the end of the page
+- don't use inline CSS anywhere
+- make page responsive in mobile screen (428, 375, 320), tablet view and laptop view, use all media screen sizes to make page responsive
+- don't add any css in hyperlinks without class name
+- put cta buttons in one line in tablet view, cta button in two lines with full width in mobile view
+- don't use border-radius more than 20px
+- don't use font size less than 14px anywhere in the page
+- don't add html boiler plate in code
+- don't add hyperlinks in first para in 2-3 lines of starting, add hyperlink in first para in last or second last line
+- faqs should not be more than 5
+- don't use padding (left and right) more than 12px in mobile screens, add hyperlinks in faqs.
+- use different class names in code as bootstrap class names
+- first paragraph should be of 4-5 lines only, first para content should not be more than 5 lines
+- don't use padding more than 12px at x-axis (left and right) in mobile view
+- don't use padding more than 20px in main sections, add cta buttons in hero section
+- page content should have buyer intent page that focus user to use our software or book a demo(main)`;
+    } else {
+        instructions = `INSTRUCTIONS:
+Use the supplied template as the primary structure for the generated page.
+Preserve the overall layout hierarchy, section sequence, heading structure,
+CTA positions, card pattern, FAQ placement, and component arrangement.
+Replace only the placeholder or topic-specific content.
+Do not copy irrelevant content from the template.
+Generate unique, professional, SEO-friendly content according to the supplied
+page title and metadata.
+Do not remove mandatory sections from the selected template.
+
+CRITICAL CSS & BRANDING: You MUST update the CSS color codes in the generated HTML to match the specific "BRAND STYLING" instructions provided in the Brand Context. Overwrite any existing template colors that belong to other brands.
+
+CRITICAL MOBILE BUTTON RESPONSIVENESS: On mobile screens (e.g., max-width 768px), ALL CTA buttons MUST appear in two separate rows (stack vertically), taking 100% width each, with proper spacing between them. You MUST add the necessary responsive CSS media queries to enforce this behavior without affecting the desktop layout.`;
+    }
 
     return `
 You are an elite, world-class SEO content generator and expert UI/UX web designer.
@@ -101,17 +178,9 @@ ${JSON.stringify(pageData, null, 2)}
 
 Template Name: ${templateName}
 
-INSTRUCTIONS:
-Use the supplied template as the primary structure for the generated page.
-Preserve the overall layout hierarchy, section sequence, heading structure,
-CTA positions, card pattern, FAQ placement, and component arrangement.
-Replace only the placeholder or topic-specific content.
-Do not copy irrelevant content from the template.
-Generate unique, professional, SEO-friendly content according to the supplied
-page title and metadata.
-Do not remove mandatory sections from the selected template.
+${instructions}
 
-CRITICAL MOBILE BUTTON RESPONSIVENESS: On mobile screens (e.g., max-width 768px), ALL CTA buttons MUST appear in two separate rows (stack vertically), taking 100% width each, with proper spacing between them. You MUST add the necessary responsive CSS media queries to enforce this behavior without affecting the desktop layout.
+CRITICAL: You MUST generate complete and high-quality values for ALL fields in the JSON object (url, title, description, keywords). Do NOT leave them blank. Do NOT return the placeholder text.
 
 Return the result in the exact JSON schema expected by the existing frontend:
 {
@@ -148,10 +217,12 @@ async function generatePageWithAI(payload) {
         body: JSON.stringify({
             model: "deepseek-chat",
             messages: [
-                { role: "system", content: "You are a helpful assistant that generates valid JSON only." },
+                { role: "system", content: "You are a helpful assistant that outputs ONLY valid JSON." },
                 { role: "user", content: payload }
             ],
-            temperature: 0.7
+            response_format: { type: "json_object" },
+            temperature: 0.7,
+            max_tokens: 8000
         })
     });
 
@@ -168,24 +239,63 @@ async function generatePageWithAI(payload) {
     let generatedText = aiResponse.choices[0].message.content.trim();
     let parsedJson = null;
 
+    if (generatedText.startsWith("```json")) {
+        generatedText = generatedText.replace(/^```json\n?/, '').replace(/\n?```$/, '');
+    } else if (generatedText.startsWith("```")) {
+        generatedText = generatedText.replace(/^```\n?/, '').replace(/\n?```$/, '');
+    }
+
     try {
-        if (generatedText.startsWith("```json")) {
-            generatedText = generatedText.replace(/^```json\n?/, '').replace(/\n?```$/, '');
-        } else if (generatedText.startsWith("```")) {
-            generatedText = generatedText.replace(/^```\n?/, '').replace(/\n?```$/, '');
-        }
         parsedJson = JSON.parse(generatedText);
     } catch (e) {
-        console.log("Direct JSON parse failed, attempting regex extraction...");
-        const match = generatedText.match(/\{[\s\S]*\}/);
-        if (match) {
-            try {
-                parsedJson = JSON.parse(match[0]);
-            } catch (e2) {
-                throw new Error("Failed to parse extracted JSON.");
+        console.log("Direct JSON parse failed, attempting robust regex extraction for truncated response...");
+        try {
+            // If the AI hit the token limit, the JSON is truncated. 
+            // We can salvage it by manually extracting the fields using regex.
+            const urlMatch = generatedText.match(/"url"\s*:\s*"([^"]*)"/);
+            const titleMatch = generatedText.match(/"title"\s*:\s*"([^"]*)"/);
+            const descMatch = generatedText.match(/"description"\s*:\s*"([^"]*)"/);
+            const keywordsMatch = generatedText.match(/"keywords"\s*:\s*"([^"]*)"/);
+            
+            // For content, match everything after "content": " until the next unescaped quote or end of string
+            // This is tricky with regex, so we'll just find the start of content and take the rest, 
+            // cleaning up the trailing JSON garbage if any.
+            const contentStartIndex = generatedText.indexOf('"content"');
+            if (contentStartIndex !== -1) {
+                let contentStr = generatedText.substring(contentStartIndex);
+                contentStr = contentStr.replace(/^"content"\s*:\s*"/, '');
+                
+                // Remove trailing quotes, braces, and newlines that might be cut off
+                contentStr = contentStr.replace(/"\s*\}\s*$/, '');
+                contentStr = contentStr.replace(/\"\s*$/, '');
+                
+                // Unescape JSON stringified characters
+                contentStr = contentStr.replace(/\\n/g, '\n')
+                                       .replace(/\\"/g, '"')
+                                       .replace(/\\\\/g, '\\')
+                                       .replace(/\\t/g, '\t');
+                                       
+                // Auto-close style tag if it was truncated
+                if (contentStr.includes('<style>') && !contentStr.includes('</style>')) {
+                    contentStr += '\n}\n</style>';
+                }
+
+                parsedJson = {
+                    url: urlMatch ? urlMatch[1] : "generated-url",
+                    title: titleMatch ? titleMatch[1] : "Generated Title",
+                    description: descMatch ? descMatch[1] : "Generated description",
+                    keywords: keywordsMatch ? keywordsMatch[1] : "",
+                    content: contentStr,
+                    type: "Article"
+                };
+            } else {
+                throw new Error("Content field not found in truncated response.");
             }
-        } else {
-            throw new Error("No JSON object found in AI response.");
+        } catch (e2) {
+            console.error("--- RAW EXTRACTED JSON THAT FAILED TO PARSE ---");
+            console.error(generatedText);
+            console.error("-------------------------------------------------");
+            throw new Error("Failed to parse extracted JSON.");
         }
     }
 
@@ -214,7 +324,14 @@ app.post('/generate-page', async (req, res) => {
         }
 
         // Determine website identifier
-        const website = hostname.includes("oxmaint") ? "oxmaint" : "ifactory";
+        let website = hostname;
+        if (hostname.includes("oxmaint")) {
+            website = "oxmaint";
+        } else if (hostname.includes("heavyvehicleinspection") || hostname.includes("hvi")) {
+            website = "hvi";
+        } else if (hostname.includes("ifactory")) {
+            website = "ifactory";
+        }
 
         console.log("--- Generation Request ---");
         console.log(`Website: ${website}`);

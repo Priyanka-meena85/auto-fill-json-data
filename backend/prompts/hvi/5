@@ -1,0 +1,322 @@
+<div class="qa-minimal-wrapper">
+    <!-- Clean Minimalist Hero -->
+    <header class="qa-hero-clean">
+        <div class="qa-badge-minimal">Quality Assurance / Deep Learning</div>
+        <h1 class="qa-title-huge">Flawless Output: Deep Learning in QA</h1>
+        <p class="qa-subtitle-clean">Beyond Human Vision — Detecting defects as small as a few microns instantly without slowing down your production line. Machine vision systems powered by CNNs have revolutionized high-speed manufacturing.</p>
+        <div class="qa-hero-actions">
+            <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="qa-btn-solid">See How It Works</a>
+            <a href="https://heavyvehicleinspection.com/support" class="qa-btn-ghost">Contact Sales</a>
+        </div>
+    </header>
+
+    <div class="qa-divider"></div>
+
+    <!-- Data Integration / Introduction -->
+    <section class="qa-section-clean">
+        <div class="qa-content-narrow">
+            <h2 class="qa-h2-clean">The Bottleneck of Human Inspection</h2>
+            <p class="qa-text-clean">Visual inspection has long been a bottleneck in high-speed manufacturing. Human inspectors are prone to fatigue, leading to a high rate of false positives and missed defects. When production lines run at hundreds of units per minute, the human eye simply cannot keep up with the required precision.</p>
+            
+            <div class="qa-data-block">
+                <h3 class="qa-data-title">Defect Detection Accuracy Comparison</h3>
+                <div class="qa-bar-chart">
+                    <div class="qa-bar-row">
+                        <span class="qa-bar-lbl">Human Inspector (Start of Shift)</span>
+                        <div class="qa-bar-track"><div class="qa-bar-fill" style="width: 85%">85%</div></div>
+                    </div>
+                    <div class="qa-bar-row">
+                        <span class="qa-bar-lbl">Human Inspector (End of Shift)</span>
+                        <div class="qa-bar-track"><div class="qa-bar-fill qa-fill-warn" style="width: 72%">72%</div></div>
+                    </div>
+                    <div class="qa-bar-row">
+                        <span class="qa-bar-lbl">iFactory Deep Learning AI</span>
+                        <div class="qa-bar-track"><div class="qa-bar-fill qa-fill-perfect" style="width: 99.9%">99.9%</div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Strict 3-Column Grid -->
+    <section class="qa-section-clean">
+        <h2 class="qa-h2-clean qa-center">Transforming Visual Inspection</h2>
+        <p class="qa-text-clean qa-center qa-mb-large">Modern machine vision systems don't just see—they learn, adapt, and process at speeds impossible for human operators, ensuring zero-defect manufacturing.</p>
+        
+        <div class="qa-grid-3">
+            <div class="qa-card-clean">
+                <div class="qa-icon-minimal">🔍</div>
+                <h3>Micron-level Precision</h3>
+                <p>Detect scratches, dents, and assembly errors as small as a few microns, instantly.</p>
+            </div>
+            <div class="qa-card-clean">
+                <div class="qa-icon-minimal">⚡</div>
+                <h3>High-Speed Processing</h3>
+                <p>Analyze hundreds of parts per minute without slowing down the production line.</p>
+            </div>
+            <div class="qa-card-clean">
+                <div class="qa-icon-minimal">🧠</div>
+                <h3>Continuous Learning</h3>
+                <p>The system becomes more accurate over time as it processes more variations of acceptable and defective products.</p>
+            </div>
+            <div class="qa-card-clean">
+                <div class="qa-icon-minimal">🛡️</div>
+                <h3>Zero-Fatigue Reliability</h3>
+                <p>Maintains 100% inspection accuracy across all shifts, eliminating human error caused by repetition.</p>
+            </div>
+            <div class="qa-card-clean">
+                <div class="qa-icon-minimal">📊</div>
+                <h3>Instant Analytics</h3>
+                <p>Categorize defects in real-time to identify upstream manufacturing issues before they compound.</p>
+            </div>
+            <div class="qa-card-clean">
+                <div class="qa-icon-minimal">🔗</div>
+                <h3>Seamless Integration</h3>
+                <p>Connects directly to your PLCs to trigger automated rejection mechanisms with zero latency.</p>
+            </div>
+        </div>
+    </section>
+
+    <div class="qa-divider"></div>
+
+    <!-- Minimalist CTA -->
+    <section class="qa-cta-clean">
+        <h2 class="qa-h2-clean">Ready to Eliminate Inspection Bottlenecks?</h2>
+        <p class="qa-text-clean">Integrate deep learning quality assurance into your line and achieve 99.9% defect detection accuracy from day one.</p>
+        <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="qa-btn-solid qa-btn-large">Book a Free Demo</a>
+    </section>
+</div>
+
+<style>
+/* =========================================
+   QA (Quality Assurance) - "MINIMALIST TECH REPORT"
+   ========================================= */
+:root {
+    --qa-bg: #ffffff;
+    --qa-text-main: #111827;
+    --qa-text-muted: #6b7280;
+    --qa-accent1: #7c3aed; /* Sharp Purple */
+    --qa-accent2: #d946ef; /* Magenta */
+    --qa-border: #f3f4f6;
+    --qa-surface: #ffffff;
+}
+
+body {
+    background-color: var(--qa-bg);
+}
+
+.qa-minimal-wrapper {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: var(--qa-text-main);
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    background: var(--qa-bg);
+}
+
+/* Typography & Hero */
+.qa-hero-clean {
+    text-align: left;
+    max-width: 900px;
+    margin: 0 0 80px 0;
+    animation: qa-fade-in 0.8s ease-out forwards;
+    opacity: 0;
+    transform: translateY(20px);
+}
+@keyframes qa-fade-in {
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.qa-badge-minimal {
+    display: inline-block;
+    color: var(--qa-accent1);
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 24px;
+}
+.qa-title-huge {
+    font-size: 4.5rem;
+    font-weight: 900;
+    line-height: 1.05;
+    letter-spacing: -0.03em;
+    margin: 0 0 30px 0;
+    color: var(--qa-text-main);
+}
+.qa-subtitle-clean {
+    font-size: 1.4rem;
+    line-height: 1.6;
+    color: var(--qa-text-muted);
+    font-weight: 400;
+    margin: 0 0 40px 0;
+    max-width: 800px;
+}
+
+.qa-hero-actions {
+    display: flex;
+    gap: 20px;
+}
+.qa-btn-solid {
+    background: var(--qa-text-main);
+    color: #ffffff;
+    padding: 16px 32px;
+    border-radius: 4px; /* Sharp edges */
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+.qa-btn-solid:hover {
+    background: var(--qa-accent1);
+    box-shadow: 0 10px 20px rgba(124, 58, 237, 0.2);
+}
+.qa-btn-ghost {
+    background: transparent;
+    color: var(--qa-text-main);
+    padding: 16px 32px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    border: 1px solid var(--qa-border);
+    transition: all 0.2s;
+}
+.qa-btn-ghost:hover {
+    border-color: var(--qa-text-main);
+}
+
+.qa-divider {
+    height: 1px;
+    background: linear-gradient(90deg, var(--qa-border) 0%, rgba(243,244,246,0) 100%);
+    margin: 60px 0;
+}
+
+/* Body Content */
+.qa-section-clean {
+    margin-bottom: 80px;
+}
+.qa-content-narrow {
+    max-width: 700px;
+}
+.qa-h2-clean {
+    font-size: 2.2rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin: 0 0 24px 0;
+}
+.qa-text-clean {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--qa-text-muted);
+    margin: 0 0 30px 0;
+}
+.qa-center { text-align: center; margin-left: auto; margin-right: auto; max-width: 800px; }
+.qa-mb-large { margin-bottom: 60px; }
+
+/* Data Block (CSS Bar Charts) */
+.qa-data-block {
+    background: #fafafa;
+    border-radius: 8px;
+    padding: 40px;
+    margin: 40px 0;
+    border: 1px solid var(--qa-border);
+}
+.qa-data-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0 0 30px 0;
+    color: var(--qa-text-main);
+}
+.qa-bar-chart {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.qa-bar-row {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.qa-bar-lbl {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--qa-text-muted);
+}
+.qa-bar-track {
+    height: 12px;
+    background: #e5e7eb;
+    border-radius: 2px;
+    overflow: hidden;
+}
+.qa-bar-fill {
+    height: 100%;
+    background: var(--qa-text-main);
+    color: transparent; /* hide text inside tiny bar */
+}
+.qa-fill-warn { background: var(--qa-accent2); }
+.qa-fill-perfect { background: var(--qa-accent1); }
+
+/* Strict 3-Column Grid */
+.qa-grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px; /* border hack */
+    background: var(--qa-border);
+    border: 1px solid var(--qa-border);
+}
+.qa-card-clean {
+    background: var(--qa-surface);
+    padding: 50px 40px;
+    transition: all 0.4s ease;
+    cursor: default;
+    position: relative;
+    z-index: 1;
+}
+.qa-card-clean:hover {
+    z-index: 2;
+    transform: scale(1.02);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+    border-radius: 8px;
+}
+.qa-icon-minimal {
+    font-size: 2rem;
+    margin-bottom: 24px;
+    opacity: 0.8;
+}
+.qa-card-clean h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+    color: var(--qa-text-main);
+}
+.qa-card-clean p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--qa-text-muted);
+    margin: 0;
+}
+
+/* CTA */
+.qa-cta-clean {
+    text-align: center;
+    max-width: 600px;
+    margin: 100px auto 40px auto;
+}
+.qa-cta-clean .qa-h2-clean { font-size: 2.8rem; margin-bottom: 20px; }
+.qa-cta-clean .qa-text-clean { margin-bottom: 40px; }
+.qa-btn-large {
+    padding: 20px 40px;
+    font-size: 1.1rem;
+}
+
+@media (max-width: 992px) {
+    .qa-title-huge { font-size: 3rem; }
+    .qa-grid-3 { grid-template-columns: repeat(2, 1fr); gap: 1px; }
+}
+@media (max-width: 768px) {
+    .qa-hero-actions { flex-direction: column; }
+    .qa-grid-3 { grid-template-columns: 1fr; }
+    .qa-card-clean { padding: 40px 30px; }
+}
+</style>

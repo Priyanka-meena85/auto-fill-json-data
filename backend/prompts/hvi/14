@@ -1,0 +1,601 @@
+<div class="oee-timeline-wrapper">
+    <!-- Header -->
+    <header class="oee-header">
+        <div class="oee-header-content">
+            <span class="oee-badge">Production Performance</span>
+            <h1 class="oee-title">OEE Improvement Strategies: From 60% Average to 85% World-Class</h1>
+            <p class="oee-subtitle">Seven proven strategies to lift Overall Equipment Effectiveness across availability, performance, and quality — backed by documented plant results.</p>
+            <div class="oee-header-actions">
+                <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="oee-btn-primary">Book a Demo</a>
+                <a href="https://heavyvehicleinspection.com/support" class="oee-btn-outline">Contact Support</a>
+            </div>
+        </div>
+        <div class="oee-header-visual">
+            <div class="oee-circle-chart">
+                <div class="oee-circle oee-c-avail"><span>90%</span><small>Avail</small></div>
+                <div class="oee-circle-op">×</div>
+                <div class="oee-circle oee-c-perf"><span>95%</span><small>Perf</small></div>
+                <div class="oee-circle-op">×</div>
+                <div class="oee-circle oee-c-qual"><span>99%</span><small>Qual</small></div>
+                <div class="oee-circle-op">=</div>
+                <div class="oee-circle oee-c-oee"><span>85%</span><small>OEE</small></div>
+            </div>
+        </div>
+    </header>
+
+    <div class="oee-content-container">
+        <!-- Sidebar / Benchmarks -->
+        <aside class="oee-sidebar">
+            <div class="oee-widget">
+                <h3>Where Does Your Plant Stand?</h3>
+                <p>The "85% world-class" number gets quoted everywhere, but very few plants sustain it. Here are realistic 2026 benchmarks.</p>
+                <div class="oee-benchmarks">
+                    <div class="oee-b-row"><span class="oee-b-lbl">World-Class</span><div class="oee-b-bar"><div style="width: 85%">85%</div></div></div>
+                    <div class="oee-b-row"><span class="oee-b-lbl">Auto Tier-1</span><div class="oee-b-bar"><div style="width: 78%">78%</div></div></div>
+                    <div class="oee-b-row"><span class="oee-b-lbl">Discrete Avg</span><div class="oee-b-bar oee-b-avg"><div style="width: 66%">66%</div></div></div>
+                    <div class="oee-b-row"><span class="oee-b-lbl">Manual Plants</span><div class="oee-b-bar oee-b-poor"><div style="width: 42%">42%</div></div></div>
+                </div>
+            </div>
+
+            <div class="oee-widget oee-widget-alert">
+                <h3>Expert Insight</h3>
+                <p>"The plants stuck at 60% OEE are rarely lacking effort — they are lacking visibility. You cannot fix a loss you cannot see... The moment a plant switches to automatic measurement, the number gets worse, because it finally reflects reality."</p>
+                <small>— Marcus Feldman, Lean Six Sigma Black Belt</small>
+            </div>
+        </aside>
+
+        <!-- Main Timeline Content -->
+        <main class="oee-main-content">
+            <section class="oee-section">
+                <h2 class="oee-section-title">The Six Big Losses</h2>
+                <div class="oee-losses-grid">
+                    <div class="oee-loss-card">
+                        <span class="oee-loss-type oee-t-avail">Availability</span>
+                        <h4>Equipment Breakdowns</h4>
+                        <p>Unplanned stops from mechanical or electrical failure.</p>
+                    </div>
+                    <div class="oee-loss-card">
+                        <span class="oee-loss-type oee-t-avail">Availability</span>
+                        <h4>Setup & Changeover</h4>
+                        <p>Time spent switching products, tooling, or recipes.</p>
+                    </div>
+                    <div class="oee-loss-card">
+                        <span class="oee-loss-type oee-t-perf">Performance</span>
+                        <h4>Minor Stoppages</h4>
+                        <p>Short jams and pauses under five minutes.</p>
+                    </div>
+                    <div class="oee-loss-card">
+                        <span class="oee-loss-type oee-t-perf">Performance</span>
+                        <h4>Reduced Speed</h4>
+                        <p>Machines running below rated cycle time.</p>
+                    </div>
+                    <div class="oee-loss-card">
+                        <span class="oee-loss-type oee-t-qual">Quality</span>
+                        <h4>Startup Rejects</h4>
+                        <p>Scrap produced while a line warms up or stabilizes.</p>
+                    </div>
+                    <div class="oee-loss-card">
+                        <span class="oee-loss-type oee-t-qual">Quality</span>
+                        <h4>Process Defects</h4>
+                        <p>Units rejected during steady-state running.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- The Core Timeline -->
+            <section class="oee-section">
+                <h2 class="oee-section-title">7 Strategies That Actually Move OEE</h2>
+                <div class="oee-timeline">
+                    <!-- Step 1 -->
+                    <div class="oee-tl-node">
+                        <div class="oee-tl-icon">1</div>
+                        <div class="oee-tl-content">
+                            <h3>Get an Accurate Automated Baseline</h3>
+                            <p>Manual logs overstate real OEE by 8 to 15 points. Before chasing a target, replace spreadsheets with automatic, real-time data capture on at least one line.</p>
+                        </div>
+                    </div>
+                    <!-- Step 2 -->
+                    <div class="oee-tl-node">
+                        <div class="oee-tl-icon">2</div>
+                        <div class="oee-tl-content">
+                            <h3>Build a Reason-Coded Downtime Pareto</h3>
+                            <p>Tag every stop with a cause. Most plants find that three or four reason codes account for the majority of lost availability.</p>
+                        </div>
+                    </div>
+                    <!-- Step 3 -->
+                    <div class="oee-tl-node">
+                        <div class="oee-tl-icon">3</div>
+                        <div class="oee-tl-content">
+                            <h3>Shrink Changeover Time with SMED</h3>
+                            <p>Single-Minute Exchange of Die techniques separate internal and external setup tasks, often cutting changeover time by 30 to 40 percent.</p>
+                        </div>
+                    </div>
+                    <!-- Step 4 -->
+                    <div class="oee-tl-node">
+                        <div class="oee-tl-icon">4</div>
+                        <div class="oee-tl-content">
+                            <h3>Expose Micro-Stops in Real Time</h3>
+                            <p>Stoppages under five minutes are invisible to hand-tracking but can silently drag Performance from 95% down to 80% across a shift.</p>
+                        </div>
+                    </div>
+                    <!-- Step 5 -->
+                    <div class="oee-tl-node">
+                        <div class="oee-tl-icon">5</div>
+                        <div class="oee-tl-content">
+                            <h3>Shift from Reactive to Predictive</h3>
+                            <p>Use historical failure data to schedule interventions before breakdowns occur instead of reacting after the line stops.</p>
+                        </div>
+                    </div>
+                    <!-- Step 6 -->
+                    <div class="oee-tl-node">
+                        <div class="oee-tl-icon">6</div>
+                        <div class="oee-tl-content">
+                            <h3>Standardize the OEE Definition</h3>
+                            <p>Align every site on the same planned time, downtime, and quality definitions so group reporting compares like with like.</p>
+                        </div>
+                    </div>
+                    <!-- Step 7 -->
+                    <div class="oee-tl-node">
+                        <div class="oee-tl-icon">7</div>
+                        <div class="oee-tl-content">
+                            <h3>Run Daily Huddles in Front of Live Data</h3>
+                            <p>Teams that review real-time OEE and top losses every shift close gaps weeks faster than teams reviewing end-of-month reports.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="oee-section">
+                <h2 class="oee-section-title">Manual vs. Automated Tracking</h2>
+                <div class="oee-table-container">
+                    <table class="oee-table">
+                        <thead>
+                            <tr>
+                                <th>Factor</th>
+                                <th>Manual Tracking</th>
+                                <th>Automated Tracking</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Micro-stops</strong></td>
+                                <td>Rarely logged if < 5m</td>
+                                <td>Captured at the second level</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Reason codes</strong></td>
+                                <td>Assigned from memory</td>
+                                <td>Tagged in real time</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Cycle time</strong></td>
+                                <td>Assumed constant</td>
+                                <td>Tracked continuously</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Reporting lag</strong></td>
+                                <td>Available next day</td>
+                                <td>Available instantly</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="oee-footer">
+        <div class="oee-footer-content">
+            <h2>Stop Guessing at Your OEE — Start Measuring It</h2>
+            <p>Real-time availability, performance, and quality tracking that exposes the losses spreadsheets and shift-end logs were never built to catch.</p>
+            <div class="oee-header-actions">
+                <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="oee-btn-primary oee-btn-large">Book a Live Demo</a>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<style>
+/* =========================================
+   OEE (Overall Equipment Effectiveness) - "THE PROCESS TIMELINE"
+   ========================================= */
+:root {
+    --oee-primary: #0284c7;
+    --oee-primary-light: #e0f2fe;
+    --oee-primary-dark: #0369a1;
+    --oee-secondary: #0d9488;
+    --oee-bg: #f8fafc;
+    --oee-surface: #ffffff;
+    --oee-text: #334155;
+    --oee-text-dark: #0f172a;
+    --oee-border: #e2e8f0;
+    --oee-red: #ef4444;
+    --oee-orange: #f59e0b;
+}
+
+body {
+    background-color: var(--oee-bg);
+}
+
+.oee-timeline-wrapper {
+    font-family: 'Inter', system-ui, sans-serif;
+    color: var(--oee-text);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+.oee-header {
+    display: flex;
+    flex-wrap: wrap;
+    background: var(--oee-surface);
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+    margin-bottom: 40px;
+    border: 1px solid var(--oee-border);
+}
+.oee-header-content {
+    flex: 1 1 50%;
+    padding-right: 40px;
+}
+.oee-badge {
+    display: inline-block;
+    background: var(--oee-primary-light);
+    color: var(--oee-primary-dark);
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 6px 16px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.oee-title {
+    font-size: 2.8rem;
+    font-weight: 800;
+    color: var(--oee-text-dark);
+    line-height: 1.15;
+    margin: 0 0 20px 0;
+}
+.oee-subtitle {
+    font-size: 1.15rem;
+    line-height: 1.6;
+    margin: 0 0 30px 0;
+}
+.oee-header-actions {
+    display: flex;
+    gap: 16px;
+}
+.oee-btn-primary {
+    background: var(--oee-primary);
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s;
+    border: 2px solid var(--oee-primary);
+}
+.oee-btn-primary:hover {
+    background: var(--oee-primary-dark);
+    border-color: var(--oee-primary-dark);
+}
+.oee-btn-outline {
+    background: transparent;
+    color: var(--oee-primary);
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s;
+    border: 2px solid var(--oee-primary);
+}
+.oee-btn-outline:hover {
+    background: var(--oee-primary-light);
+}
+
+.oee-header-visual {
+    flex: 1 1 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--oee-primary-light);
+    border-radius: 16px;
+    padding: 20px;
+}
+.oee-circle-chart {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.oee-circle {
+    width: 80px;
+    height: 80px;
+    background: #fff;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    border: 2px solid var(--oee-primary);
+    color: var(--oee-primary-dark);
+}
+.oee-circle span {
+    font-weight: 800;
+    font-size: 1.1rem;
+}
+.oee-circle small {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.oee-circle-op {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--oee-primary);
+}
+.oee-c-oee {
+    background: var(--oee-primary);
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    border: none;
+}
+.oee-c-oee span { font-size: 1.5rem; }
+
+/* Main Content Area */
+.oee-content-container {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+/* Sidebar */
+.oee-sidebar {
+    flex: 1 1 300px;
+    position: sticky;
+    top: 20px;
+}
+.oee-widget {
+    background: var(--oee-surface);
+    border: 1px solid var(--oee-border);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 24px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+}
+.oee-widget h3 {
+    margin: 0 0 12px 0;
+    font-size: 1.2rem;
+    color: var(--oee-text-dark);
+}
+.oee-widget p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0 0 20px 0;
+}
+.oee-benchmarks {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.oee-b-row {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.oee-b-lbl {
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+.oee-b-bar {
+    background: var(--oee-primary-light);
+    height: 24px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.oee-b-bar div {
+    background: var(--oee-primary);
+    height: 100%;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 8px;
+}
+.oee-b-avg div { background: var(--oee-secondary); }
+.oee-b-poor div { background: var(--oee-red); }
+
+.oee-widget-alert {
+    background: var(--oee-primary-light);
+    border-color: var(--oee-primary);
+}
+.oee-widget-alert p {
+    font-style: italic;
+    color: var(--oee-primary-dark);
+    font-weight: 500;
+}
+.oee-widget-alert small {
+    font-weight: 700;
+    color: var(--oee-primary);
+}
+
+/* Main */
+.oee-main-content {
+    flex: 2 1 600px;
+}
+.oee-section {
+    background: var(--oee-surface);
+    border: 1px solid var(--oee-border);
+    border-radius: 16px;
+    padding: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+}
+.oee-section-title {
+    font-size: 1.8rem;
+    color: var(--oee-text-dark);
+    margin: 0 0 30px 0;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--oee-border);
+}
+
+/* Losses Grid */
+.oee-losses-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+.oee-loss-card {
+    background: var(--oee-bg);
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid var(--oee-border);
+}
+.oee-loss-type {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    font-weight: 800;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+.oee-t-avail { background: #fee2e2; color: var(--oee-red); }
+.oee-t-perf { background: #fef3c7; color: var(--oee-orange); }
+.oee-t-qual { background: #ccfbf1; color: var(--oee-secondary); }
+.oee-loss-card h4 {
+    margin: 12px 0 8px 0;
+    font-size: 1.1rem;
+    color: var(--oee-text-dark);
+}
+.oee-loss-card p {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Timeline */
+.oee-timeline {
+    position: relative;
+    padding-left: 30px;
+}
+.oee-timeline::before {
+    content: '';
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--oee-primary-light);
+}
+.oee-tl-node {
+    position: relative;
+    margin-bottom: 30px;
+}
+.oee-tl-node:last-child {
+    margin-bottom: 0;
+}
+.oee-tl-icon {
+    position: absolute;
+    left: -42px;
+    top: 0;
+    width: 24px;
+    height: 24px;
+    background: var(--oee-primary);
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    box-shadow: 0 0 0 4px var(--oee-surface);
+}
+.oee-tl-content {
+    background: var(--oee-bg);
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid var(--oee-border);
+}
+.oee-tl-content h3 {
+    margin: 0 0 8px 0;
+    color: var(--oee-primary-dark);
+    font-size: 1.2rem;
+}
+.oee-tl-content p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+/* Table */
+.oee-table-container {
+    overflow-x: auto;
+}
+.oee-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.oee-table th, .oee-table td {
+    padding: 16px;
+    text-align: left;
+    border-bottom: 1px solid var(--oee-border);
+}
+.oee-table th {
+    background: var(--oee-bg);
+    font-weight: 700;
+    color: var(--oee-text-dark);
+}
+.oee-table td:last-child {
+    font-weight: 600;
+    color: var(--oee-primary-dark);
+}
+
+/* Footer */
+.oee-footer {
+    background: linear-gradient(135deg, var(--oee-primary-dark) 0%, var(--oee-primary) 100%);
+    border-radius: 20px;
+    padding: 60px 40px;
+    color: #fff;
+    text-align: center;
+}
+.oee-footer-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+.oee-footer h2 {
+    font-size: 2.2rem;
+    margin: 0 0 20px 0;
+}
+.oee-footer p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin: 0 0 30px 0;
+    color: var(--oee-primary-light);
+}
+.oee-btn-large {
+    font-size: 1.1rem;
+    padding: 16px 32px;
+    background: #fff;
+    color: var(--oee-primary-dark);
+    border-color: #fff;
+    margin: 0 auto;
+}
+.oee-btn-large:hover {
+    background: var(--oee-primary-light);
+}
+
+@media (max-width: 992px) {
+    .oee-header-content, .oee-header-visual { flex: 1 1 100%; padding-right: 0; }
+    .oee-header-visual { margin-top: 30px; }
+    .oee-circle-chart { flex-wrap: wrap; justify-content: center; }
+    .oee-sidebar { position: static; }
+    .oee-losses-grid { grid-template-columns: 1fr; }
+}
+</style>

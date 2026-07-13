@@ -1,0 +1,1291 @@
+<p>Combined heat and power plants operate under a performance logic that standard power generation analytics software
+    was never designed to handle. A conventional CMMS tracks assets. A conventional energy management system tracks
+    output. But a CHP facility generates value simultaneously from two output streams — electrical power and recovered
+    thermal energy — and the analytics program that manages it needs to track asset health, performance ratios, and
+    reliability metrics across both streams at same time. When an absorption chiller underperforms, it affects heat
+    recovery efficiency, which affects the heat-to-power ratio, which affects the economic dispatch decision for the
+    prime mover, which affects overall plant utilization factor. These are not independent events. They are
+    interconnected performance variables that require an AI-driven analytics layer capable of tracking the dual-output
+    thermal-electric performance relationship continuously — not just recording individual asset failures after they
+    occur. iFactory's AI-driven analytics platform delivers that layer: an analytics environment purpose-configured for
+    cogeneration operations that tracks prime mover health alongside heat recovery system condition, monitors heat rate
+    and power-to-heat ratio trends simultaneously, and connects performance degradation signals to maintenance work
+    orders before they affect either output stream's availability. For a CHP analytics configuration assessment, <a
+        href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-link">Book a demo .</a></p>
+<section class="CHP-hero">
+    <div class="CHP-hero-inner">
+        <div class="CHP-hero-left">
+            <div class="CHP-badge">AI-driven · CHP Analytics · Cogeneration Management</div>
+            <h2 class="CHP-hero-h">CHP Plant Analytics AI-Driven: Track Dual-Output Performance Across Both Heat
+                Recovery and Power Generation Assets.</h2>
+            <p class="CHP-hero-sub">iFactory's AI-driven analytics platform manages the unique dual-output analytics
+                demands of combined heat and power plants — tracking both thermal and electrical assets, monitoring
+                combined efficiency ratios, and connecting performance degradation to maintenance work orders before
+                either output stream is affected.</p>
+            <div class="CHP-hero-actions">
+                <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-btn CHP-btn-primary">Book a Demo</a>
+                <a href="https://heavyvehicleinspection.com/support" class="CHP-btn CHP-btn-ghost">Contact Support</a>
+            </div>
+        </div>
+        <div class="CHP-hero-right">
+            <div class="CHP-stat-grid">
+                <div class="CHP-stat-box">
+                    <div class="CHP-stat-n">80–90%</div>
+                    <div class="CHP-stat-l">Fuel utilization efficiency achievable at well-maintained CHP plants vs.
+                        33–45% at separate generation</div>
+                </div>
+                <div class="CHP-stat-box">
+                    <div class="CHP-stat-n">$1.2M</div>
+                    <div class="CHP-stat-l">Average annual fuel savings at a 5 MW CHP facility operating with optimized
+                        heat recovery efficiency</div>
+                </div>
+                <div class="CHP-stat-box">
+                    <div class="CHP-stat-n">3–8%</div>
+                    <div class="CHP-stat-l">Heat rate degradation from untracked prime mover fouling — invisible without
+                        continuous performance trending</div>
+                </div>
+                <div class="CHP-stat-box">
+                    <div class="CHP-stat-n">40%</div>
+                    <div class="CHP-stat-l">Reduction in CHP forced outage events with AI-driven condition monitoring
+                        across dual output systems</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="CHP-problem">
+    <div class="CHP-sec-label">The CHP Analytics Gap</div>
+    <h3 class="CHP-sec-h">Four Reasons Standard Analytics Software Fails CHP Operations</h3>
+    <p class="CHP-sec-p">CHP plants are not power plants with a heat exchanger bolted on. They are integrated
+        thermal-electric systems whose performance metrics are interdependent — and the analytics program must be
+        configured to reflect that interdependency.</p>
+    <div class="CHP-problem-grid">
+        <div class="CHP-prob-card">
+            <div class="CHP-prob-pct">Single-Stream</div>
+            <div class="CHP-prob-title">Analytics Built for Power-Only</div>
+            <div class="CHP-prob-body">Standard power plant CMMS tracks electrical KPIs — availability factor, heat
+                rate, forced outage rate. None of these metrics capture heat recovery system performance, HRSG
+                efficiency, or absorption chiller operation that determine CHP economics.</div>
+        </div>
+        <div class="CHP-prob-card">
+            <div class="CHP-prob-pct">Siloed</div>
+            <div class="CHP-prob-title">Thermal and Electrical Data Disconnected</div>
+            <div class="CHP-prob-body">Heat recovery data lives in the building automation system. Power generation data
+                lives in the SCADA historian. Neither system sees the combined efficiency ratio — the primary metric
+                that determines whether the CHP plant is delivering its economic justification.</div>
+        </div>
+        <div class="CHP-prob-card">
+            <div class="CHP-prob-pct">Lagging</div>
+            <div class="CHP-prob-title">Performance Reporting Weeks Behind</div>
+            <div class="CHP-prob-body">Monthly efficiency reports assembled manually from multiple data sources reveal
+                CHP performance gaps 3–6 weeks after they develop. By then, the fuel consumption overage and maintenance
+                window have already compounded into a significant cost variance.</div>
+        </div>
+        <div class="CHP-prob-card">
+            <div class="CHP-prob-pct">Reactive</div>
+            <div class="CHP-prob-title">Maintenance Triggered by Failure</div>
+            <div class="CHP-prob-body">Prime mover fouling, HRSG tube fouling, absorption chiller performance decline,
+                and cooling tower efficiency degradation all produce detectable signals weeks before they cause forced
+                outages — signals that reactive maintenance programs never see.</div>
+        </div>
+    </div>
+</section>
+<section class="CHP-how">
+    <div class="CHP-sec-label">CHP Analytics Capabilities</div>
+    <h3 class="CHP-sec-h">Five AI-Driven Analytics Capabilities That iFactory Delivers for CHP Operations</h3>
+    <p class="CHP-sec-p">Each capability addresses a specific CHP analytics gap — from combined efficiency ratio
+        monitoring to dual-output asset condition tracking — that generic power plant or building management analytics
+        cannot provide.</p>
+    <div class="CHP-how-list">
+        <div class="CHP-how-item">
+            <div class="CHP-how-num">01</div>
+            <div class="CHP-how-content">
+                <div class="CHP-how-title">Dual-Output Combined Efficiency Tracking</div>
+                <div class="CHP-how-body">Power-to-heat ratio, overall fuel utilization efficiency, and thermal
+                    efficiency index calculated continuously from SCADA and heat meter data — displayed as a live
+                    combined efficiency dashboard that shows exactly how much of the fuel energy is being captured as
+                    useful electrical and thermal output at any moment. When combined efficiency deviates from the
+                    baseline by more than the configured threshold, an alert is generated with the probable contributing
+                    system identified.</div>
+                <div class="CHP-how-bar-wrap">
+                    <div class="CHP-how-bar-label">Combined efficiency visibility improvement</div>
+                    <div class="CHP-how-bar-track">
+                        <div class="CHP-how-bar" style="width:92%"><br />
+                        </div>
+                    </div>
+                    <div class="CHP-how-bar-val">Real-time vs. monthly</div>
+                </div>
+            </div>
+        </div>
+        <div class="CHP-how-item">
+            <div class="CHP-how-num">02</div>
+            <div class="CHP-how-content">
+                <div class="CHP-how-title">Prime Mover Condition and Performance Trending</div>
+                <div class="CHP-how-body">Gas turbine, reciprocating engine, or microturbine prime mover performance
+                    tracked continuously — heat rate deviation from design, compressor inlet temperature correction,
+                    exhaust temperature profile trending, vibration analysis, and oil analysis findings integrated into
+                    a single prime mover condition record. Fouling progression, combustion degradation, and rotating
+                    machinery wear trends visible weeks before they affect output or trigger a protection system event.
+                </div>
+                <div class="CHP-how-bar-wrap">
+                    <div class="CHP-how-bar-label">Early degradation detection advance</div>
+                    <div class="CHP-how-bar-track">
+                        <div class="CHP-how-bar" style="width:78%"><br />
+                        </div>
+                    </div>
+                    <div class="CHP-how-bar-val">4–8 weeks ahead</div>
+                </div>
+            </div>
+        </div>
+        <div class="CHP-how-item">
+            <div class="CHP-how-num">03</div>
+            <div class="CHP-how-content">
+                <div class="CHP-how-title">HRSG and Heat Recovery System Monitoring</div>
+                <div class="CHP-how-body">Heat recovery steam generator performance tracked via approach temperature
+                    trending, steam production rate vs. exhaust input, economizer and superheater temperature profiles,
+                    and drum level and steam quality monitoring. HRSG tube fouling detected from approach temperature
+                    deviation before it causes efficiency penalties or tube integrity concerns. Absorption chiller COP
+                    trending integrated alongside HRSG monitoring for complete thermal recovery system visibility.</div>
+                <div class="CHP-how-bar-wrap">
+                    <div class="CHP-how-bar-label">HRSG fouling detection lead time</div>
+                    <div class="CHP-how-bar-track">
+                        <div class="CHP-how-bar" style="width:65%"><br />
+                        </div>
+                    </div>
+                    <div class="CHP-how-bar-val">3–6 weeks before impact</div>
+                </div>
+            </div>
+        </div>
+        <div class="CHP-how-item">
+            <div class="CHP-how-num">04</div>
+            <div class="CHP-how-content">
+                <div class="CHP-how-title">Economic Dispatch and Load Optimization</div>
+                <div class="CHP-how-body">CHP economic dispatch model continuously calculates the optimal operating
+                    point based on current thermal load demand, electrical tariff, gas price, and current plant
+                    efficiency — recommending load set points that maximize combined value output per unit of fuel
+                    consumed. When thermal demand drops below the optimal CHP operating range, the model calculates the
+                    economic break-even point between CHP generation and grid import, providing the operations team with
+                    data-driven dispatch decisions rather than fixed schedules.</div>
+                <div class="CHP-how-bar-wrap">
+                    <div class="CHP-how-bar-label">Dispatch decision optimization improvement</div>
+                    <div class="CHP-how-bar-track">
+                        <div class="CHP-how-bar" style="width:55%"><br />
+                        </div>
+                    </div>
+                    <div class="CHP-how-bar-val">12–18% fuel cost reduction</div>
+                </div>
+            </div>
+        </div>
+        <div class="CHP-how-item">
+            <div class="CHP-how-num">05</div>
+            <div class="CHP-how-content">
+                <div class="CHP-how-title">Regulatory Compliance and CHP Certification Tracking</div>
+                <div class="CHP-how-body">EPA CHP Partnership program documentation, qualifying facility status
+                    reporting under PURPA, state-level renewable/efficiency incentive program data, and utility
+                    interconnection performance reporting — all generated automatically from iFactory's CHP performance
+                    records. Annual CHP efficiency certification calculations (per EPA methodology) calculated from the
+                    same operational data used for maintenance analytics, eliminating the separate data compilation
+                    exercise that currently takes days before every regulatory submission.</div>
+                <div class="CHP-how-bar-wrap">
+                    <div class="CHP-how-bar-label">Compliance documentation time reduction</div>
+                    <div class="CHP-how-bar-track">
+                        <div class="CHP-how-bar" style="width:88%"><br />
+                        </div>
+                    </div>
+                    <div class="CHP-how-bar-val">Days to under 60 seconds</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="CHP-mid-cta">
+    <div class="CHP-mc-text">
+        <div class="CHP-mc-title">iFactory Brings AI-Driven Analytics to Your CHP Plant's Dual-Output Operations —
+            Thermal and Electrical, Tracked Together.</div>
+        <div class="CHP-mc-sub">Combined efficiency monitoring, prime mover condition trending, HRSG performance
+            analytics, economic dispatch optimization, and regulatory compliance documentation — all in one AI-driven
+            platform configured for cogeneration operations.</div>
+    </div>
+    <div class="CHP-mc-btns">
+        <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-btn CHP-btn-white">Book a Demo</a>
+        <a href="https://heavyvehicleinspection.com/support" class="CHP-btn CHP-btn-outline-w">Contact Support</a>
+    </div>
+</section>
+<section class="CHP-compare">
+    <div class="CHP-sec-label">Before vs. After</div>
+    <h3 class="CHP-sec-h">CHP Plant Operations — Without AI Analytics vs. With iFactory</h3>
+    <div class="CHP-cmp-table-wrap">
+        <div class="CHP-cmp-table">
+            <div class="CHP-cmp-head">
+                <div class="CHP-ch0">CHP Function</div>
+                <div class="CHP-ch1">Without AI Analytics</div>
+                <div class="CHP-ch2">With iFactory CHP Analytics</div>
+            </div>
+            <div class="CHP-cmp-row">
+                <div class="CHP-c0">Combined Efficiency</div>
+                <div class="CHP-c1 CHP-neg">Monthly report assembled from multiple systems — efficiency gaps discovered
+                    3–6 weeks after they develop</div>
+                <div class="CHP-c2 CHP-pos">Live combined efficiency dashboard — power-to-heat ratio and fuel
+                    utilization tracked continuously, deviations flagged same day</div>
+            </div>
+            <div class="CHP-cmp-row CHP-alt">
+                <div class="CHP-c0">Prime Mover Health</div>
+                <div class="CHP-c1 CHP-neg">Scheduled major maintenance intervals — fouling and performance degradation
+                    discovered during overhaul or at forced outage</div>
+                <div class="CHP-c2 CHP-pos">Continuous condition trending — heat rate deviation, exhaust profile,
+                    vibration, and oil analysis integrated, degradation flagged 4–8 weeks early</div>
+            </div>
+            <div class="CHP-cmp-row">
+                <div class="CHP-c0">HRSG Monitoring</div>
+                <div class="CHP-c1 CHP-neg">Approach temperature checked manually on rounds — HRSG tube fouling
+                    discovered during planned inspection or tube failure</div>
+                <div class="CHP-c2 CHP-pos">Approach temperature trending per section — fouling progression detected 3–6
+                    weeks before efficiency impact, cleaning scheduled proactively</div>
+            </div>
+            <div class="CHP-cmp-row CHP-alt">
+                <div class="CHP-c0">Economic Dispatch</div>
+                <div class="CHP-c1 CHP-neg">Fixed operating schedule regardless of thermal load, gas price, or tariff
+                    structure — suboptimal dispatch costing 12–18% in fuel economics</div>
+                <div class="CHP-c2 CHP-pos">Dynamic dispatch model recommends optimal load set point from current
+                    thermal demand, tariff, and efficiency — continuously updated</div>
+            </div>
+            <div class="CHP-cmp-row">
+                <div class="CHP-c0">Maintenance Triggers</div>
+                <div class="CHP-c1 CHP-neg">Calendar-based PM intervals not aligned to actual condition —
+                    over-maintaining some systems, under-maintaining others</div>
+                <div class="CHP-c2 CHP-pos">Condition-based work orders generated automatically when performance
+                    thresholds crossed — aligned to actual degradation, not fixed calendar</div>
+            </div>
+            <div class="CHP-cmp-row CHP-alt">
+                <div class="CHP-c0">Compliance Docs</div>
+                <div class="CHP-c1 CHP-neg">EPA CHP certification data assembled manually from multiple sources — days
+                    of effort before each regulatory submission</div>
+                <div class="CHP-c2 CHP-pos">Regulatory documentation generated automatically from operational records —
+                    EPA efficiency certification in under 60 seconds</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="CHP-results">
+    <div class="CHP-sec-label">Measurable Outcomes</div>
+    <h3 class="CHP-sec-h">What CHP Plant Operations and Engineering Teams Measure With iFactory</h3>
+    <div class="CHP-res-grid">
+        <div class="CHP-res-card">
+            <div class="CHP-res-n">40%</div>
+            <div class="CHP-res-t">Fewer Forced Outages</div>
+            <div class="CHP-res-b">Prime mover condition trending and HRSG monitoring eliminate the unplanned outages
+                that reactive maintenance programs produce on cogeneration systems.</div>
+        </div>
+        <div class="CHP-res-card">
+            <div class="CHP-res-n">12–18%</div>
+            <div class="CHP-res-t">Fuel Cost Reduction</div>
+            <div class="CHP-res-b">AI-driven economic dispatch optimization aligns CHP operating point to real-time
+                thermal load and tariff conditions — capturing fuel savings that fixed schedules cannot.</div>
+        </div>
+        <div class="CHP-res-card">
+            <div class="CHP-res-n">3–6 wks</div>
+            <div class="CHP-res-t">Early HRSG Fouling Detection</div>
+            <div class="CHP-res-b">Approach temperature trending detects heat recovery degradation weeks before it
+                reaches the efficiency impact threshold — enabling planned cleaning vs. emergency correction.</div>
+        </div>
+        <div class="CHP-res-card">
+            <div class="CHP-res-n">Real-time</div>
+            <div class="CHP-res-t">Combined Efficiency Visibility</div>
+            <div class="CHP-res-b">Power-to-heat ratio, fuel utilization efficiency, and individual system performance
+                visible continuously — not in a monthly report assembled after the losses have already occurred.</div>
+        </div>
+        <div class="CHP-res-card">
+            <div class="CHP-res-n">&lt;60 sec</div>
+            <div class="CHP-res-t">Compliance Documentation</div>
+            <div class="CHP-res-b">EPA CHP certification calculations and qualifying facility performance documentation
+                generated automatically from operational records — no manual data assembly.</div>
+        </div>
+        <div class="CHP-res-card">
+            <div class="CHP-res-n">14 days</div>
+            <div class="CHP-res-t">Go-Live Timeline</div>
+            <div class="CHP-res-b">CHP analytics configuration from SCADA and historian integration through dual-output
+                dashboard activation — operational in two weeks without an IT infrastructure project.</div>
+        </div>
+    </div>
+</section>
+<section class="CHP-expert">
+    <div class="CHP-sec-label">Expert Perspective</div>
+    <h3 class="CHP-sec-h">What CHP Plant Managers and Cogeneration Engineers Say About AI-Driven Analytics</h3>
+    <div class="CHP-expert-card">
+        <div class="CHP-eq-mark">"</div>
+        <p class="CHP-eq-text">The fundamental challenge with CHP analytics is that the economics of the plant depend on
+            a ratio — how much of the fuel energy you're capturing as useful output across both streams. If your HRSG
+            approach temperature is rising because of tube fouling, you're losing heat recovery efficiency, which
+            changes your power-to-heat ratio, which changes your economic dispatch calculation, which affects whether
+            the plant is actually delivering its project justification. These are interconnected variables. The
+            analytics program needs to show you the system as a system — not as a power plant report plus a separate
+            heat exchanger status sheet that nobody looks at because it's in a different system. We ran our 8 MW
+            gas-engine CHP facility for three years with standard SCADA trending and manual monthly efficiency
+            calculations. We knew our combined efficiency was declining, but we couldn't isolate whether it was the
+            engine, the HRSG, the absorption chillers, or the cooling tower without a week of engineering analysis. When
+            we deployed integrated CHP analytics, the first thing we found was a 6% HRSG efficiency decline from tube
+            fouling that had been developing for 11 months. We were burning approximately $340,000 in additional fuel
+            annually because the heat recovery was underperforming and we were compensating with the grid rather than
+            optimizing the dispatch set point. The fouling was visible in the approach temperature data the whole time —
+            we just had no system that was watching it and comparing it to the baseline. After a planned cleaning and
+            dispatch optimization adjustment, combined efficiency recovered to within 1.2% of design. That was $310,000
+            in annual fuel savings recovered from a problem that the data already showed us — we just didn't have a
+            system connecting it to action."</p>
+        <div class="CHP-eq-source">— CHP Plant Engineering Manager, 8 MW Gas-Engine Cogeneration Facility, U.S.
+            Northeast Industrial Campus · PE Licensed · 16 Years CHP Operations · CHP Association Technical Committee
+            Member</div>
+        <div class="CHP-eq-stats">
+            <div class="CHP-eq-stat"><span class="CHP-eq-val">$310K</span><span class="CHP-eq-lbl">Annual fuel savings
+                    recovered</span></div>
+            <div class="CHP-eq-stat"><span class="CHP-eq-val">11 months</span><span class="CHP-eq-lbl">Fouling
+                    undetected without analytics</span></div>
+            <div class="CHP-eq-stat"><span class="CHP-eq-val">6%</span><span class="CHP-eq-lbl">HRSG efficiency
+                    recovered post-cleaning</span></div>
+        </div>
+    </div>
+</section>
+<section class="CHP-concl">
+    <div class="CHP-sec-label">Conclusion</div>
+    <h3 class="CHP-sec-h">CHP Economics Depend on a Ratio. Your Analytics Program Needs to Track That Ratio.</h3>
+    <p class="CHP-concl-p">The economic justification for a combined heat and power facility rests on one metric:
+        combined fuel utilization efficiency — the percentage of input fuel energy captured as useful electrical and
+        thermal output. Every piece of equipment in the plant either supports or degrades that ratio. Prime mover
+        fouling degrades it. HRSG tube deposit accumulation degrades it. Absorption chiller performance decline degrades
+        it. Suboptimal economic dispatch allows it to run below its achievable level. The problem is that none of these
+        degradation pathways are visible in standard power plant analytics software — because standard power plant
+        analytics tracks electrical output only, and standard building management systems track thermal output only, and
+        neither system is watching the ratio that connects them.</p>
+    <p class="CHP-concl-p">iFactory's CHP analytics platform closes this gap by connecting SCADA, historian, heat meter,
+        and maintenance data into a single AI-driven analytics layer that tracks the combined efficiency ratio
+        continuously — and connects every performance deviation to the specific system degradation causing it, and from
+        there to a scheduled maintenance work order. The $310,000 fuel savings story above is not unusual. It is what
+        systematically monitored CHP plants achieve compared to plants where the data exists but no system is watching
+        it. <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-ilink">Book a Demo</a> to see iFactory's
+        CHP analytics configured for your plant's prime mover type, HRSG configuration, and thermal load profile.</p>
+</section>
+<section class="CHP-faq">
+    <div class="CHP-sec-label">Frequently Asked Questions</div>
+    <h3 class="CHP-sec-h">CHP Plant Analytics in iFactory — What Cogeneration Operations Teams Ask First</h3>
+    <div class="CHP-faq-list">
+        <div class="CHP-faq-item">
+            <div class="CHP-faq-q">Which CHP prime mover types does iFactory's analytics configuration support?</div>
+            <div class="CHP-faq-a">iFactory's CHP analytics module is configured for all major CHP prime mover types
+                used in U.S. industrial and commercial applications: natural gas-fired reciprocating engines
+                (Caterpillar, Cummins, Jenbacher, MAN), gas turbines (Solar Turbines, GE Aeroderivative, Siemens SGT),
+                steam turbines operating in combined cycle or backpressure configurations, and microturbines (Capstone,
+                Bladon). The performance trending parameters, baseline metrics, and degradation detection algorithms are
+                pre-configured for each prime mover class — heat rate correction factors, exhaust temperature profiles,
+                vibration frequency ranges, and oil analysis parameters are specific to the equipment type and not
+                generic thresholds. For multi-unit CHP installations with different prime mover types at a single site,
+                iFactory maintains separate performance models per unit while providing consolidated site-level combined
+                efficiency reporting. <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-faq-link">Book
+                    a Demo</a> to confirm the configuration for your specific prime mover model and HRSG type.</div>
+        </div>
+        <div class="CHP-faq-item">
+            <div class="CHP-faq-q">How does iFactory integrate thermal output data from the heat recovery system
+                alongside electrical generation data?</div>
+            <div class="CHP-faq-a">Thermal output integration is the core technical challenge in CHP analytics — and
+                iFactory addresses it through three integration pathways. For plants with building automation systems
+                (BAS) or building management systems (BMS), iFactory connects via BACnet, Modbus, or OPC-UA to pull heat
+                meter readings, HRSG steam production data, absorption chiller COP, and district heating supply/return
+                temperature differentials. For plants with dedicated SCADA-based heat recovery monitoring, integration
+                uses the existing SCADA OPC-UA server or historian API. For plants with manual thermal data recording,
+                iFactory provides a mobile data entry interface that allows operators to log heat meter readings,
+                approach temperatures, and steam production figures on a configurable interval — which are then
+                incorporated into the combined efficiency calculation. All three pathways produce the same combined
+                efficiency dashboard output; the integration method is matched to the plant's existing monitoring
+                infrastructure rather than requiring new hardware.</div>
+        </div>
+        <div class="CHP-faq-item">
+            <div class="CHP-faq-q">How does iFactory calculate and report EPA CHP efficiency for qualifying facility
+                status and certification documentation?</div>
+            <div class="CHP-faq-a">iFactory calculates CHP system efficiency using the EPA's standard FERC-aligned
+                methodology: total useful energy output (electrical + thermal) divided by total fuel input, expressed as
+                a percentage. The calculation applies the EPA's useful thermal output qualification criteria — thermal
+                energy delivered to a process or space conditioning application at temperatures above the ambient
+                rejection threshold — and excludes rejected heat that does not meet qualifying output criteria. The
+                annual CHP efficiency certification calculation is generated automatically from iFactory's operational
+                records at any time, producing the documentation in the format required for EPA CHP Partnership program
+                reporting, state-level CHP incentive program submissions, and utility interconnection annual performance
+                certifications. For plants seeking or maintaining Qualifying Facility (QF) status under PURPA, iFactory
+                generates the FERC Form 556 supporting calculation data from the same operational records. <a
+                    href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-faq-link">Book a Demo</a> to see
+                the EPA CHP efficiency calculation demonstrated for your plant configuration.</div>
+        </div>
+        <div class="CHP-faq-item">
+            <div class="CHP-faq-q">How does iFactory's economic dispatch optimization work for CHP plants with both
+                thermal and electrical load variability?</div>
+            <div class="CHP-faq-a">iFactory's CHP economic dispatch model calculates the optimal prime mover operating
+                set point at every decision interval (configurable from 15 minutes to 1 hour) based on five real-time
+                inputs: (1) current thermal load demand from the plant's heat distribution system, (2) current
+                electrical tariff rate and time-of-use structure, (3) current natural gas price, (4) current
+                plant-specific combined efficiency at the proposed load level (from the performance model), and (5) grid
+                electricity import availability and price. The model calculates the fuel cost per unit of combined
+                useful output at each feasible operating point and recommends the set point that maximizes combined
+                output value per unit of fuel consumed. For plants with thermal storage (hot water or chilled water
+                buffers), the model incorporates storage state-of-charge in the dispatch calculation — recommending
+                pre-cooling or pre-heating during off-peak tariff periods when thermal storage can absorb excess heat
+                recovery. The dispatch recommendation is advisory — the operations team implements it — and the model
+                logs each recommendation against the actual operating set point to build the performance record used for
+                dispatch strategy review.</div>
+        </div>
+        <div class="CHP-faq-item">
+            <div class="CHP-faq-q">How long does iFactory's CHP analytics configuration take from contract to live
+                dashboard?</div>
+            <div class="CHP-faq-a">For a standard single-prime-mover CHP installation with SCADA-based electrical
+                monitoring and BMS-based thermal monitoring, iFactory's CHP analytics go-live takes 10–14 days from
+                integration start. The configuration process covers: SCADA and BMS data connection and signal mapping,
+                prime mover performance model configuration using the unit's design specifications and commissioning
+                test data, HRSG approach temperature baseline establishment from available historical data, combined
+                efficiency calculation validation against known reference periods, and economic dispatch model
+                calibration using current tariff structure and gas price. For multi-unit installations or plants with
+                complex thermal distribution networks (multiple HRSGs, multiple absorption chillers, district heating),
+                configuration takes 3–5 weeks. The baseline establishment period — during which iFactory profiles the
+                plant's normal operating signature under different load conditions — runs concurrently with the
+                integration work and does not extend the go-live timeline. <a
+                    href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-faq-link">Book a Demo</a> to
+                receive a configuration timeline estimate for your specific CHP installation.</div>
+        </div>
+    </div>
+</section>
+<section class="CHP-cta-final">
+    <div class="CHP-cta-inner">
+        <h2 class="CHP-cta-h">Your CHP Plant's Fuel Efficiency Data Already Exists. iFactory Connects It Into a Live
+            Performance Program.</h2>
+        <p class="CHP-cta-p">Combined efficiency tracking, prime mover condition trending, HRSG fouling detection,
+            AI-driven economic dispatch, and EPA compliance documentation — all in one analytics platform configured for
+            cogeneration operations and deployed in 14 days without an IT infrastructure project.</p>
+        <div class="CHP-cta-btns">
+            <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="CHP-btn CHP-btn-white">Book a Demo</a>
+            <a href="https://heavyvehicleinspection.com/support" class="CHP-btn CHP-btn-outline-w">Contact Support</a>
+        </div>
+    </div>
+</section>
+<style>
+    :root {
+        --p: #345180;
+        --pl: #7b78cc;
+        --pd: #4a48a0;
+        --pw: #ffffff;
+        --bg: #f5f5fb;
+        --tx: #4a4a5a;
+        --dark: #1e1d35;
+        --bd: #e2e1f5;
+        --pos: #166534;
+        --neg: #991b1b;
+        --pos-bg: #f0fdf4;
+        --neg-bg: #fef2f2
+    }
+
+    .CHP-intro {
+        font-size: 15px;
+        line-height: 1.85;
+        color: var(--dark);
+        margin-bottom: 20px
+    }
+
+    .CHP-link {
+        color: var(--p);
+        font-weight: 700;
+        text-decoration: none;
+        border-bottom: 2px solid var(--pl)
+    }
+
+    .CHP-ilink {
+        display: inline-block;
+        color: var(--p);
+        font-weight: 700;
+        text-decoration: none;
+        background: rgba(96, 93, 186, .1);
+        padding: 2px 10px;
+        border-radius: 6px;
+        border-bottom: 2px solid var(--p);
+        transition: all .2s
+    }
+
+    .CHP-ilink:hover {
+        background: var(--p);
+        color: #fff
+    }
+
+    .CHP-faq-link {
+        color: var(--p);
+        font-weight: 700;
+        text-decoration: underline
+    }
+
+    .CHP-btn {
+        display: inline-block;
+        font-size: 13px;
+        font-weight: 800;
+        padding: 11px 24px;
+        border-radius: 8px;
+        text-decoration: none;
+        white-space: nowrap;
+        transition: all .2s
+    }
+
+    .CHP-btn-primary {
+        background: var(--pw);
+        color: var(--p);
+        border: 2px solid var(--pw)
+    }
+
+    .CHP-btn-primary:hover {
+        background: transparent;
+        color: var(--pw);
+        border-color: rgba(255, 255, 255, .5)
+    }
+
+    .CHP-btn-ghost {
+        background: rgba(255, 255, 255, .12);
+        color: var(--pw);
+        border: 2px solid rgba(255, 255, 255, .35)
+    }
+
+    .CHP-btn-ghost:hover {
+        background: rgba(255, 255, 255, .22);
+        color: var(--pw)
+    }
+
+    .CHP-btn-white {
+        background: var(--pw);
+        color: var(--p);
+        border: 2px solid var(--pw)
+    }
+
+    .CHP-btn-white:hover {
+        background: transparent;
+        color: var(--pw);
+        border-color: rgba(255, 255, 255, .45)
+    }
+
+    .CHP-btn-outline-w {
+        background: transparent;
+        color: var(--pw);
+        border: 2px solid rgba(255, 255, 255, .45)
+    }
+
+    .CHP-btn-outline-w:hover {
+        background: rgba(255, 255, 255, .15);
+        color: var(--pw);
+        border-color: var(--pw)
+    }
+
+    .CHP-sec-label {
+        display: inline-block;
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 1.8px;
+        text-transform: uppercase;
+        color: var(--p);
+        background: rgba(96, 93, 186, .09);
+        padding: 3px 11px;
+        border-radius: 20px;
+        margin-bottom: 8px
+    }
+
+    .CHP-sec-h {
+        font-size: 18px;
+        font-weight: 900;
+        color: var(--dark);
+        line-height: 1.3;
+        margin-bottom: 8px
+    }
+
+    .CHP-sec-p {
+        font-size: 13px;
+        color: var(--tx);
+        line-height: 1.75;
+        margin-bottom: 16px
+    }
+
+    .CHP-hero {
+        background: var(--p);
+        border-radius: 18px;
+        padding: 28px 24px;
+        margin-bottom: 24px;
+        overflow: hidden;
+        position: relative
+    }
+
+    .CHP-hero::before {
+        content: '';
+        position: absolute;
+        top: -60px;
+        right: -60px;
+        width: 260px;
+        height: 260px;
+        background: rgba(255, 255, 255, .05);
+        border-radius: 50%;
+        pointer-events: none
+    }
+
+    .CHP-hero-inner {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+        align-items: center;
+        position: relative;
+        z-index: 1
+    }
+
+    .CHP-badge {
+        display: inline-block;
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        color: rgba(255, 255, 255, .6);
+        background: rgba(255, 255, 255, .1);
+        border: 1px solid rgba(255, 255, 255, .15);
+        padding: 3px 11px;
+        border-radius: 20px;
+        margin-bottom: 10px
+    }
+
+    .CHP-hero-h {
+        font-size: 20px;
+        font-weight: 900;
+        color: var(--pw);
+        line-height: 1.28;
+        margin-bottom: 10px
+    }
+
+    .CHP-hero-sub {
+        font-size: 13px;
+        color: rgba(255, 255, 255, .72);
+        line-height: 1.7;
+        margin-bottom: 16px
+    }
+
+    .CHP-hero-actions {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap
+    }
+
+    .CHP-stat-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px
+    }
+
+    .CHP-stat-box {
+        background: rgba(0, 0, 0, .2);
+        border: 1px solid rgba(255, 255, 255, .1);
+        border-radius: 12px;
+        padding: 14px
+    }
+
+    .CHP-stat-n {
+        font-size: 24px;
+        font-weight: 900;
+        color: var(--pw);
+        margin-bottom: 5px;
+        line-height: 1
+    }
+
+    .CHP-stat-l {
+        font-size: 11px;
+        color: rgba(255, 255, 255, .6);
+        line-height: 1.45
+    }
+
+    .CHP-problem {
+        background: var(--bg);
+        border-radius: 16px;
+        padding: 22px 20px;
+        margin-bottom: 24px
+    }
+
+    .CHP-problem-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+        margin-top: 14px
+    }
+
+    .CHP-prob-card {
+        background: var(--pw);
+        border: 1px solid var(--bd);
+        border-radius: 12px;
+        padding: 16px;
+        border-top: 3px solid var(--p);
+        display: flex;
+        flex-direction: column;
+        gap: 6px
+    }
+
+    .CHP-prob-pct {
+        font-size: 13px;
+        font-weight: 900;
+        color: var(--p);
+        background: rgba(96, 93, 186, .1);
+        padding: 3px 10px;
+        border-radius: 20px;
+        width: fit-content;
+        line-height: 1.4
+    }
+
+    .CHP-prob-title {
+        font-size: 12.5px;
+        font-weight: 800;
+        color: var(--dark);
+        line-height: 1.3
+    }
+
+    .CHP-prob-body {
+        font-size: 11.5px;
+        color: var(--tx);
+        line-height: 1.6
+    }
+
+    .CHP-how {
+        margin-bottom: 24px
+    }
+
+    .CHP-how-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 14px
+    }
+
+    .CHP-how-item {
+        display: flex;
+        gap: 18px;
+        align-items: flex-start;
+        background: var(--pw);
+        border: 1px solid var(--bd);
+        border-radius: 12px;
+        padding: 18px;
+        transition: box-shadow .2s
+    }
+
+    .CHP-how-item:hover {
+        box-shadow: 0 4px 14px rgba(96, 93, 186, .1)
+    }
+
+    .CHP-how-num {
+        background: var(--p);
+        color: var(--pw);
+        font-size: 13px;
+        font-weight: 900;
+        width: 34px;
+        height: 34px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        margin-top: 2px
+    }
+
+    .CHP-how-content {
+        flex: 1
+    }
+
+    .CHP-how-title {
+        font-size: 14px;
+        font-weight: 800;
+        color: var(--dark);
+        margin-bottom: 6px;
+        line-height: 1.3
+    }
+
+    .CHP-how-body {
+        font-size: 12.5px;
+        color: var(--tx);
+        line-height: 1.65;
+        margin-bottom: 12px
+    }
+
+    .CHP-how-bar-wrap {
+        display: flex;
+        align-items: center;
+        gap: 10px
+    }
+
+    .CHP-how-bar-label {
+        font-size: 10.5px;
+        font-weight: 700;
+        color: var(--p);
+        min-width: 210px
+    }
+
+    .CHP-how-bar-track {
+        flex: 1;
+        height: 7px;
+        background: rgba(96, 93, 186, .12);
+        border-radius: 20px;
+        overflow: hidden
+    }
+
+    .CHP-how-bar {
+        height: 100%;
+        background: var(--p);
+        border-radius: 20px
+    }
+
+    .CHP-how-bar-val {
+        font-size: 10.5px;
+        font-weight: 800;
+        color: var(--p);
+        min-width: 120px;
+        text-align: right
+    }
+
+    .CHP-mid-cta {
+        background: var(--p);
+        border-radius: 14px;
+        padding: 20px 22px;
+        margin-bottom: 24px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        flex-wrap: wrap
+    }
+
+    .CHP-mc-text {
+        flex: 1;
+        min-width: 200px
+    }
+
+    .CHP-mc-title {
+        font-size: 14px;
+        font-weight: 800;
+        color: var(--pw);
+        margin-bottom: 4px;
+        line-height: 1.35
+    }
+
+    .CHP-mc-sub {
+        font-size: 12px;
+        color: rgba(255, 255, 255, .72);
+        line-height: 1.6
+    }
+
+    .CHP-mc-btns {
+        display: flex;
+        gap: 10px;
+        flex-shrink: 0;
+        flex-wrap: wrap
+    }
+
+    .CHP-compare {
+        margin-bottom: 24px
+    }
+
+    .CHP-cmp-table-wrap {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin-top: 14px;
+        border-radius: 12px;
+        border: 1px solid var(--bd)
+    }
+
+    .CHP-cmp-table {
+        min-width: 680px;
+        border-radius: 12px;
+        overflow: hidden
+    }
+
+    .CHP-cmp-head {
+        display: grid;
+        grid-template-columns: 140px 1fr 1fr;
+        background: var(--p);
+        padding: 10px 14px;
+        gap: 10px
+    }
+
+    .CHP-ch0,
+    .CHP-ch1,
+    .CHP-ch2 {
+        font-size: 10px;
+        font-weight: 800;
+        color: rgba(255, 255, 255, .65);
+        text-transform: uppercase;
+        letter-spacing: .5px
+    }
+
+    .CHP-cmp-row {
+        display: grid;
+        grid-template-columns: 140px 1fr 1fr;
+        padding: 10px 14px;
+        gap: 10px;
+        background: var(--pw);
+        border-bottom: 1px solid var(--bd);
+        align-items: start
+    }
+
+    .CHP-cmp-row:last-child {
+        border-bottom: none
+    }
+
+    .CHP-alt {
+        background: var(--bg)
+    }
+
+    .CHP-c0 {
+        font-size: 12px;
+        font-weight: 800;
+        color: var(--p)
+    }
+
+    .CHP-c1,
+    .CHP-c2 {
+        font-size: 11.5px;
+        line-height: 1.55
+    }
+
+    .CHP-neg {
+        color: var(--neg);
+        background: var(--neg-bg);
+        border-radius: 7px;
+        padding: 6px 9px
+    }
+
+    .CHP-pos {
+        color: var(--pos);
+        background: var(--pos-bg);
+        border-radius: 7px;
+        padding: 6px 9px;
+        font-weight: 600
+    }
+
+    .CHP-results {
+        background: var(--bg);
+        border-radius: 16px;
+        padding: 22px 20px;
+        margin-bottom: 24px
+    }
+
+    .CHP-res-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        margin-top: 14px
+    }
+
+    .CHP-res-card {
+        background: var(--pw);
+        border: 1px solid var(--bd);
+        border-radius: 12px;
+        padding: 16px;
+        transition: box-shadow .2s
+    }
+
+    .CHP-res-card:hover {
+        box-shadow: 0 4px 12px rgba(96, 93, 186, .1)
+    }
+
+    .CHP-res-n {
+        font-size: 28px;
+        font-weight: 900;
+        color: var(--p);
+        margin-bottom: 4px;
+        line-height: 1
+    }
+
+    .CHP-res-t {
+        font-size: 12.5px;
+        font-weight: 800;
+        color: var(--dark);
+        margin-bottom: 5px;
+        line-height: 1.3
+    }
+
+    .CHP-res-b {
+        font-size: 11.5px;
+        color: var(--tx);
+        line-height: 1.6
+    }
+
+    .CHP-expert {
+        margin-bottom: 24px
+    }
+
+    .CHP-expert-card {
+        background: var(--pw);
+        border: 1px solid var(--bd);
+        border-left: 5px solid var(--p);
+        border-radius: 14px;
+        padding: 24px;
+        margin-top: 14px;
+        position: relative
+    }
+
+    .CHP-eq-mark {
+        font-size: 56px;
+        font-weight: 900;
+        color: var(--p);
+        opacity: .15;
+        line-height: 1;
+        position: absolute;
+        top: 16px;
+        left: 20px
+    }
+
+    .CHP-eq-text {
+        font-size: 13px;
+        color: var(--tx);
+        line-height: 1.8;
+        font-style: italic;
+        margin: 16px 0 14px;
+        border-left: 4px solid var(--p);
+        padding-left: 14px
+    }
+
+    .CHP-eq-source {
+        font-size: 11px;
+        color: #888;
+        font-weight: 600;
+        margin-bottom: 16px
+    }
+
+    .CHP-eq-stats {
+        display: flex;
+        gap: 20px;
+        border-top: 1px solid var(--bd);
+        padding-top: 14px;
+        flex-wrap: wrap
+    }
+
+    .CHP-eq-stat {
+        display: flex;
+        flex-direction: column;
+        gap: 3px
+    }
+
+    .CHP-eq-val {
+        font-size: 18px;
+        font-weight: 900;
+        color: var(--p)
+    }
+
+    .CHP-eq-lbl {
+        font-size: 11px;
+        color: var(--tx)
+    }
+
+    .CHP-concl {
+        background: var(--bg);
+        border-radius: 16px;
+        padding: 22px 20px;
+        margin-bottom: 24px
+    }
+
+    .CHP-concl-p {
+        font-size: 15px;
+        color: var(--tx);
+        line-height: 1.8;
+        margin-bottom: 14px
+    }
+
+    .CHP-faq {
+        margin-bottom: 24px
+    }
+
+    .CHP-faq-list {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        margin-top: 14px
+    }
+
+    .CHP-faq-item {
+        border-radius: 12px;
+        overflow: hidden;
+        border: 1px solid var(--bd)
+    }
+
+    .CHP-faq-q {
+        background: var(--p);
+        color: var(--pw);
+        font-size: 13px;
+        font-weight: 700;
+        padding: 12px 16px;
+        line-height: 1.4
+    }
+
+    .CHP-faq-a {
+        background: var(--pw);
+        font-size: 12px;
+        color: var(--tx);
+        line-height: 1.8;
+        padding: 13px 16px
+    }
+
+    .CHP-cta-final {
+        background: var(--p);
+        border-radius: 18px;
+        padding: 28px 24px;
+        text-align: center;
+        margin-bottom: 8px;
+        position: relative;
+        overflow: hidden
+    }
+
+    .CHP-cta-final::before {
+        content: '';
+        position: absolute;
+        bottom: -50px;
+        left: -50px;
+        width: 200px;
+        height: 200px;
+        background: rgba(255, 255, 255, .05);
+        border-radius: 50%;
+        pointer-events: none
+    }
+
+    .CHP-cta-inner {
+        position: relative;
+        z-index: 1
+    }
+
+    .CHP-cta-h {
+        font-size: 18px;
+        font-weight: 900;
+        color: var(--pw);
+        line-height: 1.3;
+        margin-bottom: 10px
+    }
+
+    .CHP-cta-p {
+        font-size: 13px;
+        color: rgba(255, 255, 255, .72);
+        line-height: 1.75;
+        margin-bottom: 18px
+    }
+
+    .CHP-cta-btns {
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        flex-wrap: wrap
+    }
+
+    @media(max-width:1024px) {
+        .CHP-hero-inner {
+            grid-template-columns: 1fr 1fr
+        }
+
+        .CHP-problem-grid {
+            grid-template-columns: repeat(2, 1fr)
+        }
+
+        .CHP-res-grid {
+            grid-template-columns: repeat(2, 1fr)
+        }
+
+        .CHP-how-bar-label {
+            min-width: 140px
+        }
+    }
+
+    @media(max-width:768px) {
+        .CHP-hero-inner {
+            grid-template-columns: 1fr
+        }
+
+        .CHP-stat-grid {
+            grid-template-columns: 1fr 1fr
+        }
+
+        .CHP-mid-cta {
+            flex-direction: column;
+            align-items: flex-start
+        }
+
+        .CHP-mc-btns {
+            width: 100%
+        }
+
+        .CHP-how-bar-wrap {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 5px
+        }
+
+        .CHP-how-bar-label {
+            min-width: unset
+        }
+
+        .CHP-how-bar-val {
+            text-align: left
+        }
+
+        .CHP-how-bar-track {
+            width: 100%
+        }
+    }
+
+    @media(max-width:540px) {
+        .CHP-intro {
+            font-size: 14px
+        }
+
+        .CHP-hero {
+            padding: 20px 16px
+        }
+
+        .CHP-hero-h {
+            font-size: 17px
+        }
+
+        .CHP-sec-h {
+            font-size: 16px
+        }
+
+        .CHP-problem-grid {
+            grid-template-columns: 1fr 1fr
+        }
+
+        .CHP-res-grid {
+            grid-template-columns: 1fr 1fr
+        }
+
+        .CHP-stat-grid {
+            grid-template-columns: 1fr 1fr
+        }
+
+        .CHP-hero-actions {
+            flex-direction: column
+        }
+
+        .CHP-hero-actions .CHP-btn {
+            text-align: center
+        }
+
+        .CHP-cta-btns {
+            flex-direction: column;
+            align-items: center
+        }
+
+        .CHP-cta-btns .CHP-btn {
+            text-align: center;
+            width: 100%;
+            max-width: 260px
+        }
+
+        .CHP-how-item {
+            flex-direction: column;
+            gap: 10px
+        }
+
+        .CHP-mc-btns {
+            flex-direction: column
+        }
+
+        .CHP-mc-btns .CHP-btn {
+            text-align: center
+        }
+
+        .CHP-eq-stats {
+            flex-direction: column;
+            gap: 10px
+        }
+    }
+</style>

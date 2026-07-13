@@ -1,0 +1,576 @@
+<div class="sit-dash-wrapper">
+    <!-- Header / Hero -->
+    <header class="sit-header">
+        <div class="sit-badge">Global Outlook 2026</div>
+        <h1 class="sit-title">Four Forces Reshaping Global Steel Operations</h1>
+        <p class="sit-subtitle">AI intelligence, hydrogen steelmaking, EAF capacity expansion, and full-stack digital transformation are converging into a single competitive equation. Operations leaders cannot afford to address these piece by piece.</p>
+        <div class="sit-header-actions">
+            <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="sit-btn-glow">Book a Demo</a>
+            <a href="https://heavyvehicleinspection.com/support" class="sit-btn-outline">Contact Support</a>
+        </div>
+    </header>
+
+    <!-- Bento Box Grid -->
+    <div class="sit-bento">
+        <!-- Main Highlight -->
+        <div class="sit-bento-card sit-span-2 sit-bg-gradient">
+            <div class="sit-card-header">
+                <h3>01. AI-Powered Process Control</h3>
+                <span class="sit-status-dot"></span>
+            </div>
+            <p>From predictive maintenance to real-time quality classification, AI is moving from pilot to production across integrated and mini-mill operations globally.</p>
+            <div class="sit-metrics-row">
+                <div class="sit-metric">
+                    <span class="sit-metric-val">40%</span>
+                    <span class="sit-metric-lbl">Reduction in unplanned downtime</span>
+                </div>
+                <div class="sit-metric">
+                    <span class="sit-metric-val">3-6 Mo</span>
+                    <span class="sit-metric-lbl">Typical payback period</span>
+                </div>
+                <div class="sit-metric">
+                    <span class="sit-metric-val">15%</span>
+                    <span class="sit-metric-lbl">Energy intensity improvement</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- EAF Card -->
+        <div class="sit-bento-card">
+            <div class="sit-card-header">
+                <h3>02. EAF Capacity Expansion</h3>
+            </div>
+            <p>Electric arc furnace capacity is growing at 3x the rate of blast furnace investment, driven by carbon pricing and reshoring demand.</p>
+            <div class="sit-chart-bar">
+                <div class="sit-bar-fill" style="width: 73%"></div>
+            </div>
+            <span class="sit-chart-lbl">NA EAF Share Projected 2026 (73%)</span>
+        </div>
+
+        <!-- Digital Infra Card -->
+        <div class="sit-bento-card">
+            <div class="sit-card-header">
+                <h3>03. Digital Infrastructure Layer</h3>
+            </div>
+            <p>Plants are building unified data platforms connecting shop floor sensors to enterprise planning systems.</p>
+            <ul class="sit-roadmap">
+                <li>Unified Data Foundation</li>
+                <li>Real-Time Visibility</li>
+                <li>Predictive Analytics</li>
+                <li>Autonomous Support</li>
+                <li class="sit-active">Closed-Loop Control</li>
+            </ul>
+        </div>
+
+        <!-- Hydrogen Card -->
+        <div class="sit-bento-card sit-span-2 sit-dark-panel">
+            <div class="sit-card-header">
+                <h3>04. The Hydrogen Transition</h3>
+            </div>
+            <div class="sit-compare-grid">
+                <div class="sit-compare-col">
+                    <h4>Traditional BF-BOF</h4>
+                    <ul>
+                        <li><strong>Carbon:</strong> 1.8 - 2.2 tCO2/ton</li>
+                        <li><strong>Energy:</strong> Metallurgical coal</li>
+                        <li><strong>Premium:</strong> Baseline cost</li>
+                    </ul>
+                </div>
+                <div class="sit-compare-col sit-highlight-col">
+                    <h4>Hydrogen DRI-EAF</h4>
+                    <ul>
+                        <li><strong>Carbon:</strong> 0.1 - 0.4 tCO2/ton</li>
+                        <li><strong>Energy:</strong> Green H2 & Renewables</li>
+                        <li><strong>Premium:</strong> 20-40% above BF-BOF</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Data Table Section -->
+    <section class="sit-data-section">
+        <h2 class="sit-section-title">EAF Capacity Growth by Region Through 2026</h2>
+        <div class="sit-table-wrapper">
+            <table class="sit-table">
+                <thead>
+                    <tr>
+                        <th>Region</th>
+                        <th>Current Share</th>
+                        <th>Projected 2026</th>
+                        <th>Primary Growth Driver</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Europe</td>
+                        <td class="sit-glow-text">43%</td>
+                        <td class="sit-glow-text">52%</td>
+                        <td>EU CBAM implementation and carbon pricing escalation</td>
+                    </tr>
+                    <tr>
+                        <td>North America</td>
+                        <td class="sit-glow-text">68%</td>
+                        <td class="sit-glow-text">73%</td>
+                        <td>IRA clean energy incentives and scrap infrastructure</td>
+                    </tr>
+                    <tr>
+                        <td>Asia Pacific</td>
+                        <td class="sit-glow-text">28%</td>
+                        <td class="sit-glow-text">34%</td>
+                        <td>Government mandates and automotive green steel demand</td>
+                    </tr>
+                    <tr>
+                        <td>Middle East</td>
+                        <td class="sit-glow-text">92%</td>
+                        <td class="sit-glow-text">94%</td>
+                        <td>Existing gas-based DRI advantage and export positioning</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- FAQ Accordion -->
+    <section class="sit-faq-section">
+        <h2 class="sit-section-title">Strategic Insights (FAQ)</h2>
+        <div class="sit-accordion">
+            <div class="sit-acc-item">
+                <input type="checkbox" id="sit-q1">
+                <label class="sit-acc-title" for="sit-q1">How quickly can AI deliver measurable ROI?</label>
+                <div class="sit-acc-content">
+                    <p>Applications like quality inspection and predictive maintenance typically show measurable financial impact within the first quarter. Quality inspection systems often pay back within 3-6 months by reducing rework costs.</p>
+                </div>
+            </div>
+            <div class="sit-acc-item">
+                <input type="checkbox" id="sit-q2">
+                <label class="sit-acc-title" for="sit-q2">Is hydrogen-based steelmaking commercially viable by 2026?</label>
+                <div class="sit-acc-content">
+                    <p>Full scale viability is unlikely, but commercial pilot plants in Europe and Asia will produce meaningful volumes for premium markets (automotive). The cost gap remains 20-40%.</p>
+                </div>
+            </div>
+            <div class="sit-acc-item">
+                <input type="checkbox" id="sit-q3">
+                <label class="sit-acc-title" for="sit-q3">What digital infrastructure is required?</label>
+                <div class="sit-acc-content">
+                    <p>A unified data layer connecting PLC and SCADA from melting, rolling, and finishing is required. Attempting AI on siloed data is the most common failure mode.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer CTA -->
+    <footer class="sit-footer">
+        <h2>Map Your 2026 Steel Strategy</h2>
+        <p>See how AI-driven intelligence fits into your steel operation's digital roadmap with a personalized demo using your own production data.</p>
+        <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="sit-btn-glow">Book a Live Walkthrough</a>
+    </footer>
+</div>
+
+<style>
+/* =========================================
+   SIT (Steel Industry) - "INDUSTRIAL DASHBOARD"
+   ========================================= */
+:root {
+    --sit-bg: #0f1115;
+    --sit-panel: #161921;
+    --sit-panel-hover: #1c1f2a;
+    --sit-neon: #00f0ff;
+    --sit-neon-dim: rgba(0, 240, 255, 0.15);
+    --sit-orange: #ff5722;
+    --sit-text: #9ca3af;
+    --sit-text-light: #f3f4f6;
+    --sit-border: #272a35;
+}
+
+body {
+    background-color: var(--sit-bg);
+}
+
+.sit-dash-wrapper {
+    font-family: 'Inter', system-ui, sans-serif;
+    color: var(--sit-text);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+.sit-header {
+    text-align: left;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid var(--sit-border);
+}
+.sit-badge {
+    display: inline-block;
+    color: var(--sit-neon);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    background: var(--sit-neon-dim);
+    padding: 6px 12px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 240, 255, 0.3);
+}
+.sit-title {
+    font-size: 3rem;
+    font-weight: 900;
+    color: var(--sit-text-light);
+    margin: 0 0 20px 0;
+    line-height: 1.1;
+}
+.sit-subtitle {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 0 30px 0;
+}
+.sit-header-actions {
+    display: flex;
+    gap: 16px;
+}
+
+.sit-btn-glow {
+    background: var(--sit-neon-dim);
+    color: var(--sit-neon);
+    border: 1px solid var(--sit-neon);
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    transition: all 0.3s;
+    box-shadow: 0 0 15px rgba(0, 240, 255, 0.2);
+}
+.sit-btn-glow:hover {
+    background: var(--sit-neon);
+    color: #000;
+    box-shadow: 0 0 25px rgba(0, 240, 255, 0.4);
+}
+
+.sit-btn-outline {
+    background: transparent;
+    color: var(--sit-text-light);
+    border: 1px solid var(--sit-border);
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    transition: all 0.3s;
+}
+.sit-btn-outline:hover {
+    border-color: var(--sit-text-light);
+    background: rgba(255,255,255,0.05);
+}
+
+/* Bento Box Grid */
+.sit-bento {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-bottom: 40px;
+}
+.sit-bento-card {
+    background: var(--sit-panel);
+    border: 1px solid var(--sit-border);
+    border-radius: 12px;
+    padding: 24px;
+    transition: transform 0.2s, border-color 0.2s;
+    position: relative;
+    overflow: hidden;
+}
+.sit-bento-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(0, 240, 255, 0.3);
+}
+.sit-span-2 {
+    grid-column: span 2;
+}
+.sit-bg-gradient {
+    background: linear-gradient(145deg, var(--sit-panel) 40%, #1a2235 100%);
+    border-top: 3px solid var(--sit-neon);
+}
+.sit-dark-panel {
+    background: #111319;
+    border-top: 3px solid var(--sit-orange);
+}
+
+.sit-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+.sit-card-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: var(--sit-text-light);
+    font-weight: 700;
+}
+.sit-status-dot {
+    width: 10px;
+    height: 10px;
+    background: var(--sit-neon);
+    border-radius: 50%;
+    box-shadow: 0 0 10px var(--sit-neon);
+    animation: sit-blink 2s infinite;
+}
+@keyframes sit-blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+}
+
+.sit-bento-card p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+.sit-metrics-row {
+    display: flex;
+    gap: 20px;
+    margin-top: auto;
+}
+.sit-metric {
+    display: flex;
+    flex-direction: column;
+}
+.sit-metric-val {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--sit-neon);
+    line-height: 1;
+    margin-bottom: 8px;
+}
+.sit-metric-lbl {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.sit-chart-bar {
+    height: 8px;
+    background: #2a2d36;
+    border-radius: 4px;
+    margin: 20px 0 10px 0;
+    overflow: hidden;
+}
+.sit-bar-fill {
+    height: 100%;
+    background: var(--sit-neon);
+    box-shadow: 0 0 10px var(--sit-neon);
+}
+.sit-chart-lbl {
+    font-size: 0.8rem;
+    color: var(--sit-neon);
+}
+
+.sit-roadmap {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sit-roadmap li {
+    font-size: 0.9rem;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--sit-border);
+    position: relative;
+    padding-left: 20px;
+}
+.sit-roadmap li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 14px;
+    width: 6px;
+    height: 6px;
+    background: var(--sit-text);
+    border-radius: 50%;
+}
+.sit-roadmap li.sit-active {
+    color: var(--sit-neon);
+    font-weight: 700;
+    border-bottom: none;
+}
+.sit-roadmap li.sit-active::before {
+    background: var(--sit-neon);
+    box-shadow: 0 0 8px var(--sit-neon);
+}
+
+.sit-compare-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.sit-compare-col {
+    background: #1a1d24;
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid var(--sit-border);
+}
+.sit-highlight-col {
+    border-color: rgba(255, 87, 34, 0.4);
+    background: rgba(255, 87, 34, 0.05);
+}
+.sit-compare-col h4 {
+    margin: 0 0 12px 0;
+    color: var(--sit-text-light);
+    font-size: 1rem;
+    border-bottom: 1px solid var(--sit-border);
+    padding-bottom: 8px;
+}
+.sit-compare-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sit-compare-col ul li {
+    font-size: 0.85rem;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+.sit-highlight-col h4 {
+    color: var(--sit-orange);
+    border-bottom-color: rgba(255, 87, 34, 0.3);
+}
+
+/* Data Table */
+.sit-data-section {
+    margin-bottom: 40px;
+}
+.sit-section-title {
+    font-size: 1.5rem;
+    color: var(--sit-text-light);
+    margin-bottom: 20px;
+    border-left: 4px solid var(--sit-neon);
+    padding-left: 12px;
+}
+.sit-table-wrapper {
+    background: var(--sit-panel);
+    border: 1px solid var(--sit-border);
+    border-radius: 12px;
+    overflow-x: auto;
+}
+.sit-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.sit-table th, .sit-table td {
+    padding: 16px 20px;
+    text-align: left;
+    border-bottom: 1px solid var(--sit-border);
+}
+.sit-table th {
+    background: rgba(0,0,0,0.2);
+    color: var(--sit-text-light);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.sit-table tr:last-child td {
+    border-bottom: none;
+}
+.sit-table tbody tr:hover {
+    background: rgba(255,255,255,0.02);
+}
+.sit-glow-text {
+    color: var(--sit-neon);
+    font-weight: 700;
+    text-shadow: 0 0 8px var(--sit-neon-dim);
+}
+
+/* Accordion FAQ */
+.sit-faq-section {
+    margin-bottom: 60px;
+}
+.sit-accordion {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.sit-acc-item {
+    background: var(--sit-panel);
+    border: 1px solid var(--sit-border);
+    border-radius: 8px;
+    overflow: hidden;
+}
+.sit-acc-item input {
+    display: none;
+}
+.sit-acc-title {
+    display: block;
+    padding: 16px 20px;
+    color: var(--sit-text-light);
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.2s;
+}
+.sit-acc-title:hover {
+    background: rgba(255,255,255,0.03);
+}
+.sit-acc-title::after {
+    content: '+';
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--sit-neon);
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+.sit-acc-item input:checked + .sit-acc-title::after {
+    content: '-';
+}
+.sit-acc-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease;
+    background: #111319;
+}
+.sit-acc-item input:checked ~ .sit-acc-content {
+    max-height: 500px;
+    padding: 20px;
+    border-top: 1px solid var(--sit-border);
+}
+.sit-acc-content p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* Footer */
+.sit-footer {
+    background: linear-gradient(0deg, #090a0d 0%, var(--sit-panel) 100%);
+    border: 1px solid var(--sit-border);
+    border-radius: 12px;
+    padding: 60px 40px;
+    text-align: center;
+}
+.sit-footer h2 {
+    color: var(--sit-text-light);
+    font-size: 2rem;
+    margin: 0 0 16px 0;
+}
+.sit-footer p {
+    margin: 0 auto 30px auto;
+    max-width: 600px;
+    font-size: 1.05rem;
+}
+
+@media (max-width: 992px) {
+    .sit-bento { grid-template-columns: 1fr; }
+    .sit-span-2 { grid-column: span 1; }
+    .sit-compare-grid { grid-template-columns: 1fr; }
+    .sit-metrics-row { flex-direction: column; gap: 12px; }
+    .sit-title { font-size: 2.2rem; }
+}
+</style>

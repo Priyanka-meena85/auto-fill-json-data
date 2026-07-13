@@ -1,0 +1,1071 @@
+<p>Overall Equipment Effectiveness is the single number that tells a production manager whether the plant is winning or
+    quietly losing capacity every shift. Most managers assume they run near 75-80%, but real-time data across thousands
+    of connected machines shows the true global average sitting closer to 60%, while world-class lines hold 85% by
+    controlling availability, performance, and quality together. The gap hides inside micro-stops, changeovers, and
+    speed losses that manual log sheets were never built to catch, and closing it is what separates plants that chase
+    OEE forever from plants that actually improve it — <a href="https://calendly.com/contact-heavyvehicleinspection/30min">book a
+        demo</a> to see where your hidden capacity is going.</p>
+<section class="oee-hero">
+    <div class="oee-hero-tag">Production Performance · OEE Improvement</div>
+    <h2 class="oee-hero-title">OEE Improvement Strategies: From 60% Average to 85% World-Class</h2>
+    <p class="oee-hero-sub">Seven proven strategies to lift Overall Equipment Effectiveness across availability,
+        performance, and quality — backed by documented plant results, not theory.</p>
+    <div class="oee-hero-metrics">
+        <div class="oee-metric">
+            <div class="oee-metric-num">85%</div>
+            <div class="oee-metric-lbl">World-class OEE benchmark set by Nakajima's TPM framework</div>
+        </div>
+        <div class="oee-metric">
+            <div class="oee-metric-num">60%</div>
+            <div class="oee-metric-lbl">Median OEE across discrete manufacturing plants in 2026</div>
+        </div>
+        <div class="oee-metric">
+            <div class="oee-metric-num">33</div>
+            <div class="oee-metric-lbl">Point gap between average plants and top performers</div>
+        </div>
+    </div>
+    <div class="oee-hero-btns">
+        <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="oee-btn oee-btn-fill">Book a Demo</a>
+        <a href="https://heavyvehicleinspection.com/support" class="oee-btn oee-btn-ghost">Contact Support</a>
+    </div>
+</section>
+<section class="oee-benchmark">
+    <h2 class="oee-h2">Where Does Your Plant Actually Stand?</h2>
+    <p class="oee-text">The "85% world-class" number gets quoted everywhere, but very few plants sustain it. Benchmarks
+        vary sharply by industry and process type. The bars below show realistic 2026 ranges so you can position your
+        own number honestly before setting a target.</p>
+    <div class="oee-bar-list">
+        <div class="oee-bar-row">
+            <div class="oee-bar-label">World-Class Benchmark</div>
+            <div class="oee-bar-track">
+                <div class="oee-bar-fill oee-w-85">85%</div>
+            </div>
+        </div>
+        <div class="oee-bar-row">
+            <div class="oee-bar-label">Automotive Tier-1 (Best-in-Class)</div>
+            <div class="oee-bar-track">
+                <div class="oee-bar-fill oee-w-78">78%</div>
+            </div>
+        </div>
+        <div class="oee-bar-row">
+            <div class="oee-bar-label">Top Quartile (All Sectors)</div>
+            <div class="oee-bar-track">
+                <div class="oee-bar-fill oee-w-75">75%</div>
+            </div>
+        </div>
+        <div class="oee-bar-row">
+            <div class="oee-bar-label">Discrete Manufacturing Average</div>
+            <div class="oee-bar-track">
+                <div class="oee-bar-fill oee-w-66">66%</div>
+            </div>
+        </div>
+        <div class="oee-bar-row">
+            <div class="oee-bar-label">Median Plant (All Industries)</div>
+            <div class="oee-bar-track">
+                <div class="oee-bar-fill oee-w-60">60%</div>
+            </div>
+        </div>
+        <div class="oee-bar-row">
+            <div class="oee-bar-label">Legacy / Manual Tracking Plants</div>
+            <div class="oee-bar-track">
+                <div class="oee-bar-fill oee-w-42">42%</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="oee-formula">
+    <h2 class="oee-h2">The Math Behind Why 85% Is So Hard</h2>
+    <p class="oee-text">OEE multiplies three factors, and multiplication is unforgiving. A plant scoring a strong 90% on
+        all three inputs still lands well below world-class overall — which is exactly why isolated improvements rarely
+        move the needle.</p>
+    <div class="oee-formula-row">
+        <div class="oee-formula-box">
+            <div class="oee-formula-name">Availability</div>
+            <div class="oee-formula-val">90%</div>
+            <div class="oee-formula-desc">Uptime lost to breakdowns, changeovers, and setup</div>
+        </div>
+        <div class="oee-formula-op">×</div>
+        <div class="oee-formula-box">
+            <div class="oee-formula-name">Performance</div>
+            <div class="oee-formula-val">95%</div>
+            <div class="oee-formula-desc">Speed lost to micro-stops and slow cycles</div>
+        </div>
+        <div class="oee-formula-op">×</div>
+        <div class="oee-formula-box">
+            <div class="oee-formula-name">Quality</div>
+            <div class="oee-formula-val">99.9%</div>
+            <div class="oee-formula-desc">Good units versus scrap and rework</div>
+        </div>
+        <div class="oee-formula-op">=</div>
+        <div class="oee-formula-box oee-formula-result">
+            <div class="oee-formula-name">OEE</div>
+            <div class="oee-formula-val">85%</div>
+            <div class="oee-formula-desc">The world-class result of all three combined</div>
+        </div>
+    </div>
+</section>
+<section class="oee-losses">
+    <h2 class="oee-h2">The Six Big Losses Hiding Inside Your OEE Score</h2>
+    <p class="oee-text">Every point lost from 100% falls into one of six categories. Most plants can name one or two —
+        the ones that reach world-class track and attack all six systematically.</p>
+    <div class="oee-losses-grid">
+        <div class="oee-loss-card oee-loss-avail">
+            <div class="oee-loss-cat">Availability Loss</div>
+            <div class="oee-loss-name">Equipment Breakdowns</div>
+            <div class="oee-loss-desc">Unplanned stops from mechanical or electrical failure that halt the line
+                entirely.</div>
+        </div>
+        <div class="oee-loss-card oee-loss-avail">
+            <div class="oee-loss-cat">Availability Loss</div>
+            <div class="oee-loss-name">Setup &amp; Changeover</div>
+            <div class="oee-loss-desc">Time spent switching products, tooling, or recipes between production runs.</div>
+        </div>
+        <div class="oee-loss-card oee-loss-perf">
+            <div class="oee-loss-cat">Performance Loss</div>
+            <div class="oee-loss-name">Minor Stoppages</div>
+            <div class="oee-loss-desc">Short jams and pauses under five minutes that rarely get logged but add up fast.
+            </div>
+        </div>
+        <div class="oee-loss-card oee-loss-perf">
+            <div class="oee-loss-cat">Performance Loss</div>
+            <div class="oee-loss-name">Reduced Speed</div>
+            <div class="oee-loss-desc">Machines running below rated cycle time due to wear, operator caution, or
+                material issues.</div>
+        </div>
+        <div class="oee-loss-card oee-loss-qual">
+            <div class="oee-loss-cat">Quality Loss</div>
+            <div class="oee-loss-name">Startup Rejects</div>
+            <div class="oee-loss-desc">Scrap produced while a line warms up or stabilizes after a stop or changeover.
+            </div>
+        </div>
+        <div class="oee-loss-card oee-loss-qual">
+            <div class="oee-loss-cat">Quality Loss</div>
+            <div class="oee-loss-name">Process Defects</div>
+            <div class="oee-loss-desc">Units rejected or reworked during steady-state running due to process drift.
+            </div>
+        </div>
+    </div>
+</section>
+<section class="oee-strategies">
+    <h2 class="oee-h2">7 Strategies That Actually Move OEE</h2>
+    <p class="oee-text">These are the steps that show up again and again in plants that moved from average to
+        top-quartile performance, in the order that produces results fastest.</p>
+    <div class="oee-strat-list">
+        <div class="oee-strat-item">
+            <div class="oee-strat-num">1</div>
+            <div class="oee-strat-body">
+                <div class="oee-strat-title">Get an Accurate Automated Baseline</div>
+                <div class="oee-strat-desc">Manual logs overstate real OEE by 8 to 15 points. Before chasing a target,
+                    replace spreadsheets with automatic, real-time data capture on at least one line.</div>
+            </div>
+        </div>
+        <div class="oee-strat-item">
+            <div class="oee-strat-num">2</div>
+            <div class="oee-strat-body">
+                <div class="oee-strat-title">Build a Reason-Coded Downtime Pareto</div>
+                <div class="oee-strat-desc">Tag every stop with a cause. Most plants find that three or four reason
+                    codes account for the majority of lost availability.</div>
+            </div>
+        </div>
+        <div class="oee-strat-item">
+            <div class="oee-strat-num">3</div>
+            <div class="oee-strat-body">
+                <div class="oee-strat-title">Shrink Changeover Time with SMED</div>
+                <div class="oee-strat-desc">Single-Minute Exchange of Die techniques separate internal and external
+                    setup tasks, often cutting changeover time by 30 to 40 percent.</div>
+            </div>
+        </div>
+        <div class="oee-strat-item">
+            <div class="oee-strat-num">4</div>
+            <div class="oee-strat-body">
+                <div class="oee-strat-title">Expose Micro-Stops in Real Time</div>
+                <div class="oee-strat-desc">Stoppages under five minutes are invisible to hand-tracking but can silently
+                    drag Performance from 95% down to 80% across a shift.</div>
+            </div>
+        </div>
+        <div class="oee-strat-item">
+            <div class="oee-strat-num">5</div>
+            <div class="oee-strat-body">
+                <div class="oee-strat-title">Shift Maintenance from Reactive to Predictive</div>
+                <div class="oee-strat-desc">Use historical failure data to schedule interventions before breakdowns
+                    occur instead of reacting after the line stops.</div>
+            </div>
+        </div>
+        <div class="oee-strat-item">
+            <div class="oee-strat-num">6</div>
+            <div class="oee-strat-body">
+                <div class="oee-strat-title">Standardize the OEE Definition Across Lines</div>
+                <div class="oee-strat-desc">Align every site on the same planned time, downtime, and quality definitions
+                    so group reporting compares like with like.</div>
+            </div>
+        </div>
+        <div class="oee-strat-item">
+            <div class="oee-strat-num">7</div>
+            <div class="oee-strat-body">
+                <div class="oee-strat-title">Run Daily Huddles in Front of Live Data</div>
+                <div class="oee-strat-desc">Teams that review real-time OEE and top losses every shift close gaps weeks
+                    faster than teams reviewing end-of-month reports.</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="oee-proof">
+    <h2 class="oee-h2">What This Looks Like in Real Plants</h2>
+    <p class="oee-text">Documented results from manufacturers that moved from manual tracking to real-time, automated
+        OEE measurement and structured loss reduction.</p>
+    <div class="oee-proof-grid">
+        <div class="oee-proof-card">
+            <div class="oee-proof-change">42% → 75%</div>
+            <div class="oee-proof-name">Tier-1 Automotive Supplier</div>
+            <div class="oee-proof-desc">Raised OEE across 40 production sites in 12 countries by standardizing
+                measurement and attacking top downtime causes line by line.</div>
+        </div>
+        <div class="oee-proof-card">
+            <div class="oee-proof-change">62% → 80%</div>
+            <div class="oee-proof-name">Food Packaging Manufacturer</div>
+            <div class="oee-proof-desc">Lifted packaging line OEE in four weeks and cut changeover time by 40 percent
+                after switching to real-time monitoring.</div>
+        </div>
+    </div>
+</section>
+<section class="oee-cta-mid">
+    <div class="oee-cta-mid-inner">
+        <div class="oee-cta-mid-text">
+            <strong>Your OEE number is only as honest as the way you measure it.</strong> If your current tracking still
+            relies on shift-end spreadsheets, the real gap between your plant and world-class is bigger than your
+            reports show.
+        </div>
+        <div class="oee-cta-mid-btns">
+            <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="oee-btn oee-btn-fill">Book a Demo</a>
+            <a href="https://heavyvehicleinspection.com/support" class="oee-btn oee-btn-ghost-dark">Contact Support</a>
+        </div>
+    </div>
+</section>
+<section class="oee-expert">
+    <div class="oee-expert-inner">
+        <div class="oee-expert-label">Expert Insight</div>
+        <div class="oee-expert-quote">The plants stuck at 60% OEE are rarely lacking effort — they are lacking
+            visibility. You cannot fix a loss you cannot see, and a manual log sheet was never designed to catch a
+            thirty-second micro-stop or a slow drift in cycle time. The moment a plant switches to automatic, real-time
+            measurement, the first thing that happens is the number gets worse, not better, because it finally reflects
+            reality. That honest baseline is uncomfortable, but it is also the only starting point from which sustained,
+            defensible improvement is actually possible.</div>
+        <div class="oee-expert-name">Marcus Feldman — Manufacturing Operations Consultant, Lean Six Sigma Black Belt,
+            18+ years in discrete manufacturing performance systems</div>
+    </div>
+</section>
+<section class="oee-table-section">
+    <h2 class="oee-h2">Manual vs. Automated OEE Tracking</h2>
+    <p class="oee-text">The single biggest factor separating an accurate OEE program from a misleading one is how the
+        data gets captured in the first place.</p>
+    <div class="oee-table-wrap">
+        <table class="oee-table">
+            <thead>
+                <tr>
+                    <th>Factor</th>
+                    <th>Manual Tracking</th>
+                    <th>Automated Tracking</th>
+                    <th>Impact</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Micro-stops</strong></td>
+                    <td>Rarely logged if under five minutes</td>
+                    <td>Captured automatically at the second level</td>
+                    <td>Performance accuracy improves significantly</td>
+                </tr>
+                <tr>
+                    <td><strong>Downtime reason codes</strong></td>
+                    <td>Assigned from memory at shift end</td>
+                    <td>Tagged in real time at the moment of the stop</td>
+                    <td>Pareto analysis becomes trustworthy</td>
+                </tr>
+                <tr>
+                    <td><strong>Cycle time variation</strong></td>
+                    <td>Assumed constant across a shift</td>
+                    <td>Tracked continuously per unit produced</td>
+                    <td>Speed losses become visible for the first time</td>
+                </tr>
+                <tr>
+                    <td><strong>Reporting lag</strong></td>
+                    <td>Available the next day or next shift</td>
+                    <td>Available instantly on the floor</td>
+                    <td>Teams can react before losses compound</td>
+                </tr>
+                <tr>
+                    <td><strong>Cross-site comparison</strong></td>
+                    <td>Inconsistent definitions between plants</td>
+                    <td>Standardized definitions across every line</td>
+                    <td>Group-level reporting becomes reliable</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+<section class="oee-faq">
+    <h2 class="oee-h2">Frequently Asked Questions</h2>
+    <div class="oee-faq-list">
+        <div class="oee-faq-item">
+            <div class="oee-faq-q">What is a realistic OEE target for my plant?</div>
+            <div class="oee-faq-a">It depends heavily on your industry, product mix, and automation level. High-volume
+                automotive and electronics lines can realistically target 80 to 85 percent, while high-mix or regulated
+                environments like pharma packaging often top out around 70 to 78 percent. The most useful target is not
+                a generic industry number but a steady improvement over your own accurately measured baseline. <a
+                    href="https://calendly.com/contact-heavyvehicleinspection/30min">Book a demo</a> to get an industry-adjusted
+                benchmark for your specific plant.</div>
+        </div>
+        <div class="oee-faq-item">
+            <div class="oee-faq-q">Why does my OEE drop when I switch to automatic measurement?</div>
+            <div class="oee-faq-a">Manual OEE tracking is systematically 8 to 15 percentage points too optimistic
+                because micro-stops, short downtimes, and generous cycle time assumptions are invisible to hand-logging.
+                When automated sensors start capturing everything, the first accurate number almost always looks worse
+                than the spreadsheet version. This is not a decline in performance — it is the first honest baseline
+                your plant has ever had. <a href="https://heavyvehicleinspection.com/support">Contact support</a> to understand how
+                the measurement gap applies to your lines.</div>
+        </div>
+        <div class="oee-faq-item">
+            <div class="oee-faq-q">How long does it take to see OEE improvement after implementing changes?</div>
+            <div class="oee-faq-a">Plants that connect real-time monitoring typically see their first clear loss
+                patterns within two weeks and a ranked, actionable Pareto chart within a month. Meaningful OEE gains of
+                10 to 15 points are commonly reported within the first few months once teams start acting on daily data
+                instead of end-of-month reports. Sustained movement toward world-class levels is a longer-term
+                commitment built on proactive maintenance. <a href="https://calendly.com/contact-heavyvehicleinspection/30min">Book
+                    a demo</a> to see a realistic improvement timeline for your operation.</div>
+        </div>
+        <div class="oee-faq-item">
+            <div class="oee-faq-q">Which OEE factor should I focus on first — availability, performance, or quality?
+            </div>
+            <div class="oee-faq-a">Start with whichever factor is dragging your overall score down the most, which
+                requires accurate data to identify in the first place. Availability issues like breakdowns and
+                changeovers are often the easiest and fastest to fix, while performance losses from micro-stops tend to
+                be the most hidden and the most underestimated. Quality losses matter most in high-volume environments
+                where even a small defect rate multiplies quickly. <a href="https://heavyvehicleinspection.com/support">Contact
+                    support</a> for help identifying your dominant loss category.</div>
+        </div>
+        <div class="oee-faq-item">
+            <div class="oee-faq-q">Can OEE tracking integrate with our existing SCADA or ERP systems?</div>
+            <div class="oee-faq-a">Yes. Real-time OEE monitoring is designed to sit alongside your existing systems
+                rather than replace them, pulling machine-level signals and feeding structured availability,
+                performance, and quality data back into your reporting stack. This typically works even on legacy
+                equipment that was never built with digital monitoring in mind. <a
+                    href="https://calendly.com/contact-heavyvehicleinspection/30min">Book a demo</a> to see integration options for
+                your current plant infrastructure.</div>
+        </div>
+    </div>
+</section>
+<section class="oee-cta-final">
+    <div class="oee-cta-final-inner">
+        <h2 class="oee-cta-final-title">Stop Guessing at Your OEE — Start Measuring It</h2>
+        <p class="oee-cta-final-desc">Real-time availability, performance, and quality tracking that exposes the losses
+            spreadsheets and shift-end logs were never built to catch.</p>
+        <div class="oee-cta-final-btns">
+            <a href="https://calendly.com/contact-heavyvehicleinspection/30min" class="oee-btn oee-btn-fill">Book a Demo</a>
+            <a href="https://heavyvehicleinspection.com/support" class="oee-btn oee-btn-ghost">Contact Support</a>
+        </div>
+    </div>
+</section>
+<style>
+    .oee-hero {
+        background: linear-gradient(145deg, #345180 0%, #4a4a9a 55%, #6e6cc4 100%);
+        border-radius: 20px;
+        padding: 20px 18px;
+        color: #fff;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .oee-hero-tag {
+        display: inline-block;
+        background: rgba(255, 255, 255, 0.18);
+        color: #fff;
+        font-weight: 700;
+        padding: 5px 14px;
+        border-radius: 20px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        margin-bottom: 14px;
+        font-size: 14px;
+    }
+
+    .oee-hero-title {
+        font-weight: 800;
+        color: #fff;
+        margin: 0 0 10px;
+        line-height: 1.25;
+        font-size: 26px;
+    }
+
+    .oee-hero-sub {
+        color: rgba(255, 255, 255, 0.88);
+        line-height: 1.6;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+    .oee-hero-metrics {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        margin-bottom: 20px;
+    }
+
+    .oee-metric {
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 14px;
+        padding: 14px 10px;
+        border-top: 3px solid #fff;
+        text-align: center;
+    }
+
+    .oee-metric-num {
+        color: #fff;
+        font-weight: 800;
+        line-height: 1.1;
+        margin-bottom: 6px;
+        font-size: 26px;
+    }
+
+    .oee-metric-lbl {
+        color: rgba(255, 255, 255, 0.82);
+        font-weight: 600;
+        line-height: 1.35;
+        font-size: 14px;
+    }
+
+    .oee-hero-btns {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+    }
+
+    .oee-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        font-weight: 700;
+        padding: 11px 26px;
+        border-radius: 20px;
+        border: 2px solid transparent;
+        text-align: center;
+        box-sizing: border-box;
+        white-space: nowrap;
+        min-height: 44px;
+        font-size: 16px;
+    }
+
+    .oee-btn-fill {
+        background: #fff;
+        color: #345180;
+        border-color: #fff;
+    }
+
+    .oee-btn-fill:hover {
+        background: #f0eefa;
+        color: #4a4a9a;
+        border-color: #f0eefa;
+    }
+
+    .oee-btn-ghost {
+        background: transparent;
+        color: #fff;
+        border-color: rgba(255, 255, 255, 0.7);
+    }
+
+    .oee-btn-ghost:hover {
+        background: #fff;
+        color: #345180;
+        border-color: #fff;
+    }
+
+    .oee-btn-ghost-dark {
+        background: transparent;
+        color: #345180;
+        border-color: #345180;
+    }
+
+    .oee-btn-ghost-dark:hover {
+        background: #345180;
+        color: #fff;
+        border-color: #345180;
+    }
+
+    .oee-benchmark,
+    .oee-formula,
+    .oee-losses,
+    .oee-strategies,
+    .oee-proof,
+    .oee-expert,
+    .oee-table-section,
+    .oee-faq {
+        margin-bottom: 20px;
+    }
+
+    .oee-h2 {
+        font-weight: 800;
+        color: #345180;
+        margin: 0 0 10px;
+        line-height: 1.25;
+        font-size: 24px;
+    }
+
+    .oee-text {
+        color: #374151;
+        line-height: 1.65;
+        margin-bottom: 16px;
+        font-size: 16px;
+    }
+
+    .oee-bar-list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .oee-bar-row {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+    }
+
+    .oee-bar-label {
+        color: #1a1a2e;
+        font-weight: 700;
+        font-size: 15px;
+    }
+
+    .oee-bar-track {
+        background: #f0eefa;
+        border-radius: 10px;
+        overflow: hidden;
+        height: 32px;
+    }
+
+    .oee-bar-fill {
+        background: #345180;
+        color: #fff;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        padding: 0 12px;
+        font-weight: 700;
+        box-sizing: border-box;
+        font-size: 14px;
+    }
+
+    .oee-w-85 {
+        width: 85%;
+    }
+
+    .oee-w-78 {
+        width: 78%;
+    }
+
+    .oee-w-75 {
+        width: 75%;
+    }
+
+    .oee-w-66 {
+        width: 66%;
+    }
+
+    .oee-w-60 {
+        width: 60%;
+    }
+
+    .oee-w-42 {
+        width: 42%;
+        background: #9491d6;
+    }
+
+    .oee-formula-row {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .oee-formula-box {
+        background: #f9f8ff;
+        border: 1px solid #eaf0f6;
+        border-radius: 14px;
+        padding: 14px 10px;
+        text-align: center;
+    }
+
+    .oee-formula-result {
+        background: #345180;
+        border-color: #345180;
+    }
+
+    .oee-formula-result .oee-formula-name,
+    .oee-formula-result .oee-formula-val,
+    .oee-formula-result .oee-formula-desc {
+        color: #fff;
+    }
+
+    .oee-formula-name {
+        font-weight: 700;
+        color: #345180;
+        margin-bottom: 6px;
+        font-size: 15px;
+    }
+
+    .oee-formula-val {
+        font-weight: 800;
+        color: #1a1a2e;
+        margin-bottom: 6px;
+        font-size: 22px;
+    }
+
+    .oee-formula-desc {
+        color: #4b5563;
+        line-height: 1.4;
+        font-size: 14px;
+    }
+
+    .oee-formula-op {
+        color: #345180;
+        font-weight: 800;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .oee-losses-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+    }
+
+    .oee-loss-card {
+        border-radius: 14px;
+        padding: 16px 14px;
+        border: 1px solid #eaf0f6;
+    }
+
+    .oee-loss-avail {
+        background: #fef2f2;
+        border-top: 4px solid #dc2626;
+    }
+
+    .oee-loss-perf {
+        background: #fffbeb;
+        border-top: 4px solid #f59e0b;
+    }
+
+    .oee-loss-qual {
+        background: #f4f7fb;
+        border-top: 4px solid #345180;
+    }
+
+    .oee-loss-cat {
+        font-weight: 800;
+        color: #345180;
+        margin-bottom: 6px;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        font-size: 14px;
+    }
+
+    .oee-loss-name {
+        font-weight: 800;
+        color: #1a1a2e;
+        margin-bottom: 8px;
+        line-height: 1.3;
+        font-size: 17px;
+    }
+
+    .oee-loss-desc {
+        color: #4b5563;
+        line-height: 1.55;
+        font-size: 15px;
+    }
+
+    .oee-strat-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .oee-strat-item {
+        background: #fff;
+        border: 1px solid #eaf0f6;
+        border-radius: 14px;
+        padding: 14px;
+        border-left: 4px solid #345180;
+        display: flex;
+        gap: 12px;
+        align-items: flex-start;
+    }
+
+    .oee-strat-num {
+        background: #345180;
+        color: #fff;
+        font-weight: 800;
+        min-width: 34px;
+        height: 34px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        font-size: 16px;
+    }
+
+    .oee-strat-title {
+        font-weight: 700;
+        color: #345180;
+        margin-bottom: 4px;
+        line-height: 1.3;
+        font-size: 16px;
+    }
+
+    .oee-strat-desc {
+        color: #4b5563;
+        line-height: 1.55;
+        font-size: 15px;
+    }
+
+    .oee-proof-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+    }
+
+    .oee-proof-card {
+        background: #fff;
+        border: 1px solid #eaf0f6;
+        border-radius: 14px;
+        padding: 16px 14px;
+        text-align: center;
+        border-bottom: 4px solid #345180;
+    }
+
+    .oee-proof-change {
+        color: #345180;
+        font-weight: 800;
+        line-height: 1;
+        margin-bottom: 8px;
+        font-size: 24px;
+    }
+
+    .oee-proof-name {
+        font-weight: 800;
+        color: #1a1a2e;
+        margin-bottom: 6px;
+        line-height: 1.2;
+        font-size: 16px;
+    }
+
+    .oee-proof-desc {
+        color: #4b5563;
+        line-height: 1.55;
+        text-align: left;
+        font-size: 15px;
+    }
+
+    .oee-cta-mid {
+        background: #f4f7fb;
+        border: 2px solid #eaf0f6;
+        border-radius: 20px;
+        margin-bottom: 20px;
+    }
+
+    .oee-cta-mid-inner {
+        padding: 20px 18px;
+    }
+
+    .oee-cta-mid-text {
+        color: #1f2937;
+        line-height: 1.6;
+        margin-bottom: 18px;
+        font-size: 16px;
+    }
+
+    .oee-cta-mid-text strong {
+        color: #345180;
+    }
+
+    .oee-cta-mid-btns {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+    }
+
+    .oee-expert-inner {
+        background: #345180;
+        border-radius: 16px;
+        padding: 20px 18px;
+        border-bottom: 4px solid #fff;
+    }
+
+    .oee-expert-label {
+        display: inline-block;
+        background: #fff;
+        color: #345180;
+        font-weight: 700;
+        padding: 4px 14px;
+        border-radius: 20px;
+        margin-bottom: 14px;
+        font-size: 14px;
+    }
+
+    .oee-expert-quote {
+        color: #f0eefa;
+        line-height: 1.65;
+        margin-bottom: 14px;
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .oee-expert-name {
+        color: #fff;
+        font-weight: 700;
+        font-size: 14px;
+    }
+
+    .oee-table-wrap {
+        overflow-x: auto;
+        border-radius: 16px;
+        border: 1px solid #eaf0f6;
+    }
+
+    .oee-table {
+        width: 100%;
+        min-width: 600px;
+        border-collapse: collapse;
+    }
+
+    .oee-table th {
+        background: #345180;
+        color: #fff;
+        padding: 11px 12px;
+        text-align: left;
+        font-weight: 700;
+        font-size: 15px;
+    }
+
+    .oee-table td {
+        padding: 10px 12px;
+        border-bottom: 1px solid #e9e7f8;
+        color: #1f2937;
+        vertical-align: top;
+        font-size: 15px;
+    }
+
+    .oee-table tr:nth-child(even) {
+        background: #f9f8ff;
+    }
+
+    .oee-faq-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .oee-faq-item {
+        border-radius: 14px;
+        border: 1px solid #eaf0f6;
+        overflow: hidden;
+    }
+
+    .oee-faq-q {
+        background: #f4f7fb;
+        border-left: 5px solid #345180;
+        padding: 13px 16px;
+        font-weight: 700;
+        color: #345180;
+        line-height: 1.4;
+        font-size: 16px;
+    }
+
+    .oee-faq-a {
+        padding: 11px 16px 13px;
+        color: #4b5563;
+        line-height: 1.6;
+        font-size: 15px;
+    }
+
+    .oee-faq-a a {
+        color: #345180;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    .oee-faq-a a:hover {
+        color: #4a4a9a;
+    }
+
+    .oee-cta-final {
+        background: linear-gradient(130deg, #4a4a9a 0%, #345180 100%);
+        border-radius: 20px;
+    }
+
+    .oee-cta-final-inner {
+        padding: 20px 18px;
+        text-align: center;
+    }
+
+    .oee-cta-final-title {
+        font-weight: 800;
+        color: #fff;
+        margin: 0 0 10px;
+        line-height: 1.25;
+        font-size: 24px;
+    }
+
+    .oee-cta-final-desc {
+        color: rgba(255, 255, 255, 0.88);
+        line-height: 1.6;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+    .oee-cta-final-btns {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+    }
+
+    @media (max-width: 1024px) {
+
+        .oee-hero-btns,
+        .oee-cta-mid-btns,
+        .oee-cta-final-btns {
+            flex-wrap: nowrap;
+            justify-content: center;
+        }
+
+        .oee-btn {
+            flex: 0 1 auto;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .oee-losses-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .oee-proof-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .oee-formula-row {
+            grid-template-columns: 1fr;
+        }
+
+        .oee-formula-op {
+            transform: rotate(90deg);
+        }
+
+        .oee-hero {
+            padding: 18px 12px;
+        }
+
+        .oee-cta-mid-inner {
+            padding: 18px 12px;
+        }
+
+        .oee-cta-final-inner {
+            padding: 18px 12px;
+        }
+
+        .oee-expert-inner {
+            padding: 18px 12px;
+        }
+    }
+
+    @media (max-width: 428px) {
+        .oee-hero {
+            padding: 16px 10px;
+        }
+
+        .oee-cta-mid-inner,
+        .oee-cta-final-inner {
+            padding: 16px 10px;
+        }
+
+        .oee-expert-inner {
+            padding: 16px 10px;
+        }
+
+        .oee-hero-btns,
+        .oee-cta-mid-btns,
+        .oee-cta-final-btns {
+            flex-direction: column;
+            align-items: stretch;
+        }
+
+        .oee-hero-metrics {
+            grid-template-columns: 1fr;
+        }
+
+        .oee-btn {
+            width: 100%;
+        }
+
+        .oee-strat-item {
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .oee-faq-q {
+            padding: 11px 10px;
+        }
+
+        .oee-faq-a {
+            padding: 10px 10px 12px;
+        }
+    }
+
+    @media (max-width: 375px) {
+        .oee-hero {
+            padding: 14px 8px;
+        }
+
+        .oee-cta-mid-inner,
+        .oee-cta-final-inner,
+        .oee-expert-inner {
+            padding: 14px 8px;
+        }
+
+        .oee-loss-card {
+            padding: 14px 10px;
+        }
+
+        .oee-strat-item {
+            padding: 12px 10px;
+        }
+
+        .oee-proof-card {
+            padding: 14px 10px;
+        }
+    }
+
+    @media (max-width: 320px) {
+        .oee-hero {
+            padding: 12px 8px;
+        }
+
+        .oee-cta-mid-inner,
+        .oee-cta-final-inner,
+        .oee-expert-inner {
+            padding: 12px 8px;
+        }
+
+        .oee-metric-num {
+            font-size: 22px;
+        }
+
+        .oee-hero-title {
+            font-size: 22px;
+        }
+    }
+</style>
