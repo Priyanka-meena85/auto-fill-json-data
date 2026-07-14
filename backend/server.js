@@ -146,7 +146,9 @@ Follow these rules strictly:
 - don't add hyperlinks in first para in 2-3 lines of starting, add hyperlink in first para in last or second last line
 - faqs should not be more than 5
 - don't use padding (left and right) more than 12px in mobile screens, add hyperlinks in faqs.
-- use different class names in code as bootstrap class names
+- DO NOT use Bootstrap classes or include Bootstrap CSS. Use ONLY custom semantic CSS classes.
+- Ensure PERFECT alignment using CSS Flexbox or Grid. All sections must be visually centered, evenly spaced, and properly aligned.
+- Ensure buttons have proper padding, cursor: pointer, smooth transition effects, and distinct hover states (e.g. background color change).
 - first paragraph should be of 4-5 lines only, first para content should not be more than 5 lines
 - don't use padding more than 12px at x-axis (left and right) in mobile view
 - don't use padding more than 20px in main sections, add cta buttons in hero section
@@ -164,7 +166,12 @@ Do not remove mandatory sections from the selected template.
 
 CRITICAL CSS & BRANDING: You MUST update the CSS color codes in the generated HTML to match the specific "BRAND STYLING" instructions provided in the Brand Context. Overwrite any existing template colors that belong to other brands.
 
-CRITICAL MOBILE BUTTON RESPONSIVENESS: On mobile screens (e.g., max-width 768px), ALL CTA buttons MUST appear in two separate rows (stack vertically), taking 100% width each, with proper spacing between them. You MUST add the necessary responsive CSS media queries to enforce this behavior without affecting the desktop layout.`;
+CRITICAL MOBILE BUTTON RESPONSIVENESS: On mobile screens (e.g., max-width 768px), ALL CTA buttons MUST appear in two separate rows (stack vertically), taking 100% width each, with proper spacing between them. You MUST add the necessary responsive CSS media queries to enforce this behavior without affecting the desktop layout.
+
+CRITICAL CSS & LAYOUT STRICTNESS: 
+1. DO NOT use Bootstrap or any other external CSS framework. Write 100% custom CSS.
+2. Ensure PERFECT alignment using CSS Flexbox or Grid. Sections must be visually centered, evenly spaced, and properly aligned.
+3. Ensure CTA buttons have proper padding, cursor: pointer, smooth transition effects, and distinct hover states (e.g., background color change). Fix all button alignment and hover issues.`;
     }
 
     return `
@@ -181,8 +188,8 @@ Template Name: ${templateName}
 ${instructions}
 
 CRITICAL ICONOGRAPHY: NEVER use emojis (e.g. ⚡, 📝, 🚀) anywhere in the page. You MUST use proper inline SVG code for all icons.
-CRITICAL UNIQUENESS: Ensure EVERY generated page is structurally and visually unique. Do not blindly copy the template's exact layout for every page; innovate on the design and create highly engaging, distinct structures while maintaining the core brand guidelines.
-CRITICAL LAYOUT & RESPONSIVENESS: Do NOT use `max-width` anywhere in the content, CTA, or hero sections. Even if the supplied template uses `max-width`, you MUST remove it in your generated code! You MUST ensure the generated page is 100% fluid and fully responsive across ALL devices (mobile, tablet, desktop) using appropriate CSS media queries.
+CRITICAL TEMPLATE PRESERVATION: You MUST strictly preserve the HTML structure, CSS classes, layout grid, and button styling of the provided template. Do NOT invent new layouts or CSS rules that break the existing alignment. ONLY replace the text, images, and brand colors to make the content unique.
+CRITICAL LAYOUT & RESPONSIVENESS: Do NOT use 'max-width' anywhere in the content, CTA, or hero sections. Even if the supplied template uses 'max-width', you MUST remove it in your generated code! You MUST ensure the generated page is 100% fluid and fully responsive across ALL devices (mobile, tablet, desktop) using appropriate CSS media queries.
 
 CRITICAL: You MUST generate complete and high-quality values for ALL fields in the JSON object (url, title, description, keywords). Do NOT leave them blank. Do NOT return the placeholder text.
 
@@ -373,7 +380,7 @@ app.post('/generate-page', async (req, res) => {
                 generatedImageUrl = inputData.image;
             } else {
                 const topic = inputData.topic || inputData.title || inputData.heading || 'Industrial Manufacturing AI';
-                const imagePrompt = `A highly professional, ultra-realistic daylight photograph of modern industrial workers in a bright, clean factory. The workers are wearing hard hats and looking at a high-tech digital tablet or dashboard. An advanced AI vision camera is visible in the background. The scene is related to ${topic}. DO NOT INCLUDE ANY TEXT OR WORDS IN THE IMAGE to avoid spelling errors. The image must be hyper-detailed and corporate.`;
+                const imagePrompt = `Create real image, high resolution image on the given title ${topic}, simple and professional image give title big size, give real image of daylight simple image.`;
                 generatedImageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(imagePrompt)}?width=1200&height=800&nologo=true`;
             }
 
